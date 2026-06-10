@@ -1,0 +1,115 @@
+# ============================================================
+# 财经+AI 新闻早报机器人 — 配置文件
+# ============================================================
+
+# --- RSSHub 实例（修改此值即可切换实例） ---
+rsshub:
+  # 公共实例（可能被限流），可改为:
+  #   https://rsshub.pages.dev       (Cloudflare 镜像)
+  #   https://rsshub.rssforever.com
+  #   或自行部署的域名
+  base_url: "https://rsshub.app"
+
+# --- RSS 源 (8 个，财经 + AI，优先直连 RSS) ---
+sources:
+  # --------------------------------------------------------
+  # 财经类 (4个)
+  # --------------------------------------------------------
+  - name: "36氪"
+    url: "https://36kr.com/feed"
+    category: "finance"
+    priority: 9
+    enabled: true
+
+  - name: "FT中文网"
+    url: "https://www.ftchinese.com/rss/feed"
+    category: "finance"
+    priority: 8
+    enabled: true
+
+  - name: "华尔街见闻·快讯"
+    url: "{{RSSHUB_BASE}}/wallstreetcn/news/global"
+    category: "finance"
+    priority: 10
+    enabled: false
+    # ↑ RSSHub 公共实例可能 403，自建实例后可启用
+
+  - name: "财联社·电报"
+    url: "{{RSSHUB_BASE}}/cls/telegraph"
+    category: "finance"
+    priority: 10
+    enabled: false
+    # ↑ 同上
+
+  # --------------------------------------------------------
+  # AI / 科技类 (4个)
+  # --------------------------------------------------------
+  - name: "量子位"
+    url: "https://www.qbitai.com/feed"
+    category: "ai"
+    priority: 9
+    enabled: true
+
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com/rss"
+    category: "ai"
+    priority: 9
+    enabled: true
+
+  - name: "Hacker News"
+    url: "https://hnrss.org/frontpage"
+    category: "ai"
+    priority: 6
+    enabled: true
+
+  - name: "TechCrunch·AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    category: "ai"
+    priority: 6
+    enabled: true
+
+# --- 抓取设置 ---
+fetcher:
+  timeout_seconds: 15
+  max_retries: 3
+  user_agent: "Mozilla/5.0 (compatible; NewsBot/1.0; +https://github.com/news-bot)"
+
+# --- DeepSeek API ---
+deepseek:
+  api_key: "${DEEPSEEK_API_KEY}"
+  base_url: "https://api.deepseek.com"
+  model: "deepseek-chat"
+  temperature: 0.3
+  max_tokens: 2048
+
+# --- 去重设置 ---
+dedup:
+  soft_dedup_enabled: true
+  max_candidates: 20
+  history_days: 3
+
+# --- 推送设置 ---
+push:
+  max_articles: 8
+  max_per_card: 4
+  max_cards: 2
+  summary_max_chars: 50
+
+# --- 飞书 Webhook ---
+feishu:
+  webhook_url: "${FEISHU_WEBHOOK_URL}"
+  card_title: "📰 财经+AI 早报"
+  header_color: "blue"
+
+# --- 存储 ---
+storage:
+  db_path: "news.db"
+  history_json: "history.json"
+  retention_days: 7
+
+# --- 日志 ---
+logging:
+  level: "INFO"
+  file: "logs/news-bot.log"
+  rotation: "7 days"
+  retention: "14 days"
