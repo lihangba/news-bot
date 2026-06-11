@@ -1198,5 +1198,645 @@
     "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
     "published_at": "2026-06-09T02:48:45+08:00",
     "created_at": "2026-06-10 18:47:46"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "421941d9b570e56a",
+    "title_hash": "7ae30479c98f374b",
+    "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+    "url": "https://36kr.com/p/3848094835217666?f=rss",
+    "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产品开发。 中微精仪成立于2024年11月，专注于碳化硅晶锭激光剥离、金刚石激光剥离、水导激光精密加工等高端工业激光装备的研发与制造。公司创始人陈景煜为澳大利亚新南威尔士大学研究员，长期从事特种芯片集成开发；首席科学家孙洪波则为中国科学院院士、清华大学教授，是非线性激光超精密制造领域的先驱。 与市面上多数激光设备公司不同，中微精仪定位为激光精密加工技术平台，覆盖从机理研究、工艺开发到工程化落地的全链条。其设备已在碳化硅衬底切割、金刚石加工等领域进入头部客户量产验证阶段。 公司当前的核心业务聚焦两大方向： 一是碳化硅衬底激光分片设备。中微精仪自研的脉冲可编程与裂纹定向诱导生长技术，已能将分片损耗稳定控制在40微米以内，远低于行业常见的80-120微米水平。 当前，碳化硅行业正经历从6英寸向8英寸产线升级的关键窗口期。据陈景煜判断，近两年下游需求端正在快速扩张，数据中心电源对碳化硅器件的需求显著增加，消费电子领域如空调、冰箱等产品也开始采用碳化硅功率器件替代传统硅基器件。 然而，行业仍面临核心瓶颈。随着8英寸碳化硅成为行业降本主线，衬底切割环节的损耗率成为关键卡点。 据公司实测，其6英寸碳化硅分片速度为15-20分钟，8英寸为25-30分钟。中微精仪相当于每切割8片即可多产出1片，为客户带来显著的降本增效。 同时中微精仪的激光技术可以实现低损耗控制，在SiC晶圆背板减薄领域可以实现突破性应用，可以替代SiC晶圆背板减薄研磨抛光工艺，帮助SiC晶圆厂商实现降本增利，由以前研磨成粉末，变化为激光剥离，实现SiC剥离片二次利用。 中微精仪团队手持由自主研发SiC激光剥离设备加工的6英寸、8英寸及12英寸SiC晶圆（图源/企业） 二是金刚石激光加工设备。针对单晶/多晶金刚石的剥离、切割与抛光，中微精仪实现了磨砂面白色加工效果，避免了友商常见的材料表面石墨化发黑问题，从而省去了后续研磨工序，可直接用于再生长。 此外，陈景煜透露，中微精仪将于今年七至八月份启动量子芯片加工器件的客户交付。这一业务延伸验证了中微精仪作为激光精密加工技术平台的可扩展性——从超硬材料切割延伸至量子计算核心元器件的加工。 公司目前已收到多家头部客户的进场邀约，预计6月起陆续进入更多产线进行Demo验证。 作为本轮独家投资方，创维投资已在碳化硅产业链上下游布局多家企业。中微精仪创始人陈景煜表示，创维投资所投企业覆盖了衬底、外延、器件等关键环节，能够有效帮助公司将设备与下游客户直接对接。 以下是硬氪与陈景煜的访谈摘要： 硬氪：碳化硅行业目前竞争激烈，公司如何在这个节点找到机会？ 陈景煜： 6寸碳化硅现在卖一片亏一片，整个产业链环节能降本的地方全降了，唯独切割环节的损耗一直控不下来。从线切割的250微米降到激光切割的80微米已经是一大步，但我们把损耗降到40微米以内，仍然可以进一步控制在30微米以内，预示客户每切8片就最少能多出1片，这是他们现在最需要的竞争力。随着8寸线马上大规模上量，切割损耗会成为决定谁胜出的关键。 硬氪：公司如何看待8英寸碳化硅时代的市场窗口？ 陈景煜： 今年下半年预计是8寸线建设的元年。头部客户的环评已经拿到了，基建陆续启动，设备选型正在发生。8寸片的核心目的就是降成本，如果切割环节损耗控不下来，8寸的优势就发挥不出来。所以这个窗口对我们来说是决定性的。 我们能稳定把损耗控制在40微米以内，而且设备进场当天就能跑量产，这些都非常重要。现在不是我们找客户，是客户在催我们进场。 硬氪：从碳化硅到量子芯片，公司的技术边界在哪里？ 陈景煜： 我们不是一个做碳化硅切割设备的公司，而是一个激光精密加工的技术平台。团队核心能力是把不同激光与不同材料的相互作用机理研究透——切碳化硅、切金刚石、用量子芯片加工，底层都是同一套能力。公司实验室目前已经完成了12寸硅片的超薄切片验证，损耗可控制在1微米以内。平台搭好了，应用场景只是不同的输出。 投资方观点： 创维投资负责人表示： 目前全球SiC衬底处于高速扩产和6寸向8寸迈进的产业周期，传统的切割方式难以满足产业升级的要求，2026年8寸线产业化正在加速发展。长期以来，上游环节的工业激光切割设备一直被国外企业垄断，高度存在被“卡脖子”风险。中微精仪现已推出相关产品，并且获得了重要客户的订单，这是源于团队掌握超快冷激光切割设备最核心的光路调控技术，从机理探索、工艺开发、光学优化、系统设计四个方面具备完全自主可控的能力，具有未来良好的发展前景。",
+    "published_at": "2026-06-11T09:24:41+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "fa9b0f043d9e20f4",
+    "title_hash": "b9f66b4cd0cb1443",
+    "title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
+    "url": "https://36kr.com/p/3848000003953926?f=rss",
+    "summary": "今日热点导览 花旗警告：金价或跌至3500美元 韩国股市再度熔断 何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产 伊朗宣布对所有船只关闭霍尔木兹海峡 SpaceX认购资金超2500亿美元 TOP 3 大新闻 2026世界杯门票遇冷，近18万张门票待转售 北京时间6月12日，2026年美加墨世界杯将举行揭幕战。目前，国际足联（FIFA）官方转售平台上挂牌出售的门票达17.6万张，主要集中在小组赛阶段。根据FIFA平台数据所做的价格与库存统计，不同球队之间的人气差异十分明显。例如，在伊朗队参加的3场小组赛中，仍有约1.6万张门票尚未售出，市场上最便宜的普通座位售价为138美元（约合934元人民币）。过去一个月，官方转售平台上的门票中位价已累计下跌20%。媒体测算显示，考虑到平台对转售交易收取26%的手续费，大多数转售卖家如今可能已处于亏损状态。对FIFA而言，若比赛出现大量空座将十分尴尬。先前，该机构将本届世界杯门票价格定得远高于往届，并表示此举符合当地市场环境。（财联社） 台积电释放涨价信号 台积电首席财务官（CFO）黄仁昭近日在接受媒体采访时表示，通货膨胀正在推高该公司的运营成本，并表示不排除对芯片提价的可能性。台积电生产由英伟达、AMD和苹果等公司设计的最先进芯片，因此任何价格涨价举措都可能波及人工智能基础设施的成本，并可能随着时间的推移，影响客户购买电子设备时的支付价格。虽然黄仁昭并未明确一定会提价，但他表示，“通胀确实导致了（我们的）成本上升。”不过，黄仁昭同时也表示，台积电不会突然涨价“四、五倍”。（财联社、科创板日报） 但斌回应“被段永平拉黑”：一直非常尊重段总，他是否拉黑我不知道 6月10日消息，日前，一篇题为《段永平和但斌的怨由》的网络文章在投资圈流传，文中详细叙述了知名投资人段永平与但斌之间多年来的“互动往事”，包括所谓“段永平早年点评但斌发基金”“段永平拉黑但斌”等情节。6月10日下午，但斌本人通过社交媒体正式回应，明确否认了文中若干关键说法。对于文中“段永平拉黑但斌”的描述，但斌回应称：“对段永平一直非常尊重。他是否拉黑我，我不知道，我理解应该是取消关注。为何取消关注，段总有他自己的看法，我觉得也没问题，个人性格决定，就像我从不拉黑任何人一样。对投资的判断，有分歧也正常，没什么大不了的。”并希望作者不要凭空捏造事实。据了解，但斌是东方港湾创始人、国内知名价值派私募大佬，因长期重仓茅台成名，著有投资经典《时间的玫瑰》，常被称作 “中国巴菲特”。（红星新闻） AI最前沿 阿里云：下调容器计算服务ACS Agent Sandbox价格 36氪获悉，阿里云发布容器计算服务ACS Agent Sandbox（default算力质量）降价通告，将于北京时间2026年6月15日12点起对该算力进行价格下调。本次降价调整仅涉及ACS Agent Sandbox（default算力质量），其他算力如ACS通用型（default、best-effort算力质量）、ACS性能型（default、best-effort算力质量）价格不变。 Meta与安巴尼旗下的信实集团合作，在印度建设人工智能数据中心 Facebook母公司Meta周三表示，已与印度亿万富翁穆克什·安巴尼旗下的信实工业集团达成合作，将在印度共建一座人工智能数据中心。声明称，信实工业将在古吉拉特邦贾姆纳加尔建设一座容量为168兆瓦的数据中心，Meta将租用该中心，并保留扩容选项。（新浪财经） SpaceX计划于2027年启动太空AI基础设施演示 媒体援引两名出席投资者推介会的不具名人士报道称，SpaceX高管表示该公司正计划在2027年底前启动基于太空的人工智能（AI）基础设施的初步演示。在这两场投资者推介会上，SpaceX概述了计划于2027年开始展示轨道计算能力的路线图，总裁Gwynne Shotwell和首席财务官Bret Johnsen均有出席。SpaceX未立即回复置评请求。（新浪财经） 博通联合阿波罗与黑石设立AI XPV平台，首期350亿美元支持Anthropic算力扩张 博通6月9日宣布与阿波罗及黑石信贷与保险业务共同设立AI XPV平台，三方作为初始锚定投资方，目标是通过博通定制XPU及网络解决方案，在2028年前为Anthropic、OpenAI等前沿AI实验室部署逾20吉瓦算力。平台首期由阿波罗牵头、黑石联合注资350亿美元，用于支持Anthropic此前宣布的逾1吉瓦算力基础设施扩容计划，相关部署预计于2026年中起在Fluidstack站点落地。（界面新闻） 大公司/大事件 字节AI制药开启拆分融资，AI4S进入产业化阶段 36氪独家获悉，字节跳动AI制药业务线已启动拆分与独立融资进程。据了解，拆分后字节仍将控股新公司，AI制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。新公司将由字节跳动AI制药团队主导负责。 据悉，字节AI制药团队成立于2021年，由刘凯负责，核心成员约50人，由AI4S算法人才和资深制药领域专家构成，该团队自成立起便承担着从基础模型研究到产业化的核心职能。 知情人士透露，此次进行业务拆分，是为了建立更符合该业务特征的独立 组织架构。 香港超越瑞士，成为全球最大的跨境财富管理中心 波士顿咨询公司（BCG）最新发布的《2026全球财富报告》显示，2025年，香港跨境财富记账规模上升10.7%至2.9万亿美元，首次超过瑞士，成为全球最大的跨境财富管理中心。BCG还预计，这一趋势将延续——到2030年，香港的跨境财富管理规模将以每年9%的速度增长，达到4.6万亿美元，持续领先全球。数据更显示，短短数年间，瑞士跨境财富管理资产规模从2020年的2.4万亿美元近乎腰斩至2025年的1.3万亿美元。（21世纪经济报道） 微博回应追觅科技CEO俞浩被禁言 微博平台官方账号“围脖侠”发文表示，经核实，账号@俞浩-爱送黄金 被某企业投诉，其作为网络名人账号以“喊话”等形式发布质疑、拉踩企业的违规内容，因违反中央网信办“清朗·优化营商网络环境 整治恶意炒作涉企信息”专项行动要求，在多个平台被责令予以禁言处置。请广大网友知悉原因、加强辨识，切勿轻信和传播不实信息。（界面新闻） 亚马逊英伟达下场抢光纤，存储之后光纤成最紧缺AI硬通货 据第一财经报道，继Meta、英伟达之后，亚马逊再度出手锁定光纤核心供应，全球AI算力军备竞赛正从算力层向底层物理传输介质全面蔓延。6月8日晚，亚马逊宣布与康宁签下数十亿美元长期光纤采购协议，用于连接美国快速扩张的数据中心。海外巨头的接连锁单动作点燃了A股资金热度，6月9日，光纤板块掀起涨停潮，太辰光、长芯博创分别大涨18.07%、12.13%，长飞光纤、亨通光电、中天科技等股涨停。继存储之后，AI浪潮掀起了一个又一个电子细分赛道的热潮，如今，被视为AI算力“血管”的光纤，正在迎来一轮历史性周期。（第一财经） 今年前5月居民境外收入补税约130亿元 6月10日，国家税务总局公开信息显示，税务机关持续加强高收入人员纳税引导规范，对个人所得税增长带来一定增收效应。比如，不断加强对居民个人境外所得的宣传引导和政策辅导，取得境外收入的纳税人遵从度明显提高，1—5月份累计补缴税款约130亿元；再如，持续强化文娱和网络主播领域的税收监管，通过大数据及时发现并纠正从业人员涉税问题，进一步提升了纳税人合规意识和纳税遵从。截至5月底，超过1.6亿人完成汇算申报，超过1.1亿人办理了退税。（第一财经、界面新闻） 韩国股市再度熔断 6月10日午后，韩国综合指数突然跳水，跌幅持续扩大，截至发稿，该指数跌超6%。韩国交易所启动熔断机制，暂停KOSPI程序化交易。此外，日经225指数跌超2%。热门个股方面，SK海力士跌超9%，三星电子跌超7%。（证券时报） 花旗警告：金价或跌至3500美元 黄金的下跌速度超过了市场的预期。6月10日早间，现货黄金击穿4200美元关口，最低跌至4172.64美元/盎司，创3月23日以来新低。截至15:20，现货黄金日内下跌1.4%报4199.57美元/盎司，今年的涨幅悉数抹平，目前累计跌超2%。国内金饰价格也在跳水。6月10日，国内首饰金已经跌破1300元/克，较1月29日的阶段高点1713元/克，跌幅超过400元/克。（21世纪经济报道） 亚瑟士计划分拆旗下鬼冢虎业务 日本运动用品制造商亚瑟士6月10日宣布，将旗下品牌鬼塚虎转移至亚瑟士全资子公司OT GROUP，生效日期暂定为2027年1月1日。同时，亚瑟士决定将各区域运营公司的鬼塚虎业务剥离，并重组为OT GROUP的子公司。（界面新闻） 香港宣布全体公务员加薪2%&nbsp; 6月9日，香港特区政府公务员事务局局长杨何蓓茵在记者会上表示，香港特区行政长官李家超会同行政会议在当天会议上讨论了公务员的薪酬调整，决定向公务员职方提出2026年至2027年度香港全体公务员的薪酬划一向上调2%，生效日期追溯至2026年4月1日。（南方日报报道） 马斯克旗下企业SpaceX及xAI被告扰民，1万多人提起集体诉讼 美国密西西比州居民日前向法院起诉美国企业家埃隆·马斯克旗下的太空探索技术公司（SpaceX）及其新合并的xAI公司，原因是被告运营的一座为数据中心供电的发电厂持续发出噪音，让居民不堪其扰。6月9日对外公布的法庭文件显示，3名密西西比州居民代表1万多人向该州一家联邦法院提起集体诉讼，指控这两家公司未能采取措施遏制发电厂持续发出过大噪音，不仅给居民造成精神伤害，而且造成房产贬值等损失，要求企业作出赔偿。（新华社） 何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产 何小鹏发出内部信，宣告自己将亲自下场直管机器人业务。何小鹏在内部信中称，小鹏人形机器人现在所处的阶段尤为关键，相当于8年前小鹏汽车即将完成第一款车G3发布的阶段，正站在量产交付的门槛上。按照何小鹏的规划：2026年第四季度，小鹏将实现人形机器人量产；2027年一季度，小鹏将人形机器人带入线下门店进行导购工作；2027年二季度，人形机器人将被推向海外市场；2028年，机器人将开始走向更多的家庭。（第一财经） 伊朗宣布对所有船只关闭霍尔木兹海峡 当地时间6月11日凌晨，伊朗武装部队哈塔姆·安比亚中央司令部发表声明称，鉴于本地区安全局势动荡，霍尔木兹海峡即日起对包括油轮和商船在内的所有类型船只关闭，任何试图通过该海峡的船只都将受到攻击。（央视新闻） 星巴克据悉考虑日本业务相关选项，包括出售股权和IPO 据多位知情人士透露，星巴克正在考虑日本业务的相关选项，其中包括出售股权。此前，该公司已出售中国业务的多数股权。知情人士称，这家美国咖啡连锁巨头已与投资银行进行了初步磋商，以帮助确定日本业务的处理方式。知情人士因相关讨论未公开而不愿具名。日本是星巴克最大的市场之一，约有2,100家门店，其中大多数由星巴克直接运营。部分知情人士称，出售股权的估值可能在4000亿日元至5000亿日元，并可能吸引其他行业参与者和私募股权公司的兴趣。他们说，将日本业务IPO也是一个选项。知情人士补充称，相关考虑仍处于初步阶段，尚未作出最终决定。（新浪财经） 韩IT巨头Kakao工会史上首次启动局部罢工 据报道，韩国IT巨头Kakao工会于6月10日启动公司史上的首次局部罢工。参加罢工的包括Kakao总部和Kakao Pay、Kakao Enterprise、Dk Techin、XLGAMES四家子公司。工会方面表示，有1500余名员工参与罢工，其中总部员工约1000余人。据了解，Kakao劳资双方围绕绩效奖金发放标准现分歧。劳方要求资方将营业利润的13～14%用作绩效奖金发放，不将限制性股票单位（RSU）算进绩效奖金。资方则主张劳方相关诉求对公司经营造成负担。（界面新闻） 微信上线朋友圈搜索功能 腾讯微信官方账号“微信派”发文，正式官宣朋友圈搜索功能。点击“我-朋友圈”，右上角搜索入口，输入关键词，就能精准搜到曾经发过朋友圈。（界面新闻） 三星考虑新建先进芯片封装厂，以满足全球芯片需求 三星电子考虑在韩国光州建设先进半导体封装工厂，以满足全球芯片需求。三星正扩大HBM市场布局，以加强其在AI芯片供应链中的地位。预计三星将在6月29日韩国总统与企业集团负责人会议上公布投资计划。（财联社） 美国5月CPI同比涨幅“破4”，美联储年内加息概率上升 美国劳工部10日发布的数据显示，受能源价格上涨推动，美国5月消费者价格指数（CPI）同比上涨4.2%，创2023年5月以来新高。剔除食品和能源价格后，美国5月核心CPI同比上涨2.9%。 分析人士认为，上周五远高出预期的非农数据已令市场降息预期消退，芝商所“美联储观察工具”显示，美联储年内加息25个基点的预期概率已升至约43%，并且不排除年内累计加息50个基点的可能。（央视财经） 香港证监会：香港持牌公司可继续为存量内地客户提供服务，但不能在内地境内提供 6月10日，香港证监会就5月22日通函进一步进行解读。通函中的常见问题（九）提到，香港持牌公司可继续为中国内地投资者（即以中国居民身份证及/或中国护照作为身份证明文件的投资者）开立新账户，但必须符合所有开立账户规定。香港证监会对此表示，香港持牌公司可继续为现有的中国内地客户提供服务，前提是有关服务并非在中国内地境内提供，且其已遵守香港及适用司法管辖区的一切相关法律及监管规定。香港证监会还表示，其注意到中国内地当局于2026年5月22日联合发布的通知，其相关要求亦适用于其他司法管辖区（即不限于香港）的金融机构在向中国内地投资者提供服务时的相关活动。（界面新闻） 世界杯开幕在即，啤酒股集体拉升 世界杯开幕在即，A股市场啤酒股10日集体上涨。截至午盘，其中，惠泉啤酒涨停，珠江啤酒、燕京啤酒涨超5%，重庆啤酒涨超2%。中银证券表示，从板块基本面来看，2025年第二、三季度受现饮场景限制及需求端疲软影响，啤酒量价边际走弱，低基数下，叠加高温天气及世界杯赛事催化，2026年第二、三季度行业报表端收入增速有望得到修复改善。（第一财经） 三星和海力士据悉或将宣布韩国投资计划 据报道，三星电子和SK海力士正处于对韩国各地区投资计划进行最终审查的阶段，最早可能在本月发布公告。这两家芯片制造商可能在韩国西南部和中部扩大设施投资。相关投资或包括封装设施，亦有猜测可能会建设半导体晶圆厂。（财联社） 张雪回应张雪机车是否有上市计划：顺其自然 在中国摩托车产业高质量发展圆桌会议期间，张雪机车有限公司董事长张雪与媒体对话。被问及张雪机车有没有登陆资本市场的相关规划，张雪表示：“顺其自然”。（新浪财经） 美股三大指数集体收跌，特斯拉跌超3% 36氪获悉，6月10日收盘，美股三大指数集体下跌，道指跌1.87%，纳指跌1.98%，标普500指数跌1.62%。大型科技股跌多涨少，Arm跌超5%，英伟达、特斯拉跌超3%，亚马逊、Meta、亚马逊、谷歌跌超2%，微软跌超1%；苹果、奈飞小幅上涨。热门中概股涨跌不一，网易涨超3%，B站涨超2%，腾讯音乐涨超1%，微博小幅上涨；小鹏集团跌超4%，阿里巴巴跌超3%，理想汽车跌超2%，蔚来跌超1%，京东、爱奇艺跌近1%。 上市进行时 SpaceX认购资金超2500亿美元 美东时间6月9日，据消息人士透露，埃隆·马斯克的SpaceX已吸引超过2500亿美元的认购需求，远超该公司计划筹集的750亿美元，这将使其成为有史以来规模最大的IPO。消息人士称，此次SpcaceX融资的超额认购率已达计划发行规模的三到四倍。银行家和投资者认为,这一迹象表明投资者对SpaceX的需求强劲。6月11日下午，SpaceX预计将公布IPO定价，而投资者需求在那之前仍可能发生变化。 SK海力士最早将于8月在美国上市 据透露，SK海力士计划最早于8月在美国上市，这家韩国存储芯片巨头希望借此抓住人工智能相关股票的强劲需求，并扩大其投资者基础。其中一位消息人士称，美国证券交易委员会(SEC)很可能在6月22日当周批准SK海力士的美国存托凭证（ADR）上市申请。（新浪财经） 新易盛：筹划发行H股并在香港联交所上市 36氪获悉，新易盛公告，公司第五届董事会第十四次会议审议通过发行H股股票并在香港联交所主板上市的议案。此举旨在提高资本实力和综合竞争力，提升国际影响力。该事项尚需提交股东会审议，并需经证监会备案及香港联交所、香港证监会核准，存在不确定性。 投融资 “巴泰医疗”完成近2亿元D轮融资 36氪获悉，近日，“巴泰医疗”宣布完成近2亿元D轮融资，本轮融资由创东方投资领投，浙江省“4+1”生物医药与高端器械产业基金、倚锋资本、中益仁资本及个人产业投资人共同跟投，原有股东君行健资本持续加码，启峰资本提供融资支持。本轮融资将主要用于巴泰医疗的第三代约束型药物球囊商业化推广和临床证据积累、拓建新一代智能生产基地、后续血管介入创新产品研发等用途。 酷产品 无线芯片，嵌入单晶金刚石后突破散热瓶颈&nbsp; 美国麻省理工学院研究团队给氮化镓芯片嵌入一层超薄单晶金刚石，突破了高功率无线芯片散热瓶颈，并制备出性能创纪录的无线功率放大器，为6G通信、卫星互联网等高功率电子设备提供了新的芯片级热管理方案。相关成果在2026年IEEE国际微波研讨会上发布。硅是目前绝大多数芯片的基础材料，但其功率承载能力存在天然限制，难以满足未来高速无线通信对性能和能效的要求。相比之下，氮化镓具有更高的功率密度和工作频率，被视为6G通信、高功率雷达和卫星通信的重要候选材料。（科技日报） 整理 ｜王倚轩",
+    "published_at": "2026-06-11T07:48:20+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "e6de4b97bb55b558",
+    "title_hash": "009dd74ce75cb322",
+    "title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
+    "url": "https://36kr.com/p/3847339087140104?f=rss",
+    "summary": "2026年6月，上海敬华艺术空间被布置成一间“奇想实验室”。瑞士高级制表品牌Ulysse Nardin雅典表在此举办“奇想无界，创造无境”2026新品品鉴会，将全新[Super] Freak奇想超级腕表、与中国当代艺术家刘人岛合作的鎏金系列《名扬四海》联名腕表，以及多枚代表性时计一并陈列。 对这家1846年诞生于瑞士勒洛克的独立制表商而言，这是一个被精心挑选的时间点——品牌创立180周年，恰逢其标志性的FREAK奇想系列问世25周年。 在全球奢侈品消费整体承压、中国高端钟表市场进入结构性调整的当下，一个拥有180年历史的瑞士品牌，为何把重要的周年节点放在上海，又为何选择与一位以国画见长的中国艺术家联名？答案藏在产品结构与叙事策略的双线之中。 从商业结构看，这场品鉴会呈现的是一组“金字塔”式的产品组合。塔尖是作为周年献礼的[Super] Freak奇想超级腕表。据品牌介绍，新作历时四年研制，是世界上首款融合双陀飞轮与卡罗素结构的自动上链腕表，搭载自制UN-252机芯，由511个零件构成，融合8项专利技术，限量发行50枚，被雅典表称为“品牌制表史上最复杂的‘纯时间’腕表”。 据品牌披露，这枚腕表逾七成零部件经手工装饰打磨，约97.46%的机芯零件处于运动状态，并由同一位制表大师耗时60小时完成组装。塔身则是更具文化指向的《名扬四海》联名系列——《知音》《妙音》《玄曲》《悠雅》四款，均采用40毫米5N玫瑰金表壳与自制UN-320机芯，配备硅质游丝与擒纵机构，每款限量25枚，全系列共100枚。 图片来源：品牌 高复杂度的“光环产品”负责确立技术与价格的天花板，文化联名负责打开本土市场的情感入口，这是高端制表品牌常见的组合打法。而联名的另一半——艺术家刘人岛，提供了这套叙事的东方落点。 刘人岛的履历横跨多个标签：把国画送上太空、在故宫办展、横跨“六艺”。但海洋对他而言原本是陌生题材。“我的老家在湖南新宁，属于‘八山半水’的内陆地区，”他回忆，真正看到海，是上大学后第一次外出写生时——一位女同学落水，他下水相救，连呛了几口海水。“当时海给我的感觉就是特别壮阔，无边无际，以及苍茫。”正是这种印象，催生了他后来《观沧海》等海洋题材的创作。 与雅典表的相遇带着偶然。据刘人岛讲述，2024年他在苏州举办个人画展，雅典表中国区负责人前来参观，对其山水与海洋作品产生兴趣，双方由此展开对话。更早的渊源则来自一段口述历史——他的朋友、瞿秋白的侄子曾向他提起，瞿秋白早年将收藏的雅典表典当，用以支持革命。 让双方“一拍即合”的，是一种关于“运动”的共识。“时间是一种流动，海洋也是在运动，雅典表的机芯也是一种运动中的状态，”刘人岛告诉36氪。雅典表以航海天文台钟起家，海洋是其品牌历史的精神源流；而在他的笔下，海则是东方语境里流动、包容、生生不息的意象。 被问及在这次合作中最希望被如何定义——“海洋画家”“太空艺术家”抑或其他，刘人岛给出的答案是“全能的画家”。 “艺术是相通的，”他说，画山水时碰到人就得画人，花鸟、山河、海洋、气候都要能驾驭，“画山水有大的气势，画海洋也要一种气势”。在他看来，全能意味着对整幅画的宏观把控，否则“画什么也只是一个局部”。这种“通”的自我定位，某种程度上与雅典表跨越机械结构、材料与时间显示方式的“破界”叙事形成了呼应。 联名系列的命名同样被刻意经营。英文“Make Waves”意为“造浪”，中文译作“名扬四海”。刘人岛称命名先于创作：“很多事情讲究的其实是一种‘缘’，它既是缘分，也是‘圆满’。”在他看来，地球上的各大洋本就圆融一体，四幅画作要表现的正是这种“圆”，其中既有海洋，也包含对四季轮回与人生的思考。四款表名亦取东西兼容之意：知音既指中国语境里的知己，也暗合钟表运转的声音；玄曲取“科学的最高境界是玄学”之意；悠雅之“雅”呼应“雅典”。 一个绕不开的技术与美学难题，是中国画的“留白”如何落到以精确为天职的表盘上。“海洋最难画的不是海的整体，而是浪，”刘人岛解释，浪花在阳光透射下晶莹剔透，若直接以白色涂抹，画面会“显得很板，没有灵动性”。他将海浪的生命力比作人的不同年龄阶段——幼年活蹦乱跳、中年奔放、晚年平静，“海最经典的状态，应该像我们人生一样，只有在生命力最奔放的时候，才是最美的时候”。据品牌介绍，雅典表的微绘大师将其原创水墨凝练于表盘，在毫米之间保留海浪的层次、光影与气韵。 图片来源：品牌 那么，这套用料不菲、产量极小的联名系列，瞄准的是谁？刘人岛的回答没有停留在“藏家”或“新中产”的标签上。“谁碰到它，能够把它当成自己的知己，那就是它的受众，”他说。在他的描述里，这四块表是表的理性机械与中国绘画感性之间的碰撞，最终指向“那些愿意去思考‘时间的形状究竟是什么’的人”——当指针扫过腕间浪涛，“感受到时间不是冰冷的刻度，而是奔涌不息的浪、是停在方寸的蓝”。 对雅典表而言，这种“东方知音”的叙事，是其更大版图中的一块。据品牌资料，自1846年起，Nardin家族历经五代，打造出广受多国海军信赖的航海时计，迄今累计��得超过4300项技术与设计大奖；2001年问世的FREAK奇想腕表以“无表冠、无指针、无表盘”重新定义机械腕表，其FREAK [ONE]曾摘得2023年日内瓦钟表大赏（GPHG）“最佳标志性腕表”奖项；品牌还与芝柏表联合创立独立制表体系，并在日内瓦、硅谷、迪拜与上海设有旗舰店。 从财经视角审视，这套组合折射出独立高端制表近年的一种共同选择： 以极致复杂度与超低产量制造稀缺性，再借文化联名降低进入新兴市场的叙事门槛。 100枚联名腕表与50枚超级腕表的发行量，决定了它们更接近“叙事载体”而非走量产品；其商业回报，既来自单品的高溢价，也来自周年节点上品牌资产的再确认。雅典表在品鉴会上未披露相关定价与销售目标，实际市场反响仍有待观察。 180年的航海传承与25年的“破界”叙事，如今在上海与一位中国艺术家的水墨相遇。这场相遇能否转化为持久的市场认同，仍需时间检验；但至少在方寸表盘之上，雅典表完成了一次东西方语汇的拼合。正如刘人岛所言，他要画的从来不只是海洋本身，“更关乎内观、流动与生命的节律”。",
+    "published_at": "2026-06-10T21:35:14+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "51d5f7dc893725e0",
+    "title_hash": "06e8d187d558c7ab",
+    "title": "智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景",
+    "url": "https://36kr.com/newsflashes/3848126301541636?f=rss",
+    "summary": "36氪获悉，6月10日，智元推出灵犀X2 EDU（人人造）版本，面向科研教育、工程实训、机器人赛事开发等多元场景，聚焦设备拆装实训与软件二次开发。据介绍，灵犀X2 EDU（人人造）版本在硬件设计上强调可拆装、可扩展与可二次开发。",
+    "published_at": "2026-06-11T09:56:30+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "50cc3c1e31fc7937",
+    "title_hash": "eea5de99ed069055",
+    "title": "创业板指涨超1%",
+    "url": "https://36kr.com/newsflashes/3848115744560389?f=rss",
+    "summary": "36氪获悉，创业板指涨超1%。",
+    "published_at": "2026-06-11T09:45:45+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "0cfd7e381e6a544a",
+    "title_hash": "9b3d6d649653e779",
+    "title": "深证成指转涨",
+    "url": "https://36kr.com/newsflashes/3848112409711616?f=rss",
+    "summary": "36氪获悉，深证成指转涨，半导体、工业金属板块走强。",
+    "published_at": "2026-06-11T09:42:22+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "4513235e992fa36a",
+    "title_hash": "b69d638b28f81b89",
+    "title": "小米推出AI 编程助手MiMo Code",
+    "url": "https://36kr.com/newsflashes/3848111404274945?f=rss",
+    "summary": "36氪获悉，6月11日，小米MiMo技术团队正式发布探索性AI编程助手——MiMo Code。这是小米MiMo首次进入Coding Agent领域，开始构建“模型+Agent”的生态闭环。",
+    "published_at": "2026-06-11T09:41:20+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "7369bb011c1deacc",
+    "title_hash": "3ff28cbcaa70b0ce",
+    "title": "OpenAI考虑大幅降价，以期在与Anthropic的用户争夺战中占据有利地位",
+    "url": "https://36kr.com/newsflashes/3848106407040265?f=rss",
+    "summary": "据报道，OpenAI正考虑大幅下调其产品的token收费标准，此举旨在应对主要竞争对手Anthropic预期中的类似降价举措，以争夺用户。（财联社）",
+    "published_at": "2026-06-11T09:36:15+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "e721bb312bb7c7d4",
+    "title_hash": "5c204bbfa19660f7",
+    "title": "恒指、恒生科技指数转涨",
+    "url": "https://36kr.com/newsflashes/3848104893437191?f=rss",
+    "summary": "36氪获悉，恒指、恒生科技指数转涨。",
+    "published_at": "2026-06-11T09:34:43+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "d246727cbaf90010",
+    "title_hash": "34dffc2051c8a29f",
+    "title": "A股三大指数集体低开，能源股领涨",
+    "url": "https://36kr.com/newsflashes/3848096816223497?f=rss",
+    "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.34%，深成指低开0.43%，创业板指低开0.4%；贵金属、发电设备、工业机械板块领跌，中重科技跌超8%，东方电气、招金黄金跌超2%；能源、教育、银行、海运板块走强，泰山石油涨超4%，中公教育涨超3%，国航远洋涨超2%，农业银行涨0.45%。",
+    "published_at": "2026-06-11T09:26:30+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "16535b021a7d487e",
+    "title_hash": "2560649cfcacafe7",
+    "title": "央行今日开展1885亿元7天逆回购操作",
+    "url": "https://36kr.com/newsflashes/3848093587920134?f=rss",
+    "summary": "36氪获悉，央行今日开展1885亿元7天逆回购操作，操作利率为1.40%，与此前持平。",
+    "published_at": "2026-06-11T09:23:13+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "d44f23cac41543b0",
+    "title_hash": "b412b34fdba07c08",
+    "title": "恒指开盘跌0.11%，恒生科技指数跌0.2%",
+    "url": "https://36kr.com/newsflashes/3848093334213896?f=rss",
+    "summary": "36氪获悉，恒指开盘跌0.11%，恒生科技指数跌0.2%；有色金属、半导体、汽车板块领跌，潼关黄金跌超5%，英诺赛科、小鹏集团、理想汽车跌超1%；能源、传媒、软件服务板块走强，山东墨龙涨超14%，阅文集团涨超2%，知乎、B站涨超1%。",
+    "published_at": "2026-06-11T09:22:57+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "1c64d01964498606",
+    "title_hash": "50ad44a36ace3d31",
+    "title": "甲骨文CFO：公司积压订单达6380亿美元，体现市场对AI基建和云服务的需求旺盛",
+    "url": "https://36kr.com/newsflashes/3848088702260225?f=rss",
+    "summary": "美东时间周三盘后，甲骨文公司首席财务官希拉里・芭芭拉・马克森表示，在截至5月31日的财年末，公司剩余履约义务规模达6380亿美元，同比激增363%，预计其中12%将在未来12个月内确认为收入，另有34%将在未来13至36个月内确认。马克森表示：“这一创纪录的数值，依托客户长期合约支撑，充分体现了市场对人工智能基础设施、云服务的旺盛需求，也让我们对未来营收增长具备极高能见度。”（财联社）",
+    "published_at": "2026-06-11T09:18:15+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "050393df05d51604",
+    "title_hash": "d46d7231d2bf97de",
+    "title": "人民币兑美元中间价报6.8150",
+    "url": "https://36kr.com/newsflashes/3848088123298823?f=rss",
+    "summary": "36氪获悉，人民币兑美元中间价报6.8150，下调20.00点。",
+    "published_at": "2026-06-11T09:17:39+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "d990c84a95a9f881",
+    "title_hash": "7ac716d60259934f",
+    "title": "两部门：深入实施“人工智能+三品”专项行动，建设一批行业大模型和高质量数据集",
+    "url": "https://36kr.com/newsflashes/3848066038174724?f=rss",
+    "summary": "36氪获悉，工业和信息化部办公厅、文化和旅游部办公厅发布关于组织开展2026消费名品全国行的通知，活动时间2026年5月—2027年4月。其中提出，深入实施“人工智能+三品”专项行动，分行业分领域发布实施人工智能赋能应用指南，建设一批行业大模型和高质量数据集。聚焦体验制造、时尚消费、银发经济、绿色生产、健康生活等重点领域，深入挖掘一批创新产品、关键技术与应用场景。组织征集数字化转型典型案例（“数字三品”方向），加快形成一批可复制、易推广的案例范本，以技术创新驱动消费品产业提质升级。",
+    "published_at": "2026-06-11T08:55:11+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "c7e20e6357ea9fbc",
+    "title_hash": "c0e56e5811ed1469",
+    "title": "两市融资余额减少80.91亿元",
+    "url": "https://36kr.com/newsflashes/3848058894373888?f=rss",
+    "summary": "36氪获悉，截至6月10日，上交所融资余额报14478.58亿元，较前一交易日减少43.65亿元；深交所融资余额报14011.81亿元，较前一交易日减少37.26亿元；两市合计28490.39亿元，较前一交易日减少80.91亿元。",
+    "published_at": "2026-06-11T08:47:55+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "2c852d5f8ed592f1",
+    "title_hash": "3ca0356d9f69cbb0",
+    "title": "暑期出行预订火热，机构预测7股营收高增长",
+    "url": "https://36kr.com/newsflashes/3848057652958209?f=rss",
+    "summary": "据统计，A股中布局旅游、酒店板块的个股共有35只。暑期出游高峰即将到来，部分个股获机构密集关注。统计显示，有21股获得机构评级，其中14股评级机构数量在5家及以上，锦江酒店、首旅酒店、宋城演艺数量居前，分别为25家、24家、17家。上述5家及以上机构评级的个股中，有7股获机构一致预测2026年营收增幅在10%以上，三峡旅游、君亭酒店、长白山居前，分别为30.3%、19.36%、14.06%。（证券时报）",
+    "published_at": "2026-06-11T08:46:40+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "d4b3883d9d077b81",
+    "title_hash": "32fe6d8b5df0fa7e",
+    "title": "美银：客户上周抛售美国科技股规模创2008年以来最大",
+    "url": "https://36kr.com/newsflashes/3848042348073993?f=rss",
+    "summary": "美银证券援引截至6月5日当周的客户资金流向数据，称随着标普500指数创下2025年4月以来最大单周跌幅，上周该行客户撤出美国科技股的规模达到纪录最大。策略师Jill Carey Hall在报告中指出，从市值占比来看，当周科技股的资金流出规模创下2014年初以来最高纪录。个股抛售规模也创下历史新高。（新浪财经）",
+    "published_at": "2026-06-11T08:31:05+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "4a3158a1c0433ace",
+    "title_hash": "75f7d8f75e96525b",
+    "title": "中信证券：上游涨价正在逐渐向下扩散",
+    "url": "https://36kr.com/newsflashes/3848030351119622?f=rss",
+    "summary": "36氪获悉，中信证券指出，5月PPI同比回升至3.9%，再次超出市场预期。虽然原油价格边际上有所回落，但化工、有色、电子、钢铁、煤炭行业的价格贡献了较强的向上动能。5月CPI同比持平于前置的1.2%，略低于市场预期，核心CPI同比有所回落，“能源”与“服务”价格偏弱或为主要驱动因素。相关分项中，能源、交通工具租赁、飞机票CPI表现偏弱；旅行社及其他旅游服务、衣着、通信工具CPI表现较强。当前市场普遍关注国内输入型通胀对经济的影响路径。",
+    "published_at": "2026-06-11T08:18:53+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "1c7a53e64795871d",
+    "title_hash": "8cd5f7c757944d33",
+    "title": "韩国6月前10天出口额同比飙升86%",
+    "url": "https://36kr.com/newsflashes/3848027219252486?f=rss",
+    "summary": "韩国海关周四公布的数据显示，6月前10天韩国出口额同比增长86%，从去年同期的154亿美元增至286亿美元。同期，韩国进口额同比增长35.6%，达到234亿美元，贸易顺差为52亿美元。（新浪财经）",
+    "published_at": "2026-06-11T08:15:42+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "dfc768c488ae8900",
+    "title_hash": "84a07a5df8564975",
+    "title": "中金：维持美联储年内不降息、不加息的基准判断",
+    "url": "https://36kr.com/newsflashes/3848022773011715?f=rss",
+    "summary": "36氪获悉，中金指出，美国5月CPI季调环比上涨0.5%，同比上涨4.2%，涨幅为2023年以来最高水平；核心CPI环比上涨0.2%，同比上涨2.9%。本次通胀上行主要由能源分项推动，汽油、燃油领涨，机票、快递服务等传导效应继续显现，但未广泛扩散。核心通胀整体温和，汽车等对油价敏感领域的需求受到挤压，房租涨幅亦明显收窄。中金认为，当前通胀仍以能源冲击等结构性因素为主，周期性通胀尚不明显，但需警惕AI资本开支扩张与就业改善带来的总需求回升风险。",
+    "published_at": "2026-06-11T08:11:11+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "ab9fe6bead578a83",
+    "title_hash": "159f7cb9ffbbc255",
+    "title": "通用或停止将磷酸铁锂电池用于电动汽车",
+    "url": "https://36kr.com/newsflashes/3848022152401920?f=rss",
+    "summary": "通用汽车电池技术负责人表示，该公司可能会放弃使用低成本的铁基电池技术，而许多汽车制造商正在使用这种技术来降低电动汽车的成本。这家底特律汽车制造商此前曾表示，计划开发磷酸铁锂（LFP）电池，用于未来的电动汽车车型，并计划于2027年底在田纳西州一家合资工厂开始生产这种电池。（新浪财经）",
+    "published_at": "2026-06-11T08:10:33+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "5b492fd822781acd",
+    "title_hash": "d152d9c806305ae0",
+    "title": "华泰证券：AI服务器测试电源或迎国产替代机遇",
+    "url": "https://36kr.com/newsflashes/3848019548738822?f=rss",
+    "summary": "36氪获悉，华泰证券指出，AIDC建设推动供电架构加速升级，测试电源有望迎来发展机遇。华泰证券认为随数据中心供电架构由UPS向HVDC、SST持续演进，带动测试对象由单一PSU向Power Shelf、BBU及整机架系统延伸；同时机柜功率等级持续提升，有望推动测试电源量价齐升。看好国内厂商凭借大功率技术积累及国产替代机遇，在行业扩容与技术升级背景下实现快速成长。",
+    "published_at": "2026-06-11T08:07:54+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "9a39e8084a7a9f3a",
+    "title_hash": "6ebb06c268495d53",
+    "title": "中国第一、全球第二！HiDream-O1-Image-1.5 登顶文生图榜单，超越谷歌、英伟达",
+    "url": "https://www.qbitai.com/2026/06/434196.html",
+    "summary": "转载来源：智象未来 本文为量子位获授权转载，观点仅为原作者所有。",
+    "published_at": "2026-06-10T19:52:55+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "9696c23472ba433c",
+    "title_hash": "08f785ea7b482bb9",
+    "title": "东风联手九识，商用无人车也有“HI模式”了",
+    "url": "https://www.qbitai.com/2026/06/433956.html",
+    "summary": "商用车AI基座已成型",
+    "published_at": "2026-06-10T19:38:15+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "5ef9e9f1a68ecaf4",
+    "title_hash": "903f6c9cb600ebf9",
+    "title": "说好的“美国制造业伟大复兴”呢？",
+    "url": "https://www.ftchinese.com/story/001109999",
+    "summary": "马斯特斯：如果美国政界人士真想重振制造业，他们应该少花时间哀叹制造业的困境，而把更多精力放在切实消除投资和增长的障碍上。",
+    "published_at": "2026-06-11T00:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "936746d44425fcf8",
+    "title_hash": "2830da7dd5b5fea1",
+    "title": "伊朗称美国空袭导致两万居民断水",
+    "url": "https://www.ftchinese.com/story/001109998",
+    "summary": "霍尔木兹甘省的气温目前介于45至50摄氏度之间，当地居民面临严峻生存环境。地方当局称正采取紧急措施向受影响的居民供水。",
+    "published_at": "2026-06-11T00:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "273fc955e30024f6",
+    "title_hash": "56e31b6bdb91a13d",
+    "title": "4.2%：美国5月通胀率升至三年新高",
+    "url": "https://www.ftchinese.com/story/001109997",
+    "summary": "中东战争继续推高美国人在日常生活中的成本，通胀压力已从能源蔓延至其他领域。投资者预期美联储在年底前将被迫加息。",
+    "published_at": "2026-06-11T00:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "ee2b68e46fbeeff8",
+    "title_hash": "153059a9fe525bb1",
+    "title": "明白很多道理，还是过不好？",
+    "url": "https://www.ftchinese.com/story/001109982",
+    "summary": "徐瑾：多数鸡汤不提供清醒，只提供虚假的安全感。维持表演积极，有时候需要付出巨大的成本。在一个道理漫天横飞的时代，如何过好真实的一生呢？",
+    "published_at": "2026-06-11T00:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "86e63caa06ca48bb",
+    "title_hash": "fa9cf3d156afd690",
+    "title": "由中企共同主演的全球化时代经已来临",
+    "url": "https://www.ftchinese.com/story/001109977",
+    "summary": "邓希炜、冯国经：中企全球扩张标志由发达国家主导的全球化出现新局面。面对挑战，中企将仿效成功经验，积极创造在地化价值，以实现受欢迎的海外业务扩张。",
+    "published_at": "2026-06-11T00:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "a5649ae00bdfbc9e",
+    "title_hash": "3c8ca61a47a9f6af",
+    "title": "酒店业进入存量重构期，新标准该怎样被验证？",
+    "url": "https://www.ftchinese.com/story/001109978",
+    "summary": "李洋、王小龙：酒店业仍然是一个重资产、强运营、慢回报的行业。有效的标准重建，发生在消费者、投资人和组织能力都能验证的地方。",
+    "published_at": "2026-06-11T00:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "35f48bedaa6c7191",
+    "title_hash": "3eb3194d6949232f",
+    "title": "金正恩难以解开的“三个死结”",
+    "url": "https://www.ftchinese.com/story/001109996",
+    "summary": "叶胜舟：金正恩面临军事、拥核与外交“死结”，武器与科技实力不足，核武合法化无机会、无通道，国力远不足以撼动中美。",
+    "published_at": "2026-06-11T00:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "c37b1b5edb4c5ddc",
+    "title_hash": "b80a82d13457bbbb",
+    "title": "欧盟介入京东收购德企的背后",
+    "url": "https://www.ftchinese.com/story/001109991",
+    "summary": "张冬方：欧盟委员会介入京东收购Ceconomy宛如例行公事，然而这场调查所依据的《外国补贴条例》，已悄然成为中欧经贸博弈的风暴眼。",
+    "published_at": "2026-06-11T00:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "0530a4d48b678b8d",
+    "title_hash": "5178887d36afb49d",
+    "title": "怎样让年轻人不再“躺平”？",
+    "url": "https://www.ftchinese.com/story/001109992",
+    "summary": "刘远举：大城市化的红利，是可以继续供给的，这不管对年轻人来说，还是对国家来说，都是有利的。",
+    "published_at": "2026-06-11T00:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "786fc5b6aed4131b",
+    "title_hash": "dfdeb621220fe9dd",
+    "title": "中德制造业的“墨西拿悖论”与全球化重塑",
+    "url": "https://www.ftchinese.com/story/001109993",
+    "summary": "吕鹏：今天的全球化，就是一片墨西拿海峡。德国和中国，两艘看似航向完全相反的大船，其实正处在这片海峡的两边。",
+    "published_at": "2026-06-11T00:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9ff25cae5b01657e",
+    "title_hash": "1dd023eed189da6d",
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/ Comments URL: https://news.ycombinator.com/item?id=48484584 Points: 82 # Comments: 11",
+    "published_at": "2026-06-11T08:10:08+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "c3cfb28187643527",
+    "title_hash": "ec586cb5b23920e1",
+    "title": "Deficient executive control in transformer attention",
+    "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
+    "summary": "Article URL: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838 Comments URL: https://news.ycombinator.com/item?id=48484282 Points: 17 # Comments: 4",
+    "published_at": "2026-06-11T07:35:01+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0b6dfaeeb5e960fd",
+    "title_hash": "368dfbb87f0bffd9",
+    "title": "Unix GC Remastered",
+    "url": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
+    "summary": "Article URL: https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/ Comments URL: https://news.ycombinator.com/item?id=48483854 Points: 11 # Comments: 2",
+    "published_at": "2026-06-11T06:48:58+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0beb9a9d3324c3b1",
+    "title_hash": "f00c63ecdba6b3bf",
+    "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+    "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+    "summary": "Article URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/ Comments URL: https://news.ycombinator.com/item?id=48483387 Points: 89 # Comments: 48",
+    "published_at": "2026-06-11T06:07:52+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "d52fb9f27c5da819",
+    "title_hash": "0d3df92c24c1878c",
+    "title": "What is it like to be a bat? (1974) [pdf]",
+    "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
+    "summary": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf Comments URL: https://news.ycombinator.com/item?id=48482293 Points: 65 # Comments: 53",
+    "published_at": "2026-06-11T04:35:07+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "83c7c7fb35259929",
+    "title_hash": "e1cb8b6763dc57b9",
+    "title": "Raspberry Pi 5 – 16GB RAM",
+    "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
+    "summary": "Article URL: https://www.adafruit.com/product/6125?src=raspberrypi Comments URL: https://news.ycombinator.com/item?id=48481857 Points: 169 # Comments: 191",
+    "published_at": "2026-06-11T04:05:21+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a482701037b80ac0",
+    "title_hash": "de3fa1303a54cf03",
+    "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+    "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade Comments URL: https://news.ycombinator.com/item?id=48481126 Points: 406 # Comments: 207",
+    "published_at": "2026-06-11T03:06:50+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2367b3294caf1f95",
+    "title_hash": "38d106a5d876c2fd",
+    "title": "πFS",
+    "url": "https://github.com/philipl/pifs",
+    "summary": "Article URL: https://github.com/philipl/pifs Comments URL: https://news.ycombinator.com/item?id=48480978 Points: 518 # Comments: 134",
+    "published_at": "2026-06-11T02:54:54+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "69b4a33480857bdd",
+    "title_hash": "7e29bde1770343ed",
+    "title": "GeoLibre 1.0",
+    "url": "https://geolibre.app/",
+    "summary": "Article URL: https://geolibre.app/ Comments URL: https://news.ycombinator.com/item?id=48479852 Points: 150 # Comments: 11",
+    "published_at": "2026-06-11T01:39:47+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "40a4844d0d4b4211",
+    "title_hash": "99468396fdcd0501",
+    "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+    "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+    "summary": "Article URL: https://spectrum.ieee.org/curiosity-rover-jpl-mars-science Comments URL: https://news.ycombinator.com/item?id=48479705 Points: 170 # Comments: 37",
+    "published_at": "2026-06-11T01:30:48+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "cc7e54fc39394c09",
+    "title_hash": "49d111b29a51a3fd",
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "summary": "Article URL: https://github.com/anthropics/claude-code/issues/29045 Comments URL: https://news.ycombinator.com/item?id=48479452 Points: 344 # Comments: 241",
+    "published_at": "2026-06-11T01:11:56+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "c3ab8c2b1dbfd6f4",
+    "title_hash": "688825b0368ca6b9",
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "summary": "Article URL: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/ Comments URL: https://news.ycombinator.com/item?id=48478969 Points: 208 # Comments: 201",
+    "published_at": "2026-06-11T00:42:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "3aba75d6a4da6ce1",
+    "title_hash": "2b11d7826119e29e",
+    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+    "url": "https://www.extend.ai/ui",
+    "summary": "We're open-sourcing 14 components & examples today for PDF, DOCX, and XLSX viewers, plus bounding box citations, file upload, e-signature, and more. It's MIT licensed and fully customizable. Demo video here: https://share.extend.ai/kRmSGKRF When we started, we tried every file viewer and document component library we could find. Unfortunately, none of them had all the functionality (and polish) that we wanted, so we ended up building our own for https://extend.ai/ . It was only ever meant to be internal, but enough customers kept asking for it that we decided to open source it. It's useful for building document processing agents, real-time user facing document intake flows, or all kinds of internal tooling. We naively thought this would be a solved problem. Turns out, making PDF/XLSX/DOCX viewers that work at scale is not trivial...we use and maintain it for Extend ourselves, so we've fixed a lot of edge cases that came up while running millions of pages / day through our own system. Our hope is that with our resources + community support, it'll keep getting better over time. Comments URL: https://news.ycombinator.com/item?id=48478469 Points: 152 # Comments: 39",
+    "published_at": "2026-06-11T00:09:26+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "6b280ad3df67c570",
+    "title_hash": "979d6391ac0e11b5",
+    "title": "Show HN: HelixDB – A graph database built on object storage",
+    "url": "https://github.com/HelixDB/helix-db/tree/main",
+    "summary": "Hey HN, it’s been just over a year since we launched HelixDB ( https://news.ycombinator.com/item?id=43975423 ), a project a friend and I started in college. It’s an OLTP graph database built on object-storage, with native vector search and full-text search (FTS). Why graph, vector and FTS? Graph databases provide a natural cognitive model for data, vectors allow for a semantic understanding of the entities and relationships in the graph, and FTS provides more specific filtering. Many AI-driven applications attempt to combine all of these functionalities by stitching together multiple disconnected systems, but even then there’s no native way to perform joins or queries that span all systems. You still need to handle this logic at the application level. Helix started as a graph DB, but we moved to a hybrid graph/vector approach after attempting to build an AI memory system, which led us down the GraphRAG and HybridRAG rabbit hole, where we would need separate graph and vector databases. We knew scalability would be a challenge at each stage of our product's development, however our initial focus this past year was to prove out the product through local deployments and was only meant to be run on a single node. Scaling graph DBs remained a difficult and expensive problem we’d have to solve later. Some common ways other graph DBs solve scaling is by duplicating entire datasets across distributed machines (extremely expensive per node), or by sharding the data. Sharding databases is effective and affordable, however, graph data doesn’t have explicit partitions like relational databases do. For example, sharding a relational DB involves splitting up tables. When it comes to graph DBs, the edges can span across any of the partitions, and hopping across multiple machines when traversing nodes is ineffective and computationally expensive. Replicating graph DBs for high availability and better throughput drastically increases the operational cost of the db and still has a limit of how big you can vertically scale. The workload that we’re used for requires storing a huge amount of data for agents, where only a subset of that data is ever needed at any one time. So rather than having the whole thing in memory, we can store it all in object-storage and get the bits we need when they’re needed. Agents benefit from better context, which is achieved from more and better data (more relationships etc). By using S3 as the persistence/data layer there is no limit to how big the graph can be or how many relationships you can have, and we can scale to serve throughput and requests by horizontally spinning up nodes and caching relevant subsets of the graph on each node. This way, you get extremely low latency for “hot” data and a p99 of ~100ms for writes and ~50ms for reads from cold storage (S3). Plus you get the benefit of dirt cheap storage. Workloads that HelixDB is currently supporting: - Huge amounts of data (TBs) from which the agents need to search and traverse over - Offering affordable graph storage for companies where cost of graph data is a bottleneck - Consolidating multiple databases, enabling AI agents to have autonomy over companies, helping them become more autonomous. - AI memory - Company brains We’re currently working on our own generalised AI memory layer which will use HelixDB under the hood and be completely open-source. Also, we’re finishing up on pre-filtering for vector search which will allow you to pre-filter based on relationships in the graph, metadata, and sub-graphs. And lastly, GA cloud will be available in the coming weeks. If you want to run Helix locally (either on-disk or in-memory), you can find more info on our github ( https://github.com/HelixDB/helix-db ) or via our docs ( https://docs.helix-db.com/database/local-development ). If you’re interested in getting started with our distributed cloud, please email us founders@helix-db.com. Many thanks! Comments and feedback welcome! Comments URL: https://news.ycombinator.com/item?id=48478148 Points: 90 # Comments: 30",
+    "published_at": "2026-06-10T23:47:31+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e4faf2ecd8fefe6e",
+    "title_hash": "34fac962f126bcc0",
+    "title": "Authentication issues related to API requests",
+    "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+    "summary": "Article URL: https://www.githubstatus.com/incidents/fcj3088jg1wx Comments URL: https://news.ycombinator.com/item?id=48477851 Points: 153 # Comments: 30",
+    "published_at": "2026-06-10T23:29:52+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b6c3b8f088f502f8",
+    "title_hash": "dc027b8c6c93a1da",
+    "title": "Apache Burr: Build reliable AI agents and applications",
+    "url": "https://burr.apache.org/",
+    "summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 174 # Comments: 91",
+    "published_at": "2026-06-10T23:01:06+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5f5cb14ff7eb759b",
+    "title_hash": "44b25a5e5f5189a6",
+    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+    "url": "https://news.ycombinator.com/item?id=48477135",
+    "summary": "Hey gang, you may remember me from such books as _The Lean Startup_ and _The Startup Way_. It's been fifteen years since I wrote The Lean Startup, and in that time I've seen some things. In both big companies and tiny startups, NGOs and governments, in almost every industry you can name. I've helped a lot of people create a lot of amazing companies, but I've also seen so many ways this can go wrong. There's a darkness in our industry that we often don't talk about. I kept watching good companies drift away from the missions they were founded on. Not because anyone woke up one day and decided to be evil, but because the structure they were built on slowly pulled them there. I call that pull \"financial gravity.\" We've all experienced watching a company we love or admire be warped and broken beyond recognition; until it's a husk of its former self, or worse. I wanted to understand why. And I wanted to know what all of us can do to stop that from happening. My new book _Incorruptible_ is my attempt to explain the invisible forces that shape organizations, and how a handful of companies (like Costco, Patagonia, and Novo Nordisk) have successfully been structured to resist gravity and thrive for decades -- or even centuries. Along the way, I founded the Long-Term Stock Exchange, co-founded an AI R&amp;D lab called Answer.AI with Jeremy Howard, and helped a number of notable companies with their governance (yes, including Anthropic). I won't pretend I have this all figured out, but I've probably spent more time than is healthy on the \"why do good companies go bad\" question. Ask me anything! Comments URL: https://news.ycombinator.com/item?id=48477135 Points: 523 # Comments: 426",
+    "published_at": "2026-06-10T22:47:52+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "d3a434c798ccafd8",
+    "title_hash": "7686c33b314f2ab5",
+    "title": "Notes on DeepSeek",
+    "url": "https://news.ycombinator.com/item?id=48476474",
+    "summary": "Comments URL: https://news.ycombinator.com/item?id=48476474 Points: 105 # Comments: 72",
+    "published_at": "2026-06-10T22:03:40+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8a7dee97248459e5",
+    "title_hash": "88d7b279eca83283",
+    "title": "PgDog is funded and coming to a database near you",
+    "url": "https://pgdog.dev/blog/our-funding-announcement",
+    "summary": "Article URL: https://pgdog.dev/blog/our-funding-announcement Comments URL: https://news.ycombinator.com/item?id=48476466 Points: 386 # Comments: 197",
+    "published_at": "2026-06-10T22:02:59+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ef8a2deee4e7a86d",
+    "title_hash": "e886c1fd223df10e",
+    "title": "Building an HTML-first site doubled our users overnight",
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "summary": "Article URL: https://mohkohn.co.uk/writing/html-first/ Comments URL: https://news.ycombinator.com/item?id=48475483 Points: 1001 # Comments: 455",
+    "published_at": "2026-06-10T20:45:47+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "824268f2e9adbd3c",
+    "title_hash": "e3cdc68ea56a21cc",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+    "published_at": "2026-06-11T06:31:19+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "b159ea94185ab0d8",
+    "title_hash": "1add1d52f6e055f1",
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "published_at": "2026-06-11T04:19:31+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "f5eeda33934b75ac",
+    "title_hash": "894bd296193d41ce",
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+    "published_at": "2026-06-11T01:07:35+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "f6c85e7974876495",
+    "title_hash": "0d604d46beb25965",
+    "title": "How memory tools can make AI models worse",
+    "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+    "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+    "published_at": "2026-06-11T00:11:08+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "d5f3f77bb7754b96",
+    "title_hash": "d02b9a06a4ea0fa3",
+    "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+    "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+    "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+    "published_at": "2026-06-10T23:00:00+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "46bc45ba0026718a",
+    "title_hash": "9dcaf7983ee4b877",
+    "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+    "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+    "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+    "published_at": "2026-06-10T22:48:01+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "fdc20ca2bcd99b80",
+    "title_hash": "c35aa47d1976e16a",
+    "title": "Warner Music acquires AI attribution startup Sureel AI",
+    "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+    "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+    "published_at": "2026-06-10T22:31:30+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "75a8dca2f344eb3a",
+    "title_hash": "4e9de7fd7f4b9523",
+    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+    "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+    "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+    "published_at": "2026-06-10T21:33:09+08:00",
+    "created_at": "2026-06-11 01:58:41"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "ab13ad334f391826",
+    "title_hash": "7ece7ee0d298ed42",
+    "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+    "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+    "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+    "published_at": "2026-06-10T21:07:56+08:00",
+    "created_at": "2026-06-11 01:58:41"
   }
 ]
