@@ -1,486 +1,6 @@
 [
   {
     "source": "36氪",
-    "url_hash": "c3608d5253b62f9c",
-    "title_hash": "aa6f91673bb20620",
-    "title": "比特币ETF 30天净流出63.5亿美元，创历史新高",
-    "url": "https://36kr.com/newsflashes/3862494481880322?f=rss",
-    "summary": "Galaxy Research披露，比特币ETF在过去30天内净流出资金达63.5亿美元，创下历史新高，在所有582个30天窗口期内排名第一。（界面）",
-    "published_at": "2026-06-21T14:00:33+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "354cea4f726d0153",
-    "title_hash": "7a1a6dfb1f26dfd7",
-    "title": "德意志银行上调美国通胀预期",
-    "url": "https://36kr.com/newsflashes/3862484158731266?f=rss",
-    "summary": "德意志银行上调美国通胀预期，全面修正美联储政策判断，预计2026年美联储合计加息50个基点、利率升至4.1%，7月或提���加息。（新华财经）",
-    "published_at": "2026-06-21T13:41:41+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "8390d565318a223c",
-    "title_hash": "63f2ba01b965493f",
-    "title": "SpaceX上市前被MSCI打最低ESG评级",
-    "url": "https://36kr.com/newsflashes/3862439214322691?f=rss",
-    "summary": "据报道，指数提供商MSCI在SpaceX本月进行创纪录的750亿美元公开募股之前，授予了其最低级别的环境、社会和治理（ESG）评级“CCC”。根据MSCI的说法，这使得SpaceX“因其高风险敞口及未能管理重大ESG风险而落后于行业”。EDHEC商学院气候研究所的项目主任Frédéric Ducoulombier表示：“该公司不佳的争议评估、极差的治理评估和较低的总体ESG评级不应让任何人感到意外。对公开市场投资者而言，这非常接近一个治理层面的恐怖故事。”（财联社）",
-    "published_at": "2026-06-21T13:25:20+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "352516d61e85d1d0",
-    "title_hash": "92e5734f4856d22a",
-    "title": "微信AI助手“小微”小范围灰度上线",
-    "url": "https://36kr.com/newsflashes/3862458180359424?f=rss",
-    "summary": "微信AI已小范围灰度上线。部分网友微信主界面左上角已出现小眼睛式样图标，该图标即为AI助手“小微”测试版入口。据腾讯客服介绍，微信小微是微信团队在小范围内测的原生AI助手，小微支持通过文字或语音对话操作微信原生功能、调起小程序等，例如帮助好友发送消息、查询朋友圈、预约服务等。（财联社）",
-    "published_at": "2026-06-21T13:03:37+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "f314563a106aab4c",
-    "title_hash": "fdfa1c1201037510",
-    "title": "广西南宁：新能源智能船舶完成试航",
-    "url": "https://36kr.com/newsflashes/3862422164935689?f=rss",
-    "summary": "6月20日，中技船舶首批9艘新能源船舶集中试航仪式在广西南宁港举行。9艘船舶包含无人驾驶智慧船、商用作业船、民用休闲船，适配执法巡逻、景区观光等各类场景，助力内河航运绿色转型。（新华社）",
-    "published_at": "2026-06-21T13:00:52+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "bf335fdba828edcd",
-    "title_hash": "5c22d820aa6d6851",
-    "title": "AI投资热潮向上游扩散，美股多家半导体设备龙头今年翻倍",
-    "url": "https://36kr.com/newsflashes/3862419587781894?f=rss",
-    "summary": "回顾年初至今的美股市场，不仅半导体、光通信等AI硬件板块集体狂飙，产业链上游的半导体设备赛道亦同步走出亮眼升势。据统计，美股总市值超百亿美元的9家半导体设备公司，今年以来股价涨幅均已超过75%。其中，应用材料、拉姆研究、科磊、泰瑞达、MKS Inc、英特格、Onto Innovation Inc这7只个股年内股价实现翻倍。就产业逻辑而言，种种迹象表明，半导体设备正迎来机构所谓的“卖方市场”。（财联社）",
-    "published_at": "2026-06-21T12:38:21+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "56047a722c5988ec",
-    "title_hash": "387874c8ac1afae5",
-    "title": "富国银行：预测标普500指数到2027年底将升至8600-8800点",
-    "url": "https://36kr.com/newsflashes/3862376847709189?f=rss",
-    "summary": "富国银行表示，极度看好后市，预测标普500指数到2027年底将升至8600-8800点。（财联社）",
-    "published_at": "2026-06-21T12:18:52+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "7224c98bd1f864ed",
-    "title_hash": "3b5670e19e93d1b0",
-    "title": "科技赋能，全国夏播粮食进度近七成",
-    "url": "https://36kr.com/newsflashes/3862375326176262?f=rss",
-    "summary": "农业农村部最新农情调度显示，目前全国夏播粮食进度近七成。今年，粮食主产区大力推广种肥同播技术，有效提升种植质量。（央视新闻）",
-    "published_at": "2026-06-21T11:59:19+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "6c70bd432fe3321c",
-    "title_hash": "2280dc7c3aab7687",
-    "title": "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
-    "url": "https://36kr.com/newsflashes/3862373538386952?f=rss",
-    "summary": "Anthropic首席执行官表示，人工智能公司需要“数千亿美元”收入，否则将面临生存风险。（财联社）",
-    "published_at": "2026-06-21T11:40:32+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "378d8f7e3a01205c",
-    "title_hash": "8992777a0b43b1b8",
-    "title": "日本三大巨型银行年度分红总额将首次突破2万亿日元",
-    "url": "https://36kr.com/newsflashes/3862364977288454?f=rss",
-    "summary": "日本三大巨型银行年度分红总额将首次突破2万亿日元。（新浪财经）",
-    "published_at": "2026-06-21T11:20:49+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "8f6bc8d038a9ee97",
-    "title_hash": "5dd9eb8105f60998",
-    "title": "端午假期最后一天，铁路运输迎来返程客流高峰",
-    "url": "https://36kr.com/newsflashes/3862348479108101?f=rss",
-    "summary": "今天是端午假期最后一天，铁路运输迎来返程客流高峰。记者从国铁集团了解到，全国铁路预计发送旅客1794万人次，增开旅客列车1355列。（央视新闻）",
-    "published_at": "2026-06-21T11:04:02+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "f2d20fab51a4d3c2",
-    "title_hash": "f90d003f2144d171",
-    "title": "磷酸铁锂价格翻倍，需求依然旺盛",
-    "url": "https://36kr.com/newsflashes/3862285675713793?f=rss",
-    "summary": "磷酸铁、磷酸铁锂是新能源和储能电池的重要原材料，今年以来价格一路走高，市场热度居高不下。央视财经记者了解到，一包约400公斤的磷酸铁锂，现在的价格超过25000元，一年前的价格仅有10000元。尽管价格已翻倍，但需求依然旺盛。在一家磷酸铁锂生产工厂的成品仓库内，不管是新增的货架还是地上，货物都摆得满满当当。这家企业生产的磷酸铁锂，超过九成是给头部新能源车企供货，这是他们今年订单量增长的最大来源。有企业负责人告诉记者，新能源汽车以及储能产品的出口旺盛，拉动磷酸铁锂需求持续走高，成为本轮产品涨价的重要动因。除了下游需求拉动外，上游原材料价格上涨，也是本轮磷酸铁锂价格走高的另一个关键因素。据介绍，磷酸铁锂主要由磷酸铁、碳酸锂、葡萄糖混合生产而成，其中磷酸铁成本占原料总成本的三成左右。今年以来，磷酸铁价格大幅上行，抬升了磷酸铁锂的整体生产成本。（央视财经）",
-    "published_at": "2026-06-21T10:44:08+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "b15aba8462927fa2",
-    "title_hash": "414a03844d37e698",
-    "title": "韩国央行警告：存储芯片景气周期或推高通胀压力",
-    "url": "https://36kr.com/newsflashes/3862282115749129?f=rss",
-    "summary": "韩国央行罕见警告，存储芯片景气周期带来的巨额绩效奖金，可能从半导体行业扩散至更广泛领域，进而推高通胀压力。随着三星、SK海力士员工奖金巨幅增长，芯片厂周边奢侈品消费已明显升温，新世界、乐天购物、现代百货等零售股也被股民炒成“存储概念股”。韩国央行目前预测，该国今年的整体通胀率可能会达到2.7%，远高于2%的政策目标。因此，韩国央行7月或9月的政策会议，已经成为重要的加息窗口期。（财联社）",
-    "published_at": "2026-06-21T10:26:30+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "5c7d3d352e61099a",
-    "title_hash": "7771feb880943608",
-    "title": "下周总解禁市值达549.08亿元，多只科技牛股将有限售股解禁",
-    "url": "https://36kr.com/newsflashes/3862281489126407?f=rss",
-    "summary": "据数据宝统计，下周（6月22日至26日）A股将有49家公司有限售股份解禁，合计解禁数量27.63亿股，以最新收盘价计算（下同），总解禁市值达549.08亿元。下周解禁个股集中度较高，有15家公司解禁市值超10亿元，合计解禁市值约485.93亿元。珠城科技、新恒汇解禁市值均超过50亿元。从解禁比例来看，下周共有16家公司解禁数量占总股本比例超10%，除珠城科技外，广信科技、威士顿、开创电气解禁占比均超50%。值得注意的是，多只科技牛股，下周也将有限售股解禁。存储板块的兆易创新、华海诚科下周解禁市值分别为4.07亿元、21.77亿元，光通信芯片的优迅股份解禁市值4.34亿元，先进封装板块的领先股份解禁市值19.46亿元，PCB板块的生益电子解禁市值7.99亿元，沪硅产业解禁市值35.56亿元。（证券时报）",
-    "published_at": "2026-06-21T10:13:44+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "a6b35c80bdde9360",
-    "title_hash": "0eb5e5ffecfe1e91",
-    "title": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
-    "url": "https://36kr.com/newsflashes/3862280121865219?f=rss",
-    "summary": "据报道，特斯拉已正式提交 “Amazing Abundance” 商标注册申请，此举表明企业将进一步深耕长期发展愿景，核心布局人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。（新浪财经）",
-    "published_at": "2026-06-21T09:54:30+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "bf95c7d224621c99",
-    "title_hash": "7b8fd64fbd205401",
-    "title": "澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力",
-    "url": "https://36kr.com/newsflashes/3862264032334854?f=rss",
-    "summary": "澳大利亚总理周日表示，将把燃油消费税减免政策再延长一个月。受伊朗战事影响，澳大利亚国内燃油价格持续高企，民众负担加重。澳大利亚总理在一份声明中称：“政府将燃油消费税减免政策再延长一个月，7月汽油、柴油每升将比常规售价便宜16澳分，澳洲民众加满一箱油大约能省下11澳元。”他表示：“这项临时扶持举措能够缓解油价上涨带来的冲击，减轻澳大利亚民众的生活开支压力。”（新浪财经）",
-    "published_at": "2026-06-21T09:38:08+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "5304af225c811d0a",
-    "title_hash": "6c611e12277a222c",
-    "title": "近一周机构调研个股有170多只",
-    "url": "https://36kr.com/newsflashes/3862232895755529?f=rss",
-    "summary": "近一周（6月12日至18日）机构调研个股有170多只，美埃科技获调研机构数最多。美埃科技有142家机构调研，包括57家基金公司、20家证券公司、12家私募、7家保险公司等。容大感光、立昂微、南方泵业、三孚新科等个股均有70家以上机构调研。从市场表现来看，近一周机构调研股平均涨超5%，达瑞电子、欧陆通、冰轮环境等个股均涨超30%。（证券时报）",
-    "published_at": "2026-06-21T09:12:28+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "dca62ffacc135a5b",
-    "title_hash": "6ba972aeebb235c8",
-    "title": "上交所拟推出单边平仓功能？暂不实施",
-    "url": "https://36kr.com/newsflashes/3862221679547395?f=rss",
-    "summary": "近日有消息称，上交所拟完善股票期权组合策略业务，推出单边平仓功能。对此，记者获悉，2019年上交所和深交所同步推出股票期权组合策略业务，并在通知中明确单边平仓功能暂不实施。目前，上交所正在进行该功能的技术开发工作，发布了技术接口供市场进行技术开发使用，业务上该功能仍暂不实施。（证券时报）",
-    "published_at": "2026-06-21T09:05:42+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "8fed5023c090dbbd",
-    "title_hash": "083c3c726e985ae1",
-    "title": "特朗普：不再将Anthropic视为国家安全威胁",
-    "url": "https://36kr.com/newsflashes/3861259140764678?f=rss",
-    "summary": "在6月19日发布的《阿克西奥斯秀》（《Axios Show》）访谈节目中，美国总统特朗普表示，他已经不再将美国人工智能公司安特罗匹克（Anthropic）视为国家安全威胁。 （财联社）",
-    "published_at": "2026-06-20T17:49:42+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "6cc9ad64c1de4711",
-    "title_hash": "1550699175c7ab16",
-    "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-    "url": "https://www.qbitai.com/2026/06/437141.html",
-    "summary": "一个月只要340块",
-    "published_at": "2026-06-21T12:46:07+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "037741ef2a7cae33",
-    "title_hash": "e2eb2ab7ff0a242b",
-    "title": "英伟达开始搞机器人自己研究机器人那套了…",
-    "url": "https://www.qbitai.com/2026/06/437041.html",
-    "summary": "为了让你烧token，英伟达已经卷到机器人身上了",
-    "published_at": "2026-06-20T20:06:20+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "2ddd77795dad57d9",
-    "title_hash": "38801d1804667df2",
-    "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
-    "url": "https://www.qbitai.com/2026/06/437023.html",
-    "summary": "全球最聪明的人之一，成了AI最狂热的布道者",
-    "published_at": "2026-06-20T19:56:57+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "44ac5a5c532ac212",
-    "title_hash": "84aacc5c0b0c476f",
-    "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
-    "url": "https://www.qbitai.com/2026/06/436996.html",
-    "summary": "速度快7倍，成本只有Veo 3的1/2000",
-    "published_at": "2026-06-20T18:42:35+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "4dd2505c1fc513ec",
-    "title_hash": "0b5e71efa2563a90",
-    "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
-    "url": "https://www.qbitai.com/2026/06/436980.html",
-    "summary": "Gemini 3.5 Pro呢？",
-    "published_at": "2026-06-20T17:42:18+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "5e36d49143980e71",
-    "title_hash": "4f3d1c7d826e377a",
-    "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
-    "url": "https://www.qbitai.com/2026/06/436966.html",
-    "summary": "抢人最猛的Meta，似乎先从内部裂开了",
-    "published_at": "2026-06-20T17:36:31+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "cd2a9a77c923ff32",
-    "title_hash": "e254aca25a27c949",
-    "title": "Building Reliable Agentic AI Systems",
-    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-    "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 31 # Comments: 2",
-    "published_at": "2026-06-21T12:28:39+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "4e31804e9234e9c8",
-    "title_hash": "80a240a5be9e7aaa",
-    "title": "Your brain was never designed for this much bad news",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/06/260614012006.htm Comments URL: https://news.ycombinator.com/item?id=48615569 Points: 70 # Comments: 40",
-    "published_at": "2026-06-21T12:02:08+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "cb96b99220ee7cee",
-    "title_hash": "8a0f8edc898856b9",
-    "title": "Armstrong Effect",
-    "url": "https://en.wikipedia.org/wiki/Armstrong_effect",
-    "summary": "Article URL: https://en.wikipedia.org/wiki/Armstrong_effect Comments URL: https://news.ycombinator.com/item?id=48615529 Points: 17 # Comments: 1",
-    "published_at": "2026-06-21T11:54:22+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7fdc72df421fcac2",
-    "title_hash": "1f21711b45e247b3",
-    "title": "Developers don't understand CORS (2019)",
-    "url": "https://fosterelli.co/developers-dont-understand-cors",
-    "summary": "Article URL: https://fosterelli.co/developers-dont-understand-cors Comments URL: https://news.ycombinator.com/item?id=48614844 Points: 97 # Comments: 36",
-    "published_at": "2026-06-21T09:35:40+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ec8b880c3a13bb5b",
-    "title_hash": "0cd000aa936ce232",
-    "title": "When I reject AI code even if it works",
-    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-    "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 126 # Comments: 72",
-    "published_at": "2026-06-21T08:58:13+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "17e0c5a039fdf99c",
-    "title_hash": "7a48bd2520fbb911",
-    "title": "Project Fetch: Phase Two",
-    "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-    "summary": "Article URL: https://www.anthropic.com/research/project-fetch-phase-two Comments URL: https://news.ycombinator.com/item?id=48614311 Points: 52 # Comments: 18",
-    "published_at": "2026-06-21T08:00:25+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8d93eba0d14eacbf",
-    "title_hash": "84d694d9baa8b5b0",
-    "title": "Epoll vs. io_uring in Linux",
-    "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-    "summary": "Article URL: https://sibexi.co/posts/epoll-vs-io_uring/ Comments URL: https://news.ycombinator.com/item?id=48613872 Points: 111 # Comments: 31",
-    "published_at": "2026-06-21T07:07:09+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "fdb47e4278ff3081",
-    "title_hash": "e5f7a7a33b1579e7",
-    "title": "Renting a sewing machine from the library",
-    "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-    "summary": "Article URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland Comments URL: https://news.ycombinator.com/item?id=48613755 Points: 182 # Comments: 92",
-    "published_at": "2026-06-21T06:54:11+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c3fb9723381a4597",
-    "title_hash": "1f9b0d2b91cfef68",
-    "title": "Slow breathing modulates brain function and risk behavior",
-    "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-    "summary": "Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9 Comments URL: https://news.ycombinator.com/item?id=48613555 Points: 134 # Comments: 28",
-    "published_at": "2026-06-21T06:22:52+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7c466a2255fe9956",
-    "title_hash": "0d986bec3ecc6d9c",
-    "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
-    "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-    "summary": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/lin... Comments URL: https://news.ycombinator.com/item?id=48612943 Points: 158 # Comments: 123",
-    "published_at": "2026-06-21T04:59:40+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "9cf3ed15e033df62",
-    "title_hash": "57e288a2523ef826",
-    "title": "Alice is impatient",
-    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-    "summary": "Article URL: https://brooker.co.za/blog/2026/06/19/waiting.html Comments URL: https://news.ycombinator.com/item?id=48612740 Points: 76 # Comments: 23",
-    "published_at": "2026-06-21T04:32:54+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ebbc89b48f15b211",
-    "title_hash": "8298c0df5005b667",
-    "title": "Unauthorized alert sent to cell phones across Brazil",
-    "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-    "summary": "Article URL: https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam Comments URL: https://news.ycombinator.com/item?id=48612502 Points: 115 # Comments: 82",
-    "published_at": "2026-06-21T04:05:03+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "425f35718a053ba2",
-    "title_hash": "29ea7c4d10c99dfc",
-    "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-    "url": "https://clickhouse.com/blog/postgresbench",
-    "summary": "Article URL: https://clickhouse.com/blog/postgresbench Comments URL: https://news.ycombinator.com/item?id=48611942 Points: 95 # Comments: 22",
-    "published_at": "2026-06-21T03:01:10+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a0581dff7e04c75f",
-    "title_hash": "de76c193a0197189",
-    "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
-    "url": "https://github.com/overflowy/make-look-scanned",
-    "summary": "I made this because the online \"make my PDF look scanned\" tools want you to upload your file to their servers, which feels sketchy at best. Also, I wasn't happy with the output they produce, I wanted something that looks realistic. Comments URL: https://news.ycombinator.com/item?id=48611513 Points: 109 # Comments: 49",
-    "published_at": "2026-06-21T02:17:58+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "d92d61ae4b4c3ebf",
-    "title_hash": "d62a073d221a96bf",
-    "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-    "url": "https://www.lispm.net/apps/uhf-x11/",
-    "summary": "Article URL: https://www.lispm.net/apps/uhf-x11/ Comments URL: https://news.ycombinator.com/item?id=48610853 Points: 189 # Comments: 32",
-    "published_at": "2026-06-21T01:04:24+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "cbb04616396d7e8e",
-    "title_hash": "f1114da69ac9a9b6",
-    "title": "SMPTE Makes Its Standards Freely Accessible",
-    "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "summary": "Article URL: https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community Comments URL: https://news.ycombinator.com/item?id=48610827 Points: 243 # Comments: 72",
-    "published_at": "2026-06-21T01:01:36+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "93f2c8adb7c06f8b",
-    "title_hash": "869b42a6559f87ab",
-    "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
-    "url": "https://startupwiki.tech/",
-    "summary": "I've been building StartupWiki, a free startup database designed to make it easier to discover and research companies. The original motivation was frustration with how difficult it can be to find information on early-stage startups. Most databases need accounts, or subscriptions, ro just feel too cluttered. I wanted a website that felt like Wikipedia, no accounts, no subscriptions, no weird metrics, just go in, the info is on the page. The project is still very early, but currently includes: Startup profiles Search and filtering Company categorization Public API (in progress) I'm especially interested in feedback on: What information you look for when researching startups Features missing from existing startup databases API use cases I'd love to hear feedback. Comments URL: https://news.ycombinator.com/item?id=48610224 Points: 184 # Comments: 58",
-    "published_at": "2026-06-20T23:59:29+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b3b4c383fb89f0a0",
-    "title_hash": "f421b2291ec49fe3",
-    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-    "summary": "Article URL: https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html Comments URL: https://news.ycombinator.com/item?id=48609766 Points: 230 # Comments: 62",
-    "published_at": "2026-06-20T23:10:03+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "74bfe2486c1c28ed",
-    "title_hash": "b1a1eb1e4374b687",
-    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-    "url": "https://github.com/mysk-research/loupe",
-    "summary": "Article URL: https://github.com/mysk-research/loupe Comments URL: https://news.ycombinator.com/item?id=48608645 Points: 176 # Comments: 45",
-    "published_at": "2026-06-20T20:08:23+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "bb18e1c83ecd2a87",
-    "title_hash": "49c850807922347d",
-    "title": "Show HN: TownSquare, a tiny presence layer for websites",
-    "url": "https://townsquare.cauenapier.com/",
-    "summary": "https://cauenapier.com/blog/townsquare_release/ https://cauenapier.com/blog/townsquare/ Comments URL: https://news.ycombinator.com/item?id=48608570 Points: 132 # Comments: 64",
-    "published_at": "2026-06-20T19:55:03+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "20bfeecb69d72c26",
-    "title_hash": "6cde7876082310a0",
-    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-    "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-    "published_at": "2026-06-21T04:32:29+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "abec0710ffac301a",
-    "title_hash": "1d2839e60722c60c",
-    "title": "In the Weights is your new AI-centric vanity search",
-    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-    "summary": "So ... what's your In the Weights score?",
-    "published_at": "2026-06-21T03:41:11+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "2f622a8d7dc7ae66",
-    "title_hash": "5f9950e10f6339b5",
-    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "summary": "Jumper isn't the only big name leaving Google DeepMind.",
-    "published_at": "2026-06-21T00:39:57+08:00",
-    "created_at": "2026-06-21 06:21:06"
-  },
-  {
-    "source": "36氪",
     "url_hash": "34f3157e2216954d",
     "title_hash": "7c3fc2e554d844cc",
     "title": "广州市番禺协诚实业有限公司副总经理龙德洋：真正的城市服务，藏在分分秒秒的坚守里",
@@ -4898,5 +4418,495 @@
     "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
     "published_at": "2026-06-26T21:00:00+08:00",
     "created_at": "2026-06-27 05:07:01"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "f58d75b18893e0ba",
+    "title_hash": "598ee863953f3e21",
+    "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+    "url": "https://36kr.com/p/3867976058803459?f=rss",
+    "summary": "文｜贺哲馨 编辑｜乔芊 Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。 提交申请后的第三天，她依旧没有收到邀请消息。 “我还以为填完资料就能进去。”她说。 按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。 “有点像抽签，也有点像开盲盒。 ”Judy笑着说，“明明我是才是买家，结果搞得像在申请什么私人会员俱乐部。越进不去，越想进去看看。” Judy试图进入的，是近年来正在中国一线城市兴起的一类新渠道——会员制奢侈品特卖平台。On The List是其中最具代表性的玩家之一。这家公司2016年成立于香港，以限时快闪的形式销售奢侈品、设计师品牌和生活方式产品。与传统奥莱不同，它既不拥有品牌，也不经营长期折扣门店，而是直接与品牌合作，在限定时间内销售库存商品。其官网上的一句标语颇具代表性：“The smartest shopping isn't public（最聪明的购物不公开）”。 图片来源：On The List 最近几年，类似这样的平台正在上海、北京、香港、新加坡等城市不断出现。它们的线下店大多开在核心商圈附近，采用会员邀请制、预约制或者限时快闪模式，与人们熟悉的郊区奥莱形成鲜明区别。 这些平台更愿意把自己称作“特卖平台”而非“奥莱”，因为从商业逻辑上看，它们本质上确已属于另一种业态——传统奥莱更接近地产生意：依靠品牌入驻、租金和联营扣点获利。而城市特卖平台则更接近零售生意：面积更小、资产更轻，依赖买手能力、供应链管理和库存周转效率。 它们出现的背景，与奢侈品行业近年来越来越沉重的库存压力有关。开云（Kering）在2025年把库存削减了8%，并计划2026年继续压降；在4月的资本市场日上，公司提出的\"ReconKering\"计划明确要在2026年底前净削减约10亿欧元库存，并把库存水平控制在销售额的20%以内。Gucci的业绩依然低迷，本季度销售额下降了8%。 对于奢侈品牌而言，库存积压的成本远高于普通消费品行业。仓储、物流和资金占用只是表面问题，更重要的是，大量库存会拖累现金流，并对未来价格体系形成压力。 一位长期服务奢侈品牌的供应链人士告诉36氪，过去品牌更愿意把货品留在仓库里等待下一轮销售机会，但如今多数企业对于库存周转天数的考核越来越严格， “与其放着贬值，不如尽快变现。只要渠道足够隐蔽，不影响正价体系，品牌愿意给出比过去更大的折扣。” 奢侈品行业的高毛利率，也给这种模式提供了空间。业内普遍认为，奢侈品牌的定倍率通常在十倍以上，部分顶级品牌甚至可能达到数十倍。即便商品以原价的两到三折出售，品牌依然有机会覆盖成本并回收现金流。 因此，对品牌而言，参与特卖的核心目标往往不是赚取更多利润，而是提高库存周转效率。 一位开云集团内部人士告诉36氪，目前类似On The List的平台与品牌合作主要存在两种模式。一种是买断批发，由平台直接采购库存；另一种则是代理销售，由品牌掌握定价权，平台收取佣金，后者利润“更为可观”。相比批发模式，奢侈品牌通常更偏爱代理模式。这样既能控制价格体系，也能掌握库存流向。 “渠道管理越严格的品牌，快闪活动表现通常越好。”一位长期参与特卖项目的人士告诉我们，一些热门品牌的快闪活动虽然持续时间只有四五天，但单日销售额就可能达到数百万元甚至更高。这一数字在整个行业进入放缓的背景之下，绝非小打小闹。 当然，特卖也不是什么新鲜事。二十多年前，欧美时尚行业便存在被称作 Sample Sale（样品特卖）的销售形式。参与者通常是品牌员工、媒体编辑、买手和熟客群体。它更像一种行业内部福利，而非面向公众的零售活动。在那个时代，信息差本身就是门槛，知道活动在哪里举办、何时开始、如何获得资格，往往比购买能力更重要。 随着奢侈品行业规模扩大、产量增长以及库存持续累积，这种原本封闭的小圈子活动逐渐演变成标准化的库存处理机制。疫情之后，这一趋势进一步加速。麦肯锡预测，奢侈品牌的折扣市场在2025至2030年间的增长速度预计将是正价市场的五倍。 但更值得关注的是，进入这些平台的品牌构成正在发生变化。 如果说十年前的特卖渠道主要承接的是上一季甚至数年前的库存，那么今天出现在快闪名单里的品牌，已经越来越接近消费者正在讨论的那批热门名字。从Miu Miu、The Row到Lemaire、Jil Sander，不少品牌的的产品仍处于市场热度高位。 这意味着特卖渠道不再只是处理“卖不掉的商品”，而正在成为品牌库存管理体系中的常规环节。 即便是仍然具备市场需求的产品，只要错过销售周期，也会被纳入更高效的周转体系。 小红书网友@小象分享On The List香港太古里的线下门店购买的miu miu，从原价三万打完折8000的皮衣，到现价1000不到的格纹短裤，这些货品并非外界想象的那样过时，或者设计难看得惊人，相反，从实穿角度来看性价比颇高。 但对于平台而言，快闪终究是一门高度依赖项目制的生意。每一次活动都意味着重新寻找货源、重新获客、重新搭建销售场景。当市场规模扩大后，仅依靠几天一次的特卖显然无法支撑持续增长。对于平台而言，最大的挑战并不是卖货，而是如何获得稳定、持续的库存来源。 于是越来越多特卖平台开始从单纯的活动运营商转向零售商：开设常驻门店、引入更多品类、增加自营采购比例，以提高周转效率和经营确定性。 Openmaxx开时仓的创始人Dylan Wang曾就职于字节，在纽约读研期间为当地特卖零售商Prive代理过跨境电商业务。2022年回国之后，Dylan复制了Prive的模式，在上海成立了Openrack Flash Sales，一开始只做奢侈和轻奢品牌的快闪特卖，两年时间内扩张到了六座城市。 2025年，Openrack Flash Sales改名为Openmaxx，开始将业务扩展至家居、宠物、美妆、运动休闲、香氛等品类，模式也从限时快闪转向常驻门店与快闪结合，同时主动缩减门店规模。如今，小红书上还能找到的常驻门店，仅剩重庆和上海。 这种变化反映的并不仅仅是一家企业的发展路径，更折射出会员制特卖行业始终存在的一种张力：奢侈品牌需要这样的平台，但平台却很难仅靠奢侈品生存。 从这一角度，奢侈品牌与特卖平台之间就像是城市与地下错综复杂的排水系统的关系。正价门店负责展示品牌价值，奥莱负责承接规模化折扣， 而这些会员制特卖平台则负责消化那些既不能留在橱窗里、又不适合公开降价的库存。 它们并不创造需求，却维持着整个系统的运转效率。 对于消费者而言，这是一场寻找低价好货的游戏；对于品牌而言，这是库存管理与渠道控制的一环；而对于平台而言，则是一场关于品类扩张、会员留存和商业模型能否成立的长期考验。",
+    "published_at": "2026-06-28T08:37:08+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "ff719688cfbf6c14",
+    "title_hash": "0858c2995c339233",
+    "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+    "url": "https://36kr.com/p/3871109381035011?f=rss",
+    "summary": "本文约2500字，建议阅读5分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。 6月26日，储能公司大秦数字能源向港交所递交了上市申请。 2025年，大秦数字能源收入 25.25亿元，同比增长244.3% ；毛利率从2024年的-19.9%反弹到23.2%；净利润由2024年的亏3.78亿元转为盈利 1.25亿 。一家刚从“亏损”爬出来的公司，转头就来敲港交所的门了。 大秦数字能源的毛利率，怎么会在2024年做到-19.9%？硬氪从368页招股书里进行了一一拆解。 锂价豪赌失败，最高位疯狂囤货导致爆亏 故事的起点要回到2022年。当时碳酸锂价格在历史高位——按公开数据，2023年初电池级碳酸锂还在每吨50万元上。大秦在这个价位上大量采购电芯，并用这批高价电芯，于2022到2025年间生产了 28.4万台户用ESS电池 ，招股书称之为“旧有存货”。 赌注下完，市场却变了。一方面，欧洲分销商当初基于过度乐观预测给出的订单，实际兑现时远低于预期，导致整个欧洲户用储能供过于求；另一方面，2023年碳酸锂价格一路从50万元每吨暴跌至年末的10万元每吨，全年跌幅超过80%。2024年碳酸锂全年均价9.1万元每吨，较2023年再跌约65%。招股书也披露道：LFP电芯市场价2023、2024连续两年同比降幅约40%至50%。 结果就是，大秦那批用山顶价造出来的电池，只能在欧洲市场进行低价大甩卖。 2023年， 低价甩卖11.37万台旧存货，对未售出的15.3万台计提存货撇减4700万元； 2024年， 再甩卖10.82万台，仅这部分就录得毛损 1.3亿元。 剩余6万台再撇减8140万元。叠加给分销商的价格优惠，最后造成全年毛利率-19.9%，其中高压电池毛利率甚至高达-80.6%； 2025年 ，大秦清掉最后6万台旧存货，毛损3160万元；至2025年末， 所有旧有存货已清零 ，自此这批存货不再计提减值。 （图源/硬氪整理） 到这里就能看出，大秦2023-2024年的“亏损黑洞”，本质上不是经营能力问题，而是一次 对锂价周期的误判。 原材料最高位时，疯狂囤货且极度乐观。大秦自己也承认“我们自身在预测、存货规划及定价方面应对不足”。 那2025年的暴涨扭亏，又是咋回事呢？主要源于旧货清完、锂价企稳、欧洲需求回暖，三件事同时发生。毛利率最后才能反弹回23.2%。换句话说， 2025年的亮眼，一半是经营恢复，一半是甩掉了拖后腿的历史包袱。 整体业绩之外，硬氪从大秦的收入结构里，还看到了两次剧烈漂移。 第一次是产品线。 户用ESS始终是基本盘，但工商业ESS有快速崛起。户用ESS在2023年占收入99.3%，2025年降至75.7%。绝对额从7.18亿涨到19.11亿；工商业ESS在2023年占比仅仅0.2%，2025年暴涨至 23.9%，即6.03亿元 ，毛利率33.2%， 比户用ESS的20.1%还高 。 第二次是国内外占比。 2023年，大秦还是一家中国内地占六成的公司。到2025年， 95.1%的收入来自境外，光欧洲一个市场就占了61% 。大秦自我定位是“首批专注海外ESS市场的中国企业之一”，按2025年出货量算，是全球第五大户用ESS提供商。这也意味着：大秦 的命脉，牢牢和欧洲家庭的储能需求、欧洲电价、电网政策挂钩 。 除了地区依赖，大秦的 渠道依赖也很强 。其几乎完全靠分销商卖货，2023、2024、2025年分销商销售占比分别为86.4%、92.5%、 98.2% 。截至2025年末，大秦分销商总数503家，但流失高。2024、2025年分别解约了141家、278家。在前五大客户中收入占比中，已经从2023年的71.3%（最大单一客户曾占46.4%）回落到2025年的24.1%。 （图源/硬氪整理） 这个商业模式导致经营活动净现金流波动剧烈，2023年净流出2.13亿元、2024年加大流出3.77亿元、2025年净流入8130.5万元。 融资活动所得现金净额中，最近三年分别为10.7亿元、1.65亿元、3167.5万元。 四轮融资11亿元，有股东IPO前原价离场 招股书称，2023年主要融资活动为附有优先股的投资者出资10.05亿、借款5.5亿元。 从融资表看，大秦有过四次融资，具体来看： 2022年仅半年时间，其A轮到A+轮估值就翻了近4倍；2023年B轮和C轮，估值再抬升到 47.05亿 。四轮外部股权融资合计约 11.3亿元 。 2022年12月，大秦计划 在A股上市 ，申报的是深交所创业板，还聘了海通做辅导。2023年7月开始上市辅导后，就再无消息，直到此次港股IPO。 值得一提的是，C轮出现了中金系（中金上汽、中金智科）、路威凯腾（L Catterton），都是明星机构。但C轮发生在2023年6月，每股42元、对应47亿估值。而这年恰恰是大秦即将录得 3.78亿年度亏损 的2024年前夜。 2025-2026年，也有一些C轮机构原价离场，只拿回了本金和利息。2025年7月， 陕西财金 把全部71.43万股转给江苏海四达，作价3493.8万元；2026年3月， 路威凯腾 把所持股份分三笔近7000万转给苏创智荟、苏创中荷、湖北优山，定价同样是注资+应计利息；递表前的2026年6月， 天津华秦 把全部71.43万股转给浏阳高创基金，作价3720.7万元，依据仍是注资+利息。 IPO前，创始人柳扬直接持有41.1%，连同其控制的苏州溱湖畔、河漢江澤、楠樟梓椆三个平台，合计控制约59.04%。柳扬42岁，吉林大学机械工程及自动化学士。曾在 比亚迪干了18年， 2007-2019，最后职位是 光伏事业部销售总监 。董事会秘书 柳金山， 是柳扬堂兄弟。 除了他来自比亚迪之外，高管几乎也全是比亚迪系。负责海外销售的总监 童建成 ，曾在比亚迪汽车2006-2023年做了近20年销售；品牌及营销总监 朱晓辉 ，曾任比亚迪汽车高级技术支持工程师；副总经理、工商业ESS总监 李程 ，比亚迪汽车解决方案部副经理出身；财务总监 赵然志 ，2006年起在比亚迪集团任职，直到2021年。 除了比亚迪系，大秦团队里还有 派能科技系 ，全球服务中心柳华勤曾在中兴派能做PACK工程师。和 固德威系 ，户用ESS超级产品团队总经理刘滔，2026年4月刚从固德威ESS产品总监任上加盟。 368页招股书揭示出的大秦故事是：按2025年出货量，全球第五大户用ESS提供商，仅次于特斯拉、华为、德业。另一家产品已铺到100多个国家，累计出货超100万台电池。但大秦 98%的收入也压在分销商身上 、95%押在海外，仅欧洲就61%。 一支比亚迪系老兵班底，用一次代价惨重的库存豪赌，换来了对周期的敬畏。又靠2025年的爆发，把自己重新推到了港交所门口。上市之后表现如何，我们持续关注。",
+    "published_at": "2026-06-27T15:37:59+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "b4e96bd092693f95",
+    "title_hash": "2c03d8db39f5b1be",
+    "title": "再添重磅里程碑，三条世界级高性能碳纤维生产线集中投产",
+    "url": "https://36kr.com/newsflashes/3872398418039816?f=rss",
+    "summary": "今天（28日）记者从中国建材集团获悉，中国建材三条世界级高性能碳纤维生产线在中复神鹰连云港基地集中投产，覆盖通用、高强、高模三大主流碳纤维品类。这标志着我国碳纤维产业高质量发展再添重磅里程碑。 本次集中投产的三条全球规模最大碳纤维标杆产线各有核心优势：年产5000吨大丝束碳纤维产线，依托首创干喷湿纺技术，升级风电专用产品，有效降低生产成本，大幅提升行业规模化制造水平；全球首条4米宽幅千吨级T1100级产线，实现产能跨越式提升，全面适配航空航天、低空飞行器等高端极端场景；年产600吨高模量碳纤维产线，赋能高端装备、3C电子等领域。 此次三条全球顶级产线集中投产，补齐国内高端碳纤维规模化产能短板，推动行业摆脱同质化规模竞争，向高端化、技术化转型。（证券时报）",
+    "published_at": "2026-06-28T13:27:22+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "f2f0fd1cf466cdea",
+    "title_hash": "e3a6855b75d86c34",
+    "title": "特斯拉Model S签名典藏版限量投放欧洲市场",
+    "url": "https://36kr.com/newsflashes/3872325064938497?f=rss",
+    "summary": "据报道，特斯拉Model S Signature Edition（签名典藏版）于近日正式登陆欧洲市场，该车型仅限量20台投放欧洲地区，采用定向受邀客户专属购买模式，不面向公众开放选购。据了解，特斯拉数月前已关停Model S、Model X全球线上订单通道。美国市场共推出250台Model S、100台Model X签名典藏版，目前本土库存已全部售罄。（界面）",
+    "published_at": "2026-06-28T12:58:38+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "88ce1e5603a8ebab",
+    "title_hash": "5ea9064a41f5cfce",
+    "title": "谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧",
+    "url": "https://36kr.com/newsflashes/3872321240700160?f=rss",
+    "summary": "谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧。（新浪财经）",
+    "published_at": "2026-06-28T12:44:44+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "3d68b66c585b47d3",
+    "title_hash": "615a9996a69dc25b",
+    "title": "腾讯小范围内测TenPay Go，面向境外人士来华支付",
+    "url": "https://36kr.com/newsflashes/3872322772980738?f=rss",
+    "summary": "腾讯正在内测一款面向境外人士的“来华生活便利助手”，旨在提供包括移动支付服务的一站式数字生活服务。该App将支持在全国数千万家微信支付合作商户中直接消费，目前仍在小范围测试中，暂未全量开放体验。记者留意到，该款APP已在App Store上架，名为TenPayGo。（界面）",
+    "published_at": "2026-06-28T12:30:18+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "577c2b4777879290",
+    "title_hash": "9f149c38cbcb7734",
+    "title": "蔚来ES8大五座版将于7月9日上市",
+    "url": "https://36kr.com/newsflashes/3872283604276228?f=rss",
+    "summary": "6月27日，蔚来宣布ES8大五座版开启预订，将于7月9日正式上市。",
+    "published_at": "2026-06-28T12:14:27+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "b25a1a33936e5dbb",
+    "title_hash": "526bde9fd2727331",
+    "title": "富信科技：公司近期未新增通信领域重大客户 亦未获取新增大额订单",
+    "url": "https://36kr.com/newsflashes/3872268617897217?f=rss",
+    "summary": "富信科技6月28日发布声明，《破局与重塑：Micro-TEC国产化浪潮》是公司销售周志奇在CFCF2026光连接大会（6.27苏州）的演讲主题，其在该演讲中仅对公司产品和技术进行了介绍；网传《&lt;破局与重塑：Micro-TEC国产化浪潮&gt;周志奇演讲完整原文》为杜撰文章，此文与公司无关并完全不代表公司立场。公司生产的Micro TEC产品所使用的碲化铋材料无需使用纯度达6N级及以上的碲、铋等单质原料；公司近期未新增通信领域重大客户，亦未获取新增大额订单。据了解，行业内生产Micro TEC产品所使用的碲化铋材料亦无需使用纯度达6N级及以上的碲、铋等单质原料。公司已就此文涉及的虚假信息内容和传播线索固定证据，将依法追究相关人员的法律责任。（财联社）",
+    "published_at": "2026-06-28T12:02:13+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "7912c38332f1b494",
+    "title_hash": "28c9ba78fb42d951",
+    "title": "《给阿嬷的情书》总票房已突破19亿元",
+    "url": "https://36kr.com/newsflashes/3872220264879105?f=rss",
+    "summary": "据网络平台数据，截至6月27日16时17分，上映59天的电影《给阿嬷的情书》总票房已突破19亿元。此前，该片官宣密钥延期，延长放映至7月31日。（上海证券报）",
+    "published_at": "2026-06-28T11:45:00+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "4619fdd7839d488c",
+    "title_hash": "0e79ff18134b6e1e",
+    "title": "博世集团：董事会人事调整不会对博世中国各项业务运营产生任何影响",
+    "url": "https://36kr.com/newsflashes/3872219380094217?f=rss",
+    "summary": "6月27日晚，博世集团官微发文表示，此次集团董事会人事调整不会对博世中国各项业务运营产生任何影响。中国始终是博世全球最重要的战略市场之一，也是集团重要的创新基地。未来，博世将一如既往携手广大客户和合作伙伴，持续深耕中国市场。公告显示，经与股东充分沟通并达成一致，史蒂凡·哈通（Dr. Stefan Hartung）主动申请于2026年6月30日卸任博世集团董事会主席职务。他也将同时退出博世集团董事会及罗伯特·博世工业信托公司管理层。2026年7月1日起，董事会副主席克里斯蒂安·菲舍尔（Dr. Christian Fischer）将接任该职务。同时，董事会成员马库斯·福施纳（Dr. Markus Forschner）与马库斯·海恩（Dr. Markus Heyn）将出任博世集团董事会副主席。（新浪财经）",
+    "published_at": "2026-06-28T11:30:09+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "650977e3697ac446",
+    "title_hash": "4586e1da417e2d32",
+    "title": "五菱印尼与Grab战略签约，Grab租赁平台将批量导入缤果车型",
+    "url": "https://36kr.com/newsflashes/3872217703077120?f=rss",
+    "summary": "6月27日，上汽通用五菱宣布，五菱印尼与东南亚出行平台Grab日前在雅加达完成战略合作签约及车辆交付，Grab租赁平台批量导入缤果车型，全面投入印尼网约车营运。在本次Grab合作落地前，五菱印尼已于6月17日与本土头部租赁公司MPM完成战略合作签约及批量交车。（界面）",
+    "published_at": "2026-06-28T11:13:25+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "7e814b1e015540e2",
+    "title_hash": "c7da7802524b12b7",
+    "title": "暑期机票预订量环比增长65%，航司优化航线提前布局",
+    "url": "https://36kr.com/newsflashes/3872215366292738?f=rss",
+    "summary": "全国暑运即将开始，民航方面，从目前的旅客预订情况来看，长线深度游和清凉避暑游成为今年暑期出行的两大主线，西北、东北等目的地热度持续攀升，机票预订量迎来大幅增长。去哪儿大数据研究院研究员石珂表示，截至目前，近一周预订7月至8月暑期出行的机票明显增长，环比上周增长65%。山西大同、贵州铜仁、西藏拉萨、内蒙古乌海、新疆和田的暑期机票预订增幅都达到50%以上。面对今年暑期长线游与避暑游交织的旺盛市场需求，各大航空公司正积极优化航线网络，通过加密热门目的地航班、投入宽体机型等方式精准增加运力供给，全力保障旅客暑期出行需求。（央视财经）",
+    "published_at": "2026-06-28T11:00:04+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "8f7dba64657a710c",
+    "title_hash": "819f86efc3f74d11",
+    "title": "乘联分会崔东树：5月中国汽车进口3.8万辆，同比降19%",
+    "url": "https://36kr.com/newsflashes/3872171923723272?f=rss",
+    "summary": "6月28日，乘联分会秘书长崔东树发文表示，2026年5月进口车进口3.8万辆，下滑19%，但由于2025年1月基数低，虽然美国与伊朗战争导致运输受阻，进口车总体下降较小，2026年1-5月进口汽车16万辆，同比下降11%。随着国产车的崛起和国际品牌本土化加速，近几年汽车进口持续低迷，进口车持续3年负增长，如果熨平波动，则是连续8年的负增长。（新浪财经）",
+    "published_at": "2026-06-28T10:44:51+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "d47824c458cb74af",
+    "title_hash": "6b2e8e067728e71f",
+    "title": "郭明錤：iOS 27将进一步深化与Apple Intelligence的系统级整合",
+    "url": "https://36kr.com/newsflashes/3872170864334086?f=rss",
+    "summary": "跟踪苹果产业链多年的分析师郭明錤发布报告指出，iOS 27将进一步深化与Apple Intelligence的系统级整合。其最新产业调查显示，为确保在AI负载下系统仍能顺畅运作，1H27新款配备A20处理器的较低阶iPhone之DRAM规格将升级至9GB（1.5GB×6-die），高于目前A19机型的8GB（2GB×4-die）。2H26配备A20Pro处理器的三款高阶机型（折叠机与两款18Pro机型）则维持12GB（1.5GBx8-die）。（财联社）",
+    "published_at": "2026-06-28T10:28:46+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "0ed81e084cd20c55",
+    "title_hash": "19412c5b099df1f3",
+    "title": "暑期档电影票房破15亿 80部影片集结暑期档",
+    "url": "https://36kr.com/newsflashes/3872144382432257?f=rss",
+    "summary": "据网络平台数据，截至目前，2026年暑期档电影总票房（含预售）突破15亿元。近日，2026暑期档电影片单发布，近80部中外影片在暑期档上映，包含革命历史、科幻、喜剧、动画等多元类型。（央视财经）",
+    "published_at": "2026-06-28T10:13:51+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "30bfb99abc8aaa11",
+    "title_hash": "f2545e9a2368f83d",
+    "title": "央视曝手机测评作弊乱象",
+    "url": "https://36kr.com/newsflashes/3872143344817158?f=rss",
+    "summary": "记者调查发现，数码产品测评这个领域的高度技术化，长期以来处于“无人能实锤作弊乱象”的灰色地带。网络安全专家介绍，整套作弊体系分为三层，层层美化测评数据：第一层厂商专供测评博主的特供媒体机，硬件经过筛选优化；第二层固件内置识别程序，检测到博主身份并自动开启高性能模式；第三层云端远程控制，可实时下发测评作弊配置。当这套系统识别到某博主启动测评时，就会进入“作弊模式”，自动拉高CPU性能、调高屏幕亮度、优化后台加载逻辑，切换软件时仅加载界面而非完整应用，营造全程流畅的假象。边亮介绍，为了规避被发现的风险，这套测评作弊机制也经历了多轮迭代，隐蔽性越来越强。记者调查发现，由于特供样机、固件作弊���云端调控三重手段叠加，普通消费者很难分辨测评真假，这也导致数码测评公信力持续受损，而且技术造假取证难度极大，给监管带来很大难度。（界面）",
+    "published_at": "2026-06-28T10:00:00+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "0a9c1908577fed58",
+    "title_hash": "71ef65490a08897b",
+    "title": "近一周120多只个股获机构调研，广生堂调研机构数最多",
+    "url": "https://36kr.com/newsflashes/3872142280840197?f=rss",
+    "summary": "近一周（6月20日至26日）机构调研个股有120多只，广生堂调研机构数最多。广生堂有53家机构调研，包括6家基金公司、6家证券公司、8家私募等。胜宏科技、盛弘股份、联合化学、恒坤新材等个股均有20家以上机构评级，其中恒坤新材、广信材料、鼎龙股份等个股均有时下热门的光刻胶概念。从市场表现来看，近一周机构调研股平均跌超2%，东方钽业、京东方A、信德新材、汇成真空等个股均涨超10%。（人民财讯）",
+    "published_at": "2026-06-28T09:45:39+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "9dd51af3c0b42287",
+    "title_hash": "9611bb9873da8299",
+    "title": "华泰证券：5月工业企业利润总体向好，行业分化加剧",
+    "url": "https://36kr.com/newsflashes/3872141380080643?f=rss",
+    "summary": "华泰证券研报称，5月工业企业盈利增速较4月的24.7%略回落至21.1%，但仍高于一季度的15.5%且营收增速延续回升，显示企业盈利总体向好，其中能源及AI链相关行业为利润增长的主要支撑，而随着霍尔木兹海峡封锁超过三个月，供给冲击的影响深化，部分中下游企业产能利用率进一步走弱，行业盈利表现分化加剧。5月油价边际回落但整体上游石化链盈利增速仍在高位，而受益于全球AI投资需求强劲，电子计算机行业持续引领盈利及收入增长，对总体工业企业盈利的贡献从6.7个百分点提升至9.6个百分点，有色冶炼及化学制品分别贡献6.4、4.2个百分点，三者合计贡献约20.2个百分点，而内需相关下游制造业，利润增速仍偏弱，尤其是汽车、家具制造降幅进一步走阔。（界面）",
+    "published_at": "2026-06-28T09:27:33+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "3b682f406b7fceaa",
+    "title_hash": "68543c71a73810a2",
+    "title": "国内首个第四代半导体材料全产业链项目落户郑州",
+    "url": "https://36kr.com/newsflashes/3872140630692872?f=rss",
+    "summary": "近日，郑州高新区与中科粉研（河南）超硬材料有限公司签署协议，中科粉研第四代半导体材料生产基地正式落户该区。该基地是国内首个第四代半导体材料全产业链项目，将为河南在全球独具优势的超硬材料产业链补上关键的一环。本次签约落地的生产基地，将依托中科粉研全球首条LPPHT微纳米金刚石产线的技术积累，为实现第四代半导体核心材料的自主研发、生产和规模量产打下坚实基础。 (河南日报)",
+    "published_at": "2026-06-28T09:15:02+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "bba9727279a31dcd",
+    "title_hash": "f4491fb8417ebf2d",
+    "title": "今年前五个月我国物流需求平稳增长，社会物流总额超146万亿元",
+    "url": "https://36kr.com/newsflashes/3872139558507784?f=rss",
+    "summary": "中国物流与采购联合会今天公布今年1到5月物流运行数据。物流需求总体保持平稳增长，新旧动能加快转换，结构升级态势持续显现。1—5月份，全国社会物流总额146.6万亿元，同比增长5.2%。其中，工业品物流总额同比增长5.4%。行业分化特征持续显现，采矿、非金属矿物制品业等传统资源类物流需求持续低位运行，而随着新质生产力加快培育，高端制造领域物流需求保持较快增长。5月份，高技术制造业相关物流需求同比增长15.1%，装备制造业相关物流需求同比增长9.5%，较上月均有所加快。（财联社）",
+    "published_at": "2026-06-28T09:04:02+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "5492e3881f878700",
+    "title_hash": "ff08a031b671844f",
+    "title": "华为途灵平台完成3轮升级，覆盖鸿蒙智行五界",
+    "url": "https://36kr.com/newsflashes/3871321432527875?f=rss",
+    "summary": "36氪获悉，6月26日，鸿蒙智行举办了一场华为途灵平台专场TECH DAY技术沟通会。华为途灵平台依托华为在AI和通信领域的技术优势，将调校经验通过算法与软件沉淀，提升机械性能上限，并基于车型定位不断开放新的特性，快速迭代。在操控层面，华为途灵平台的全维感知系统融合了ADS感知信息、车辆状态信息、驾驶意图信息、云端数据信息、车身域信息和座舱域信息等多维度数据。底盘可以提前预判、主动调整。从2023年11月至今，华为途灵平台已完成3轮升级，覆盖鸿蒙智行五界车型。",
+    "published_at": "2026-06-27T19:11:48+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "cebb766491097987",
+    "title_hash": "07ef0cee542c4664",
+    "title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
+    "url": "https://36kr.com/newsflashes/3871215128237313?f=rss",
+    "summary": "据《科创板日报》27日消息，由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。“我们AI相关的电源功率订单‘爆满’，现在订单根本做不过来”。一家功率半导体厂商人士向《科创板日报》记者表示，“因为公司算是少数具备量产能力的国产厂商，无论是面向数据中心800V HVDC等一次电源、服务器二次电源等产品，都已进入多家头部客户供应链并实现规模量产，所以订单需求十分旺盛。”多位业内人士判断，本轮成本驱动的涨价周期仍将持续一段时间，并且行业将加速功率器件低端产能的出清，市场份额将向具备IDM全链条能力或与上游深度绑定，且涉足高景气赛道的头部芯片企业集中。（财联社）",
+    "published_at": "2026-06-27T17:23:40+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "e310cc87278295b1",
+    "title_hash": "aeddb7210c75c0a6",
+    "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+    "url": "https://www.qbitai.com/2026/06/439393.html",
+    "summary": "人类一次录制，Agent就能模拟",
+    "published_at": "2026-06-27T20:29:33+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "fdf1d6f681fc9d09",
+    "title_hash": "78b49ea9d29aeea2",
+    "title": "第一批一人公司，现在怎么样了？",
+    "url": "https://www.qbitai.com/2026/06/439237.html",
+    "summary": "我们跟一群OPC创业者聊了聊",
+    "published_at": "2026-06-27T20:23:29+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "025d491835e17ae1",
+    "title_hash": "c8b99e20d4cd9e73",
+    "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+    "url": "https://www.qbitai.com/2026/06/439236.html",
+    "summary": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！",
+    "published_at": "2026-06-27T20:19:42+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "a1c67c1574ad34f6",
+    "title_hash": "d1db57cf0cfaeaf3",
+    "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+    "url": "https://www.qbitai.com/2026/06/439032.html",
+    "summary": "28页干货爆炸",
+    "published_at": "2026-06-27T12:48:02+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "eb166180687b6629",
+    "title_hash": "6f951660859301c0",
+    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+    "url": "https://github.com/itsthelore/wayfinder-router",
+    "summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 15 # Comments: 1",
+    "published_at": "2026-06-28T12:31:18+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "31ab6fd58d8b9183",
+    "title_hash": "742ad6c85d21d870",
+    "title": "Ford hired AI and sacked humans. It backfired badly",
+    "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+    "summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 81 # Comments: 49",
+    "published_at": "2026-06-28T11:09:13+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7ab1719b20ee51e4",
+    "title_hash": "2b643d46cec04c80",
+    "title": "Marfa Public Radio Puts You to Sleep",
+    "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+    "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep Comments URL: https://news.ycombinator.com/item?id=48703759 Points: 109 # Comments: 30",
+    "published_at": "2026-06-28T10:23:08+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a37053378bee18f5",
+    "title_hash": "e96da208bb780f16",
+    "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+    "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+    "summary": "Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you Comments URL: https://news.ycombinator.com/item?id=48703613 Points: 83 # Comments: 55",
+    "published_at": "2026-06-28T09:55:21+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "24307e94bc55fbe0",
+    "title_hash": "59e37787edc3da69",
+    "title": "Response to AI slop is from Robin Williams",
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 138 # Comments: 83",
+    "published_at": "2026-06-28T09:28:10+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "4383664cba90f454",
+    "title_hash": "da642234fc274b5b",
+    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+    "url": "https://decomp-academy.dev",
+    "summary": "Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either. Learning how to decompile was challenging. It's difficult to find any good learning resources for it and any open-source projects for this are inactive and/or contain little actual learning material. So I put together Decomp Academy! Decomp Academy is an interactive way to learn how to decompile PowerPC assembly back into C. The site runs a live Metrowerks CodeWarrior GC/2.0 compiler, converts your C into assembly, and then checks how close your assembly matches the target. If even 1 instruction or bit is off, that's a fail. This is the gold standard for video game decompilation and this is much stricter than a normal decompile. As of writing there are 250+ lessons on the site and the lessons start at the very basics so anyone with a little programming experience should be able to jump straight in, even if you're not a C expert. Some lessons also have real functions taken from live open source decomp projects (Star Fox Adventures, Mario Party 4, Pikmin, Metroid Prime). The idea being you learn everything you need to know to be able to jump in and contribute to a real decompilation project when done. The site is completely free, open source and you have access to all lessons without having to sign up. All lessons are stored in markdown in the repo (src/curriculum), it's trivial to add or modify lessons. The site is very new and the lessons are rapidly changing every day with a whole C++ section on the way. The site has already been well received by the decomp community and I'm happy to share it with HN. I'm very keen on others to contribute to this project and I hope this becomes the best resource on the internet for learning the art of decompilation. Please let me know what you think! Source: https://github.com/JackPriceBurns/decomp-academy-fe Comments URL: https://news.ycombinator.com/item?id=48703412 Points: 76 # Comments: 28",
+    "published_at": "2026-06-28T09:21:20+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1634c3a63bd66eb1",
+    "title_hash": "606e21f3bb45e75e",
+    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+    "summary": "Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md Comments URL: https://news.ycombinator.com/item?id=48703258 Points: 85 # Comments: 13",
+    "published_at": "2026-06-28T08:46:52+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7560937a914ff663",
+    "title_hash": "6f86e0c630469ccd",
+    "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+    "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+    "summary": "Article URL: https://clickhouse.com/blog/walrus-postgres-backups-in-rust Comments URL: https://news.ycombinator.com/item?id=48702848 Points: 35 # Comments: 2",
+    "published_at": "2026-06-28T07:32:58+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0ee2a23005de3e5b",
+    "title_hash": "753c4c9dab769684",
+    "title": "Choosing a Public DNS Resolver",
+    "url": "https://evilbit.de/dns-resolver-guide.html",
+    "summary": "Article URL: https://evilbit.de/dns-resolver-guide.html Comments URL: https://news.ycombinator.com/item?id=48702273 Points: 108 # Comments: 31",
+    "published_at": "2026-06-28T06:11:28+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "178be00908532a38",
+    "title_hash": "899d8990347c7c35",
+    "title": "What Ozempic does to the gut-brain axis",
+    "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+    "summary": "Article URL: https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis Comments URL: https://news.ycombinator.com/item?id=48701984 Points: 128 # Comments: 287",
+    "published_at": "2026-06-28T05:34:06+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "4592010f7deaa99d",
+    "title_hash": "ebe51843033a1078",
+    "title": "Enhancing X11 Application Security with LXC",
+    "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "summary": "Article URL: https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/ Comments URL: https://news.ycombinator.com/item?id=48701936 Points: 57 # Comments: 21",
+    "published_at": "2026-06-28T05:27:36+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0b4ad2e2f4cc413a",
+    "title_hash": "f98715c6c7b13722",
+    "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+    "url": "https://ipcrawl.com/",
+    "summary": "Article URL: https://ipcrawl.com/ Comments URL: https://news.ycombinator.com/item?id=48700834 Points: 273 # Comments: 135",
+    "published_at": "2026-06-28T03:09:49+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "78c0a3ef41de25c2",
+    "title_hash": "88caab3e96ce4881",
+    "title": "Turn your site into a place people can bump into each other",
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "summary": "Related: Show HN: TownSquare, a tiny presence layer for websites - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments) Comments URL: https://news.ycombinator.com/item?id=48699928 Points: 187 # Comments: 83",
+    "published_at": "2026-06-28T01:11:20+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5d0e8dd38b3ba866",
+    "title_hash": "b7bb391666322672",
+    "title": "Supabase (YC S20) Is Hiring for Multigres",
+    "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+    "summary": "Article URL: https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228 Comments URL: https://news.ycombinator.com/item?id=48699842 Points: 0 # Comments: 0",
+    "published_at": "2026-06-28T01:00:15+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b2cf1ddaebde42be",
+    "title_hash": "cf28f4dfd41edc53",
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "url": "https://github.com/bikini/exploitarium",
+    "summary": "Article URL: https://github.com/bikini/exploitarium Comments URL: https://news.ycombinator.com/item?id=48698617 Points: 739 # Comments: 290",
+    "published_at": "2026-06-27T22:31:00+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0e3565b3c5d8a63c",
+    "title_hash": "3e287a158b1cbcbb",
+    "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+    "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+    "summary": "Article URL: https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/ Comments URL: https://news.ycombinator.com/item?id=48698559 Points: 141 # Comments: 49",
+    "published_at": "2026-06-27T22:23:40+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "bd432b06db718a31",
+    "title_hash": "24ea5c7c4520925d",
+    "title": "Suspicious Discontinuities (2020)",
+    "url": "https://danluu.com/discontinuities/",
+    "summary": "Article URL: https://danluu.com/discontinuities/ Comments URL: https://news.ycombinator.com/item?id=48698151 Points: 225 # Comments: 71",
+    "published_at": "2026-06-27T21:32:20+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e6219a13550166c0",
+    "title_hash": "53dd857fe26fbfa7",
+    "title": "Asian AI startups launch Mythos-like models",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 196 # Comments: 152",
+    "published_at": "2026-06-27T21:10:21+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "307e7f1ccd5aa9c1",
+    "title_hash": "9a651882e8e9fb36",
+    "title": "OpenRA",
+    "url": "https://www.openra.net/",
+    "summary": "Article URL: https://www.openra.net/ Comments URL: https://news.ycombinator.com/item?id=48697560 Points: 633 # Comments: 124",
+    "published_at": "2026-06-27T20:10:27+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "bc5ead6d6073eabe",
+    "title_hash": "d6b320c342f40e2c",
+    "title": "Nox Metals (YC S25) Is Hiring SWE",
+    "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+    "summary": "Article URL: https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer Comments URL: https://news.ycombinator.com/item?id=48697504 Points: 0 # Comments: 0",
+    "published_at": "2026-06-27T20:01:03+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "8d1c02bf165e39db",
+    "title_hash": "ab100f8df3fb566d",
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+    "published_at": "2026-06-28T04:42:36+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "e99e21695232a11a",
+    "title_hash": "e6dbf055af8463da",
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+    "published_at": "2026-06-28T00:45:09+08:00",
+    "created_at": "2026-06-28 05:48:11"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "8d6c368cee31ac55",
+    "title_hash": "09b811a5ad475d43",
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+    "published_at": "2026-06-27T22:00:00+08:00",
+    "created_at": "2026-06-28 05:48:11"
   }
 ]
