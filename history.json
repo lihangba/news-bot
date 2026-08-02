@@ -1,506 +1,6 @@
 [
   {
     "source": "36氪",
-    "url_hash": "144e4f4ffc8639a5",
-    "title_hash": "c9420a96b7796b4d",
-    "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
-    "url": "https://36kr.com/p/3911162147640456?f=rss",
-    "summary": "作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。 这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-A+轮的近5亿融资也在交割当中。该公司透露，今年上半年以来，「眸深智能」的估值增长超10倍，是业内发展速度最快的具身大脑企业之一。 「眸深智能」成立于2025年1月，定位为全球最懂动作的自进化具身大脑公司，致力于\"给10亿台机器人装原生通用大脑\"。 该公司由复旦大学深度学习实验室主任陈涛教授、原英特尔中国首席科学家张益民博士，与连续创业者穆泽林共同创办。核心团队拥有海思、英特尔、英伟达三大芯片巨头的背景人士，是国内少数具备算子级适配能力的具身大模型团队。 尽管2025年才注册成立，「眸深智能」的技术积累从2022年已经开始。在技术路线上，「眸深智能」选择了一条与主流VLA（视觉-语言-动作）不同的路径——以动作为核心的\"世界动作模型\"（World Motion Model）。 （图源/企业） 从2022年起，「眸深智能」团队已经发布了 MLD（隐空间动作扩散模型） 。在当时，行业主流是将动作视为离散的信号，导致生成的动作僵硬且缺乏多样性，而「眸深智能」团队在全球dede范围内首次提出将动作映射到隐空间（Latent Space），并引入扩散模型（Diffusion Model）。 MLD 相当于让AI学会了“无师自通”地生成动作：不再需要逐帧教机器人如何走路，而是让模型像画家去噪一样，从一团随机噪声中还原出自然、连贯的人体姿态。 如果说MLD解决了“怎么生成动作”，「眸深智能」又进一步着眼于如何“指挥动作”。2023年9月，团队创造性发布了 MotionGPT 。类比汉字的基本笔画，团队将人体姿态拆解为约3000个“动作基元”。就像大语言模型（LLM）通过预测下一个token来生成句子一样，MotionGPT通过预测下一个“动作token”来生成复杂行为。 这种将连续动作离散化的处理方式，不仅极大地提升了模型对长序列任务的理解能力，更重要的是，它让机器人具备了Zero-Shot（零样本）泛化能力——没见过的动作指令，也能通过重组动作词汇来理解并执行。这也是全球首个把动作做成token的具身大模型，发表于NeurIPS 2023。 到了2026年，团队已经累计发布了7代模型，基于前述积累，「眸深智能」团队又进一步推出了STI- WM（时空一体世界动作模型）具身大模型。 STI-WM时空一体世界动作模型是完全面向机器人长时序规划、在线闭环控制、真实物理交互打造的原生具身智能框架，实现空间结构、时间演化、物理一致性、执行鲁棒性四维一体化统一。 据介绍，STI-WM的核心突破在于，彻底摆脱了传统VLA（视觉-语言-动作）模型对海量真机数据的重度依赖，采用了“80%互联网视频+10%动捕数据+10%真机数据”的训练配方，并MotionGPT建立的动作词典，从海量无标注的视频中学习物理规律，再用少量动捕数据校准生物力学特征，最后仅用10%的真机数据完成闭环对齐。 也就是说，这种全新的数据训练范式，将真机数据需求降低了90%，又将动作准确度提升至99%。 同时，「眸深智能」团队又在今年3月提出的T²MB（Task*Task Motion Brain）也让机器人具备了离线自进化能力，当模型部署到端侧后，无需联网回传数据，仅凭本地交互就能持续优化性能，任务执行准确度最高提升25%，解决了机器人落地后发现bug必须返厂升级的痛点。 值得注意的是，英伟达DAIR实验室在最新ARDY模型中，便援引了「眸深智能」的MLD与MotionGPT两项原创技术——这是近两年英伟达第三代动作模型对该公司技术路线的第四次引用。 不过，真正决定这套大脑能否规模化的，除了技术路线之外，还有端侧算力成本，这也是「眸深智能」的一大竞争壁垒。据介绍，「眸深智能」从第一代模型起就同步推进两个方向——模型压缩与国产芯片适配。 一方面，通过模型蒸馏、冗余参数压缩等工程化方案，「眸深智能」将千亿参数级模型压缩至百亿级别，在具体场景中参数量降低约75%，端侧推理延迟从约200毫秒降至10毫秒左右；另一方面，同步适配海思（昇腾310/910）、地平线、燧原（燧原S60）等国产芯片平台，实现低功耗、高实时、超低成本的端侧推理。 这套软硬协同的打法，带来的直接结果是，模型端侧推理成本从20万元降至1万元，大脑续航时间提升10倍，而精度和性能却不掉点。这一压缩工作也帮助该团队获得了IJCAI 2025全球最佳论文奖，也是近五年唯一获此奖项的中国大陆团队。 依托这一能力，「眸深智能」可在两周内完成一套具身大模型从一个本体到另一个本体的适配，包括复旦自研的“光华1号”、宇树G1、上海人形机器人创新中心的“青龙”和“灵龙”等本体。 （图源/企业） 「眸深智能」创始人、CEO穆泽林表示，国内具身智能行业普遍采用在国外芯片上训练、再移植适配国产芯片的方案，性能损耗与兼容性问题突出，而「眸深智能」未来在模型训练、推理全流程中将基于国产算力芯片原生开发，实现技术栈完全自主可控。 在商业化层面，「眸深智能」也是目前国内少数有营收的具身智能大脑公司。穆泽林告诉硬氪，其2025年审计回款收入千万元，2026年上半年3000万元，预计今年营收规模5000万元以上。 目前，公司客户覆盖工业检测、物业、环卫等场景。2026年第一季度，「眸深智能」已与某港股上市物业公司、A股上市环卫龙头的机器人产品交付；正在推进与头部连锁零售集团、头部白色家电工厂的人形机器人落地场景研发。 以下是硬氪与穆泽林的交流实录（略经摘编） 硬氪：动作怎么变成Token？这是行业难点吗？ 穆泽林： &nbsp;确实是行业卡点。我们可以把动作理解为「数字化的姿态」：就像小人书的一页是一个静态姿势，连续翻页就成了动画。我们早期通过几十人团队手工标注了几万个姿态，定义了3000多个基础动作Token，类似汉字的3000个常用字，组合后能覆盖人类所有行为。 更核心的是让模型学习动作间的关联：就像大语言模型通过学习海量文本掌握字词排列规律，我们让模型观看百万小时的互联网视频（影视剧、监控、Vlog等），学习「喝水时手会抬到嘴边」「抱胸后大概率会展开手臂」这类动作因果逻辑。同时结合10%的动捕数据和10%的真机数据做校准，最终实现动作Token的端到端生成——支持从文本、图片、3D点云到动作的转化，也就是原生多模态能力。 硬氪：动作Token的组合会不会导致算力需求爆炸？如何优化？ 穆泽林： &nbsp;我们不需要穷举所有动作，而是学习动作的排列规律。优化主要有两个方向：一是数据层面，80%用互联网视频（已做物理先验过滤，确保符合现实规律），降低对高成本动捕/真机数据的依赖；二是模型压缩层面，我们在端侧部署上有深厚积累，曾获得全球顶会最佳论文——通过Token剪枝、量化、动态优化等技术，能把端侧计算量降低62倍，推理延时从200毫秒压缩到10毫秒，模型参数量减少80%的同时精度不降反升（部分任务提升3%-6%）。 硬氪：现在具身智能领域技术路线分化，有的侧重记忆，你们是侧重动作，您怎么看这种分化？ 穆泽林：&nbsp; 回归第一性原理：大语言模型的成功本质是Transformer架构实现了Token的排列生成。具身智能也应该遵循这个逻辑，核心是解决「执行层」问题——让机器人能稳定完成任务。 像记忆优化这类更底层的问题，我认为短期很难通过初创公司突破，需要DeepSeek、OpenAI这类巨头在芯片存储、存算一体架构上的长期探索。我们更务实：通过动作Token的泛化能力（Zero-Shot）解决新任务执行问题，比如机器人学过拿矿泉水瓶，没学过拿手机，也能通过动作序列迁移完成80%的准确度，剩余20%通过少量后训练或强化学习校准即可。 硬氪：为什么选择适配国产算力，而不是用更成熟的英伟达卡？ 穆泽林： &nbsp;长期来看，国产GPU是必然选择——N卡会越来越贵、供应受限。我们的核心优势是「懂芯片」：团队有海思、英特尔、英伟达三大芯片巨头的背景，是国内唯一具备算子级适配能力的具身大模型团队。目前已经打通了燧原S60、昇腾310/910等国产芯片的部署，下半年目标是攻克千卡级国产集群训练，实现纯国产化的大模型训练方案。 这不仅能解决供应链安全问题，更能提升资本效率：比如别人训练一次需要1万张卡、花费5亿，我们通过算子优化，1000张卡、5000万就能完成，类似DeepSeek的低成本训练逻辑。 硬氪：具身智能芯片的机会在哪里？你们会自己做吗？ 穆泽林： &nbsp;端侧具身芯片确实是大机会，目前国内已有20多家公司在布局（比如辉曦、光与星辰等），但大多瞄准200TOPS算力（类似英伟达Orin）。我们认为未来模型需要处理触觉、传感器、3D点云等多模态信号，算力需求会快速提升到1000-2000TOPS——如果芯片公司现在量产200TOPS的产品，等流片出来时可能已经跟不上模型迭代速度。 我们不会自己做芯片，除非未来公司规模达到数千亿级。现阶段更聚焦「软硬协同」：通过算子优化让模型适配现有芯片，和芯片公司合作而非重复造轮子。 硬氪：未来产业分工会是怎样的？大脑和本体是否会各自形成通用供应商？ 穆泽林：&nbsp; 本体可能会像汽车行业一样，有不同的特色（比如负载更大、更轻量化），但大脑领域大概率会形成「一超多强」格局——通用大脑的研发门槛极高，国内真正具备研发能力的团队屈指可数。我们目标是成为那个「超级通用大脑」，同时允许其他团队聚焦细分场景（比如快递分拣、电力巡检）。 5-10年内，不会出现每家机器人公司都自研大脑的情况——大脑的研发投入（人才、算力）远超本体，创业公司更有机会突破，就像OpenAI不是大厂孵化的。大厂的优势在纯软件场景，而具身智能需要软硬件深度结合，创业公司的灵活性和专注度更有优势。 首页图源｜企业供图 排版｜范馨雅 end &nbsp; &nbsp; &nbsp;",
-    "published_at": "2026-07-26T09:00:00+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "a3081b2a41959334",
-    "title_hash": "f3f35ece7d5b3702",
-    "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
-    "url": "https://36kr.com/p/3910880823202948?f=rss",
-    "summary": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆��是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。 公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天使投资。他后来才知道，徐新见他前，已经在“AI寻人”这个方向上筛过好几轮。当时徐新在看两个方向，“AI找工作”与“AI找伴侣”。 招聘方向上，她把当时国内数得上的初创团队几乎都聊了一遍，一家都没投。徐新给出的理由是：这些团队对招聘这件事的理解，没有超越上一个世代的产品经理。AI在哪个环节创造增量、怎么重构撮合效率，没有团队给她一个超出预期的答案。 婚恋方向，徐新只聊了良配一家。徐新投他之前曾提到过，她希望找到一个对“AI搜索、匹配人”这件事的理解超出她、超出她过往所投公司的创业团队。如果没有超出，只是打平，就没有押注的价值。 目前，良配小程序已上线，App 也即将上线。 良配创始人曾歆勋在2026年世界人工智能大会（WAIC）分享，图源：WAIC官方 &nbsp; 一次技术同源的创业 曾歆勋相信，自己进入的是一个已被验证有真实需求的市场。他引用了几款同类产品的数据作为参照，第一个平台，年费会员定价1288元，而第二个平台，每名付费用户生命周期总支付约800元。 1288元的年费，在C端订阅产品中处于最高档收费，与视频平台年费会员两三百元、音乐平台年费会员一百多元相比，婚恋产品年费1288元，用户愿意付费，说明“找对象”这件事在用户心里的价值排序非常高。 与此同时，过往用户对婚恋平台的普遍担忧，在于支付��高额的费用却难以精准高效地匹配到对的人。对此，曾歆勋的判断是： 上一代婚恋产品的技术能力，难以提供“精准匹配”这个服务。平台修建了一个巨大的用户池子，把有需求的用户聚集到一起，而后，找人这件事，用户依然要耗费大量的时间和精力。用户需要自己刷资料、分析资料、交流、匹配、淘汰，周而复始，推荐系统在更为精准地推荐人这件事上，几乎没帮上什么忙。 “良配”的核心逻辑，正是在解决“精准匹配”问题上，这与曾歆勋此前在Kimi的工作也高度同源。 在Kimi做AI搜索技术负责人期间，曾歆勋每天的工作，就是带着团队研究如何用AI帮助用户精准匹配信息，并探索这一简单动作背后可以创造的商业价值。 长久以来，他观察到AI搜索存在一个现象：在通用搜索领域，随着技术进步，搜索的结果越好、答案质量提升越显著，与此同时耗费的算力成本也更高。但用户的单次搜索难以形成付费，“现在各家的AI搜索都是免费提供的，用户可以免token费用使用，因为大家认为用户心智这个东西不该花钱，不愿意花钱。”曾歆勋说。 但专门只做某个方向（如医疗、金融、法律等）的AI搜索产品，情况大不相同。这类搜索服务往往会接入大量��有数据库，帮助用户进行搜索、匹配，用户愿意为这些搜索结果支付费用。 曾歆勋认为，这不仅是因为两者的技术效果与成本差异，而是因为后者的答案更关乎切身利益，一条专业的医疗答案可能救命，一条专业的法律咨询的答案直接影响决策。 这些场景的高溢价恰好说明：不是用户不愿意为“信息”付费，而是通用场景的信息价值太低。同样的AI技术，放在通用搜索里找不到挣钱的路径，但如果放在法律、医疗等具体的搜索场景里，就能找到商业变现的机会。 沿着这个逻辑往下推，他认定，“找人”是搜索的另一个高价值场景。其中的两大典型场景，一是招聘，二是婚恋。 在曾歆勋看来， 对AI来说，找人和高精度的信息匹配是同一回事。 AI搜索与婚恋匹配的技术动作完全一样，都是“理解意图——分析并匹配需求——输出搜索结果”这一步骤。Kimi做的是输入一个问题、匹配信息，良配做的是输入一个人的条件和对伴侣的期待、匹配另一个人。搜索的目标变了，但底层的逻辑没有变。 用AI搜索介入婚恋匹配，他把婚恋匹配拆成了三个环节，每个环节都对应婚恋匹配这件事的一个具体瓶颈。 第一个环节是资料采集。 在婚恋平台上，用户写自我介绍是一件平常之事。但不是所有人都能清晰、有逻辑、有层次地描述自己，所以，平台上大量用户资料近乎空白，系统缺乏有效信息去做推荐。 在曾歆勋看来，这不是用户的意愿问题，是能力问题。在“良配”上，设计团队制作了一个“AI红娘”，用来帮助用户完成资料采集。用户注册后，与AI红娘打20分钟的语音电话，AI会进行个性化提问，用户不需要组织语言，如实回答即可，完成后，AI便可生成有效的自我介绍，梳理清楚用户的婚恋预期、价值观等婚恋匹配所需的基本信息，用于后续的需求分析与匹配。 良配“AI红娘”界面展示，受访者供图 &nbsp; AI技术的介入，把用户有效采集资料的门槛，从“会精准表达”下调。“良配”小程序上线后，曾歆勋和同事发现，用户平均资料长度463个字，而此前，他们人工统计了婚恋领域的头部产品，用户平均资料长度为132字。 第二个环节，是精准的匹配算法。 上一代产品依赖年龄、身高、学历这些结构化标签做推荐。但其实，决定两个人是否合适的核心信息，关乎价值观、成长经历、性格、生活方式。 这些都在用户写的文本里，但过往的推荐系统分析不了，也用不上。基于标签化信息推荐之后，依然要用户自行从人海中排除大量对婚姻预期不一致的人选，找到准确的人依旧耗费心力。 曾歆勋很清楚这一点：上一代推荐算法处理不了自然语言，直到大语言模型的出现。良配正在训练专用匹配模型，输入是用户完整资料，包括对外展示的文本和AI红娘对话的原始记录。模型理解两份资料的内容后，会开始分析用户的深度信息，用于后续更精准的匹配。 第三个环节，是沟通中介。 婚恋场景里，有些问题必须在确认关系前厘清，比如家庭资产、负债、婚恋史、健康状况、彩礼预期等。在男女双方刚认识的阶段，这些问题没法直接开口。拖到接触几个月后再问，沉没成本已经高到让一部分人不愿面对分歧。 针对这点，良配做了两个功能。AI分身与AI军师。前者匿名接收和回答问题，被问方不知道具体的提问方，收到问题时，只知道有潜在的匹配对象希望知道自己的某个具体情况，缓解了那种一对一核对信息的尴尬感。后者，AI军师，则负责在真人沟通过程中提供话题建议和态度判断。 在用户规模和社区氛围之间做出选择 曾歆勋观察到，很多交友平台不得不在“用户量数据”和“社区氛围”之间反复摇摆。 为了把用户量做大，平台很难果断地把自己定位成一个纯粹的“严肃婚恋平台”，而是需要把关系类型泛化，以“帮你认识新朋友”“帮你脱单”为口号。这样一来，边界模糊，什么目的的用户都可以进来，这导致在交友平台上，不同目的的用户混在一起，最后谁都不满意。 曾歆勋对“智能涌现”说了一段话，可以看作他对这个问题的底层判断： “如果你觉得自己在做严肃交友软件，你就应该在方方面面维护这个氛围。过去的产品没有一个做得好，大家都是既要又要，两头都兼顾不到。” 他的选择是放弃“既要又要”，明确良配是一个严肃的、以结婚为目的的婚恋平台，围绕这个定位，在所有环节设计筛选机制，让非目标用户在注册过程中自行离开。 良配设置了多层筛选机制：实名认证、人脸识别、与AI红娘进行约20分钟语音对话、AI资料诊断评分（70分以上方可上线），用户依次通过才能进入平台。平台还会对注册用户进行婚姻状态确认，已婚用户直接拦截。产品上线第一周，已经拦截了50多名已婚用户注册。 此外，良配还设计了严格的“1v1匹配机制”。用户进入匹配后，同时只能与一名匹配对象聊天，确认对方不合适后，才能解除匹配、去了解其他人。“这是我们为认真的社区氛围做的最重要的产品取舍，”曾歆勋说，“这个机制，可以规避泛社交平台中，用户之间交流的猜疑与博弈，同时，确保每一次匹配都值得被用户认真对待。” 种种规则的制定，是基于曾歆勋信任的一个逻辑：“一个人如果只想找短期关系，他是不会愿意在一个平台上透露那么多真实信息的，也不会通过那么多筛选环节。” 社区的氛围在反向约束用户行为。曾歆勋从中验证了一个判断：社区氛围不是靠规则管出来的，是靠筛选机制长出来的。当门槛足够硬，符合标准的人进入社区后，氛围会自然形成；氛围形成了，又会反向约束进来的人的行为。两者形成正向循环。 在曾歆勋看来，AI可以通过精准地分析用户找人需求，提高精准匹配效率。但一个严肃的婚恋社区能不能跑起来，还要看筛选机制够不够硬、商业模式跟产品目标是不是方向一致。这些东西AI解决不了，得靠人想清楚，再做出来。一个只懂技术的团队，难以做到这点。 保结婚，一次关于交付的新尝试 在曾歆勋看来，上一代婚恋产品做不好，根本原因不全是技术落后，而是商业模式和产品目标之间产生了底层冲突：在过去，几乎所有婚恋产品都是订阅制，按年或月收取会员费。这意味着，用户的留存时间越久，平台的收入越高。也因如此，平台欠缺帮用户尽快找到人的动力。 “这种情况下，平台并不真心想帮助用户成功。会设计各种方式让你付费，榨干用户最后一点价值以后，导致用户失望离开。”曾歆勋说。 于是，他重新设计了婚恋平台的交付逻辑。用户付费，收获的不是平台服务的使用时限，而是把“婚恋结果”作为给付费的交付目标。具体来说，他规划了“保结婚会员”计划，其核心规定是， 用户支付2000元会员费后，若在加入良配后的3年内未能领证结婚，平台将全额退款。 这一模式，经历过三个版本的推演。 第一个版本是“保证用户至少认识一个人”。用户在平台上互相发消息、聊几句之后约见面，但凡见面成功，就算交付了一个结果。如果一个人都没认识，一分钱不收。这个方案他与投资人讨论过，得到的反馈是：用户可能会扯皮——也许是交换了微信，但没见到人，又或者见到人了，但闹得很不愉快，用户为此不愿意承认交付结果，比较冒险。 第二个版本是“保证你能够交往、谈恋爱”。问题更大，因为谈恋爱没法验证，任何人谈了都可以说没谈，逃单率无限逼近百分之百。 最终他发现，婚姻状态是唯一可查询、不可伪造的交付标的。于是，他把付费用户的交付标准定为“按结婚结果交付”。 “3年”的期限也不是拍脑袋决定的。他们的团队在深圳南山民政局和福田民政局排队领证的人群里做了约150份问卷，希望知道这些新婚夫妻怎么认识的、认识了多久结婚？ “排除同学、同事、青梅竹马这些天然关系，凡是工作后通过介绍或网络平台认识的，70%在三年内结婚，” 曾歆勋介绍：“合适就结了，不合适就分了。三年是一个很自然的节点。” 关于“拖三年再结婚、恶意退费”的担忧，他的判断是：“对中国人来说，结婚是人生大事，这里头有太多支出比2000元高。结婚这件事跟2000块比，2000块根本不够影响决策，选什么黄道吉日都比这个分量重。” 目前，良配的产品仍在早期阶段。AI红娘能否持续产出高质量资料、专用匹配模型的准确率能否达到80%、三年后有多少用户领证结婚，这些都需要时间验证。 但良配这类产品的实践中，AI技术解决的不是仅仅社会效率问题，还介入了社会现实。中国有大量单身成年人的的婚恋需求没有得到有效供给。上一代产品的功能止步于“让人认识人”，而在“让人找到合适的人”这件事上，AI技术也许可以提供更多实质帮助。 封面来源｜WAIC官方 &nbsp; * *",
-    "published_at": "2026-07-25T19:00:21+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "d7c79a7138e85eed",
-    "title_hash": "907612a9c34701fe",
-    "title": "月之暗面Kimi K3庆功照流出，张予彤疑现身，喊出“冲上月球”口号",
-    "url": "https://36kr.com/newsflashes/3911981562270848?f=rss",
-    "summary": "据报道，在经历过去一段时间月之暗面Kimi K3发布引发的广泛关注后，月之暗面于本周五在北京的一个酒吧举行了庆功活动。据流出内容，月之暗面展示的一张庆功标语显示，月之暗面对于K3的定位是“扩容升级”，同时期望将下一代K4“狠狠干到极致”，并喊出了“冲上月球”口号。一张流出的图片显示，本场活动上，月之暗面联合创始人、总裁张予彤疑似也到了现场。（新浪科技）",
-    "published_at": "2026-07-26T12:33:25+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "5cfd49b18074cfcf",
-    "title_hash": "af3f53acb02a68c7",
-    "title": "我国蜂群无人机首次实现台风过境全程立体观测",
-    "url": "https://36kr.com/newsflashes/3911980822091137?f=rss",
-    "summary": "7月26日，记者从中国气象局获悉，台风“红霞”影响我国期间，气象科研人员首次采用蜂群无人机观测方式，针对台风登陆全过程开展高频率、多维度观测试验。这也是我国首次将蜂群无人机技术应用于台风过境全过程观测。 (央视新闻)",
-    "published_at": "2026-07-26T12:32:40+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "c9ebff58f68e4ea0",
-    "title_hash": "6b63bc363baa42e8",
-    "title": "韩国养老金7月首度净买入KOSPI成分股，为今年首次",
-    "url": "https://36kr.com/newsflashes/3911979618849920?f=rss",
-    "summary": "韩国交易所周日披露股市数据，韩国股市最大机构投资者之一——国民年金公团等养老金资金，本月转为韩国综合股价指数（KOSPI）股票净买方，系今年以来首次。数据显示，7月1日至24日，国民年金公团及其他养老金在KOSPI主板累计净买入股票684亿韩元（折合4680万美元）。在此之前，养老金已连续六个月净卖出股票，本月是年内首月实现净买入。7月前17个交易日里，养老金有11个交易日为净买入，6个交易日净卖出。本月还剩余5个交易日，分析师判断，养老金大概率在7月全月维持净买入状态。个股买入端，SK海力士为养老金头号增持标的，累计净买入4258亿韩元；其次是SK创新（2247亿韩元）、韩国双龙炼油S-Oil（1744亿韩元）。 卖出端则大幅减持：SK Square净卖出5757亿韩元、三星电机3136亿韩元、三星人寿保险1238亿韩元。",
-    "published_at": "2026-07-26T12:31:27+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "e7da9a4fa8c5f364",
-    "title_hash": "a25b3f643c27b835",
-    "title": "交流会纪要外泄影响DeepSeek融资？内部人士：不可信",
-    "url": "https://36kr.com/newsflashes/3911975571379331?f=rss",
-    "summary": "近日，疑似DeepSeek投资者交流会的纪要在市面上流出，引发广泛关注。据市场消息，这场本应在小范围封闭场合进行的内部交流，因会议纪要在未经授权的情况下外泄，已影响DeepSeek正在进行的新一轮融资进程，目前梁文锋已决定暂停新一轮交易的推进，要求团队重新评估信息披露流程和投资者沟通机制。 对于上述消息，有DeepSeek内部人士表示，“不可信，外部消息多为假的或者臆测”。不过，截至目前DeepSeek官方并未就此事进行任何回应。（新浪科技）",
-    "published_at": "2026-07-26T12:27:20+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "7c055191b486e809",
-    "title_hash": "c757dba1cb160bd4",
-    "title": "极氪回应“境外车机网络受限”:已在App上线“跨境守护”功能入口",
-    "url": "https://36kr.com/newsflashes/3911960881976457?f=rss",
-    "summary": "针对“境外车机网络受限”事件，极氪方面今日表示，已在App上线“跨境守护”功能入口，用户一键提交即可自主解锁。同时，极氪已启动开发境外防盗功能开关，用户出境前在手机端可以设置启动或关闭境外防盗功能，车主不主动设置，功能不会触发。启动后如果车辆出境，用户仍可通过App自助解锁相关功能。 (财联社)",
-    "published_at": "2026-07-26T12:12:23+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "5651172a195fc53a",
-    "title_hash": "a0d2ca90afe0d0dc",
-    "title": "马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住",
-    "url": "https://36kr.com/newsflashes/3911959974188425?f=rss",
-    "summary": "马斯克7月25日在《经济学人》访谈中表示，未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住。 (澎湃新闻)",
-    "published_at": "2026-07-26T12:11:28+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "7b24210bc0467ecb",
-    "title_hash": "ded0b92274c88eae",
-    "title": "黄仁勋：杰出的人才总会找到出色的答案，中国注定会产出卓越的AI技术",
-    "url": "https://36kr.com/newsflashes/3911959206827139?f=rss",
-    "summary": "黄仁勋7月25日在外媒采访中谈及中美AI竞争。他表示，杰出的人才总会找到出色的答案，而中国注定会产出卓越的AI技术，应当继续向他们学习、与他们合作。 (澎湃新闻)",
-    "published_at": "2026-07-26T12:10:41+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "ed286c040177b364",
-    "title_hash": "c112d70125a09f8b",
-    "title": "崔东树：2026年6月中国汽车进口3.8万辆降11%",
-    "url": "https://36kr.com/newsflashes/3911791891993992?f=rss",
-    "summary": "乘联分会崔东树发文称，2026年6月进口车进口3.8万辆，下滑11%，但由于2025年1月基数低，虽然美国与伊朗战争导致运输受阻，进口车总体下降较小，2026年1-6月进口汽车20万辆，同比下降11%。2026年初仍是近期少见的1-6月较好表现，主要原因是因为2025年末的低基数。由于2025年初低基数的促进，今年1-6月进口车零售19万辆，下滑29%的表现不太差，6月下降到3万辆降39%，未来压力仍大。进口车回归传统燃油车为主格局。2026年6月进口最高的前10国家是：日本18486辆、德国9272辆、斯洛伐克4122辆、美国3359辆、英国1426辆、墨西哥654辆、奥地利555辆、韩国128辆、南非71辆、波兰70辆，其中本期较同期增量增大的前五个是：日本5131辆、德国928辆、奥地利303辆、墨西哥290辆、南非65辆。（新浪财经）",
-    "published_at": "2026-07-26T12:00:00+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "765223e9d03bfa65",
-    "title_hash": "4a7c5e4ad4a2189a",
-    "title": "极氪App上线“跨境守护”功能入口",
-    "url": "https://36kr.com/newsflashes/3911944182273154?f=rss",
-    "summary": "7月26日凌晨，极氪App快速上线“跨境守护”功能入口，用户一键提交就能快速解锁，简化流程提高效率。同时，其正在开发的“跨境守护功能开关”，后续将通过OTA推送。开关功能上线后，“跨境守护”将默认处于关闭状态，出境前车主可根据自身需求，在手机端手动选择开启或关闭。若车主主动开启该功能，仍可通过App“跨境守护”入口进行自助解锁。另外，针对已出境或即将出境的用户，极氪开放24小时客服热线。",
-    "published_at": "2026-07-26T11:55:24+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "99ce8291f1d64fe9",
-    "title_hash": "c65812783e9450c8",
-    "title": "SK崔泰源：韩国需转型为“AI原生”国家",
-    "url": "https://36kr.com/newsflashes/3911821420303744?f=rss",
-    "summary": "SK海力士掌门人崔泰源表示，韩国必须成为一个“AI原生国家”，并补充道：“目标是实现每个人至少拥有一个AI智能体。”他表示：“如果这一目标实现，韩国将成为全球AI试验场，让各种AI技术能够在这里进行实验和应用。”崔泰源称，SK集团将通过持续不断的研发投入，为AI发展提供更多机会。崔泰源还强调，降低AI成本至关重要。他表示：“目前，AI成本过高。”“我们必须通过各种方式降低成本，让世界更多人能够享受到AI带来的益处。”崔泰源表示，韩国可以通过扩大存储芯片生产规模，以及建设更多AI数据中心，降低AI成本，并打造连接美国、欧洲和亚洲的全球AI数据中心枢纽。（新浪财经）",
-    "published_at": "2026-07-26T09:50:31+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "a668c66a207903f7",
-    "title_hash": "b123743c8782c46f",
-    "title": "中南大学：收到费某某学位论文涉嫌抄袭举报，已成立调查组全面核查",
-    "url": "https://36kr.com/newsflashes/3911804929332611?f=rss",
-    "summary": "中南大学研究生院7月25日发布情况通报：近日我校收到相关举报，反映商学院2002届同等学力硕士费某某学位论文涉嫌抄袭。学校已成立调查组，进行全面核查工作。学校始终严守学术底线、维护学术规范，对学术不端行为绝不姑息。（界面新闻）",
-    "published_at": "2026-07-26T09:33:45+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "e374fee778c0a5c1",
-    "title_hash": "6e48add40fa61226",
-    "title": "世界杯带动旅游热度不减：夺冠后西班牙机票搜索量激增33倍，南美游咨询热度翻倍增长",
-    "url": "https://36kr.com/newsflashes/3911804395951234?f=rss",
-    "summary": "近日，多家旅游平台和旅行社披露的数据显示，世界杯参赛国家的相关旅游咨询量和搜索量猛增。西班牙夺冠世界杯后：机票搜索量激增33倍，中秋国庆多批跟团游已成团。西班牙夺冠的消息一出，中国旅行者的反应几乎是即时性的。去哪儿旅行指数显示，截至7月20日9:00，即夺冠后数小时内，巴塞罗那机票搜索量较前一小时增长1.6倍。其中，深圳-巴塞罗那航线搜索量环比暴增33倍。昆明、青岛、贵阳飞巴塞罗那的搜索热度同样迅速攀升，昆明-巴塞罗那搜索量同比上周增长10倍。（澎湃新闻）",
-    "published_at": "2026-07-26T09:33:12+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "2c6b55e231a19079",
-    "title_hash": "fb6625eecda2e645",
-    "title": "下周，SK海力士、三星电子和铠侠将公布最新财报，或影响下一阶段芯片股走势",
-    "url": "https://36kr.com/newsflashes/3911802943935620?f=rss",
-    "summary": "下周，SK海力士、三星及铠侠三家存储龙头即将公布最新业绩。在市场对AI投资可持续性及存储长约可靠性的疑虑下，这几份财报也将成为检验巨头在这一轮周期中盈利能力的“试金石”。三份财报能否证明AI需求仍在转化为HBM、DRAM和企业级固态硬盘订单，或将影响下一阶段芯片股走势。（中新经纬）",
-    "published_at": "2026-07-26T09:31:43+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "194dc32f90c0898b",
-    "title_hash": "e6c06d46870f5725",
-    "title": "特斯拉一周跌没18%，马斯克自嘲回应财富急速缩水",
-    "url": "https://36kr.com/newsflashes/3911795043816840?f=rss",
-    "summary": "特斯拉周五跌超2%，本周累跌近18%，创2022年以来最大单周跌幅；SpaceX跌超2%，创该公司上月美国IPO以来最低收盘价，本周跌约7%。由此，马斯克的个人财富一周内蒸发了约1300亿美元（约人民币8803.86亿元），距离他成为世界上首位万亿富翁仅过去了几周时间。面对财富的急速缩水，马斯克本人日前在社交平台上发帖自嘲：“（前）万亿富翁。”（中新经纬）",
-    "published_at": "2026-07-26T09:23:41+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "2773f293fb557231",
-    "title_hash": "a0894708f8f6a87f",
-    "title": "瑞银：中国再保险升至“买入”评级 目标价上调至1.75港元",
-    "url": "https://36kr.com/newsflashes/3911790076368000?f=rss",
-    "summary": "瑞银发布研报称，将中国再保险 投资评级由“中性”上调至“买入”，目标价由1.7港元上调至1.75港元，预测该公司上半年税后净利润将同比增长10%至69亿元人民币，主要受到保险服务业绩全面增长所带动，而非投资收益。瑞银将中再保2026至2028年每股盈利预测分别上调8%、13%及7%，至0.3元、0.34元及0.35元人民币。瑞银估计，上半年财险再保险保费同比增长2%，其中境内保费增长3%，受惠于非车险业务比重较高，预期增长幅度将跑赢行业，境外保费则大致平稳。（新浪财经）",
-    "published_at": "2026-07-26T09:18:38+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "8f58792cbc6143b3",
-    "title_hash": "47f1100458863aa8",
-    "title": "高盛：MiniMax-W重申“买入”评级 目标价860港元",
-    "url": "https://36kr.com/newsflashes/3911788906386823?f=rss",
-    "summary": "高盛发布研报称，MiniMax-W的多模态策略为其关键差异化优势，H3模型已进入推出前最后阶段，预期即将面世，相信会对多模态行业格局带来深远影响，重申MiniMax“买入”评级，目标价860港元。高盛指出，MiniMax创办人兼首席执行官闫俊杰近日在分析员会议上，透露未来重点将专注于为旗下每个模型追求最佳的性价比，特别是目前M3模型每日处理万亿级Token，开放平台/API收入已达健康毛利率水平，目标最终实现高双位数毛利率，又预期9月至10月将推出的M3 Pro将拥有显著成本效益。（新浪财经）",
-    "published_at": "2026-07-26T09:17:27+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "3c340274073e5291",
-    "title_hash": "eacbe403b59532fb",
-    "title": "李在明：人工智能时代为韩国带来全新机遇",
-    "url": "https://36kr.com/newsflashes/3911788141286792?f=rss",
-    "summary": "韩国总统李在明周六表示，人工智能时代的到来给韩国带来全新机遇，他承诺推动韩国从产业追赶者蜕变为全球行业领军国家。李在明表示，全新人工智能浪潮为韩国送上难得的发展机遇，他致力于将韩国打造为无可替代的国家，让各国形成“发展产业离不开韩国”的共识。此前一日，李在明出席高端产业合作峰会，英伟达、OpenAI、Anthropic等多家美国全球科技巨头，与三星电子、SK海力士等韩国企业签署多项商业合作协议。总统府官员此前透露，本次达成的合作项目总规模高达9500亿美元。（新浪财经）",
-    "published_at": "2026-07-26T09:16:40+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "7d0cd8f4b7b83f21",
-    "title_hash": "994c91f084d9dd2a",
-    "title": "2026暑期档电影票房破55亿",
-    "url": "https://36kr.com/newsflashes/3911784384451714?f=rss",
-    "summary": "据网络平台数据，截至目前，2026年暑期档电影总票房（含预售）突破55亿元。2026年度电影总票房（含预售）突破212亿元。（财联社）",
-    "published_at": "2026-07-26T09:12:51+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "8e6dae7000ddabed",
-    "title_hash": "ab86865edefdda5b",
-    "title": "《2026能源产业生态报告》发布 风电光伏装机超越火电",
-    "url": "https://36kr.com/newsflashes/3910816808457602?f=rss",
-    "summary": "记者今天（25日）从中国企业改革与发展研究会获悉，《2026能源产业生态报告》正式发布。报告显示，“十四五”时期，我国风电光伏装机历史性超越火电，核能、生物质能领域领跑全球。“十四五”期间，我国能源产业实现安全保供与绿色低碳转型双向协同发展。2025年全国能源重点项目投资额首超3.5万亿元，同比增长近11%。新能源产业实现跨越式发展，2020至2025年风电光伏装机从5.3亿千瓦增至18.4亿千瓦。核电运行装机总量稳居全球第一，生物质能发电装机连续7年规模全球第一。（央视新闻）",
-    "published_at": "2026-07-25T17:27:27+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
-    "url_hash": "b4da47409d2e9aac",
-    "title_hash": "67d61770f77ffe2e",
-    "title": "今年上半年新疆霍尔果斯口岸进出口货运量创新高",
-    "url": "https://36kr.com/newsflashes/3910803462559108?f=rss",
-    "summary": "今年上半年，新疆霍尔果斯口岸依托公铁联运枢纽优势，进出口货运量持续增长，据霍尔果斯海关统计，今年1—6月，新疆霍尔果斯口岸实际监管进出口货运量2295.4万吨，同比增长3.1%，创历史新高。（央���新闻）",
-    "published_at": "2026-07-25T17:00:24+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "cf2f8df7da9c057a",
-    "title_hash": "e312103fb65e010c",
-    "title": "100%开源！吴恩达做了个个人桌面Agent",
-    "url": "https://www.qbitai.com/2026/07/460892.html",
-    "summary": "开源、隐私、本地优先、模型无关",
-    "published_at": "2026-07-25T20:35:34+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "60cba4552778dc22",
-    "title_hash": "3cf33c5ddca9f286",
-    "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
-    "url": "https://www.qbitai.com/2026/07/460542.html",
-    "summary": "这是机器人领域最好的时代",
-    "published_at": "2026-07-25T20:24:27+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "de72e6fcf4d06c40",
-    "title_hash": "a4b07b7c10091d82",
-    "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
-    "url": "https://www.qbitai.com/2026/07/460253.html",
-    "summary": "模型变强，Claude Code系统提示词都精简了",
-    "published_at": "2026-07-25T20:11:39+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "4604a6219c848c0f",
-    "title_hash": "9ca917114828efca",
-    "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
-    "url": "https://www.qbitai.com/2026/07/460234.html",
-    "summary": "不做人形，抓住真实用户需求",
-    "published_at": "2026-07-25T19:54:44+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "d5cde4d01209b284",
-    "title_hash": "1ac79f5396ae1c28",
-    "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
-    "url": "https://www.qbitai.com/2026/07/460186.html",
-    "summary": "工业圈和学术圈“唱反调”",
-    "published_at": "2026-07-25T19:07:25+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ebde361a80250f59",
-    "title_hash": "deb62b12e44d8fb9",
-    "title": "Humans Haven't Stopped Evolving",
-    "url": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
-    "summary": "Article URL: https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure Comments URL: https://news.ycombinator.com/item?id=49054307 Points: 25 # Comments: 9",
-    "published_at": "2026-07-26T11:09:46+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "67f6d4ba3f58a3a5",
-    "title_hash": "96ef4ce46f50349b",
-    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
-    "url": "https://danluu.com/ai-coding/",
-    "summary": "Article URL: https://danluu.com/ai-coding/ Comments URL: https://news.ycombinator.com/item?id=49054268 Points: 4 # Comments: 0",
-    "published_at": "2026-07-26T11:02:17+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2d017f429523c1b4",
-    "title_hash": "5839aecba75b5c7b",
-    "title": "JetZero",
-    "url": "https://www.jetzero.aero",
-    "summary": "Article URL: https://www.jetzero.aero Comments URL: https://news.ycombinator.com/item?id=49054224 Points: 94 # Comments: 68",
-    "published_at": "2026-07-26T10:55:50+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "9b4079ab3197bb45",
-    "title_hash": "ada51d8e8746cbcf",
-    "title": "An ESP32 based plane radar for my desk",
-    "url": "https://blog.ktz.me/esp32-plane-radar/",
-    "summary": "Article URL: https://blog.ktz.me/esp32-plane-radar/ Comments URL: https://news.ycombinator.com/item?id=49054107 Points: 34 # Comments: 10",
-    "published_at": "2026-07-26T10:35:43+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "bffa601735465e1f",
-    "title_hash": "edbc7acb2a30c6e7",
-    "title": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-    "url": "https://golfcoursebrowser.com/",
-    "summary": "I got tired of Googling basic course info, so I made a free directory of every US course Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... https://golfcoursebrowser.com/ It's a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP. It's free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wrong scorecard), you can flag it right on the course page. I actually read those and fix them. Still a lot of missing info, but I'm filling out more and more each day. The goal is the most complete, and current golf course directory in the world, verified and maintained by actual golfers. I think is attainable in the next few months. The base layer is OpenStreetMap, cross-checked against course websites and enriched with scorecards, USGA rating/slope, and public/private status. User corrections from golfers who know their home course have beaten every commercial data source we check against. Comments URL: https://news.ycombinator.com/item?id=49054010 Points: 59 # Comments: 21",
-    "published_at": "2026-07-26T10:22:26+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6db6b7657ea20000",
-    "title_hash": "cc1eb9e8b9d9f894",
-    "title": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
-    "url": "https://synaptale.com/graph?ch=100",
-    "summary": "The graph is free to explore and requires no registration. SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships). The graph is not a visualization of the wiki. The wiki, timelines, relationship histories, and analytics are projections of the graph. The current demo contains 232 entities, 1,852 edges, and a snapshot of the story’s state at every chapter. By chapter 100, it still remembers a promise made in chapter 8 and turns the story into a set of source-verifiable facts. The most interesting things can be found in the graph itself and in the Analytics tab. A few things I found: 1. The character with the highest kill count is the Tin Woodman—the same character who cries over a beetle he accidentally crushed. Dorothy comes second, with three killing events. 2. Dorothy never deceives anyone during the first 100 chapters of the series. 3. The Scarecrow’s debt to the stork has remained active for 92 chapters, starting in chapter 8. 4. The Cowardly Lion ranks third by number of threats. 5. The first 100 chapters contain 60 secrets and 254 dialogue events. Technical details 1. Five different multi-agent pipelines combining LLMs and NLP: a prescan, ontology construction, chapter-by-chapter graph extraction, retrospective validation over spans of dozens of chapters, and a linguistic prescan for speech profiles and linguistic edges. 2. A living story needs a living graph. It has to account for time, because entities and the relationships between them evolve. A simple is_active field is not enough. I ended up with three types of edges: event: an instantaneous action; identity: a fact; state: a persistent action whose termination requires justification and a supporting quote from the text. The vast majority of edges are events and end in the same chapter in which they began. This allows the system to scale well, since only a minority of state and identity edges remain continuously active. 3. Ontology. You cannot simply ask an LLM to extract entities and relationships into a graph. With every chapter, even the smartest model will keep inventing unimportant fields, creating new aliases for existing fields, and representing the same fields inconsistently. Before extracting the graph, the system therefore performs an ontology scan across the entire story. It captures story-specific entity and edge types, along with their fields and descriptions. 4. Epistemics. Events are only one part of a story. It is also important to understand how information is distributed, which is difficult to represent using event edges alone. I addressed this by introducing a new node type: epistemic nodes, which capture different entities’ perspectives on the same fact. Subtle hints can still be missed, the system is not yet perfect in this area. Comments URL: https://news.ycombinator.com/item?id=49053986 Points: 10 # Comments: 0",
-    "published_at": "2026-07-26T10:18:31+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f99fbb6b4a66fa37",
-    "title_hash": "21ada0681b7b781d",
-    "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
-    "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
-    "summary": "Article URL: https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/ Comments URL: https://news.ycombinator.com/item?id=49053708 Points: 14 # Comments: 2",
-    "published_at": "2026-07-26T09:35:03+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "29116c0f76b738c3",
-    "title_hash": "47671cd8cb1a01ec",
-    "title": "Git rebase -I is not that scary",
-    "url": "https://cachebag.sh/journal/interactive-rebasing/",
-    "summary": "Article URL: https://cachebag.sh/journal/interactive-rebasing/ Comments URL: https://news.ycombinator.com/item?id=49053385 Points: 41 # Comments: 35",
-    "published_at": "2026-07-26T08:37:54+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "22eb8c33e4b41a61",
-    "title_hash": "e57ee30b5bc9f3d2",
-    "title": "Systems and Delays",
-    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "summary": "Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html Comments URL: https://news.ycombinator.com/item?id=49053382 Points: 40 # Comments: 10",
-    "published_at": "2026-07-26T08:37:30+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "9376267761d9a376",
-    "title_hash": "18689413a36e2c65",
-    "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-    "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-    "summary": "Article URL: https://huggingface.co/owensong/Inflect-Micro-v2 Comments URL: https://news.ycombinator.com/item?id=49053375 Points: 54 # Comments: 5",
-    "published_at": "2026-07-26T08:36:30+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "87f0571bef377a4b",
-    "title_hash": "03c095397aef9c26",
-    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "summary": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Comments URL: https://news.ycombinator.com/item?id=49052912 Points: 113 # Comments: 76",
-    "published_at": "2026-07-26T07:32:50+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "de99fefd746ab1ac",
-    "title_hash": "ac7f59a5ecf2c8ce",
-    "title": "Clinical failure rates over the decades: yikes",
-    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-    "summary": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Comments URL: https://news.ycombinator.com/item?id=49052628 Points: 71 # Comments: 41",
-    "published_at": "2026-07-26T06:57:17+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1e385a440887bdfd",
-    "title_hash": "20a29f858e6b1225",
-    "title": "Cloudflare's new AI traffic options for customers",
-    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 69 # Comments: 44",
-    "published_at": "2026-07-26T06:50:49+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7bb69774c7809f03",
-    "title_hash": "72ba3db76bc9f68d",
-    "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-    "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-    "summary": "Article URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Comments URL: https://news.ycombinator.com/item?id=49051947 Points: 152 # Comments: 61",
-    "published_at": "2026-07-26T05:48:22+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "209a29a8e8337ab7",
-    "title_hash": "ad2352bb61bbacc8",
-    "title": "Turn And Face The Strange",
-    "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-    "summary": "Article URL: https://fly.io/blog/kurt-scott-money-sprites/ Comments URL: https://news.ycombinator.com/item?id=49051369 Points: 163 # Comments: 117",
-    "published_at": "2026-07-26T04:43:11+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8e418fc06184a07b",
-    "title_hash": "156e4c5c64b80038",
-    "title": "The new rules of context engineering for Claude 5 generation models",
-    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "summary": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models Comments URL: https://news.ycombinator.com/item?id=49051361 Points: 217 # Comments: 139",
-    "published_at": "2026-07-26T04:42:35+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "64f35415b6f3e9c3",
-    "title_hash": "feec7c7fe8e55bf2",
-    "title": "Did They Ghost You?",
-    "url": "https://didtheyghostyou.com/",
-    "summary": "Article URL: https://didtheyghostyou.com/ Comments URL: https://news.ycombinator.com/item?id=49051120 Points: 336 # Comments: 151",
-    "published_at": "2026-07-26T04:18:03+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8c02565f6d28ebe3",
-    "title_hash": "27ef8d52b82860c2",
-    "title": "LLM Usage in Debian: Three Proposals",
-    "url": "https://www.debian.org/vote/2026/vote_002",
-    "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 109 # Comments: 97",
-    "published_at": "2026-07-26T03:44:39+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "3ca9bd2bff57dcde",
-    "title_hash": "7b3eb57ecfa1462c",
-    "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-    "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-    "summary": "Article URL: https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/ Comments URL: https://news.ycombinator.com/item?id=49050735 Points: 109 # Comments: 76",
-    "published_at": "2026-07-26T03:30:24+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0c8bd8e44146054e",
-    "title_hash": "86bc6bfa09c7447f",
-    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-    "url": "https://github.com/slvDev/esp32-ai",
-    "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 108 # Comments: 25",
-    "published_at": "2026-07-26T02:59:50+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "e9e3f92c9d89fe03",
-    "title_hash": "904739b10d430381",
-    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-    "published_at": "2026-07-26T09:30:00+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "9e41de97b1347bf8",
-    "title_hash": "32895fb52872095d",
-    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-    "published_at": "2026-07-26T00:00:00+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "54a8803ad5837385",
-    "title_hash": "28b4d31443e5e6ad",
-    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-    "published_at": "2026-07-25T21:05:00+08:00",
-    "created_at": "2026-07-26 04:50:32"
-  },
-  {
-    "source": "36氪",
     "url_hash": "aa8f216ddd833a0b",
     "title_hash": "fc8d5f7c6d6b7fe9",
     "title": "优衣库一边关店，一边赚钱",
@@ -4978,5 +4478,495 @@
     "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
     "published_at": "2026-07-31T22:00:00+08:00",
     "created_at": "2026-08-01 04:45:30"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "744998b28bede094",
+    "title_hash": "a21cf5c832fb208d",
+    "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+    "url": "https://36kr.com/p/3920595518533250?f=rss",
+    "summary": "如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp; 因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp; 但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp; 2026年，ChinaJoy 即将在7月底的上海举办第二十三届展会。&nbsp; 如今的 ChinaJoy 还只是游戏展吗？ 它依然是全国最爱玩、最关注游戏的年轻人一年一度的线下聚会，这件事从未改变。但同时，ChinaJoy 正在悄然成为「科技 + 数字娱乐」行业一年一度的线下交汇点。&nbsp; 过去三年，科技对数字娱乐的改造速度超过了所有人的预期：AI 从实验室概念变成了行业标配的生产工具，具身智能、新一代消费电子不断打开新的想象空间，每一个赛道、每一天都有新公司、新产品、新模式冒出来。&nbsp; ChinaJoy 是国内极少数能把这种变化一次性摊开在你面前的现场。 如今，来逛展的不只是玩家，还有开发者、AI 工程师、硬件创业者、投资人。&nbsp; 真正值得被报道的东西，已经藏在线下。如果只看相关稿件，这个行业的很多真实温度仍然难以感知。&nbsp; 因此，这一次36氪和ChinaJoy「Vision Future 前沿科技展区」深度合作，把直播间直接搬到展区现场。三天，十八场对谈，我们想把这些一线的思考直接带给每个观众。&nbsp; 所有对谈都来自一线从业者——创业者、技术带头人、行业操盘手、学术专家，坐到镜头前聊真实进展、踩过的坑、接下来的机会。我们想呈现最鲜活的行业趋势，不是发布会的复述，是真问题的现场。&nbsp; Day 1 · 8 月 1 日 · AI + 游戏 10:00 可扫码预约观看，或关注「36氪游戏」视频号 Day 2 · 8 月 1 日 · AI 内容新体验 10:00 可扫码预约观看，或关注「36氪游戏」视频号 Day 3 · 8 月 2 日 · 前沿科技 &amp; 消费电子 10:00 可扫码预约观看，或关注「36氪游戏」视频号 十八组嘉宾，覆盖AI 游戏、AI 内容、前沿消费电子等多条赛道，一起来聊聊行业变化过程中的真东西。&nbsp; ChinaJoy 二十多年了。它依然是那个全国玩家一年一度的线下聚会，这件事从未改变；但同时，它也已经进化成「科技 + 数字娱乐」行业最鲜活的现场。&nbsp; 这种进化来自 ChinaJoy 官方对前沿科技展区的持续加码，来自36氪游戏作为合作伙伴对一线内容的专业捕捉，也来自市场对新技术、新内容、新体验越来越硬性的需求。&nbsp; 2026 年8 月1 日—8 月 3 日，上海新国际博览中心E6 馆 ChinaJoy Vision Future 前沿科技展区，「36氪游戏」直播间见。&nbsp; 本文首发自 “36氪游戏” 。",
+    "published_at": "2026-08-01T14:37:32+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "f1eb77d08a918081",
+    "title_hash": "c3eb8051b5b84a0d",
+    "title": "银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司",
+    "url": "https://36kr.com/newsflashes/3921888283848068?f=rss",
+    "summary": "银河证券研报指出，Kimi K3上线后仅48小时，请求量便把现有集群打满，随后Kimi宣布暂停C端新用户会员订���，验证Kimi K3模型能力突出与算力紧缺。银河证券认为，Kimi K3并非抑制算力需求，一方面国产开源模型的能力逼近全球顶级闭源模型，倒逼顶级大模型厂商通过更大规模的训练以及更快的迭代来维持差异化，另一方面持续引爆推理算力需求，当前Kimi K3已实现与多家国产算力平台的‌Day 0极速适配，拉动国产超节点的需求，进而推动产业链中服务器、交换机、光模块、液冷、电源等国产算力产业链环节配套需求，建议关注国产超节点及产业链相关公司。（界面）",
+    "published_at": "2026-08-02T12:31:04+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "7d2e9418b7cef0eb",
+    "title_hash": "f9a553d36a73b131",
+    "title": "山东：力争3年内集聚万名人工智能OPC创新人才",
+    "url": "https://36kr.com/newsflashes/3921849987706240?f=rss",
+    "summary": "36氪获悉，据山东政府网官微消息，山东省工信厅等12部门近日联合印发《关于支持人工智能OPC创新发展的行动方案》，培育壮大人工智能OPC（One Person Company，一人公司）新型市场主体，推动“AI+超级个体”新型创业模式加速落地。力争3年内，建成百个定位清晰、功能完善的特色载体，培育千家技术领先、成长性强的创业主体，集聚万名优秀人工智能OPC创新人才。支持济南、青岛、烟台等市结合产业禀赋，统筹规划存量资源与新增空间，依托数字经济产业园、广告产业园、网络视听产业园、双创孵化中心等，打造一批人工智能OPC特色园区。",
+    "published_at": "2026-08-02T12:07:01+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "9b21f4d1b58dd3e4",
+    "title_hash": "836945464047d8e2",
+    "title": "微信地震预警能力更新，地震预警小程序可反馈震感",
+    "url": "https://36kr.com/newsflashes/3921848794164866?f=rss",
+    "summary": "36氪获悉，8月2日，中国地震台网小程序正式上线“震感上报”能力。当用户收到地震预警并确认自身安全后，可进入小程序上报位置并反馈震感情况。你反馈的信息，经处理后会形成震感分布图。 此外，小程序还上线了“位置更新”能力。当你的地理位置发生变化时，小程序会主动识别并提醒你将目前所在地添加为预警位置。",
+    "published_at": "2026-08-02T11:50:53+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "ff7d76020b7c4caa",
+    "title_hash": "6ac40e6e3bb5e97b",
+    "title": "长三角（嘉兴）Token运营中心正式启动",
+    "url": "https://36kr.com/newsflashes/3921838043065736?f=rss",
+    "summary": "36氪获悉，长三角（嘉兴）Token运营中心发布会日前在嘉兴沙龙宾馆举行。发布会上，作为长三角（嘉兴）Token运营中心面向市场的统一服务窗口，长三角（嘉兴）Token运营中心门户网站同步上线。企业不再需要找代码、配环境、调参数。平台如同一个大型的“数据模型超市”，企业一次接入，即可按需调用DeepSeek、Qwen等100余款主流大模型。 (浙江发布)",
+    "published_at": "2026-08-02T11:39:57+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "205fc2ebaad8f2c0",
+    "title_hash": "f25d67e9f35e0b8e",
+    "title": "上半年全国二手房交易占比超新房",
+    "url": "https://36kr.com/newsflashes/3921834901974659?f=rss",
+    "summary": "今年上半年，全国二手房交易占比超过新房，达到50.4%，传统以新房销售为主的增量交易格局正加快向新房和二手房并举转变，房地产市场进入存量时代。在中央经济工作会议“控增量、去库存、优供给”的要求下，多个城市也在通过多种方式盘活存量房源，推动既有住房资源的优化配置，激活存量住房价值。（央视财经）",
+    "published_at": "2026-08-02T11:36:46+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "f0cec8456bf2b809",
+    "title_hash": "e40a8caf9a7e195a",
+    "title": "吉利汽车集团架构调整 林杰任销售总公司总经理",
+    "url": "https://36kr.com/newsflashes/3921773406268802?f=rss",
+    "summary": "记者从知情人士处获悉，吉利汽车集团将成立吉利汽车集团销售总公司，由该集团分管营销的高级副总裁林杰担任总经理，并兼任极氪销售公司总经理。据悉，作为集团系统级组织，该销售总公司下设中国星、银河、领克及极氪销售公司等6个集团一级组织。对此，吉利方面表示，新架构将构建“前台更贴近用户和市场、中后台最大化共享”的扁平化、体系化作战模式。（财联社）",
+    "published_at": "2026-08-02T10:34:12+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "693b4474f5f406c6",
+    "title_hash": "d50661c297e15752",
+    "title": "无锡：上半年新签约10亿元以上产业项目78个 签约金额1758.38亿元",
+    "url": "https://36kr.com/newsflashes/3921713668566657?f=rss",
+    "summary": "36氪获悉，据无锡发布公众号8月2日消息，今年，无锡共有56个项目列入省重大实施项目清单，数量较去年增加6个，年度计划投资增加169.8亿元，进入储备库的项目数量增加了8个。全年计划实施的亿元以上产业项目760个，较去年增加66个，同比增长9.5%。上半年新签约10亿元以上产业项目78个，较去年同期增加4个，增长5.4%，签约金额1758.38亿元、同比增长51.8%，其中50亿元以上产业项目7个、较去年同期增加3个，百亿元以上产业项目3个、较去年同期增加2个。",
+    "published_at": "2026-08-02T10:15:20+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "b83b607885f3123b",
+    "title_hash": "c507a5e77b079314",
+    "title": "小米多款手机今起正式涨价",
+    "url": "https://36kr.com/newsflashes/3921712210898566?f=rss",
+    "summary": "8月2日，小米商城价格显示，小米多款手机正式涨价。（新浪财经）",
+    "published_at": "2026-08-02T10:00:52+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "774c0fb7cfffb310",
+    "title_hash": "41b24d81f8a1e092",
+    "title": "电影《八仙！》票房突破11亿",
+    "url": "https://36kr.com/newsflashes/3921707896565376?f=rss",
+    "summary": "据网络平台数据，截至8月2日8时51分，影片《八仙！》票房突破11亿。​​​",
+    "published_at": "2026-08-02T09:50:29+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "557e5ab0a48f0925",
+    "title_hash": "1a34e44d06e87866",
+    "title": "今年上半年北京“双枢纽”机场进出口超4000亿元",
+    "url": "https://36kr.com/newsflashes/3921706031721861?f=rss",
+    "summary": "据北京海关统计，今年上半年，北京“双枢纽”机场——首都国际机场和大兴国际机场进出境航班6.3万架次，进出口货物4109.8亿元，同比增长18.7%。生物医药、集成电路、精密设备等进出口需求旺盛，高附加值产品成为拉动航空货运增长的主要力量。（央视新闻）",
+    "published_at": "2026-08-02T09:39:35+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "3a01083b17761077",
+    "title_hash": "a23408276755b53d",
+    "title": "金风科技参建Ummbila Emoyeni一期风电项目实现商业运营",
+    "url": "https://36kr.com/newsflashes/3921704795057793?f=rss",
+    "summary": "据金风科技消息，近日，由南非Seriti Green开发的Ummbila Emoyeni项目群一期风电项目正式投入商业运营。该项目装机容量达155MW，年发电量4.8亿度，预计可满足约50万户家庭的用电需求，每年减少碳排放约40万吨。配置25台金风科技GWH182-6.2MW智能风电机组，叶轮直径达183.5米，是截至目前南非叶轮直径最大的在运风电项目。",
+    "published_at": "2026-08-02T09:31:19+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "d1715da44d4f7576",
+    "title_hash": "3a7a5df77b9d9112",
+    "title": "金富科技：公司液冷产能和订单销量实现同比、环比稳步攀升",
+    "url": "https://36kr.com/newsflashes/3921703822273925?f=rss",
+    "summary": "金富科技近日在机构调研时表示，液冷行业需求持续爆发、行业整体处于高景气扩产周期，市场供货需求旺盛。公司紧抓行业发展机遇，结合简易程序定增募投项目及自有资金扩产项目，快速推动液冷产线建设、设备采购、新增厂区装修等，液冷板块扩产工作全力加速推进。依托分批次产线投产落地，公司液冷产能和订单销量实现同比、环比稳步攀升，持续匹配下游客户不断增长的订单需求。",
+    "published_at": "2026-08-02T09:23:25+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "c0c115d2e1a8adbd",
+    "title_hash": "0b6c71e848fd1725",
+    "title": "金山办公WPS存储管理新版本上线",
+    "url": "https://36kr.com/newsflashes/3920632482491776?f=rss",
+    "summary": "7月31日，金山办公首次参展ChinaJoy，现场除展示独立AI办公Agent灵犀和面向研发场景的WPS Comate外，还设置了面向WPS用户的反馈区。同日，包含存储管理等多项更新的WPS新版本正式上线。围绕C盘存储管理，新版本主要带来了两方面改进。首先，WPS新增统一的“存储管理”入口，原本分散在不同位置的磁盘占用查看、缓存清理和存储路径调整等功能，被集中到同一页面。其次，安装路径可以分别设置。",
+    "published_at": "2026-08-01T16:30:26+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "ea6721e3f7d2a744",
+    "title_hash": "7b60e47b3d5c30bd",
+    "title": "长三角多地发放结婚消费券",
+    "url": "https://36kr.com/newsflashes/3920617407196549?f=rss",
+    "summary": "在长三角部分地区，新人们除了能收到来自亲朋好友的祝福，还可能领到一份“官方随的份子”——结婚消费券。 浙江江山第二批结婚消费券定于8月19日当天启动发放，凡在七夕起一个月内登记的新人，每对可申领价值1000元的消费券。就在两个多月前的“520”，首批消费券同样引发了一波申领热潮。 长三角多地已先后试水。日前，浙江义乌市民政部门宣布再次延长结婚消费券活动时间，2026年10月底前，在当地登记结婚的新人均可申领价值1000元、由财政补贴的消费券。当地的结婚消费券发放活动2025年10月中旬启动，这已经是第二次延期。每对办理结婚登记的夫妻可领取10张“满200元减100元”满减券，用于婚礼婚庆、婚纱摄影、休闲旅游、酒店住宿、婚俗文创、零售餐饮等消费，领取后30日内核销。据义乌市婚姻登记中心介绍，到2026年6月底，已有3161对新人领取消费券。",
+    "published_at": "2026-08-01T16:15:09+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "101ee291a60f8780",
+    "title_hash": "0cea591b01a1e966",
+    "title": "印度央行：印度引资举措吸引超400亿美元外资",
+    "url": "https://36kr.com/newsflashes/3920583946186368?f=rss",
+    "summary": "印度积极吸引海外资本，自6月以来已引入资金超400亿美元，充实印度央行外汇储备。当前国际原油价格走高，印度政策制定者正借此稳定卢比汇率。 印度央行周六公布的数据显示，截至7月31日，非居民外币存款吸纳资金规模达3672亿美元。叠加海外外币借款与境外商业借款流入资金，引资总额约410亿美元。印度央行行长桑杰・马尔霍特拉本周接受采访时向投资者安抚卢比前景。他表示，卢比近期走弱源于地缘冲突、美元走强以及新兴市场普遍波动，并非印度经济基本面出现恶化。",
+    "published_at": "2026-08-01T16:00:06+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "ff17716475a3b0d2",
+    "title_hash": "75fc1bbd51a7a030",
+    "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
+    "url": "https://36kr.com/newsflashes/3920583526526343?f=rss",
+    "summary": "当地时间7月31日，中国贸促会组织中国企业家代表团在华盛顿与美中贸易全国委员会及其会员企业交流座谈。中国贸促会会长任鸿斌、中国驻美国使馆经商处公参李勰、美中贸委会会长谭森等出席并发言。来自多个行业的中美企业代表参会并进行了积极沟通交流。美中贸委会会长谭森在接受媒体采访时表示，美国企业仍致力于在中国发展，重视中国市场，并希望加强与中国企业合作。",
+    "published_at": "2026-08-01T15:45:40+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "b569e43de42ebbf3",
+    "title_hash": "4d5fdf15ed1a99fe",
+    "title": "部分美国企业换上中国大模型以降低成本",
+    "url": "https://36kr.com/newsflashes/3920583026929281?f=rss",
+    "summary": "从AlphaGo称霸围棋界到ChatGPT面世，美国在算法大模型领域积累了显著的先发优势。但近年中国大模型的崛起对AI格局有所冲击。美国《华尔街日报》等多家媒体提到，中国大模型独角兽月之暗面新一代开源大模型Kimi K3撼动资本市场，并称其与DeepSeek在2025年发布时引发的市场恐慌如出一辙，连马斯克都赞其“令人印象深刻”。一些大型美国公司也开始转向中国大模型。据美联社消息，加密货币交易所Coinbase表示，正在转向使用中国人工智能模型以降低成本。爱彼迎采用了阿里巴巴的Qwen模型，并称赞其“快速且便宜”。",
+    "published_at": "2026-08-01T15:30:11+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "f149878ba4f2a518",
+    "title_hash": "ebd2eb52f7b69667",
+    "title": "充电桩CCC认证自8月1日起开始强制实施",
+    "url": "https://36kr.com/newsflashes/3920582349974916?f=rss",
+    "summary": "8月1日起，市场监管总局（国家认监委）对电动汽车供电设备强制性产品认证（CCC认证）管理开始强制实施，通过开展防触电、短路保护、耐火耐燃等关键安全指标测试和企业现场质量保证能力、产品一致性检查，切实筑牢产品质量安全底线。随着我国新能源汽车的不断普及和发展，电动汽车供电设备（俗称充电桩）已经成为服务百姓出行需求的重要基础设施。8月1日起，未获得CCC认证的电动汽车供电设备，不得出厂、销售、进口或者在其他经营活动中使用。对于8月1日前已经投入运营的设备，经营者应当严格遵守《中华人民共和国产品质量法》《中华人民共和国消费者权益保护法》有关规定，保证其提供的商品或者服务符合保障人身、财产安全的要求。",
+    "published_at": "2026-08-01T15:15:29+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "35c23203bbc852c3",
+    "title_hash": "bf50514cf0faa452",
+    "title": "国际足联放弃“出售世界杯部分股权”计划，亚足联主席发声",
+    "url": "https://36kr.com/newsflashes/3920581725924742?f=rss",
+    "summary": "据法新社报道，对于国际足联决定“撤回”一项商业计划，放弃继续推进“出售世界杯部分股权”一事，亚足联主席萨尔曼8月1日在一份声明中表示“欢迎”。根据亚足联网站发布的声明，萨尔曼还称���希望今后任何可能会对全球足球运动产生影响的倡议，都将及时以透明且有意义的方式提交给各大洲足球联合会、国际足联理事会、成员协会及其他利益相关方进行讨论。",
+    "published_at": "2026-08-01T15:00:51+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "36氪",
+    "url_hash": "1dbb582568b23fda",
+    "title_hash": "fab703ace798ae19",
+    "title": "岚图汽车：7月交付13189辆新车",
+    "url": "https://36kr.com/newsflashes/3920478712442503?f=rss",
+    "summary": "36氪获悉，8月1日，岚图汽车发布最新交付数据：7月交付13189辆，1-7月累计交付89453辆，同比增长31%。",
+    "published_at": "2026-08-01T14:42:05+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "c3bebe660fba0007",
+    "title_hash": "e9bcff54732db074",
+    "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+    "url": "https://www.qbitai.com/2026/08/464781.html",
+    "summary": "具身智能的τ（bushi）",
+    "published_at": "2026-08-01T18:45:46+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "599046112a956b3b",
+    "title_hash": "2d214bf3335958dd",
+    "title": "获奖之后，王虹最想感谢的人",
+    "url": "https://www.qbitai.com/2026/08/464761.html",
+    "summary": "\"他真的给了我很大的帮助\"",
+    "published_at": "2026-08-01T18:38:47+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "4961c9553f717d76",
+    "title_hash": "360aad40323e87a5",
+    "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+    "url": "https://www.qbitai.com/2026/08/464713.html",
+    "summary": "狂刷3小时！",
+    "published_at": "2026-08-01T18:33:18+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d7b559dc833a7edf",
+    "title_hash": "2adda43fd1c8842b",
+    "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+    "url": "https://www.qbitai.com/2026/08/464693.html",
+    "summary": "对前沿实验室估值悲观",
+    "published_at": "2026-08-01T13:02:49+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d9e416905ea07e6c",
+    "title_hash": "d1df29b6b7d1f44b",
+    "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+    "url": "https://www.qbitai.com/2026/08/464532.html",
+    "summary": "下一场竞争，是谁能造出更多“有用的世界”",
+    "published_at": "2026-08-01T12:53:33+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "14196b926672dfa5",
+    "title_hash": "7683befee655d6f5",
+    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+    "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+    "summary": "Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html Comments URL: https://news.ycombinator.com/item?id=49140702 Points: 20 # Comments: 1",
+    "published_at": "2026-08-02T11:12:52+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "3da2126e4028fb33",
+    "title_hash": "eb316ae5cfcadc8c",
+    "title": "Linux desktop market share has hit over 10% in North America",
+    "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+    "summary": "Article URL: https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/ Comments URL: https://news.ycombinator.com/item?id=49140696 Points: 17 # Comments: 0",
+    "published_at": "2026-08-02T11:10:00+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "85624a6e0cb4d91b",
+    "title_hash": "711ad7aebed6efbb",
+    "title": "Plug-in solar is coming. Plug-in batteries should follow",
+    "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+    "summary": "Article URL: https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow Comments URL: https://news.ycombinator.com/item?id=49140633 Points: 62 # Comments: 40",
+    "published_at": "2026-08-02T10:57:51+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b8729f31a341f03c",
+    "title_hash": "85075db46d0aacf8",
+    "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+    "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+    "summary": "Article URL: https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific# Comments URL: https://news.ycombinator.com/item?id=49140599 Points: 15 # Comments: 3",
+    "published_at": "2026-08-02T10:51:15+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "fdeda102a772663e",
+    "title_hash": "69ce46e0f8210a13",
+    "title": "Four Time Scales for Technology Development and Deployment",
+    "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+    "summary": "Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/ Comments URL: https://news.ycombinator.com/item?id=49140487 Points: 14 # Comments: 1",
+    "published_at": "2026-08-02T10:26:52+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "46b243114b619bbf",
+    "title_hash": "ef043467c3020566",
+    "title": "When random.bytes() runs but doesn't work",
+    "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+    "summary": "Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt Comments URL: https://news.ycombinator.com/item?id=49140405 Points: 9 # Comments: 1",
+    "published_at": "2026-08-02T10:08:26+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a3c9af9b9fe739f9",
+    "title_hash": "efe5107db61223aa",
+    "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+    "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+    "summary": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox Comments URL: https://news.ycombinator.com/item?id=49140396 Points: 51 # Comments: 14",
+    "published_at": "2026-08-02T10:07:09+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e10032b89d30e3c5",
+    "title_hash": "056410c3bdf8fb19",
+    "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+    "url": "https://costperprompt.com/",
+    "summary": "Article URL: https://costperprompt.com/ Comments URL: https://news.ycombinator.com/item?id=49140340 Points: 9 # Comments: 2",
+    "published_at": "2026-08-02T09:56:44+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "bd1fe04bddb74701",
+    "title_hash": "be2fc3b330c54f23",
+    "title": "Go 1.27 Interactive Tour",
+    "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+    "summary": "Article URL: https://victoriametrics.com/blog/go-1-27/index.html Comments URL: https://news.ycombinator.com/item?id=49140218 Points: 86 # Comments: 22",
+    "published_at": "2026-08-02T09:35:51+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1488bdf5015fc1cc",
+    "title_hash": "b9653ab244897d8a",
+    "title": "ASRock BC-250: Building the Budget Steam Machine",
+    "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+    "summary": "Article URL: https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/ Comments URL: https://news.ycombinator.com/item?id=49140213 Points: 31 # Comments: 7",
+    "published_at": "2026-08-02T09:35:11+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "74e08a5d18b03004",
+    "title_hash": "58e05632f7e08ec3",
+    "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+    "url": "https://zenodo.org/records/21753002",
+    "summary": "Article URL: https://zenodo.org/records/21753002 Comments URL: https://news.ycombinator.com/item?id=49140080 Points: 8 # Comments: 2",
+    "published_at": "2026-08-02T09:01:45+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "eda3c25ee20f2e6e",
+    "title_hash": "50032640446a6bdc",
+    "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
+    "url": "https://wwnorton.com/books/9781324051299",
+    "summary": "Article URL: https://wwnorton.com/books/9781324051299 Comments URL: https://news.ycombinator.com/item?id=49139796 Points: 10 # Comments: 2",
+    "published_at": "2026-08-02T08:01:46+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "78a27feea234b38f",
+    "title_hash": "5b1b1c4a6e3e73be",
+    "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+    "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+    "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc10015.html Comments URL: https://news.ycombinator.com/item?id=49139711 Points: 43 # Comments: 5",
+    "published_at": "2026-08-02T07:44:55+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1c6e94ae7ba10cfc",
+    "title_hash": "4ad020fdb36adc4a",
+    "title": "Unraveling the mysteries of habit formation",
+    "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+    "summary": "Article URL: https://www.kyoto-u.ac.jp/en/research-news/2026-07-28 Comments URL: https://news.ycombinator.com/item?id=49139383 Points: 51 # Comments: 19",
+    "published_at": "2026-08-02T06:55:52+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "972e0471f86e312d",
+    "title_hash": "07cc6988b5487d48",
+    "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+    "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+    "summary": "Article URL: https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff Comments URL: https://news.ycombinator.com/item?id=49139352 Points: 0 # Comments: 0",
+    "published_at": "2026-08-02T06:52:44+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0d78e02a307de63f",
+    "title_hash": "cb6f621ce832048b",
+    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 222 # Comments: 197",
+    "published_at": "2026-08-02T06:25:12+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "cad758049c65ffa0",
+    "title_hash": "9528c64ed619e2a1",
+    "title": "Atom is better than RSS, in ways that matter",
+    "url": "https://chrismorgan.info/atom%3Erss",
+    "summary": "Article URL: https://chrismorgan.info/atom%3Erss Comments URL: https://news.ycombinator.com/item?id=49138897 Points: 27 # Comments: 3",
+    "published_at": "2026-08-02T06:00:16+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "78d1ddb7f4572678",
+    "title_hash": "b8ecb594dee5c0ab",
+    "title": "Seedance 2.5",
+    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+    "summary": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 Comments URL: https://news.ycombinator.com/item?id=49138302 Points: 226 # Comments: 111",
+    "published_at": "2026-08-02T04:45:12+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "308b4e638e9ec0ff",
+    "title_hash": "ff3cbc7c837ae4a9",
+    "title": "Diátaxis",
+    "url": "https://diataxis.fr/",
+    "summary": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 248 # Comments: 33",
+    "published_at": "2026-08-02T04:33:27+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b679a885b964e989",
+    "title_hash": "f0ce9588449d8309",
+    "title": "But can your calculator run Linux?",
+    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+    "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 76 # Comments: 6",
+    "published_at": "2026-08-02T03:44:48+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "ae4e2aba061a2c2c",
+    "title_hash": "de737f2fa0f2eba4",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "published_at": "2026-08-02T04:26:04+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "5f500551f75d739a",
+    "title_hash": "397a065899bdbf84",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "published_at": "2026-08-02T03:45:45+08:00",
+    "created_at": "2026-08-02 04:47:08"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "0fd7d700f38c978a",
+    "title_hash": "44932d98547976ad",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "published_at": "2026-08-02T01:07:34+08:00",
+    "created_at": "2026-08-02 04:47:08"
   }
 ]
