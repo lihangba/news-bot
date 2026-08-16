@@ -1,276 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "f0f0ef12ed78d88a",
-    "title_hash": "f28d63c2df26a02c",
-    "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
-    "url": "https://www.qbitai.com/2026/08/468631.html",
-    "summary": "这就有些尴尬了。",
-    "published_at": "2026-08-08T15:57:35+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "93ac61a26a8f9583",
-    "title_hash": "f9ef9894d382678d",
-    "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
-    "url": "https://www.qbitai.com/2026/08/468555.html",
-    "summary": "海外团队纷纷下注，NeoLab浪潮狂飙",
-    "published_at": "2026-08-08T15:56:09+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "07d47220f7bdeddf",
-    "title_hash": "16639f96605f0373",
-    "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
-    "url": "https://www.qbitai.com/2026/08/468498.html",
-    "summary": "「我，Jeff Dean，打钱」",
-    "published_at": "2026-08-08T15:51:53+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "fd09b106fd4291b7",
-    "title_hash": "e90a72dcda65b8da",
-    "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
-    "url": "https://www.qbitai.com/2026/08/468398.html",
-    "summary": "再花15亿美元买现成AI编程团队",
-    "published_at": "2026-08-08T10:45:02+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "70c158e6229f1c61",
-    "title_hash": "9ba52462cb05ed74",
-    "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
-    "url": "https://www.qbitai.com/2026/08/468338.html",
-    "summary": "啊，这真是个AI“失控”的夏天",
-    "published_at": "2026-08-08T10:35:38+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5a04e1b900433e49",
-    "title_hash": "9f0e016e100eb7d7",
-    "title": "The phone book that led us to Assad's spy chief in hiding",
-    "url": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
-    "summary": "Article URL: https://www.bbc.com/news/articles/c4gyrzn8p94o Comments URL: https://news.ycombinator.com/item?id=49227686 Points: 14 # Comments: 3",
-    "published_at": "2026-08-09T09:55:53+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0351b398ec10cb15",
-    "title_hash": "c47884431e908466",
-    "title": "TheoremDB · A public workspace for machine mathematics",
-    "url": "https://theoremdb.org/",
-    "summary": "Article URL: https://theoremdb.org/ Comments URL: https://news.ycombinator.com/item?id=49227505 Points: 4 # Comments: 0",
-    "published_at": "2026-08-09T09:23:36+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "78b23e98a8f17c95",
-    "title_hash": "26942c1ce5b7d4b9",
-    "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-    "url": "https://os8088.com/",
-    "summary": "Article URL: https://os8088.com/ Comments URL: https://news.ycombinator.com/item?id=49226923 Points: 68 # Comments: 23",
-    "published_at": "2026-08-09T07:37:27+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0376f65978d9e7be",
-    "title_hash": "91df7a6a3f88ddf2",
-    "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal",
-    "url": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
-    "summary": "Article URL: https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal Comments URL: https://news.ycombinator.com/item?id=49226827 Points: 25 # Comments: 20",
-    "published_at": "2026-08-09T07:19:44+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "73b46baa81eac8f2",
-    "title_hash": "5f6d8f0b82947755",
-    "title": "Dithered QR Codes",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "summary": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/ Comments URL: https://news.ycombinator.com/item?id=49226742 Points: 47 # Comments: 6",
-    "published_at": "2026-08-09T07:05:24+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "664518f288036bbe",
-    "title_hash": "5735d4c99b28707c",
-    "title": "My server is a phone now",
-    "url": "https://seg6.space/posts/phone-server/",
-    "summary": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 129 # Comments: 56",
-    "published_at": "2026-08-09T06:49:23+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "29a47cb353a90886",
-    "title_hash": "7d302e4ed34833da",
-    "title": "Should you stop cracking your knuckles?",
-    "url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
-    "summary": "Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles Comments URL: https://news.ycombinator.com/item?id=49226563 Points: 16 # Comments: 16",
-    "published_at": "2026-08-09T06:36:25+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e331d101bf80fccf",
-    "title_hash": "016380d3c24d5a82",
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "summary": "Article URL: https://shopify.engineering/scaling-inventory-reservations Comments URL: https://news.ycombinator.com/item?id=49226536 Points: 64 # Comments: 27",
-    "published_at": "2026-08-09T06:32:50+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "70b92a7536f565d5",
-    "title_hash": "647f704b4fba5cb1",
-    "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-    "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-    "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/ Comments URL: https://news.ycombinator.com/item?id=49225918 Points: 98 # Comments: 60",
-    "published_at": "2026-08-09T05:07:10+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "16b9cd5bc8b24012",
-    "title_hash": "2e3ddf5fb22fba70",
-    "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-    "summary": "Article URL: https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute Comments URL: https://news.ycombinator.com/item?id=49225139 Points: 97 # Comments: 20",
-    "published_at": "2026-08-09T03:38:08+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "60c70a9603ec7230",
-    "title_hash": "c5bfda3b94ecc73b",
-    "title": "Danish high schoolers will have to verbally defend written assignments",
-    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-    "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 524 # Comments: 248",
-    "published_at": "2026-08-09T02:09:31+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "d9d7b81d1509bda1",
-    "title_hash": "217541f750ea2cef",
-    "title": "TinySol, a tiny solitaire game for DOS",
-    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-    "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 50 # Comments: 13",
-    "published_at": "2026-08-09T01:42:40+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "38077166ea4c8657",
-    "title_hash": "1ce89ab167c85f0e",
-    "title": "Fastmail offers EU data region",
-    "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-    "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 331 # Comments: 158",
-    "published_at": "2026-08-09T00:04:51+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b6b034454b0e2f04",
-    "title_hash": "689d72fe8d1a0547",
-    "title": "Can Intel finally beat ARM on performance per Watt?",
-    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-    "summary": "Article URL: https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/ Comments URL: https://news.ycombinator.com/item?id=49223079 Points: 173 # Comments: 120",
-    "published_at": "2026-08-09T00:04:36+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "fabda0a665d08b24",
-    "title_hash": "34d37d7b06802d3f",
-    "title": "“Code was never the hard part” is an insult to all programmers",
-    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "summary": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers Comments URL: https://news.ycombinator.com/item?id=49222189 Points: 603 # Comments: 372",
-    "published_at": "2026-08-08T22:32:33+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c9de1039f1b16c05",
-    "title_hash": "fc1741d933a1928f",
-    "title": "Triton: DirectX 11 Driver for QEMU",
-    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-    "summary": "Article URL: https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/ Comments URL: https://news.ycombinator.com/item?id=49221711 Points: 143 # Comments: 27",
-    "published_at": "2026-08-08T21:33:06+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2e1723421e0ae3a2",
-    "title_hash": "fef1bd65c9edb0c6",
-    "title": "_for-sale DNS records",
-    "url": "https://specification.website/spec/foundations/for-sale-dns/",
-    "summary": "Article URL: https://specification.website/spec/foundations/for-sale-dns/ Comments URL: https://news.ycombinator.com/item?id=49221668 Points: 359 # Comments: 134",
-    "published_at": "2026-08-08T21:26:51+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2fdeec7b7d85eb65",
-    "title_hash": "3f4825c453fd74e2",
-    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-    "summary": "Article URL: https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/ Comments URL: https://news.ycombinator.com/item?id=49221220 Points: 105 # Comments: 84",
-    "published_at": "2026-08-08T20:31:11+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "04e10f67940243c5",
-    "title_hash": "24db84383222454c",
-    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "summary": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/ Comments URL: https://news.ycombinator.com/item?id=49220609 Points: 353 # Comments: 357",
-    "published_at": "2026-08-08T18:57:44+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c9e4acffc4773405",
-    "title_hash": "bfe2091d4bb14712",
-    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-    "summary": "https://archive.ph/W2tpE Comments URL: https://news.ycombinator.com/item?id=49220339 Points: 257 # Comments: 406",
-    "published_at": "2026-08-08T18:04:25+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "a7e2c26896ee6258",
-    "title_hash": "30b25108e9187ebb",
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-    "published_at": "2026-08-09T05:24:02+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "aeb176124cfba0f7",
-    "title_hash": "d3dac88be1956951",
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "summary": "NextSlide says its team members are now working on ChatGPT.",
-    "published_at": "2026-08-09T03:41:13+08:00",
-    "created_at": "2026-08-09 03:11:10"
-  },
-  {
-    "source": "量子位",
     "url_hash": "d051b45b600d45b1",
     "title_hash": "f2f83fad57574696",
     "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
@@ -2968,5 +2698,295 @@
     "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
     "published_at": "2026-08-14T22:00:00+08:00",
     "created_at": "2026-08-15 02:29:07"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d1d15223560c76d2",
+    "title_hash": "3136cb62c0151098",
+    "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+    "url": "https://www.qbitai.com/2026/08/473876.html",
+    "summary": "理解大模型，无需再训练一个替代网络",
+    "published_at": "2026-08-15T14:42:23+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "85ca285fb34dbd14",
+    "title_hash": "f633d2702a518da0",
+    "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+    "url": "https://www.qbitai.com/2026/08/473866.html",
+    "summary": "音潮API限时免费开放",
+    "published_at": "2026-08-15T14:36:05+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "3efbf9aaf70b83b2",
+    "title_hash": "e1a689f322c5e72d",
+    "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+    "url": "https://www.qbitai.com/2026/08/473669.html",
+    "summary": "推理能力还能自定义",
+    "published_at": "2026-08-15T14:05:31+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "0b2d563cafee4561",
+    "title_hash": "3bb2d02b6529f4e0",
+    "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+    "url": "https://www.qbitai.com/2026/08/473407.html",
+    "summary": "1.9万字全文实录",
+    "published_at": "2026-08-15T12:21:09+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "1fed9c0b2ee89c4d",
+    "title_hash": "0a64166dd62158b0",
+    "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
+    "url": "https://www.qbitai.com/2026/08/473395.html",
+    "summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
+    "published_at": "2026-08-15T12:03:37+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "0f5925c71eadfb53",
+    "title_hash": "d4cb64e60f5a0cbd",
+    "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+    "url": "https://www.qbitai.com/2026/08/473379.html",
+    "summary": "所有人都可免费下载部署及商用。",
+    "published_at": "2026-08-14T23:41:12+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "62106e52f4396cd1",
+    "title_hash": "3d207e7c45294fa3",
+    "title": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+    "url": "https://arxiv.org/abs/2608.13328",
+    "summary": "Article URL: https://arxiv.org/abs/2608.13328 Comments URL: https://news.ycombinator.com/item?id=49316242 Points: 9 # Comments: 0",
+    "published_at": "2026-08-16T10:07:06+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "015c3c757456dfdc",
+    "title_hash": "bcd0f11b1c57fa59",
+    "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+    "url": "https://www.micdrop.gg/",
+    "summary": "Article URL: https://www.micdrop.gg/ Comments URL: https://news.ycombinator.com/item?id=49315742 Points: 9 # Comments: 2",
+    "published_at": "2026-08-16T08:46:29+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0628e13b186935c1",
+    "title_hash": "8a8c6bc66c59e3a3",
+    "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+    "url": "https://waku.sh",
+    "summary": "Article URL: https://waku.sh Comments URL: https://news.ycombinator.com/item?id=49315709 Points: 7 # Comments: 2",
+    "published_at": "2026-08-16T08:38:44+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "64589621f5bd85f4",
+    "title_hash": "9e217460f30fdfd8",
+    "title": "Big Pickle on SWE Atlas – Codebase QnA",
+    "url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+    "summary": "Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas Comments URL: https://news.ycombinator.com/item?id=49315563 Points: 4 # Comments: 0",
+    "published_at": "2026-08-16T08:10:48+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "230379597ffab64c",
+    "title_hash": "a7223022cc81d0d8",
+    "title": "Tea5767-Radio-Tuner",
+    "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+    "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner Comments URL: https://news.ycombinator.com/item?id=49315456 Points: 23 # Comments: 0",
+    "published_at": "2026-08-16T07:54:35+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "57965bedb7523e81",
+    "title_hash": "a7606acf4b66bb19",
+    "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
+    "url": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
+    "summary": "Article URL: https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind Comments URL: https://news.ycombinator.com/item?id=49315065 Points: 4 # Comments: 0",
+    "published_at": "2026-08-16T06:55:50+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5abf1cd2974ec451",
+    "title_hash": "748ba97543dc53ed",
+    "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+    "url": "https://sugartrack-beta.vercel.app/",
+    "summary": "Article URL: https://sugartrack-beta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49314884 Points: 22 # Comments: 6",
+    "published_at": "2026-08-16T06:28:14+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2874ba2d68546c0e",
+    "title_hash": "d611dea3ea5abe51",
+    "title": "Bede Liu, a digital signal processing pioneer, has died",
+    "url": "https://spectrum.ieee.org/digital-signal-processing",
+    "summary": "Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 61 # Comments: 3",
+    "published_at": "2026-08-16T05:45:54+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "63d9bba8b71bba0a",
+    "title_hash": "d81983b323e98789",
+    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Wow!_signal Comments URL: https://news.ycombinator.com/item?id=49314596 Points: 70 # Comments: 17",
+    "published_at": "2026-08-16T05:42:47+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1a3ff720ce576848",
+    "title_hash": "dc5b1f26d6748b97",
+    "title": "Tracking down a Zsh history data loss bug",
+    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "summary": "Article URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/ Comments URL: https://news.ycombinator.com/item?id=49314579 Points: 40 # Comments: 10",
+    "published_at": "2026-08-16T05:39:09+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7980d8d5d269aaf7",
+    "title_hash": "c242fc2e983c180c",
+    "title": "Abdominal fat predicts heart disease risk better than BMI",
+    "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+    "summary": "Article URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 166 # Comments: 123",
+    "published_at": "2026-08-16T05:14:34+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "c5bb51af2e228ee5",
+    "title_hash": "e9164adfe534c5fa",
+    "title": "Cultivating a state of mind where new ideas are born (2023)",
+    "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+    "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 86 # Comments: 25",
+    "published_at": "2026-08-16T04:54:11+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1a64cd2bc9fd6f1d",
+    "title_hash": "51cb36fdc021d8ce",
+    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+    "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+    "summary": "Article URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/ Comments URL: https://news.ycombinator.com/item?id=49313428 Points: 93 # Comments: 42",
+    "published_at": "2026-08-16T03:20:51+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "441022e5503ba70a",
+    "title_hash": "c9d9211dae94e1d1",
+    "title": "AI in drug discovery – what it is, where we stand and the path forward",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 99 # Comments: 51",
+    "published_at": "2026-08-16T03:12:53+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "013702e9f0aad257",
+    "title_hash": "b2dc8cef5322a167",
+    "title": "Tess's Android Wayland Compositor",
+    "url": "https://github.com/wmww/tawc",
+    "summary": "Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 52 # Comments: 5",
+    "published_at": "2026-08-16T02:34:26+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7f479221972c5a14",
+    "title_hash": "b80f430a627f1b67",
+    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+    "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+    "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0",
+    "published_at": "2026-08-16T02:33:25+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ba9e2d42d5d6446b",
+    "title_hash": "9c889d2e86481e20",
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 422 # Comments: 373",
+    "published_at": "2026-08-16T02:13:02+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2a63c8c0d736ce91",
+    "title_hash": "984e864355245e1c",
+    "title": "I Remain a Skeptic",
+    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+    "summary": "Article URL: https://blog.jsbarretto.com/post/i-remain-a-skeptic Comments URL: https://news.ycombinator.com/item?id=49312053 Points: 76 # Comments: 52",
+    "published_at": "2026-08-16T00:42:58+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "cc46e9b7f6f7c44a",
+    "title_hash": "9eb70cabcc184e2d",
+    "title": "Semaglutide linked to lower predicted dementia risk",
+    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+    "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 357 # Comments: 250",
+    "published_at": "2026-08-15T23:58:53+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "26a76f1a6e1a6813",
+    "title_hash": "08fa7d97dac54619",
+    "title": "A spectre is haunting Unicode",
+    "url": "https://www.dampfkraft.com/ghost-characters.html",
+    "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 179 # Comments: 58",
+    "published_at": "2026-08-15T22:34:04+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "47c8acd498f0c0e4",
+    "title_hash": "dc4e7f05caddf4ba",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "published_at": "2026-08-16T05:29:19+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "569c4523c8fcf143",
+    "title_hash": "bce825ade75c97a7",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "published_at": "2026-08-16T02:58:39+08:00",
+    "created_at": "2026-08-16 02:37:17"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "15aaf2b747ae330d",
+    "title_hash": "82773613a462c6c6",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "published_at": "2026-08-16T00:30:00+08:00",
+    "created_at": "2026-08-16 02:37:17"
   }
 ]
