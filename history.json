@@ -1,296 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "d1d15223560c76d2",
-    "title_hash": "3136cb62c0151098",
-    "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-    "url": "https://www.qbitai.com/2026/08/473876.html",
-    "summary": "理解大模型，无需再训练一个替代网络",
-    "published_at": "2026-08-15T14:42:23+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "85ca285fb34dbd14",
-    "title_hash": "f633d2702a518da0",
-    "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
-    "url": "https://www.qbitai.com/2026/08/473866.html",
-    "summary": "音潮API限时免费开放",
-    "published_at": "2026-08-15T14:36:05+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "3efbf9aaf70b83b2",
-    "title_hash": "e1a689f322c5e72d",
-    "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
-    "url": "https://www.qbitai.com/2026/08/473669.html",
-    "summary": "推理能力还能自定义",
-    "published_at": "2026-08-15T14:05:31+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "0b2d563cafee4561",
-    "title_hash": "3bb2d02b6529f4e0",
-    "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
-    "url": "https://www.qbitai.com/2026/08/473407.html",
-    "summary": "1.9万字全文实录",
-    "published_at": "2026-08-15T12:21:09+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "1fed9c0b2ee89c4d",
-    "title_hash": "0a64166dd62158b0",
-    "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
-    "url": "https://www.qbitai.com/2026/08/473395.html",
-    "summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
-    "published_at": "2026-08-15T12:03:37+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "0f5925c71eadfb53",
-    "title_hash": "d4cb64e60f5a0cbd",
-    "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-    "url": "https://www.qbitai.com/2026/08/473379.html",
-    "summary": "所有人都可免费下载部署及商用。",
-    "published_at": "2026-08-14T23:41:12+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "62106e52f4396cd1",
-    "title_hash": "3d207e7c45294fa3",
-    "title": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-    "url": "https://arxiv.org/abs/2608.13328",
-    "summary": "Article URL: https://arxiv.org/abs/2608.13328 Comments URL: https://news.ycombinator.com/item?id=49316242 Points: 9 # Comments: 0",
-    "published_at": "2026-08-16T10:07:06+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "015c3c757456dfdc",
-    "title_hash": "bcd0f11b1c57fa59",
-    "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-    "url": "https://www.micdrop.gg/",
-    "summary": "Article URL: https://www.micdrop.gg/ Comments URL: https://news.ycombinator.com/item?id=49315742 Points: 9 # Comments: 2",
-    "published_at": "2026-08-16T08:46:29+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0628e13b186935c1",
-    "title_hash": "8a8c6bc66c59e3a3",
-    "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
-    "url": "https://waku.sh",
-    "summary": "Article URL: https://waku.sh Comments URL: https://news.ycombinator.com/item?id=49315709 Points: 7 # Comments: 2",
-    "published_at": "2026-08-16T08:38:44+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "64589621f5bd85f4",
-    "title_hash": "9e217460f30fdfd8",
-    "title": "Big Pickle on SWE Atlas – Codebase QnA",
-    "url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
-    "summary": "Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas Comments URL: https://news.ycombinator.com/item?id=49315563 Points: 4 # Comments: 0",
-    "published_at": "2026-08-16T08:10:48+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "230379597ffab64c",
-    "title_hash": "a7223022cc81d0d8",
-    "title": "Tea5767-Radio-Tuner",
-    "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-    "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner Comments URL: https://news.ycombinator.com/item?id=49315456 Points: 23 # Comments: 0",
-    "published_at": "2026-08-16T07:54:35+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "57965bedb7523e81",
-    "title_hash": "a7606acf4b66bb19",
-    "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
-    "url": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
-    "summary": "Article URL: https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind Comments URL: https://news.ycombinator.com/item?id=49315065 Points: 4 # Comments: 0",
-    "published_at": "2026-08-16T06:55:50+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5abf1cd2974ec451",
-    "title_hash": "748ba97543dc53ed",
-    "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-    "url": "https://sugartrack-beta.vercel.app/",
-    "summary": "Article URL: https://sugartrack-beta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49314884 Points: 22 # Comments: 6",
-    "published_at": "2026-08-16T06:28:14+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2874ba2d68546c0e",
-    "title_hash": "d611dea3ea5abe51",
-    "title": "Bede Liu, a digital signal processing pioneer, has died",
-    "url": "https://spectrum.ieee.org/digital-signal-processing",
-    "summary": "Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 61 # Comments: 3",
-    "published_at": "2026-08-16T05:45:54+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "63d9bba8b71bba0a",
-    "title_hash": "d81983b323e98789",
-    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
-    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
-    "summary": "Article URL: https://en.wikipedia.org/wiki/Wow!_signal Comments URL: https://news.ycombinator.com/item?id=49314596 Points: 70 # Comments: 17",
-    "published_at": "2026-08-16T05:42:47+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1a3ff720ce576848",
-    "title_hash": "dc5b1f26d6748b97",
-    "title": "Tracking down a Zsh history data loss bug",
-    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-    "summary": "Article URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/ Comments URL: https://news.ycombinator.com/item?id=49314579 Points: 40 # Comments: 10",
-    "published_at": "2026-08-16T05:39:09+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7980d8d5d269aaf7",
-    "title_hash": "c242fc2e983c180c",
-    "title": "Abdominal fat predicts heart disease risk better than BMI",
-    "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-    "summary": "Article URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 166 # Comments: 123",
-    "published_at": "2026-08-16T05:14:34+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c5bb51af2e228ee5",
-    "title_hash": "e9164adfe534c5fa",
-    "title": "Cultivating a state of mind where new ideas are born (2023)",
-    "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-    "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 86 # Comments: 25",
-    "published_at": "2026-08-16T04:54:11+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1a64cd2bc9fd6f1d",
-    "title_hash": "51cb36fdc021d8ce",
-    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-    "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-    "summary": "Article URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/ Comments URL: https://news.ycombinator.com/item?id=49313428 Points: 93 # Comments: 42",
-    "published_at": "2026-08-16T03:20:51+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "441022e5503ba70a",
-    "title_hash": "c9d9211dae94e1d1",
-    "title": "AI in drug discovery – what it is, where we stand and the path forward",
-    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 99 # Comments: 51",
-    "published_at": "2026-08-16T03:12:53+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "013702e9f0aad257",
-    "title_hash": "b2dc8cef5322a167",
-    "title": "Tess's Android Wayland Compositor",
-    "url": "https://github.com/wmww/tawc",
-    "summary": "Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 52 # Comments: 5",
-    "published_at": "2026-08-16T02:34:26+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7f479221972c5a14",
-    "title_hash": "b80f430a627f1b67",
-    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-    "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-    "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0",
-    "published_at": "2026-08-16T02:33:25+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ba9e2d42d5d6446b",
-    "title_hash": "9c889d2e86481e20",
-    "title": "AI has access to a vastly larger working memory than the human brain",
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 422 # Comments: 373",
-    "published_at": "2026-08-16T02:13:02+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2a63c8c0d736ce91",
-    "title_hash": "984e864355245e1c",
-    "title": "I Remain a Skeptic",
-    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-    "summary": "Article URL: https://blog.jsbarretto.com/post/i-remain-a-skeptic Comments URL: https://news.ycombinator.com/item?id=49312053 Points: 76 # Comments: 52",
-    "published_at": "2026-08-16T00:42:58+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "cc46e9b7f6f7c44a",
-    "title_hash": "9eb70cabcc184e2d",
-    "title": "Semaglutide linked to lower predicted dementia risk",
-    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-    "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 357 # Comments: 250",
-    "published_at": "2026-08-15T23:58:53+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "26a76f1a6e1a6813",
-    "title_hash": "08fa7d97dac54619",
-    "title": "A spectre is haunting Unicode",
-    "url": "https://www.dampfkraft.com/ghost-characters.html",
-    "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 179 # Comments: 58",
-    "published_at": "2026-08-15T22:34:04+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "47c8acd498f0c0e4",
-    "title_hash": "dc4e7f05caddf4ba",
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-    "published_at": "2026-08-16T05:29:19+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "569c4523c8fcf143",
-    "title_hash": "bce825ade75c97a7",
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "published_at": "2026-08-16T02:58:39+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "15aaf2b747ae330d",
-    "title_hash": "82773613a462c6c6",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "published_at": "2026-08-16T00:30:00+08:00",
-    "created_at": "2026-08-16 02:37:17"
-  },
-  {
-    "source": "量子位",
     "url_hash": "3d675471f4b3ed5d",
     "title_hash": "0ec73c71888cf008",
     "title": "杭州95后小伙，5亿买走硅谷城堡",
@@ -3038,5 +2748,275 @@
     "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
     "published_at": "2026-08-21T22:00:00+08:00",
     "created_at": "2026-08-22 02:31:01"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "7a29e551a2c67df1",
+    "title_hash": "2f4271628c7c8ac0",
+    "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+    "url": "https://www.qbitai.com/2026/08/477253.html",
+    "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+    "published_at": "2026-08-22T22:46:43+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "a3e3a261fbf8f41f",
+    "title_hash": "0d2210b3fb045698",
+    "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+    "url": "https://www.qbitai.com/2026/08/477246.html",
+    "summary": "直击WRC",
+    "published_at": "2026-08-22T22:19:39+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "fa9c9e83be8dd4ec",
+    "title_hash": "71a218ee3d0ef99a",
+    "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+    "url": "https://www.qbitai.com/2026/08/477155.html",
+    "summary": "一脑驱动多形落地",
+    "published_at": "2026-08-22T22:11:20+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "70a6f689c1baebab",
+    "title_hash": "f4dbbb0d621cb2ec",
+    "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+    "url": "https://www.qbitai.com/2026/08/477094.html",
+    "summary": "采集，从一条腕带开始",
+    "published_at": "2026-08-22T21:56:00+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "8320dc76458c84e3",
+    "title_hash": "40739ad98314727d",
+    "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+    "url": "https://www.qbitai.com/2026/08/477090.html",
+    "summary": "将真实场景重建为持续更新、可计算的4D数字世界。",
+    "published_at": "2026-08-22T20:21:07+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "f0e4c35c8e00dfb5",
+    "title_hash": "5a439ce138a1afb0",
+    "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+    "url": "https://www.qbitai.com/2026/08/476965.html",
+    "summary": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+    "published_at": "2026-08-22T16:53:13+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "b0142376bad2a567",
+    "title_hash": "a3082954c5db9200",
+    "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+    "url": "https://www.qbitai.com/2026/08/476930.html",
+    "summary": "让具身智能技术真正落地千行万业。",
+    "published_at": "2026-08-22T16:41:41+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "11e9d27303eedadd",
+    "title_hash": "3657fa848df2457d",
+    "title": "NanoGPT Speedrun Frontier",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 53 # Comments: 16",
+    "published_at": "2026-08-23T06:14:27+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "31e565cecfe1375d",
+    "title_hash": "ae784bf2275e3394",
+    "title": "NetBSD and my life (2005)",
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 100 # Comments: 25",
+    "published_at": "2026-08-23T03:07:46+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1ed10f47b192ae6f",
+    "title_hash": "b26ecb9c2182095f",
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 164 # Comments: 70",
+    "published_at": "2026-08-23T03:04:41+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "53de3fca829591e9",
+    "title_hash": "2e48deae9f19c2c7",
+    "title": "Why your local LLM feels dumber than it is",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 198 # Comments: 67",
+    "published_at": "2026-08-23T02:14:16+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "22bf6650257782ac",
+    "title_hash": "c6cce6dc6421c08f",
+    "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+    "url": "https://marcua.net/minitools/figmimic/",
+    "summary": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 48 # Comments: 5",
+    "published_at": "2026-08-23T02:11:40+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8e5d8548a302fbb1",
+    "title_hash": "49192eeef7903f1e",
+    "title": "Thinking in Python",
+    "url": "https://thinkinginpython.com/",
+    "summary": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 61 # Comments: 13",
+    "published_at": "2026-08-23T02:10:49+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "068c7e8ae3f03d5c",
+    "title_hash": "c35357c28817cb49",
+    "title": "Scrap (2006)",
+    "url": "https://twitter.com/moxie/status/2091218652133732491",
+    "summary": "https://xcancel.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 318 # Comments: 177",
+    "published_at": "2026-08-23T02:08:56+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "4301fc5e7f109846",
+    "title_hash": "bb1d0783c5d41db4",
+    "title": "I set a trap for a book-marketing scammer (2025)",
+    "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+    "summary": "Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing Comments URL: https://news.ycombinator.com/item?id=49402181 Points: 9 # Comments: 7",
+    "published_at": "2026-08-23T02:08:25+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e8aaa053331cdcfe",
+    "title_hash": "b0dfbe0b78db20ea",
+    "title": "Reading Maps – Journeys from fiction drawn on the real world",
+    "url": "https://readingmaps.com/",
+    "summary": "Article URL: https://readingmaps.com/ Comments URL: https://news.ycombinator.com/item?id=49402107 Points: 7 # Comments: 2",
+    "published_at": "2026-08-23T01:59:09+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f83cb012d1e02700",
+    "title_hash": "670688018e1b9eba",
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "url": "https://quantumi.sh/public/labs.html",
+    "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 319 # Comments: 101",
+    "published_at": "2026-08-22T22:54:07+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "12970b18560139f6",
+    "title_hash": "798f126ea9b7375d",
+    "title": "A Friendly Introduction to Racket",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 200 # Comments: 101",
+    "published_at": "2026-08-22T22:08:19+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e1a317553b63e42a",
+    "title_hash": "f7b43dadb3cb997a",
+    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
+    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "summary": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 117 # Comments: 55",
+    "published_at": "2026-08-22T17:49:57+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "c248308cd463dc29",
+    "title_hash": "d4177f7ba8cf5131",
+    "title": "Munder Difflin – Agent harness to run an office of your clones",
+    "url": "https://munderdiffl.in/",
+    "summary": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 255 # Comments: 115",
+    "published_at": "2026-08-22T17:49:14+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ef48a9723fd1cea4",
+    "title_hash": "38aa730a2fea5dfd",
+    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+    "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+    "summary": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement... Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 499 # Comments: 1253",
+    "published_at": "2026-08-22T14:16:57+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2d20e68bd42ce2db",
+    "title_hash": "c6ed1ea2577f6d9a",
+    "title": "A week of using Codex more than Claude",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 136 # Comments: 148",
+    "published_at": "2026-08-22T03:51:48+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2f762b18673c747e",
+    "title_hash": "851327efbf374b59",
+    "title": "One night in Uzbekistan: Why was this one data point so influential?",
+    "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+    "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/ Comments URL: https://news.ycombinator.com/item?id=49392536 Points: 81 # Comments: 13",
+    "published_at": "2026-08-22T03:05:50+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "43e4c0bbdfb21c55",
+    "title_hash": "27600f468b8d6dee",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "published_at": "2026-08-23T05:46:56+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "92ba46e363661525",
+    "title_hash": "e90625c99c44cc20",
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+    "published_at": "2026-08-23T03:00:00+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "11bfce24e7f02ff5",
+    "title_hash": "a60a1a9c2a1da590",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "published_at": "2026-08-23T00:30:34+08:00",
+    "created_at": "2026-08-23 02:40:27"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "5c1d39faf87ea2e8",
+    "title_hash": "9bcfd4f3cf86d12b",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+    "published_at": "2026-08-23T00:00:00+08:00",
+    "created_at": "2026-08-23 02:40:27"
   }
 ]
