@@ -1,586 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "9a223d5b934e7de3",
-    "title_hash": "300a49bceeb8a91d",
-    "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-    "url": "https://www.qbitai.com/2026/08/476280.html",
-    "summary": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-    "published_at": "2026-08-20T18:17:47+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "60e259f88004ddaf",
-    "title_hash": "36062d8d00fb41fd",
-    "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
-    "url": "https://www.qbitai.com/2026/08/476281.html",
-    "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
-    "published_at": "2026-08-20T18:13:45+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "5bfbafb7d6ccc46a",
-    "title_hash": "fa7e263d7cdcc8b7",
-    "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-    "url": "https://www.qbitai.com/2026/08/476199.html",
-    "summary": "经典RSI剧本开始动摇",
-    "published_at": "2026-08-20T17:46:23+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "8f24a65cdb87eba8",
-    "title_hash": "03eedccea3d0e2ae",
-    "title": "今年WRC最大展台，预告具身智能未来",
-    "url": "https://www.qbitai.com/2026/08/476141.html",
-    "summary": "从自主泛化到真生产力",
-    "published_at": "2026-08-20T17:42:44+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "e6073e1308ed88bc",
-    "title_hash": "ee356d9f178cb013",
-    "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
-    "url": "https://www.qbitai.com/2026/08/476129.html",
-    "summary": "全栈自研，真机叠衣ICRA夺冠",
-    "published_at": "2026-08-20T17:22:05+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "e9c6a74d53cb15be",
-    "title_hash": "973f455792bfceba",
-    "title": "投资者缩减对美英加息的押注",
-    "url": "https://www.ftchinese.com/story/001110680",
-    "summary": "经济数据变弱压倒对油价上涨的担忧，使交易员预计美联储将在今年剩余时间维持利率不变，而英国央行不太可能在未来一年加息超过两次。",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "f976af5a45a86e92",
-    "title_hash": "6c69e47cb5bedd58",
-    "title": "《欢迎来龙餐馆》：“好好吃饭”与战火里的英雄主义",
-    "url": "https://www.ftchinese.com/story/001110678",
-    "summary": "影片展现了战火裹挟并吞噬一切的力量，餐厅和食物难以是中立的，大人物和小人物都无法全身而退，随时随地面对着倾轧和抉择。",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "cc9e5c30045ee978",
-    "title_hash": "795f00abc33c498d",
-    "title": "“去他们的吧，我们自己拯救自己”",
-    "url": "https://www.ftchinese.com/story/001110667",
-    "summary": "《猜火车》作者的最新小说以拉斯维加斯为背景，讲述了一个道德急剧失守的家族故事。故事中的家族被视为美国的缩影：它正面对分裂，内部成员彼此攻击，却仍然渴望疗愈和改变。",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "be2d7ed794dc97bb",
-    "title_hash": "d38ff9606c58334a",
-    "title": "特朗普正在输掉稀土“独立战争”",
-    "url": "https://www.ftchinese.com/story/001110679",
-    "summary": "贝蒂：效率低下、不受信任以及任人唯亲，都使特朗普政府在对稀土等关键原材料主导地位的争夺中，无所作为。",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "9fbde40791b6d520",
-    "title_hash": "70c7e139b679bba0",
-    "title": "对话王羽佳：往前走，不回头",
-    "url": "https://www.ftchinese.com/story/001110664",
-    "summary": "这位钢琴家认为，过去经历的一切把她带到了今天的位置；现在她更想知道，往前走还可以做些什么。如果一直回头去比较过去的自己，就会掉进一个黑洞里。",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "54db4693dfdba661",
-    "title_hash": "b0bf55e442217548",
-    "title": "看完《欢迎来龙餐馆》，我重新复盘了伊拉克战争",
-    "url": "https://www.ftchinese.com/story/001110665",
-    "summary": "为消灭一个威胁就发动战争，当战争将旧秩序摧毁后，又长出了新的极端力量；而为了处理新的威胁，就开启新一轮的军事行动。战争就这样一次又一次回来。这是伊拉克战争最该被记住的教训。",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "31373ccb7b85ee58",
-    "title_hash": "460651fa1be2add9",
-    "title": "每一笔电商订单里，都串起一条实体产业链",
-    "url": "https://www.ftchinese.com/story/001110677",
-    "summary": "陈白：将线上与线下割裂、把数字经济与实体经济对立，本质上是一种刻意制造的二元对立情绪。",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "04fed00151ddebf2",
-    "title_hash": "56e345363c1df078",
-    "title": "从现货定价到期货基准：中美算力价格指数与市场机制演进",
-    "url": "https://www.ftchinese.com/story/001110658",
-    "summary": "陈钰什：现货指数和期货产品接连出现，把一个原本分散在企业询价和合同谈判中的问题推到了台前：市场能不能形成一套买卖双方都能使用、可以持续跟踪，并且能够反映未来成本变化的算力价格？",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "617f71bfe66bd74f",
-    "title_hash": "cde3ceb44ba4cc2f",
-    "title": "经济学家的魔戒：从《指环王》到杨小凯的信仰观",
-    "url": "https://www.ftchinese.com/story/001110660",
-    "summary": "王珞：理性告诉我们，如何在不要求人人高尚的前提下组织合作；良心提醒我们，人不能把所有东西都变成利益交换。",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "52c1cfdb4ddb4547",
-    "title_hash": "4d1432beb0cc8319",
-    "title": "国际关系研究需要一线的真实声音",
-    "url": "https://www.ftchinese.com/story/001110672",
-    "summary": "王英良：中国国际关系研究的显性困境是学科繁荣与一线个体失语的强烈反差",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "fcd5031a58bd5f45",
-    "title_hash": "f249bb86edb511f2",
-    "title": "美债僵局何解？",
-    "url": "https://www.ftchinese.com/story/001110663",
-    "summary": "周浩：美国国债的问题不是流动性问题，而是信心问题。当一国开始越来越频繁地干预自己最核心的融资市场时，市场看到的不仅是政策能力，更是政策焦虑。",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "ef2181f87bb391a5",
-    "title_hash": "02f572c8e2e18fb9",
-    "title": "张戎新著《飞吧，鸿！》：母亲给我一双翅膀，让我自由飞翔",
-    "url": "https://www.ftchinese.com/story/001110673",
-    "summary": "何越：世界知道张戎，是因为《鸿》；但张戎能够走出中国、写出《鸿》，并最终成为今天的张戎，是因为其背后始终站着母亲夏德鸿。",
-    "published_at": "2026-08-20T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "8271ac8697b74f92",
-    "title_hash": "ea8b389b2aa3397c",
-    "title": "华住集团推出25亿美元股东回报计划",
-    "url": "https://www.ftchinese.com/story/001110676",
-    "summary": "在提前基本完成此前总额20亿美元的回报计划后，这家酒店运营商公布了一项为期三年、总额25亿美元的全新股东回报计划。",
-    "published_at": "2026-08-20T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "8e941c42b5ec5e7c",
-    "title_hash": "b9802e6c06bda402",
-    "title": "许家印被判无期徒刑",
-    "url": "https://www.ftchinese.com/story/001110675",
-    "summary": "许家印的倒台是中国房地产行业时运变迁的缩影。",
-    "published_at": "2026-08-20T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "228e40ef9558791f",
-    "title_hash": "d45023db0f85e3df",
-    "title": "AI需求驱动新增签约量创纪录 万国数据上调EBITDA指引",
-    "url": "https://www.ftchinese.com/story/001110674",
-    "summary": "中国最大的第三方数据中心运营商第二季度实现利润8.38亿元，同时将2026年销售目标翻番，并上调了全年业绩指引。",
-    "published_at": "2026-08-20T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "88292558b4280d39",
-    "title_hash": "6c6d20be76ca956c",
-    "title": "谁在买中国的人形机器人？",
-    "url": "https://www.ftchinese.com/story/001110671",
-    "summary": "机器人制造商把机器卖给政府支持的训练中心，后者收集训练数据后，又把数据卖给机器人制造商。这种模式开始引起投资者的质疑。",
-    "published_at": "2026-08-20T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "3f7fcbb1127dd8b4",
-    "title_hash": "1fe6b07b3cdd9863",
-    "title": "每周时事分析：中国将承受朝鲜拥核正常化的后果",
-    "url": "https://www.ftchinese.com/story/001110670",
-    "summary": "曹辛：特朗普向金正恩发出了谈判邀约的明确信号，此举很可能目标指向中国。当前中国需要抢占先机，占据主动，以免在安全领域陷入被动境地。",
-    "published_at": "2026-08-20T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "19477a48aa583072",
-    "title_hash": "00eed342484fa26b",
-    "title": "中国称欧盟对京东收购Ceconomy的调查构成“不当域外管辖”",
-    "url": "https://www.ftchinese.com/story/001110669",
-    "summary": "中国司法部已禁止任何组织、个人协助调查，并警告称，“中方将坚决依法反制”。",
-    "published_at": "2026-08-20T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "3f248bfde5e732e9",
-    "title_hash": "debf3151e94a49e0",
-    "title": "香港长江和记提请仲裁 向巴拿马索赔15亿美元",
-    "url": "https://www.ftchinese.com/story/001110668",
-    "summary": "长江和记称巴拿马将其驱逐出巴拿马运河两个港口，导致其“投资损失”。",
-    "published_at": "2026-08-20T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1d9dd7a5c7cb1f39",
-    "title_hash": "71f7c7638934f6c6",
-    "title": "Berkeley Law prohibits AI use in classes (by default)",
-    "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-    "summary": "Article URL: https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/ Comments URL: https://news.ycombinator.com/item?id=49382614 Points: 6 # Comments: 1",
-    "published_at": "2026-08-21T09:37:27+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7889a92643fcdad2",
-    "title_hash": "cbc5b06fd2eebba4",
-    "title": "It is a sign of the times that Amazon gets to call this fair use",
-    "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-    "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html Comments URL: https://news.ycombinator.com/item?id=49382200 Points: 69 # Comments: 30",
-    "published_at": "2026-08-21T08:34:32+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "11420ee9c5978f87",
-    "title_hash": "60c50092ae3e86d2",
-    "title": "There's no such thing as a small software team anymore",
-    "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-    "summary": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 27 # Comments: 35",
-    "published_at": "2026-08-21T08:28:37+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ac14c9adbb03805e",
-    "title_hash": "010e0106c373d093",
-    "title": "Copyright does not protect AI-generated content in EU",
-    "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-    "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 130 # Comments: 107",
-    "published_at": "2026-08-21T08:15:12+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "49b4e1e499bbee0d",
-    "title_hash": "580b715145df8536",
-    "title": "Show HN: ParqDB – Vector search in the browser from Parquet over HTTP\"",
-    "url": "https://search.parqdb.io/",
-    "summary": "Article URL: https://search.parqdb.io/ Comments URL: https://news.ycombinator.com/item?id=49382022 Points: 6 # Comments: 0",
-    "published_at": "2026-08-21T08:13:39+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f84cbbf9d5e402e9",
-    "title_hash": "0948cda23b9c3021",
-    "title": "Stealth Model",
-    "url": "https://openrouter.ai/stealth/ox-alpha",
-    "summary": "Article URL: https://openrouter.ai/stealth/ox-alpha Comments URL: https://news.ycombinator.com/item?id=49381896 Points: 37 # Comments: 20",
-    "published_at": "2026-08-21T07:56:35+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "cb2878459dd14e6d",
-    "title_hash": "7d8fcbe45e0f5d3c",
-    "title": "Detecting scraper bots through scroll behaviour",
-    "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-    "summary": "Article URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour Comments URL: https://news.ycombinator.com/item?id=49381311 Points: 28 # Comments: 10",
-    "published_at": "2026-08-21T06:47:52+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "4202cfe045215827",
-    "title_hash": "716c0de116650b66",
-    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-    "summary": "Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/ Comments URL: https://news.ycombinator.com/item?id=49379550 Points: 1048 # Comments: 232",
-    "published_at": "2026-08-21T04:07:26+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "02ed539fac86d3e4",
-    "title_hash": "19378487d8a389f6",
-    "title": "The August 17 outage, and the work ahead",
-    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-    "summary": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/ Comments URL: https://news.ycombinator.com/item?id=49378957 Points: 340 # Comments: 381",
-    "published_at": "2026-08-21T03:22:24+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "66d61bf192c9e796",
-    "title_hash": "553cd39811a422c0",
-    "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
-    "url": "https://tidalcycles.org/",
-    "summary": "Article URL: https://tidalcycles.org/ Comments URL: https://news.ycombinator.com/item?id=49378950 Points: 57 # Comments: 9",
-    "published_at": "2026-08-21T03:21:45+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "20211d54464488d2",
-    "title_hash": "6945d1ca92feac3d",
-    "title": "SpacetimeDB: A Short Technical Review",
-    "url": "https://strn.cat/posts/spacetime/",
-    "summary": "Article URL: https://strn.cat/posts/spacetime/ Comments URL: https://news.ycombinator.com/item?id=49378933 Points: 62 # Comments: 12",
-    "published_at": "2026-08-21T03:19:53+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "48bb2bd11735d93b",
-    "title_hash": "eb9375b4d95cbe34",
-    "title": "Show HN: Huzzah – a novel approach to coding with AI",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "summary": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself. I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you: 1. write pseudocode in whatever way makes the most sense to you 2. on save, the editor synchronizes your work to real source code 3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent. It may not work for every use case, but in my initial playthroughs I've found it very enjoyable. Right now it's just a proof of concept - installation instructions are here in the readme: https://github.com/danielvaughn/hz You can also watch a video of it in action here: https://x.com/danielvaughn/status/2090456808431165715 Cheers! Comments URL: https://news.ycombinator.com/item?id=49378768 Points: 227 # Comments: 134",
-    "published_at": "2026-08-21T03:05:36+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5ac02a1954e858f9",
-    "title_hash": "5302f261e529d1b4",
-    "title": "Why aren't smart people happier? (2022)",
-    "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-    "summary": "Article URL: https://www.experimental-history.com/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=49378446 Points: 89 # Comments: 149",
-    "published_at": "2026-08-21T02:38:47+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "d592fa591827badb",
-    "title_hash": "9d62af423dcea361",
-    "title": "Consumer Rights Wiki",
-    "url": "https://consumerrights.wiki/w/Main_Page",
-    "summary": "Article URL: https://consumerrights.wiki/w/Main_Page Comments URL: https://news.ycombinator.com/item?id=49378243 Points: 232 # Comments: 34",
-    "published_at": "2026-08-21T02:19:51+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c2ebcd3e6575bb52",
-    "title_hash": "7590730d58fb2019",
-    "title": "I should have loved biology (2020)",
-    "url": "https://jsomers.net/i-should-have-loved-biology/",
-    "summary": "Article URL: https://jsomers.net/i-should-have-loved-biology/ Comments URL: https://news.ycombinator.com/item?id=49377853 Points: 204 # Comments: 75",
-    "published_at": "2026-08-21T01:50:02+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "651951bb1bbc526b",
-    "title_hash": "4b6ab5159381181e",
-    "title": "Sixtyfour (YC P25) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
-    "summary": "Article URL: https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern Comments URL: https://news.ycombinator.com/item?id=49377248 Points: 0 # Comments: 0",
-    "published_at": "2026-08-21T01:01:05+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "dacb60d23f6e4292",
-    "title_hash": "149b32a6e399c8c3",
-    "title": "How to compromise your system with a job interview",
-    "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-    "summary": "Article URL: https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview Comments URL: https://news.ycombinator.com/item?id=49376332 Points: 120 # Comments: 104",
-    "published_at": "2026-08-20T23:50:57+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "01237097ff1bcfe8",
-    "title_hash": "b829f605efb75d4b",
-    "title": "Linux 7.2",
-    "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-    "summary": "Article URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html Comments URL: https://news.ycombinator.com/item?id=49376265 Points: 196 # Comments: 72",
-    "published_at": "2026-08-20T23:46:18+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "09523f683853cee9",
-    "title_hash": "af24384feb36c5f4",
-    "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-    "url": "https://github.com/zachahn/vomit",
-    "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 195 # Comments: 209",
-    "published_at": "2026-08-20T23:26:02+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "06efc9452cce4315",
-    "title_hash": "75a2635035b5e82c",
-    "title": "Anti-AI fonts are useless and harmful",
-    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 119 # Comments: 81",
-    "published_at": "2026-08-20T23:06:53+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "e9ba6db1fcd1c3b4",
-    "title_hash": "0869be4116f8e911",
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-    "published_at": "2026-08-21T08:13:44+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "db0bf4cf36536a3c",
-    "title_hash": "e58b07b12c8b61e2",
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-    "published_at": "2026-08-21T06:36:37+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "7a4a6fae53691575",
-    "title_hash": "e438096d2ccad569",
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-    "published_at": "2026-08-21T06:09:51+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "892f10421ed1a567",
-    "title_hash": "46c41f98e10c7a1a",
-    "title": "OK, can we actually cool data centers with our pee?",
-    "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-    "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-    "published_at": "2026-08-21T04:53:13+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "f5c14fa58d074dae",
-    "title_hash": "4669cd25e0e8e820",
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-    "published_at": "2026-08-21T03:18:21+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "4065cdd41c2dbbdc",
-    "title_hash": "33c59c314f9ee291",
-    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-    "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-    "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-    "published_at": "2026-08-21T03:15:05+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "89ade8f544b0c206",
-    "title_hash": "7d686c85da3e7f1a",
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "published_at": "2026-08-21T02:20:35+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "d5497c2ac537969a",
-    "title_hash": "91d61b3aaac3a67a",
-    "title": "Grok keeps sending gibberish responses to users",
-    "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-    "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-    "published_at": "2026-08-21T01:32:16+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "632d085c004119cd",
-    "title_hash": "c7259da51e5ff793",
-    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-    "published_at": "2026-08-21T01:18:58+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "f726cd00afefc930",
-    "title_hash": "db2316d58739985b",
-    "title": "Ramp launches its own AI model router, called Router",
-    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-    "published_at": "2026-08-21T00:46:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "8b34b3149ae6d2a3",
-    "title_hash": "2fb24b3068d5c28c",
-    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-    "published_at": "2026-08-21T00:07:26+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "c567ad37d09ebc79",
-    "title_hash": "9573779603cf7cab",
-    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-    "published_at": "2026-08-21T00:00:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "1b1019cacee8fcf2",
-    "title_hash": "c878ce1db7abfe1e",
-    "title": "Meta AI’s new Mac app wants you to talk to your apps",
-    "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-    "published_at": "2026-08-20T20:11:57+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "bb72d97feb83ab4b",
-    "title_hash": "351c9303e59192c9",
-    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-    "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-    "published_at": "2026-08-20T17:30:00+08:00",
-    "created_at": "2026-08-21 02:39:39"
-  },
-  {
-    "source": "量子位",
     "url_hash": "edcb91caf48b9bbd",
     "title_hash": "64daecdbc4aeb6a2",
     "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
@@ -3178,5 +2598,555 @@
     "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
     "published_at": "2026-08-26T11:30:00+08:00",
     "created_at": "2026-08-27 11:36:48"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "6a6fae9d44b2eef7",
+    "title_hash": "a7a1349da9674c55",
+    "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+    "url": "https://www.qbitai.com/2026/08/480666.html",
+    "summary": "久久不愿来到台前的智元掌舵人",
+    "published_at": "2026-08-28T19:13:35+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "8b28120729d70537",
+    "title_hash": "95490caa55495eda",
+    "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+    "url": "https://www.qbitai.com/2026/08/480600.html",
+    "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头",
+    "published_at": "2026-08-28T17:45:19+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "fd31d8819cb269f7",
+    "title_hash": "2263d13da9841e22",
+    "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
+    "url": "https://www.qbitai.com/2026/08/480591.html",
+    "summary": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。",
+    "published_at": "2026-08-28T15:20:14+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d40ffca658495e29",
+    "title_hash": "e9d075f207fadc96",
+    "title": "首款癌症疫苗，一针300万？？？",
+    "url": "https://www.qbitai.com/2026/08/480557.html",
+    "summary": "别让顶级治疗方法称为富人专属",
+    "published_at": "2026-08-28T14:22:59+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "f1d93c5817c2b332",
+    "title_hash": "8bba2ec7b3950ab5",
+    "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
+    "url": "https://www.qbitai.com/2026/08/480482.html",
+    "summary": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
+    "published_at": "2026-08-28T14:22:20+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "ba08aaada8b981ce",
+    "title_hash": "d8b756a828fdc2bc",
+    "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
+    "url": "https://www.qbitai.com/2026/08/480487.html",
+    "summary": "Claude觉醒超体",
+    "published_at": "2026-08-28T14:13:59+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "96dda66fcf7a976b",
+    "title_hash": "fd5c4a6d9bcf1ccd",
+    "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
+    "url": "https://www.qbitai.com/2026/08/480236.html",
+    "summary": "重新审视触视觉",
+    "published_at": "2026-08-28T13:49:05+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "41cf8d0ec263a3c6",
+    "title_hash": "23d0f00cd97e2f3a",
+    "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+    "url": "https://www.qbitai.com/2026/08/480227.html",
+    "summary": "国产算力跑通视频生成规模化应用",
+    "published_at": "2026-08-28T12:09:39+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "dacc3dc08036df0f",
+    "title_hash": "65cac433753e7cf6",
+    "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
+    "url": "https://www.qbitai.com/2026/08/480208.html",
+    "summary": "8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。",
+    "published_at": "2026-08-28T11:45:45+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "bc99dffb2d94c94c",
+    "title_hash": "fd86286495942bde",
+    "title": "中国会成为美伊战争的赢家吗？",
+    "url": "https://www.ftchinese.com/story/001110747",
+    "summary": "邰蒂：伊朗局势的发展不仅暴露了特朗普军事力量的局限性，也揭示了美国金融实力可能存在的局限。而中国是“房间里的大象”。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "c3a92e204ef1d085",
+    "title_hash": "9cf1deb7c51806b6",
+    "title": "去美元化进程也许尚未结束",
+    "url": "https://www.ftchinese.com/story/001110746",
+    "summary": "缪延亮：近期美元在全球外汇储备中的份额有所回升，这并不意味着国际储备资产多元化的趋势逆转。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "cb30db5ca138d712",
+    "title_hash": "62462b77a9d6074d",
+    "title": "从特朗普对金正恩的善意能得出“朝鲜想孤立中国”的结论吗？",
+    "url": "https://www.ftchinese.com/story/001110745",
+    "summary": "林原：特朗普想与金正恩接近，但金正恩会高度警惕。朝鲜也不会轻易同意“核冻结”，因为这与朝鲜“拥核不可逆转地永久化”的表述不一致。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "7ee5ab4bc3002700",
+    "title_hash": "454457f52e78fc8f",
+    "title": "从援助乌克兰到向乌克兰学习：欧洲如何重新认识战争",
+    "url": "https://www.ftchinese.com/story/001110744",
+    "summary": "何越：英国历任首相的路线是一条随战争发展不断增加新目标的政策链条。伯纳姆把乌克兰在战争中产生的知识和技术转化为英国自身的国防能力。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "bc6dfe720ec2bf56",
+    "title_hash": "1c7bf616664d1956",
+    "title": "中国无人机制造商押注低成本3D打印拦截火箭",
+    "url": "https://www.ftchinese.com/story/001110739",
+    "summary": "俄罗斯和伊朗展示了结构简单的“一次性”无人机的潜在杀伤力后，海外对无人机拦截器的需求随之增长。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "6c8c7c233da6ffc7",
+    "title_hash": "4eda63da761f8f37",
+    "title": "当“纸片人”迷失在东京的酒店",
+    "url": "https://www.ftchinese.com/story/001110734",
+    "summary": "这位法国当红艺术家喜欢在画廊和美术馆之外展示作品，比如：商场里、树上、植物园里、酒店游泳池边的躺椅上……",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "efeec9a7f8a9fa99",
+    "title_hash": "34b0b830c929f02a",
+    "title": "人形机器人的真正有用之处",
+    "url": "https://www.ftchinese.com/story/001110737",
+    "summary": "桑希尔：如果有关隐私、安全和控制的隐忧能够得到决绝，那么与人类并肩工作的协作机器人有望充当AI模型与现实世界之间的连接器。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "f5574fbb5a3fe875",
+    "title_hash": "4aab4656e24d7e2f",
+    "title": "“令人痛苦的技术”是如何炼成的？",
+    "url": "https://www.ftchinese.com/story/001110666",
+    "summary": "那些阻止一家公司把产品做坏的力量，是如何一个接一个失去威慑力的？人类又将怎样从机器的支配者，逐步走向“被机器征用”的风险？",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "00bc0e9f905d1bf4",
+    "title_hash": "c56a539ebb6fbeb8",
+    "title": "“‘看起来像厨师’与‘成为一名厨师’是两回事”",
+    "url": "https://www.ftchinese.com/story/001110732",
+    "summary": "伦敦主厨弗里德里克•福斯特表示，在社交媒体时代，人们可以迅速点赞世界各地的餐厅和漂亮的菜式，但这也容易附带产生一种错觉：那些“成果”是可以轻而易举习得的。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "ce3b58b8131903ff",
+    "title_hash": "2ccb736ddc94c2d1",
+    "title": "特朗普的关税威胁愈发走向愚蠢",
+    "url": "https://www.ftchinese.com/story/001110736",
+    "summary": "唐纳德•特朗普使出的每一招都应该让美国的贸易伙伴更加确信：他的关税是一种可以应对的威胁，而不是必须不惜一切代价避免的灾难。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "3fb7c48ebb1ab7e3",
+    "title_hash": "83a5d6501a64f1a5",
+    "title": "靠“毛骨悚然”以小博大：恐怖片缘何可以不断逆袭？",
+    "url": "https://www.ftchinese.com/story/001110716",
+    "summary": "恐怖元素吸引眼球，却又极易因失去新鲜感而令观众厌倦，因此这一电影类型需要不断迭代更新，而在这个过程中，总有新的创作者可以证明自己的才华。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "74a06b2218a4593a",
+    "title_hash": "1637fcd9f508ca2a",
+    "title": "《护工不是人》：人类能否接受自己既是“主人”又是“被淘汰者”？",
+    "url": "https://www.ftchinese.com/story/001110731",
+    "summary": "在一个机器人能够提供近似人类的服务及情感关怀，而其工作表现又稳定、高效和顺从的世界，人类该如何理解自己的角色与处境？",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "ac22d38ce7293a45",
+    "title_hash": "076924136eeada82",
+    "title": "前摩根大通高管称不曾料想爱泼斯坦服刑后会故态复萌",
+    "url": "https://www.ftchinese.com/story/001110735",
+    "summary": "杰斯•斯特利自愿接受了美国国会的闭门问询，就自己与杰弗里•爱泼斯坦的关系回答议员们的提问。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "77cb0f05416c3e19",
+    "title_hash": "4ed89e3ff907262a",
+    "title": "后电诈时代的柬埔寨：阵痛、治理挑战与转型困境",
+    "url": "https://www.ftchinese.com/story/001110718",
+    "summary": "王英良：柬埔寨推行极致化反诈，切断灰色产业后引发经济真空与社会失序，正面临严峻的治理与转型考验。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "f7f053815dbf92cc",
+    "title_hash": "454b6ca6128153da",
+    "title": "AI热潮推动美国大学捐赠基金跑赢标普500",
+    "url": "https://www.ftchinese.com/story/001110729",
+    "summary": "孙昱：在公开市场强劲上涨的年份，大学捐赠基金通常很难跑赢股市，因为它们持有大量估值调整较慢的私募资产。但今年可能成为例外。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "1ce99d70a9aca11f",
+    "title_hash": "71eabe400bdf7031",
+    "title": "2028具身智能估值出清",
+    "url": "https://www.ftchinese.com/story/001110730",
+    "summary": "陆媛：2028年或将成为中国具身智能第一次大规模估值出清的窗口：不是机器人不会到来，而是资本留给它的时间，比物理世界允许的时间更短。",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "d2a2fb21adc8408d",
+    "title_hash": "b9e8273ebe760158",
+    "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+    "url": "https://www.nature.com/articles/d41586-026-02506-4",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-02506-4 Comments URL: https://news.ycombinator.com/item?id=49477559 Points: 6 # Comments: 1",
+    "published_at": "2026-08-28T20:28:41+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "04411ad809f1e4cf",
+    "title_hash": "bd0b3645959a6108",
+    "title": "OpenAI: Migrating to HTTPX2",
+    "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+    "summary": "Article URL: https://github.com/openai/openai-python/blob/main/httpx2.md Comments URL: https://news.ycombinator.com/item?id=49477212 Points: 28 # Comments: 12",
+    "published_at": "2026-08-28T19:51:20+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "49ffc49ef7ef221e",
+    "title_hash": "3d644502878a45e5",
+    "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+    "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+    "summary": "Article URL: https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/ Comments URL: https://news.ycombinator.com/item?id=49477055 Points: 66 # Comments: 9",
+    "published_at": "2026-08-28T19:25:30+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9c32069f6e728c82",
+    "title_hash": "d0d47011f16c6f4e",
+    "title": "Show HN: SubSmith – Turn your own videos into language-learning material",
+    "url": "https://subsmith.app",
+    "summary": "I've been learning Japanese for a few years and kept running into a similar problem. I'd find a video I wanted to learn from, hear a useful sentence, and then realise that turning that sentence into something I could study later was both time consuming and draining at times. I would end up jumping between a video player, subtitles/transcription, a dictionary, screenshots, audio clips and Anki. So I built SubSmith to bring that workflow together. You can drop a video or audio file into it, generate a transcript locally and then use the transcript alongside the media to: * look up words and sentences * replay individual lines * edit the transcript * save useful sentences with their original context/audio * export them as Anki cards The important part for me is that it works with your own media. It isn't tied to a particular streaming service or library, so I can use the random anime episode, podcast, lecture, etc. that I'm actually interested in studying. It's an offline-first desktop app, and transcription happens locally rather than sending the media to a transcription API. I'm sharing it here because I'm now more interested in finding out where this workflow breaks down for other people rather than adding features randomly now that I have solid core/base. For example: * Would you actually save sentences from your own media? * Which part of this process feels like too much work? * Does having the audio/context attached make creating an Anki card more useful? * Would you prefer this to work inside your existing video player/browser? * Is installing a desktop app a significant barrier? * And does requiring an account before starting the free trial make you give up? The current version does require an account to start the trial, and I'm trying to work out whether that's meaningful friction for the people who would actually use this. It's free to try, and I'd particularly appreciate feedback from people who already learn languages through their own videos, anime, films, podcasts or other media. I'm the developer, so I'll be around in the comments to answer questions and discuss how it works. https://subsmith.app Comments URL: https://news.ycombinator.com/item?id=49476894 Points: 20 # Comments: 22",
+    "published_at": "2026-08-28T18:59:04+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "abdd8cc10e0c8690",
+    "title_hash": "714e0231c573c06d",
+    "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
+    "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+    "summary": "Article URL: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html Comments URL: https://news.ycombinator.com/item?id=49476143 Points: 122 # Comments: 28",
+    "published_at": "2026-08-28T17:00:46+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8a501fc5d6a8a84e",
+    "title_hash": "3df964b7f344eac1",
+    "title": "Interactive Warhammer 40k Galaxy Map – Cartographia Imperialis",
+    "url": "https://cartographia40k.com/",
+    "summary": "Article URL: https://cartographia40k.com/ Comments URL: https://news.ycombinator.com/item?id=49475979 Points: 24 # Comments: 4",
+    "published_at": "2026-08-28T16:35:07+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "d67b4752b765ed0a",
+    "title_hash": "69598492b66cf164",
+    "title": "Climate change is strengthening El Niño, coral records suggest",
+    "url": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
+    "summary": "Article URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest Comments URL: https://news.ycombinator.com/item?id=49475404 Points: 90 # Comments: 67",
+    "published_at": "2026-08-28T15:19:16+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "44b921e506c13c75",
+    "title_hash": "ed58f785ae3e5557",
+    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+    "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 65 # Comments: 16",
+    "published_at": "2026-08-28T14:33:57+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "57f8069f6288bb41",
+    "title_hash": "60514211d7d245eb",
+    "title": "Sovereign Tech Agency invests €500k in Flatpak",
+    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+    "summary": "Article URL: https://modal.cx/blog/announcing-flatpak-sta/ Comments URL: https://news.ycombinator.com/item?id=49474786 Points: 187 # Comments: 113",
+    "published_at": "2026-08-28T13:42:47+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2c040718c3ad9e9e",
+    "title_hash": "3513ea7196e41bad",
+    "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+    "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+    "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=49474060 Points: 0 # Comments: 0",
+    "published_at": "2026-08-28T11:35:15+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "6f8f0395b3313ab9",
+    "title_hash": "30328216fdc9c2eb",
+    "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+    "url": "https://www.terminal-bench-science.ai/announcement",
+    "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 104 # Comments: 30",
+    "published_at": "2026-08-28T08:06:51+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "3f2fae334eb499aa",
+    "title_hash": "a8d0b1ac51445c46",
+    "title": "Select * from Internet.blogposts",
+    "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
+    "summary": "Article URL: https://pfrazee.leaflet.pub/3mu3p2smmis22 Comments URL: https://news.ycombinator.com/item?id=49472161 Points: 107 # Comments: 44",
+    "published_at": "2026-08-28T06:34:32+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "82db9edb40958f2a",
+    "title_hash": "742ed7349381794e",
+    "title": "Doctors are finally learning to manage antidepressant withdrawal",
+    "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+    "summary": "https://web.archive.org/web/20260826205502/https://www.newsc... https://archive.ph/zahjc Comments URL: https://news.ycombinator.com/item?id=49472090 Points: 183 # Comments: 181",
+    "published_at": "2026-08-28T06:26:04+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "421c629193d978ac",
+    "title_hash": "20f10a5608ad8dbb",
+    "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+    "url": "https://github.com/elyosh/OpenTIE/",
+    "summary": "Article URL: https://github.com/elyosh/OpenTIE/ Comments URL: https://news.ycombinator.com/item?id=49471965 Points: 188 # Comments: 47",
+    "published_at": "2026-08-28T06:10:47+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "23693f7b66c2e7cc",
+    "title_hash": "b763a9758863dff7",
+    "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+    "url": "https://github.com/experientiallabs/experiential",
+    "summary": "Hi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place. It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters, rate limits, and different error behavior). The gateway adds under 1 ms for BYOK requests and under 2 ms when Experiential supplies the provider key. It has every major inference provider, and 1000+ models refreshed daily via a codex agent that opens a PR. Compared to other similar projects we’re open source, take no markup, allow you to mix local models with a marketplace, and use your traffic to (opt in) train you a model. Simple routing doesn’t warrant a 10% token markup. The way we do this is given standardized OTel traces, we mine representative real tasks, use text world models to simulate rollouts for various models, apply an LLM judge, and fit a nearest neighbor classifier on top of an embedding of a prompt to decide the optimal model for each request. Usually this can map out a better pareto curve on cost/quality than just calling single models but it’s not perfect. Using these simulations we can also do things like suggesting cache hit optimizations, new model suggestions, and training models. It’s open source, so you can deploy it on your own infrastructure, use our hosted version with 0 markup, or read how we design for maximum availability on our website. Comments URL: https://news.ycombinator.com/item?id=49471407 Points: 195 # Comments: 37",
+    "published_at": "2026-08-28T05:18:35+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "35305757066a6f71",
+    "title_hash": "db493008cb1b8f03",
+    "title": "Previewing the Model Hardware Standard",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "summary": "Article URL: https://www.anthropic.com/news/model-hardware-standard-research-preview Comments URL: https://news.ycombinator.com/item?id=49468834 Points: 123 # Comments: 52",
+    "published_at": "2026-08-28T02:04:50+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "95b7ebc1937a7b61",
+    "title_hash": "410cb21be7d010bf",
+    "title": "Gemini-3.5-Transcribe",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/ Comments URL: https://news.ycombinator.com/item?id=49468818 Points: 319 # Comments: 105",
+    "published_at": "2026-08-28T02:03:42+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1b69e2f88c4ab8ec",
+    "title_hash": "367834fad018f69b",
+    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+    "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+    "summary": "Article URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290 Comments URL: https://news.ycombinator.com/item?id=49468642 Points: 268 # Comments: 224",
+    "published_at": "2026-08-28T01:53:40+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f5861da0f450be3d",
+    "title_hash": "0c63093093fffb64",
+    "title": "M5Stack Launches PaperMono",
+    "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+    "summary": "Article URL: https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects Comments URL: https://news.ycombinator.com/item?id=49468593 Points: 154 # Comments: 52",
+    "published_at": "2026-08-28T01:50:57+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "029dcd6193e52a6b",
+    "title_hash": "49fd398bed0f653b",
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "summary": "Article URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/ Comments URL: https://news.ycombinator.com/item?id=49468083 Points: 814 # Comments: 242",
+    "published_at": "2026-08-28T01:17:57+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "ca50f3998f6e2919",
+    "title_hash": "32e92ad8ae2ca441",
+    "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+    "published_at": "2026-08-28T20:46:12+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "1b0375ab2430808e",
+    "title_hash": "af0ba84e479ba7c3",
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+    "published_at": "2026-08-28T20:21:06+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "edabaffd84062cd2",
+    "title_hash": "0a65e9236c1dc5e5",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "published_at": "2026-08-28T07:16:45+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "d0b5a5cfadd98fe4",
+    "title_hash": "4b395811ba51ca9c",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "published_at": "2026-08-28T03:52:52+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "d8544dddaa7c28ef",
+    "title_hash": "3894b2713c699f9b",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+    "published_at": "2026-08-28T01:43:24+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "44945c70744e4749",
+    "title_hash": "035c5ed94aa7260d",
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+    "published_at": "2026-08-28T00:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "f4380c9fafee5a6e",
+    "title_hash": "dd8690854fd7d50b",
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+    "published_at": "2026-08-27T22:56:52+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "61b131d55df07bc0",
+    "title_hash": "b07a29e1086e8e0c",
+    "title": "AI’s memory crunch is coming for Android apps",
+    "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+    "published_at": "2026-08-27T22:27:04+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "4a929b2ed40a09f5",
+    "title_hash": "45ff295a521f5752",
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+    "published_at": "2026-08-27T22:01:42+08:00",
+    "created_at": "2026-08-28 13:01:22"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "99cc84f9dfaddb48",
+    "title_hash": "6e5215ba2e86688a",
+    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+    "published_at": "2026-08-27T21:00:00+08:00",
+    "created_at": "2026-08-28 13:01:22"
   }
 ]
