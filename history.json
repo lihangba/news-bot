@@ -1,256 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "a7f2b75bf9478671",
-    "title_hash": "68531c5e6be2ce52",
-    "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-    "url": "https://www.qbitai.com/2026/08/480700.html",
-    "summary": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-    "published_at": "2026-08-28T23:36:12+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "e5ae233d7bb57a3d",
-    "title_hash": "04beea6b704e9ed8",
-    "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
-    "url": "https://www.qbitai.com/2026/08/480223.html",
-    "summary": "国产异构助力前沿智能进入普惠时代",
-    "published_at": "2026-08-28T12:06:16+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0afaf701c133c499",
-    "title_hash": "a317b06f7f9efa47",
-    "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
-    "url": "https://www.inventati.org/who/manifesto",
-    "summary": "Article URL: https://www.inventati.org/who/manifesto Comments URL: https://news.ycombinator.com/item?id=49487786 Points: 4 # Comments: 0",
-    "published_at": "2026-08-29T15:38:31+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e9cdf5fcc909281d",
-    "title_hash": "3181439dfb2a61f8",
-    "title": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
-    "url": "https://github.com/paveluv/e",
-    "summary": "Article URL: https://github.com/paveluv/e Comments URL: https://news.ycombinator.com/item?id=49487506 Points: 7 # Comments: 4",
-    "published_at": "2026-08-29T14:35:28+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6c66c63ff1adf27b",
-    "title_hash": "13b25a0005ebc171",
-    "title": "Samsung's Processing-in-Memory (PIM)",
-    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-    "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 21 # Comments: 1",
-    "published_at": "2026-08-29T14:06:51+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6fd2644d171d9462",
-    "title_hash": "2061c103b795e8dd",
-    "title": "TurboKV: Insanely fast Rust key-value store",
-    "url": "https://github.com/kingroryg/turbokv",
-    "summary": "Article URL: https://github.com/kingroryg/turbokv Comments URL: https://news.ycombinator.com/item?id=49486334 Points: 78 # Comments: 29",
-    "published_at": "2026-08-29T10:23:37+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "44629c2142e7f890",
-    "title_hash": "880883976a78e403",
-    "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-    "url": "https://www.kumander.org/",
-    "summary": "Article URL: https://www.kumander.org/ Comments URL: https://news.ycombinator.com/item?id=49486176 Points: 41 # Comments: 15",
-    "published_at": "2026-08-29T09:48:15+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "dacd64b8ccca0019",
-    "title_hash": "c024e9660f5dea2a",
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-    "summary": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Comments URL: https://news.ycombinator.com/item?id=49486172 Points: 451 # Comments: 223",
-    "published_at": "2026-08-29T09:47:53+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f067a4ae268cdf65",
-    "title_hash": "042de2f8efb2eecc",
-    "title": "StemDeck, a free, open-source and local AI stem separator",
-    "url": "https://github.com/stemdeckapp/stemdeck",
-    "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 79 # Comments: 14",
-    "published_at": "2026-08-29T09:24:13+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7efce9f5b42084d8",
-    "title_hash": "9a18984fb00edb5a",
-    "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-    "summary": "Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/ Comments URL: https://news.ycombinator.com/item?id=49485532 Points: 91 # Comments: 34",
-    "published_at": "2026-08-29T07:46:10+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c6c03c6a260f5392",
-    "title_hash": "4c65ea9d41757080",
-    "title": "9th Circuit sides with states in Kalshi gambling fight",
-    "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-    "summary": "Article URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/ Comments URL: https://news.ycombinator.com/item?id=49485452 Points: 120 # Comments: 96",
-    "published_at": "2026-08-29T07:32:22+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "d675ad5b276b0b10",
-    "title_hash": "45dfe242e512c2bf",
-    "title": "I accidentally turned LLM memory into program analysis",
-    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 112 # Comments: 21",
-    "published_at": "2026-08-29T07:27:45+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "bd488c1cb70b7284",
-    "title_hash": "0c8eb6b3c5accfbb",
-    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "url": "https://github.com/Lakr233/vphone-cli",
-    "summary": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 236 # Comments: 69",
-    "published_at": "2026-08-29T07:02:21+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "de58f2f7593a3307",
-    "title_hash": "5c3b8e234432f352",
-    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-    "url": "https://arxiv.org/abs/2608.23691",
-    "summary": "Article URL: https://arxiv.org/abs/2608.23691 Comments URL: https://news.ycombinator.com/item?id=49481455 Points: 100 # Comments: 24",
-    "published_at": "2026-08-29T01:01:12+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a3d40848cd03fefd",
-    "title_hash": "1a2dcde61dc2b598",
-    "title": "Just the rumour of a bug is enough to find an exploit these days",
-    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "summary": "Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 300 # Comments: 105",
-    "published_at": "2026-08-28T23:58:46+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "9ffa6ba671380a43",
-    "title_hash": "2ba1e8d534d40d33",
-    "title": "EasyEffects can improve laptop speaker sound quality",
-    "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-    "summary": "Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/ Comments URL: https://news.ycombinator.com/item?id=49479924 Points: 137 # Comments: 52",
-    "published_at": "2026-08-28T23:23:10+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "4424584ee706d4b4",
-    "title_hash": "0fdad31c79145cb4",
-    "title": "GLM-5.3 is now open-weight",
-    "url": "https://huggingface.co/zai-org/GLM-5.3",
-    "summary": "https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 672 # Comments: 225",
-    "published_at": "2026-08-28T23:20:13+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "07aca43e12d4379f",
-    "title_hash": "313abba00c1667a1",
-    "title": "GUIs should be fully keyboard-driven",
-    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-    "summary": "Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 752 # Comments: 379",
-    "published_at": "2026-08-28T23:17:09+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5eaddba9a19fe946",
-    "title_hash": "4d33ae64591ca08c",
-    "title": "Verschlimmbesserung: The Word Your Software Updates Need",
-    "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-    "summary": "Article URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/ Comments URL: https://news.ycombinator.com/item?id=49479072 Points: 127 # Comments: 85",
-    "published_at": "2026-08-28T22:30:33+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6b67b7c843708761",
-    "title_hash": "72611a7085bb2b1e",
-    "title": "Htmx 4.0",
-    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "summary": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 628 # Comments: 153",
-    "published_at": "2026-08-28T21:28:56+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0f50e8401ebe9e32",
-    "title_hash": "a17c71f2e9b2a595",
-    "title": "U.S. sanctions against the A/I Collective",
-    "url": "https://www.inventati.org/",
-    "summary": "Earlier: US Government designates host of noblogs.org a \"global terrorist\" - https://news.ycombinator.com/item?id=49464391 - (131 comments) US sanctions Italian hosting provider Autistici Inventati - https://news.ycombinator.com/item?id=49451343 - (219 comments) Comments URL: https://news.ycombinator.com/item?id=49477854 Points: 564 # Comments: 560",
-    "published_at": "2026-08-28T20:58:53+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c323c9b581192b7e",
-    "title_hash": "4a378555fe3a054f",
-    "title": "Inception-style curved map for turn-by-turn directions",
-    "url": "https://www.orbify.eu/demo/",
-    "summary": "Article URL: https://www.orbify.eu/demo/ Comments URL: https://news.ycombinator.com/item?id=49477564 Points: 483 # Comments: 159",
-    "published_at": "2026-08-28T20:29:05+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "7f0374631f4fcd05",
-    "title_hash": "5947639e460a94d6",
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-    "published_at": "2026-08-29T04:24:11+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "8152c5575eb2f621",
-    "title_hash": "bda222899bf3840e",
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "published_at": "2026-08-29T03:30:38+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "fea5f6e87ebd6823",
-    "title_hash": "6d68fe83f3e423a9",
-    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "summary": "There's a lot of capital pouring into the business of giving models away.",
-    "published_at": "2026-08-29T02:19:40+08:00",
-    "created_at": "2026-08-29 07:57:45"
-  },
-  {
-    "source": "量子位",
     "url_hash": "71034f08d0b2c444",
     "title_hash": "0e5c3521123dac06",
     "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
@@ -2838,5 +2588,425 @@
     "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
     "published_at": "2026-09-03T20:42:45+08:00",
     "created_at": "2026-09-04 06:06:24"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "293de9629833ee9f",
+    "title_hash": "3bf08e5a78321e4f",
+    "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+    "url": "https://www.qbitai.com/2026/09/484649.html",
+    "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
+    "published_at": "2026-09-05T12:24:25+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "4e64df06761aa9a0",
+    "title_hash": "f1d93545dde2dc07",
+    "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+    "url": "https://www.qbitai.com/2026/09/484611.html",
+    "summary": "如此“反骨”的方法，具体又是怎么实现的？",
+    "published_at": "2026-09-05T12:18:54+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "992a5d6a78ef2c06",
+    "title_hash": "7193e2b8a77b2953",
+    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+    "url": "https://www.qbitai.com/2026/09/484551.html",
+    "summary": "最后靠Harness救回来",
+    "published_at": "2026-09-05T09:17:56+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d6a0d4e92dbf0e1d",
+    "title_hash": "5f9f75ed4cfdf266",
+    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+    "url": "https://www.qbitai.com/2026/09/484547.html",
+    "summary": "国产卡跑出高品质 AI Token 生产级性能",
+    "published_at": "2026-09-04T17:23:24+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "9239a8ceb0b12a11",
+    "title_hash": "e3b697f8480ea961",
+    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+    "url": "https://www.qbitai.com/2026/09/484437.html",
+    "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+    "published_at": "2026-09-04T17:19:29+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "5063546f9eb17651",
+    "title_hash": "2ceb419f0a411cc6",
+    "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+    "url": "https://www.qbitai.com/2026/09/484293.html",
+    "summary": "不训练模型、不调参数",
+    "published_at": "2026-09-04T16:57:14+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d5f6d8496256082f",
+    "title_hash": "0573ff3f85bf590a",
+    "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+    "url": "https://www.qbitai.com/2026/09/484203.html",
+    "summary": "5000支队伍同台做题，写尽行业四年变化",
+    "published_at": "2026-09-04T15:09:43+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "a1f8233090cabf65",
+    "title_hash": "79b7005c13fa3177",
+    "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+    "url": "https://www.qbitai.com/2026/09/484163.html",
+    "summary": "智能不只是模式识别，更是对世界的建模",
+    "published_at": "2026-09-04T14:54:12+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "1ba5143d619ef64b",
+    "title_hash": "e4a7c15d5973089d",
+    "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+    "url": "https://www.qbitai.com/2026/09/484159.html",
+    "summary": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
+    "published_at": "2026-09-04T13:53:09+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "86c34c55f621803d",
+    "title_hash": "40e4ec73c6152840",
+    "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+    "url": "https://www.qbitai.com/2026/09/484155.html",
+    "summary": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+    "published_at": "2026-09-04T13:48:53+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "9e0d5fd3e9f2eb02",
+    "title_hash": "f865179a5126e169",
+    "title": "社交媒体治理的分水岭：Meta的和解协议不止于180亿美元",
+    "url": "https://www.ftchinese.com/story/001110802",
+    "summary": "杜毓斌：这也是为什么Meta在声明中顺水推舟，呼吁立法强制要求苹果和谷歌的应用商店在下载层面承担年龄验证责任。",
+    "published_at": "2026-09-04T00:00:00+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "1bfbb45ff2db4fc0",
+    "title_hash": "4a5010f5f45136a4",
+    "title": "新氧做大美丽生意 规模效益逐步浮现",
+    "url": "https://www.ftchinese.com/story/001110801",
+    "summary": "随着自营医美诊所网络不断扩张，新氧科技第二季医美服务收入大增130%，带动公司整体收入增长33%。",
+    "published_at": "2026-09-04T00:00:00+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "76cdaaf269a37176",
+    "title_hash": "50514a5803fd73cd",
+    "title": "朝鲜国家安全战略评估",
+    "url": "https://www.ftchinese.com/story/001110800",
+    "summary": "叶胜舟：朝鲜试图永久巩固拥核国家地位“不可逆”，企图以中俄朝军事同盟对抗美日韩军事同盟，企图提升朝鲜的国际领导力影响力。",
+    "published_at": "2026-09-04T00:00:00+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "13b36e9f0e79f441",
+    "title_hash": "17b239f370309d85",
+    "title": "霍尔木兹海峡：美国制造的秩序真空试验场",
+    "url": "https://www.ftchinese.com/story/001110799",
+    "summary": "何越：霍尔木兹海峡问题真正检验的是，什么秩序将取代美国主导的二战后国际秩序，是欧洲或中俄的计划，还是地区国家获得更大治理权的安排？",
+    "published_at": "2026-09-04T00:00:00+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5427d679c7eaa44b",
+    "title_hash": "ca6ce08530b86d16",
+    "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+    "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+    "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation Comments URL: https://news.ycombinator.com/item?id=49572875 Points: 6 # Comments: 1",
+    "published_at": "2026-09-05T11:38:56+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b64c6129c35952aa",
+    "title_hash": "fa66adca4dc5b5a5",
+    "title": "Nitter has more working instances than before the takedowns",
+    "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+    "summary": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 84 # Comments: 25",
+    "published_at": "2026-09-05T08:04:16+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2ec73a976413b690",
+    "title_hash": "e061967a3b4cad58",
+    "title": "Artificial Analysis Intelligence Index v4.2",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 94 # Comments: 30",
+    "published_at": "2026-09-05T08:04:14+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e870d219d769fc5a",
+    "title_hash": "41e22ed51d2efb25",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 78 # Comments: 39",
+    "published_at": "2026-09-05T07:38:50+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "22adedd3e2fe05e5",
+    "title_hash": "7d5ea154d68eae47",
+    "title": "Connecting every app to every other app",
+    "url": "https://blog.val.town/connectors",
+    "summary": "Article URL: https://blog.val.town/connectors Comments URL: https://news.ycombinator.com/item?id=49571263 Points: 25 # Comments: 2",
+    "published_at": "2026-09-05T07:09:59+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "96676fa55b7e84a2",
+    "title_hash": "a5cbd9896bd9fdf5",
+    "title": "Can guitar frets perform multiplication?",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "summary": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html Comments URL: https://news.ycombinator.com/item?id=49571047 Points: 55 # Comments: 16",
+    "published_at": "2026-09-05T06:40:30+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "969cb59a59bd8182",
+    "title_hash": "496f42b47de1066d",
+    "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+    "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+    "summary": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx Comments URL: https://news.ycombinator.com/item?id=49570772 Points: 315 # Comments: 244",
+    "published_at": "2026-09-05T06:03:16+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "6a5cb4a438703700",
+    "title_hash": "5dbfaeb8787d0c42",
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 390 # Comments: 223",
+    "published_at": "2026-09-05T05:52:01+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f1a9d0f7fd014aee",
+    "title_hash": "5179f805da7d4443",
+    "title": "Icons as a Service",
+    "url": "https://nravic.com/blog/images/",
+    "summary": "Article URL: https://nravic.com/blog/images/ Comments URL: https://news.ycombinator.com/item?id=49570597 Points: 34 # Comments: 2",
+    "published_at": "2026-09-05T05:44:59+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0c6009cf40693d37",
+    "title_hash": "dfc4c801b79b0437",
+    "title": "GPT-6 Astra on OpenRouter",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 174 # Comments: 90",
+    "published_at": "2026-09-05T05:39:19+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5553f4409f200ed4",
+    "title_hash": "e71f94ef7f9a45ba",
+    "title": "Statichost.eu – European static site hosting",
+    "url": "https://www.statichost.eu/",
+    "summary": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 214 # Comments: 69",
+    "published_at": "2026-09-05T04:34:49+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ecddddcc43702dbb",
+    "title_hash": "9024bf7e202764d3",
+    "title": "An open DNS recursive service for free security and high privacy",
+    "url": "https://quad9.net/",
+    "summary": "Article URL: https://quad9.net/ Comments URL: https://news.ycombinator.com/item?id=49569663 Points: 78 # Comments: 19",
+    "published_at": "2026-09-05T04:13:08+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "fc8b777bd4955741",
+    "title_hash": "2c81fba9997e2140",
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 218 # Comments: 134",
+    "published_at": "2026-09-05T03:48:29+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2fb0f70549546b1e",
+    "title_hash": "7559a6a8423d7b15",
+    "title": "Government Rails Site Hit Hours After CVE Patch",
+    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "summary": "Article URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/ Comments URL: https://news.ycombinator.com/item?id=49568828 Points: 83 # Comments: 25",
+    "published_at": "2026-09-05T03:06:39+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2b4381bb13faabd5",
+    "title_hash": "f095094d5f815ee6",
+    "title": "Fermat's Last Theorem in Lean 4",
+    "url": "https://github.com/anthropics/fermats-last-theorem",
+    "summary": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 83 # Comments: 17",
+    "published_at": "2026-09-05T02:57:32+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "fd4e0b99ad940433",
+    "title_hash": "1d649a51c21c7efa",
+    "title": "Shutting down our public encrypted DNS",
+    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "summary": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 306 # Comments: 136",
+    "published_at": "2026-09-05T02:50:28+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e94fc2f0f03f5691",
+    "title_hash": "895b60bdaed1e1d7",
+    "title": "Formalizing Fermat's Last Theorem",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "summary": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 565 # Comments: 350",
+    "published_at": "2026-09-05T02:42:56+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "96d714b5e5dc11b9",
+    "title_hash": "acb347ab7a520c46",
+    "title": "The Rust React Compiler is now native in Vite",
+    "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "summary": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 128 # Comments: 25",
+    "published_at": "2026-09-05T01:49:09+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "79a921d6eacb0325",
+    "title_hash": "3a12ef157107d5d4",
+    "title": "Show HN: Open-Source eInk Bike Computer",
+    "url": "https://opentrailpaper.com",
+    "summary": "Hey all, i just launched my Eink Bike computer project and think it is cool. Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: https://github.com/RaemondBW/esp32-ant Comments URL: https://news.ycombinator.com/item?id=49567437 Points: 264 # Comments: 94",
+    "published_at": "2026-09-05T01:18:08+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b9d9e17ac142a3f5",
+    "title_hash": "170d612a7a545e94",
+    "title": "deSEC – Free Secure DNS",
+    "url": "https://desec.io/",
+    "summary": "Article URL: https://desec.io/ Comments URL: https://news.ycombinator.com/item?id=49566193 Points: 122 # Comments: 42",
+    "published_at": "2026-09-04T23:38:58+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "234d1f722727c86c",
+    "title_hash": "d1e48cf0afd35fd9",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+    "published_at": "2026-09-05T07:36:14+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "c7bac135042a53c6",
+    "title_hash": "2617e86a1271fbfc",
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "published_at": "2026-09-05T07:15:11+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "ac4ec989a2a725db",
+    "title_hash": "0b33f1724a13573f",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "published_at": "2026-09-05T05:12:11+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "d94610ea6050df07",
+    "title_hash": "971583e4302c0151",
+    "title": "What will Apple’s John Ternus era look like?",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "published_at": "2026-09-05T01:18:00+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "85ed079974755641",
+    "title_hash": "be9b39c260fc6704",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "published_at": "2026-09-05T00:21:11+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "6fe8f3c9710a62d2",
+    "title_hash": "4f2e0fbbd387aa83",
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "published_at": "2026-09-05T00:04:08+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "3bdf29cbf5f7fbfc",
+    "title_hash": "9e08aea9bcc4c38f",
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "published_at": "2026-09-04T22:47:11+08:00",
+    "created_at": "2026-09-05 05:56:02"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "418a1c807adf70ea",
+    "title_hash": "cba1b2fa23b7bb52",
+    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+    "published_at": "2026-09-04T22:00:00+08:00",
+    "created_at": "2026-09-05 05:56:02"
   }
 ]
