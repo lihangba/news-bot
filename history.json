@@ -1,486 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "b39beb8687502e02",
-    "title_hash": "754fa7beb95cc04a",
-    "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-    "url": "https://www.qbitai.com/2026/09/482967.html",
-    "summary": "AI客服日扛1.5万通电话",
-    "published_at": "2026-09-02T10:48:06+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "5c4430abfb4276e5",
-    "title_hash": "52d119533541bfa1",
-    "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-    "url": "https://www.qbitai.com/2026/09/482652.html",
-    "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
-    "published_at": "2026-09-02T10:18:12+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "7398a9acb0558cfc",
-    "title_hash": "9178cc5a7c5f46a1",
-    "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-    "url": "https://www.qbitai.com/2026/09/482855.html",
-    "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
-    "published_at": "2026-09-02T10:06:08+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "9f08e20c299777c5",
-    "title_hash": "f9f4b588c90b1507",
-    "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-    "url": "https://www.qbitai.com/2026/09/482699.html",
-    "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
-    "published_at": "2026-09-02T09:44:24+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "ca4723cb580ccfbe",
-    "title_hash": "c635bd7a47cdd82c",
-    "title": "李飞飞发布：全球首个多模态世界模型",
-    "url": "https://www.qbitai.com/2026/09/482586.html",
-    "summary": "一张图补全3D世界，还能给机器人造训练场",
-    "published_at": "2026-09-02T09:07:13+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "2fcbf27402ddeeeb",
-    "title_hash": "0ced97c4c2994709",
-    "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-    "url": "https://www.qbitai.com/2026/09/482512.html",
-    "summary": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-    "published_at": "2026-09-01T20:02:39+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "fa5e339434f9568e",
-    "title_hash": "9c77037375b4a413",
-    "title": "GitHub最热架构图Agent，开发者故事看哭了",
-    "url": "https://www.qbitai.com/2026/09/482469.html",
-    "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！",
-    "published_at": "2026-09-01T16:26:54+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "d60375777c94fa11",
-    "title_hash": "7a4c46e2216dbfc6",
-    "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-    "url": "https://www.qbitai.com/2026/09/482406.html",
-    "summary": "主打一个明升暗降，理直气壮",
-    "published_at": "2026-09-01T16:15:40+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "25a30f6da26160e5",
-    "title_hash": "c949198681132b16",
-    "title": "G20财长峰会未能达成共识",
-    "url": "https://www.ftchinese.com/story/001110776",
-    "summary": "据美欧国家官员称，中国反对美国和其他国家在峰会公报中同意的关于消除“非市场政策”以遏制全球贸易失衡的措辞。",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "88f4fc44944bc6c7",
-    "title_hash": "9995c9f9269fd952",
-    "title": "如何理解当前债市和股市的最大谜团？",
-    "url": "https://www.ftchinese.com/story/001110775",
-    "summary": "马特•金：为什么在债券收益率大幅上升的同时，股市还强劲上涨？就像每一轮泡沫一样，重点在于理清这场AI热潮背后的资金来源。",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "ac030b429773ddd0",
-    "title_hash": "c679be70a2289f6f",
-    "title": "美国债要崩？想多了",
-    "url": "https://www.ftchinese.com/story/001110740",
-    "summary": "古尧：美债有危机的论调，是旧思维作祟的结果。美债的高利率，不仅是外生性通胀扰动的结果，更是当今金融战背景下政策的有意为之，能提升美元地位。",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "743d3253f19658cf",
-    "title_hash": "5c10a9b359efffbc",
-    "title": "特朗普召集炼油业高管开会",
-    "url": "https://www.ftchinese.com/story/001110774",
-    "summary": "美国总统对伊朗发动的战争引发汽油和柴油价格上涨，在中期选举临近之际推高通胀。美国选民认为在他上任后自己的经济状况变差。",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "d286c95fe553ded8",
-    "title_hash": "8138c2abe0898a63",
-    "title": "韩国、沙特油轮在霍尔木兹海峡遇袭",
-    "url": "https://www.ftchinese.com/story/001110773",
-    "summary": "针对霍尔木兹海峡航运的袭击事件目前呈上升趋势，尽管美国声称其军方正在指引商船安全通过这一关键水道。",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "346407623becfe17",
-    "title_hash": "0b65040bba2f92e4",
-    "title": "牛来！牛在？",
-    "url": "https://www.ftchinese.com/story/001110741",
-    "summary": "黄凡：电影《牛来》低成本投入，是典型的以拙胜巧。在A股投资，普通投资人处于信息、认知、资金等各方面的劣势，是否也能实现以拙取胜？",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "f944bbf67d3d9499",
-    "title_hash": "4192140fb4ac4d68",
-    "title": "“当导演不再需要一支军队”：从《奥德赛》到《牛来》看AI电影革命",
-    "url": "https://www.ftchinese.com/story/001110764",
-    "summary": "静楠：技术降低的是创作的门槛，却没有降低好作品的门槛，在AI时代，内容依旧为王。",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "09b2a9e1bc386380",
-    "title_hash": "4e44d8842de9db53",
-    "title": "面对“从众市场”，中国电影产业该怎么办？",
-    "url": "https://www.ftchinese.com/story/001110771",
-    "summary": "刘远举：想要在大众舆论层面获得最初的美誉度，电影宣发就需要引入科学的、专业的大众传播理念。",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "ddbcaf88e9f21bfe",
-    "title_hash": "765d670a303af464",
-    "title": "美联储新框架与我们所处的“模糊”时代",
-    "url": "https://www.ftchinese.com/story/001110772",
-    "summary": "张林：无论是不是沃什在任，美联储的长期政策压力依然会是降息。当然，沃什宣布放弃前瞻指引，等于是推动政策体系本身也进入了模糊状态。",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "37a4cd5357b9da8d",
-    "title_hash": "beebcde5eee804ac",
-    "title": "达势股份打造具有中国特色的达美乐增长曲线",
-    "url": "https://www.ftchinese.com/story/001110770",
-    "summary": "受门店快速扩张和交易量上升的推动，达美乐比萨在中国大陆及港澳地区特许经营商上半年营收增长20.8%。",
-    "published_at": "2026-09-01T00:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f2e4326ec6899d86",
-    "title_hash": "a3c0c8170c26da0b",
-    "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-    "url": "https://arxiv.org/abs/2608.29530",
-    "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 36 # Comments: 5",
-    "published_at": "2026-09-02T12:15:56+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "eb2920341205aedc",
-    "title_hash": "2b774424696ffc16",
-    "title": "WebFPGA",
-    "url": "https://webfpga.io/",
-    "summary": "Article URL: https://webfpga.io/ Comments URL: https://news.ycombinator.com/item?id=49531525 Points: 25 # Comments: 15",
-    "published_at": "2026-09-02T11:54:58+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ee291c57af5cafc6",
-    "title_hash": "60a66484e48bd1db",
-    "title": "True Rate of Unemployment",
-    "url": "https://www.lisep.org/tru",
-    "summary": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 110 # Comments: 42",
-    "published_at": "2026-09-02T10:21:10+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f30ff19dd7ec348d",
-    "title_hash": "aad28204618631bd",
-    "title": "The efficient frontier of LLM inference",
-    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-    "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 81 # Comments: 20",
-    "published_at": "2026-09-02T07:48:05+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6df08faed0b3ab6a",
-    "title_hash": "c67fbd20672148be",
-    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-    "summary": "Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=49529621 Points: 120 # Comments: 40",
-    "published_at": "2026-09-02T07:17:43+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "401e6bb8407c67a2",
-    "title_hash": "d654c52b01d9c609",
-    "title": "My local model setup on an M4 Pro Mac Mini",
-    "url": "https://lws.io/blog/my-local-model-setup/",
-    "summary": "Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 127 # Comments: 63",
-    "published_at": "2026-09-02T06:30:52+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b67aa4138c4ab20d",
-    "title_hash": "5421e25b1d73d475",
-    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-    "url": "https://masteranza.github.io/weedout/",
-    "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos. Source for developers who want to fork or build: https://github.com/masteranza/weedout-for-youtube Pull requests are not accepted; the repository is for independent forks. Comments URL: https://news.ycombinator.com/item?id=49528895 Points: 93 # Comments: 38",
-    "published_at": "2026-09-02T06:06:57+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0081cb034cbefebf",
-    "title_hash": "ba49f03293bc7ef3",
-    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-    "url": "https://hnmatchmaker.com/",
-    "summary": "Hi! Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\". So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then eliminate incompatible postings, like 'looking for remote work' and 'onsite only'. The result is two views: jobs-by-user and user-by-jobs. If you've submitted a post to this month's 'Who Wants to Be Hired?\", you can find your matching job listings at https://hnmatchmaker.com/user/:user_name , for example https://hnmatchmaker.com/user/G4Vi --- Some observations when looking at the matches pair up right now: Poke around, let me know what you think! Ultimately, I hope this is actually helpful to some folks. Comments URL: https://news.ycombinator.com/item?id=49528057 Points: 65 # Comments: 30",
-    "published_at": "2026-09-02T04:53:35+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7734742dd6a220cc",
-    "title_hash": "dc2a343c6c610ab7",
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "url": "https://openai.com/index/path-to-astra/",
-    "summary": "Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 114 # Comments: 51",
-    "published_at": "2026-09-02T04:20:41+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "86d3bc7092b6e9c6",
-    "title_hash": "1d50836bfa990fb1",
-    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-    "summary": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 326 # Comments: 147",
-    "published_at": "2026-09-02T04:07:57+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5187852a48139a8d",
-    "title_hash": "84977e2c0df70c8f",
-    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-    "summary": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 107 # Comments: 50",
-    "published_at": "2026-09-02T03:55:47+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e82667920f5ed02b",
-    "title_hash": "e5fd9721f96e165b",
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-    "url": "https://danluu.com/zitron/",
-    "summary": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 572 # Comments: 655",
-    "published_at": "2026-09-02T02:35:15+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e7232d52f37fd859",
-    "title_hash": "e7527b3b6f19c7d0",
-    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "summary": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 1075 # Comments: 1007",
-    "published_at": "2026-09-02T01:53:53+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e31b0c181f45d02d",
-    "title_hash": "b51c0072bff2415d",
-    "title": "The creator of Jujutsu has joined ERSC",
-    "url": "https://ersc.io/blog/martin-joins-ersc",
-    "summary": "Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 210 # Comments: 156",
-    "published_at": "2026-09-02T01:46:21+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "555b86ad65509938",
-    "title_hash": "811c2b2419371e69",
-    "title": "Atlas: A World Model for Spatial Intelligence",
-    "url": "https://www.worldlabs.ai/blog/atlas",
-    "summary": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 191 # Comments: 46",
-    "published_at": "2026-09-02T01:36:02+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8ea18c332d43a872",
-    "title_hash": "49f52fe2e8a2c733",
-    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-    "url": "https://www.norirobotics.com/",
-    "summary": "Hey HN, I’m Antonio from Nori Robotics ( https://norirobotics.com ). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers. I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots. So I built my own. After seven iterations the latest Nori has: * 19 degrees of freedom * Two 7+1 DOF arms with a 1.5 kg payload per arm * A 55 kg telescoping lift * A differential wheeled base * Four 720p, 30 fps RGB cameras * 2D lidar * A dual microphone array with full-duplex voice communication * A 432 Wh battery * A Raspberry Pi 5 with 4 GB RAM (SLAM and safeties are run on board, heavier ACT and VLAs must be run from a computer via LAN or a server via WAN) Getting this under $2,000 was the main engineering challenge. Nori has more than 100 moving and structural parts, so costs add up quickly across actuators, bearings, wiring, power delivery, and assembly. Some main choices we made to get the cost low was using high-ratio servos instead of QDD motors, and using a wheel base instead of legs. We assemble each robot in San Francisco and have designed it to be easy to manufacture and repair (we offer 3D files to print repairs). Our open SDK includes teleoperation and demonstration tools: https://github.com/Nori-Robotics/nori-sdk-py We also built a browser-based simulator so you can try it out: https://lab.norirobotics.com/nori/model We’ve shipped our first robot and are building the next batch. Eventually, we want people without robotics experience to teach Nori tasks and share them with other owners. Currently the hardware is already capable of basic cleaning tasks, opening drawers, restocking shelves and pouring beers. Here is a video of Nori doing things: https://youtube.com/shorts/VRfVXHfQvD8 We make money by selling the hardware for $1,688, with optional paid software on top. Parts of hardware are open source. More details are in our hardware paper: https://doi.org/10.48550/arXiv.2605.16537 If you work in robotics, what would you build with a robot at this price? What would you change about the hardware? Comments URL: https://news.ycombinator.com/item?id=49525153 Points: 128 # Comments: 43",
-    "published_at": "2026-09-02T01:35:10+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "4be7e146957381bd",
-    "title_hash": "883b28c1ece43611",
-    "title": "Fine, I'll build my own text editor",
-    "url": "https://dbushell.com/2026/09/01/text-editor/",
-    "summary": "Article URL: https://dbushell.com/2026/09/01/text-editor/ Comments URL: https://news.ycombinator.com/item?id=49524863 Points: 38 # Comments: 19",
-    "published_at": "2026-09-02T01:12:15+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "4bddcfcfe940d695",
-    "title_hash": "2cebb71a81e9405a",
-    "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-    "url": "https://news.ycombinator.com/item?id=49524704",
-    "summary": "Comments URL: https://news.ycombinator.com/item?id=49524704 Points: 0 # Comments: 0",
-    "published_at": "2026-09-02T01:00:14+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "fb0827c68cc0b5d0",
-    "title_hash": "b1af2308508208c3",
-    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-    "url": "https://github.com/carloslfu/slotstream",
-    "summary": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift. It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I'll be implementing and porting the MTP module for speculative decoding next Comments URL: https://news.ycombinator.com/item?id=49524447 Points: 186 # Comments: 91",
-    "published_at": "2026-09-02T00:42:46+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "372a433b5951b2f5",
-    "title_hash": "137cc7b43febca8d",
-    "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-    "url": "https://moviescenemap.com/",
-    "summary": "Article URL: https://moviescenemap.com/ Comments URL: https://news.ycombinator.com/item?id=49524320 Points: 192 # Comments: 30",
-    "published_at": "2026-09-02T00:34:45+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "c097ba37b0ccd0a1",
-    "title_hash": "519be40ebc3fa4b0",
-    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-    "published_at": "2026-09-02T06:08:24+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "c53867e1e8c8a5e6",
-    "title_hash": "b83d1d038690bea6",
-    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-    "published_at": "2026-09-02T05:06:24+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "e4c6ad0840540c20",
-    "title_hash": "a1f39a5888260cc8",
-    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-    "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-    "published_at": "2026-09-02T04:53:05+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "a3461c8cef17985d",
-    "title_hash": "a8e9c3c16629742b",
-    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-    "published_at": "2026-09-02T03:39:22+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "49d8f8bb06ff56af",
-    "title_hash": "e0180891583d1c58",
-    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-    "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-    "published_at": "2026-09-02T01:35:37+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "57158382d753eba0",
-    "title_hash": "2cba68bf9ac9ed25",
-    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-    "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-    "published_at": "2026-09-02T01:00:00+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "239e2a8c2c65f78d",
-    "title_hash": "9aa6857863b6c233",
-    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-    "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-    "published_at": "2026-09-02T00:31:04+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "05fa97c1383e94c1",
-    "title_hash": "f11f3f2f400ac3dd",
-    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-    "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-    "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-    "published_at": "2026-09-01T23:51:55+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "c6d1166e74facffc",
-    "title_hash": "8f889dc387f98be3",
-    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-    "published_at": "2026-09-01T23:45:51+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "f7e091e284fd07cb",
-    "title_hash": "b73a39cdc427c449",
-    "title": "Fambot introduces an ‘AI chief of staff’ for families",
-    "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-    "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-    "published_at": "2026-09-01T23:10:58+08:00",
-    "created_at": "2026-09-02 06:00:49"
-  },
-  {
-    "source": "量子位",
     "url_hash": "d437f4c2dc59be9b",
     "title_hash": "32b8128e204cdb2d",
     "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
@@ -2878,5 +2398,445 @@
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "published_at": "2026-09-08T03:24:00+08:00",
     "created_at": "2026-09-08 06:05:01"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "727cb1b8abd714a5",
+    "title_hash": "69179b1b06dd4e76",
+    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+    "url": "https://www.qbitai.com/2026/09/486288.html",
+    "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+    "published_at": "2026-09-09T13:02:30+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "18bbd6a0b1b13c88",
+    "title_hash": "488d4d2df32fd0de",
+    "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+    "url": "https://www.qbitai.com/2026/09/486280.html",
+    "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+    "published_at": "2026-09-09T12:52:12+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "6ab864503f24d55f",
+    "title_hash": "f69b6df7f6f3b145",
+    "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+    "url": "https://www.qbitai.com/2026/09/486052.html",
+    "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+    "published_at": "2026-09-09T11:39:58+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "8c41ed353829118b",
+    "title_hash": "f53c0840477c5cb9",
+    "title": "宜宾，一场机器人“招聘会”的产业雄心",
+    "url": "https://www.qbitai.com/2026/09/486038.html",
+    "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+    "published_at": "2026-09-09T10:15:54+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d9c539853fda87a3",
+    "title_hash": "7545a3108e6b9018",
+    "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+    "url": "https://www.qbitai.com/2026/09/485854.html",
+    "summary": "Blender也不用学了",
+    "published_at": "2026-09-08T14:05:30+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "0ce7054aa8dbfd68",
+    "title_hash": "95684239d6a85d5f",
+    "title": "9•11事件给美国造成的真正代价",
+    "url": "https://www.ftchinese.com/story/001110834",
+    "summary": "哈曼：9•11事件25年后的今天，美国的政府债务和国防支出不断膨胀，而外交工作的经费被大幅削减，盟友被莫名其妙地得罪。",
+    "published_at": "2026-09-09T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "eee921d85584a8f3",
+    "title_hash": "52a057a0d9c39e10",
+    "title": "欧元区GDP数据应不应该剔除爱尔兰？",
+    "url": "https://www.ftchinese.com/story/001110833",
+    "summary": "外国跨国公司的活动会导致爱尔兰GDP剧烈波动。换句话说，剔除爱尔兰后的欧元区GDP数据能更准确地反映单一货币区的经济表现。",
+    "published_at": "2026-09-09T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "ce9bf365e3954f63",
+    "title_hash": "2a8eb734666eeb78",
+    "title": "从“历史移出中考”，看教育减负背后的经济学逻辑",
+    "url": "https://www.ftchinese.com/story/001110813",
+    "summary": "刘远举：通过技术性分析，不难发现，各地的这轮改革，符合减少中考筛选功能，拉平高中学校差异，进而减少初中、小学负担的国家长期目标。",
+    "published_at": "2026-09-09T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "f9e2609438272834",
+    "title_hash": "216180f3edb4a8c7",
+    "title": "“应届毕业生”的政治经济学",
+    "url": "https://www.ftchinese.com/story/001110830",
+    "summary": "傅蔚冈：为什么一些年轻人宁愿暂时不就业，也要保持“应届身份”？为什么有人反复研究缴社保会不会影响应届资格？",
+    "published_at": "2026-09-09T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "58d48b7736db39a1",
+    "title_hash": "9b202aab83e831d4",
+    "title": "贝森特只说对一半，他看不到1.2万亿美元顺差背后的两个中国",
+    "url": "https://www.ftchinese.com/story/001110831",
+    "summary": "陆媛：为什么一个创造了历史最高贸易顺差的经济体，里面仍然有大量家庭觉得工作越来越难找，企业觉得钱越来越难赚？",
+    "published_at": "2026-09-09T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "12195b1ec6eb7282",
+    "title_hash": "bc501f3509b294c2",
+    "title": "英国长期借款成本升至1998年以来最高水平",
+    "url": "https://www.ftchinese.com/story/001110832",
+    "summary": "周二发行的30年期国债定价收益率高达5.82%。英国政府每年债务利息支出已达1100亿英镑，超过英国国防部、内政部和司法部的支出总和。",
+    "published_at": "2026-09-09T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "2c505774ddc4ac03",
+    "title_hash": "609462a9c0b703b1",
+    "title": "华为成为中国先进芯片国产化道路上的推手",
+    "url": "https://www.ftchinese.com/story/001110829",
+    "summary": "通过投资各类DUV光刻机元组件生产商，这家科技巨头发挥的作用类似于“项目管理”。",
+    "published_at": "2026-09-08T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "ecdb6ae9ea95bd6c",
+    "title_hash": "af85fe4349ac90fd",
+    "title": "Shein上市之后：沉默不再是一种选择",
+    "url": "https://www.ftchinese.com/story/001110828",
+    "summary": "杨方曦：Shein终于上市了，下一阶段要管理的不是股价，是信任。",
+    "published_at": "2026-09-08T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "7170df3e5aeb0eca",
+    "title_hash": "127d501ddb517ab0",
+    "title": "中比双重国籍研究员因涉嫌窃取芯片机密被捕",
+    "url": "https://www.ftchinese.com/story/001110827",
+    "summary": "比利时检方称，有“迹象”显示，嫌疑人在加入现已破产的半导体制造商Belgan数月后，又出任一家中国科技公司的董事。",
+    "published_at": "2026-09-08T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "2a30e9a2ba690db8",
+    "title_hash": "417f1778b8eeb295",
+    "title": "中美共同体解绑导致了如今的全球动荡",
+    "url": "https://www.ftchinese.com/story/001110826",
+    "summary": "图兹：出于众多原因，“中国冲击”2.0版跟2000年代的1.0版毫无共同之处。2000年代构成“中美共同体”格局的那些要素，如今已不复存在。",
+    "published_at": "2026-09-08T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "167fa1236746bc61",
+    "title_hash": "bae80d7dec51d0ec",
+    "title": "“寻找赛考斯”的故事缘何感动中国和世界？",
+    "url": "https://www.ftchinese.com/story/001110824",
+    "summary": "杜毓斌：有一天，他在诊所等候医生时，随手翻开一本杂志，在最不起眼的角落看到了一则短短四句话的广告——寻找愿意去中国教英语的美国老师……",
+    "published_at": "2026-09-08T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "43532bc450f5393d",
+    "title_hash": "1a5dd23d5e0a6e89",
+    "title": "国内高消费客缩手 挚文集团出海寻增长",
+    "url": "https://www.ftchinese.com/story/001110825",
+    "summary": "社交应用运营商挚文集团正扩大中国市场的付费用户规模，但用户消费减弱，加上海外业务遇挫，令市场期待已久的业绩反转进一步延后。",
+    "published_at": "2026-09-08T00:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b4fdcccd3be7f213",
+    "title_hash": "30a64e469ca5ac09",
+    "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+    "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+    "summary": "Article URL: https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en Comments URL: https://news.ycombinator.com/item?id=49621102 Points: 12 # Comments: 2",
+    "published_at": "2026-09-09T12:43:46+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9d1cff2c4ef2b08e",
+    "title_hash": "0ba8a6c59558a635",
+    "title": "The Nonfiction Book Market Is Collapsing",
+    "url": "https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing",
+    "summary": "Article URL: https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing Comments URL: https://news.ycombinator.com/item?id=49621074 Points: 10 # Comments: 1",
+    "published_at": "2026-09-09T12:39:11+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "04cf22e0625cdb73",
+    "title_hash": "9c656269b977301c",
+    "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+    "url": "https://gpu-lexer.vercel.app/",
+    "summary": "Article URL: https://gpu-lexer.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49619464 Points: 45 # Comments: 15",
+    "published_at": "2026-09-09T09:14:50+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a4ba8552eea41073",
+    "title_hash": "c38f5e8818b2dcbf",
+    "title": "I resigned from Anthropic today",
+    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+    "summary": "https://xcancel.com/hilbertspaess/status/2097476196791709843... Comments URL: https://news.ycombinator.com/item?id=49619227 Points: 326 # Comments: 394",
+    "published_at": "2026-09-09T08:40:40+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "d7c6029310d91d59",
+    "title_hash": "27d0a1a92d737e09",
+    "title": "A Topological Picture Book, Rendered",
+    "url": "https://e-infinity.space/picture-book/",
+    "summary": "Article URL: https://e-infinity.space/picture-book/ Comments URL: https://news.ycombinator.com/item?id=49618050 Points: 83 # Comments: 10",
+    "published_at": "2026-09-09T06:28:14+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ec5e2fd630258bdf",
+    "title_hash": "e60bb43a39b11872",
+    "title": "Large language models develop novel social biases through adaptive exploration",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "summary": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH Comments URL: https://news.ycombinator.com/item?id=49617581 Points: 133 # Comments: 68",
+    "published_at": "2026-09-09T05:47:38+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "4406eb82a480fa71",
+    "title_hash": "4c604278052099b6",
+    "title": "How to build a printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "summary": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/ Comments URL: https://news.ycombinator.com/item?id=49617255 Points: 241 # Comments: 45",
+    "published_at": "2026-09-09T05:22:11+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "711af1fbdbef2017",
+    "title_hash": "fa05362c4444fed0",
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 286 # Comments: 297",
+    "published_at": "2026-09-09T05:00:52+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "fa323a8be685f2f1",
+    "title_hash": "4be063a6bbfd804e",
+    "title": "Mercury 2.5",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+    "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49616354 Points: 163 # Comments: 25",
+    "published_at": "2026-09-09T04:14:52+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "d197b84a5c23eec5",
+    "title_hash": "31c30878d1da37c9",
+    "title": "Animation in Bevy: The Big Picture",
+    "url": "https://glocq.com/en/blog/20260827/",
+    "summary": "Article URL: https://glocq.com/en/blog/20260827/ Comments URL: https://news.ycombinator.com/item?id=49616272 Points: 63 # Comments: 7",
+    "published_at": "2026-09-09T04:08:44+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a9e40bcc77117409",
+    "title_hash": "c3d39b29a6237281",
+    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "url": "https://github.com/argonautlabsai/deltafin",
+    "summary": "Article URL: https://github.com/argonautlabsai/deltafin Comments URL: https://news.ycombinator.com/item?id=49616257 Points: 247 # Comments: 125",
+    "published_at": "2026-09-09T04:07:55+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "3cc49d056088c2dd",
+    "title_hash": "1cb96fcc7d60c73f",
+    "title": "Muse – Meta’s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 434 # Comments: 459",
+    "published_at": "2026-09-09T03:25:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "259c8fd88c0fe455",
+    "title_hash": "d54f1ccaa6b1fa2e",
+    "title": "ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "summary": "Article URL: https://openai.com/index/introducing-chatgpt-images-2-5/ Comments URL: https://news.ycombinator.com/item?id=49614720 Points: 310 # Comments: 382",
+    "published_at": "2026-09-09T02:37:51+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1d977876014d13d0",
+    "title_hash": "0d63026ba95bf342",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "summary": "Article URL: https://openai.com/index/navier-stokes-solution/ Comments URL: https://news.ycombinator.com/item?id=49613262 Points: 1212 # Comments: 970",
+    "published_at": "2026-09-09T01:13:21+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e3c0d8fd1a078913",
+    "title_hash": "3d3a2a8e9e4d6d2c",
+    "title": "Into the depths of C: Elaborating the de facto standards (2016)",
+    "url": "https://dl.acm.org/doi/10.1145/2980983.2908081",
+    "summary": "Article URL: https://dl.acm.org/doi/10.1145/2980983.2908081 Comments URL: https://news.ycombinator.com/item?id=49612089 Points: 9 # Comments: 1",
+    "published_at": "2026-09-08T23:49:57+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2ce01404d80fba7f",
+    "title_hash": "be43eabc9ca8f6c6",
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "summary": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-... https://deepmind.google.com/science/alphagenome/atlas Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 532 # Comments: 118",
+    "published_at": "2026-09-08T22:55:45+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "66c10c1bec5a9cb0",
+    "title_hash": "52f2a33d5f44cd07",
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "summary": "Article URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/ Comments URL: https://news.ycombinator.com/item?id=49611128 Points: 230 # Comments: 111",
+    "published_at": "2026-09-08T22:49:19+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "46f3c1d6124190bd",
+    "title_hash": "28e6a66f4f502e5e",
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "summary": "Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=49610631 Points: 384 # Comments: 285",
+    "published_at": "2026-09-08T22:13:26+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "3ffc81ecc2813572",
+    "title_hash": "3d52b84f55a9aeb8",
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "summary": "Article URL: https://www.blackmagicdesign.com/media/release/20260908-03 Comments URL: https://news.ycombinator.com/item?id=49610181 Points: 383 # Comments: 168",
+    "published_at": "2026-09-08T21:36:53+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b6d8a562a29fa342",
+    "title_hash": "86d14fe19d0d4a37",
+    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "summary": "Article URL: https://cims.nyu.edu/~tristanb/statement.pdf Comments URL: https://news.ycombinator.com/item?id=49605915 Points: 1496 # Comments: 638",
+    "published_at": "2026-09-08T13:42:28+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "a58bb6dba21b7032",
+    "title_hash": "a21766c0cddb8fc8",
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+    "published_at": "2026-09-09T05:10:27+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "e623e2c868796f2f",
+    "title_hash": "86fc0cd3727fe156",
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "published_at": "2026-09-09T05:04:06+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "0cfe4d849c9b73f4",
+    "title_hash": "2be9c3fdd70a72e0",
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+    "published_at": "2026-09-09T03:00:00+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "62d9d8572d5c7fcb",
+    "title_hash": "50ff6b22db20dd0c",
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+    "published_at": "2026-09-09T01:32:15+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "91a0d6e6254c5598",
+    "title_hash": "458199dfb7f05cf1",
+    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+    "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+    "published_at": "2026-09-09T00:20:31+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "47690fe8e1050277",
+    "title_hash": "c852bda5954b62c5",
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+    "published_at": "2026-09-08T23:04:09+08:00",
+    "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "eb5fea936a5e290a",
+    "title_hash": "2ad438f1c6ca3c16",
+    "title": "Mistral raises €3B as sovereign AI becomes big business",
+    "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+    "published_at": "2026-09-08T22:17:48+08:00",
+    "created_at": "2026-09-09 06:09:30"
   }
 ]
