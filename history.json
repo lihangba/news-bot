@@ -1,526 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "d437f4c2dc59be9b",
-    "title_hash": "32b8128e204cdb2d",
-    "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-    "url": "https://www.qbitai.com/2026/09/483565.html",
-    "summary": "从工厂一路干到家庭",
-    "published_at": "2026-09-03T11:16:43+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "2f75c2e772769edb",
-    "title_hash": "cd63eee81afb5ed0",
-    "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-    "url": "https://www.qbitai.com/2026/09/483552.html",
-    "summary": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-    "published_at": "2026-09-03T09:31:45+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "ac4c92528a199e5c",
-    "title_hash": "327c4f4171bd71b7",
-    "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-    "url": "https://www.qbitai.com/2026/09/483462.html",
-    "summary": "4激光雷达+双M100上车",
-    "published_at": "2026-09-03T09:27:05+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "f8613b31383c206d",
-    "title_hash": "7e82032a956fe71b",
-    "title": "今年最难的机器人Demo，“机器人含量”为0",
-    "url": "https://www.qbitai.com/2026/09/483351.html",
-    "summary": "遥操，可能真的危险了",
-    "published_at": "2026-09-03T08:51:16+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "3af002fd70cd411d",
-    "title_hash": "1f366909dd8131bd",
-    "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-    "url": "https://www.qbitai.com/2026/09/483274.html",
-    "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
-    "published_at": "2026-09-02T17:22:16+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "b689f1be23ed6417",
-    "title_hash": "457eece9e9a0f7d5",
-    "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-    "url": "https://www.qbitai.com/2026/09/483104.html",
-    "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
-    "published_at": "2026-09-02T14:20:17+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "7b8986898e378fdd",
-    "title_hash": "c29764db631428c9",
-    "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-    "url": "https://www.qbitai.com/2026/09/483101.html",
-    "summary": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-    "published_at": "2026-09-02T14:10:26+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "c8d5279dd437f545",
-    "title_hash": "2d3ae072ed2d88ac",
-    "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
-    "url": "https://www.qbitai.com/2026/09/483097.html",
-    "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
-    "published_at": "2026-09-02T14:06:50+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "96c191092b3450c1",
-    "title_hash": "aa5f7944ad8e7ebf",
-    "title": "AI物流需求：航空货运的结构性增长新引擎",
-    "url": "https://www.ftchinese.com/story/001110787",
-    "summary": "AI相关物流需求已成为DHL全球货运、德迅、罗宾升等国际物流企业航空货运业务的重要增长动力。受访企业普遍认为，这一需求并非短期热潮，而有望成为支撑航空货运市场长期增长的结构性力量。",
-    "published_at": "2026-09-03T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "a9cfb460cef2bcca",
-    "title_hash": "eeb2a587d091d2d2",
-    "title": "卡尔森为何支持“弹劾”特朗普？",
-    "url": "https://www.ftchinese.com/story/001110785",
-    "summary": "魏城：美国右翼网红卡尔森最近表示，如果特朗普考虑首先使用核武器，就应立即遭到弹劾。此前五角大楼的提议，明确把使用战术核武器纳入考量选项。",
-    "published_at": "2026-09-03T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "6e365d3e8c1e2a3c",
-    "title_hash": "e76287ccd7daa5cf",
-    "title": "每周时事分析：韩国试图在半岛争取主动",
-    "url": "https://www.ftchinese.com/story/001110786",
-    "summary": "曹辛：韩国国情院9月1日公布朝鲜情报，是韩国在半岛事务上争取主动的表现，其对朝鲜的冲击应该是毋庸置疑的，但不会有战略性的收获。",
-    "published_at": "2026-09-03T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "fe1769b7c8e37ddf",
-    "title_hash": "bf2a7f2478329d1e",
-    "title": "巨头的AI账本（二）：阿里和腾讯谁能先看到AI回报？",
-    "url": "https://www.ftchinese.com/story/001110778",
-    "summary": "闫曼：同样重金投入AI，阿里希望把算力和模型卖出去，腾讯则更想用AI改造原有业务。两家公司花的是同一种钱，算的却不是同一本账。",
-    "published_at": "2026-09-03T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "f8471fb630f44177",
-    "title_hash": "33c6346d8a3ab09e",
-    "title": "优步将在全球裁减10%员工",
-    "url": "https://www.ftchinese.com/story/001110783",
-    "summary": "此举将涉及约3300个岗位，是该公司全面重组计划的一部分，目的是减少管理岗位，并在全公司范围重新调配资源。",
-    "published_at": "2026-09-03T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "7a4aa5000c796ed5",
-    "title_hash": "0d3e695611b4ebf5",
-    "title": "西班牙警方认定摩洛哥策划了移民潮",
-    "url": "https://www.ftchinese.com/story/001110781",
-    "summary": "在西班牙政府一再坚称摩洛哥与涌入休达的移民潮无关后，有报道称，一项警方调查认定摩洛哥安全部队策划了移民涌入西班牙飞地的事件。",
-    "published_at": "2026-09-03T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "b6b7fd5997ae2b03",
-    "title_hash": "7a2e790c97b20ff0",
-    "title": "德国正式指责俄罗斯对莱比锡机场发动无人机袭击",
-    "url": "https://www.ftchinese.com/story/001110782",
-    "summary": "内政部长多布林特称，8月4日在莱比锡机场一架乌克兰货机附近发现的一架装满炸药的无人机，是俄罗斯“混合战争”的一部分。",
-    "published_at": "2026-09-03T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "e500b8c12cab29a7",
-    "title_hash": "bf9aa6f7f0817dfb",
-    "title": "人工智能时代的四种驱动力与大分化",
-    "url": "https://www.ftchinese.com/story/001110769",
-    "summary": "李晋：使用AI，与拥有可被AI放大的知识、声誉、客户关系和数据，是两回事：前者可以抬高所有人的下限，后者才决定谁能持续分享规模化所创造的收益。",
-    "published_at": "2026-09-03T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "7f8c6b7437807232",
-    "title_hash": "6479b8f1cbc595f8",
-    "title": "美国主导的世界秩序正在散架",
-    "url": "https://www.ftchinese.com/story/001110780",
-    "summary": "沃尔夫：特朗普信奉的是一个没有盟友、只有附庸的世界；在这个世界里，权力只属于美国，也只能由美国行使。",
-    "published_at": "2026-09-03T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "6016ae571d9a5510",
-    "title_hash": "d029ac57293250eb",
-    "title": "中国机器人革命的真正主力不是人形机器人",
-    "url": "https://www.ftchinese.com/story/001110779",
-    "summary": "凭借在规模化生产和供应链构建方面的强大优势，中国的工业机器人产业将具备不容忽视的全球竞争力。",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "c1bb730a8678e8ae",
-    "title_hash": "50d9735f9b61d17a",
-    "title": "金融科技寒冬加剧 奇富科技业绩急冻",
-    "url": "https://www.ftchinese.com/story/001110777",
-    "summary": "两宗重大行业丑闻引发资金紧缩，迫使金融科技助贷服务商奇富科技收缩业务，第二季度利润大幅下滑。",
-    "published_at": "2026-09-02T00:00:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6e96c111f32d0712",
-    "title_hash": "56b795493be9a604",
-    "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-    "url": "https://news.ycombinator.com/item?id=49543530",
-    "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks. I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough. Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication. For me, losing weight was only the beginning. \"Food noise\" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80. This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all. GLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx. Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution. The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop. We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step. We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing. We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested. Comments URL: https://news.ycombinator.com/item?id=49543530 Points: 45 # Comments: 54",
-    "published_at": "2026-09-03T06:36:04+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ae11cbdb1ce95a4b",
-    "title_hash": "02218758185624e2",
-    "title": "Reasons robotics is hard",
-    "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-    "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard Comments URL: https://news.ycombinator.com/item?id=49543191 Points: 70 # Comments: 32",
-    "published_at": "2026-09-03T06:02:30+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "69dbb9011b73222b",
-    "title_hash": "9618f2a1bfadd9b4",
-    "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-    "url": "https://nango.dev/careers",
-    "summary": "Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=49542486 Points: 0 # Comments: 0",
-    "published_at": "2026-09-03T05:00:04+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "413599201807f3fa",
-    "title_hash": "de22d5c2a1837aea",
-    "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-    "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-    "summary": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 52 # Comments: 33",
-    "published_at": "2026-09-03T04:08:22+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b90745bb976c0508",
-    "title_hash": "ae99f1e3389eefa5",
-    "title": "Fable 5.1 World Modeling",
-    "url": "https://github.com/PhiloLabs/fable51-worlds",
-    "summary": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 192 # Comments: 57",
-    "published_at": "2026-09-03T03:49:01+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8aa10573a59369c8",
-    "title_hash": "e2adca9beef21cd3",
-    "title": "Muse Spark 1.3",
-    "url": "https://developer.meta.com/ai/models/muse-spark/",
-    "summary": "https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 494 # Comments: 322",
-    "published_at": "2026-09-03T03:35:04+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f770f179ead4633f",
-    "title_hash": "19bbc8b9b50ed1b5",
-    "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-    "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-    "summary": "Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 109 # Comments: 64",
-    "published_at": "2026-09-03T02:42:41+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1daec64550a440b4",
-    "title_hash": "f5f9edd455ba4320",
-    "title": "Async Rust vs RTOS showdown (2022)",
-    "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-    "summary": "Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 71 # Comments: 39",
-    "published_at": "2026-09-03T02:32:24+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1e5b8618d900b42a",
-    "title_hash": "591c2be75145b26b",
-    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "summary": "https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553 Points: 939 # Comments: 530",
-    "published_at": "2026-09-02T23:12:40+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "94851e28049dfa13",
-    "title_hash": "6b101afd8589f7e3",
-    "title": "Google avoids a breakup of its ad tech business",
-    "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-    "summary": "https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b... Comments URL: https://news.ycombinator.com/item?id=49537131 Points: 332 # Comments: 244",
-    "published_at": "2026-09-02T22:46:16+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7ba86f7b1ce262d8",
-    "title_hash": "6ed8d20c5481e7c4",
-    "title": "Exit the Cave",
-    "url": "https://turtlespace.blog/p/exit-the-cave",
-    "summary": "Article URL: https://turtlespace.blog/p/exit-the-cave Comments URL: https://news.ycombinator.com/item?id=49536606 Points: 234 # Comments: 83",
-    "published_at": "2026-09-02T22:16:45+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e21378f22db2cf25",
-    "title_hash": "67c4944d8cf941a3",
-    "title": "WebLLM: high-performance in-browser LLM inference engine",
-    "url": "https://github.com/mlc-ai/web-llm",
-    "summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 103 # Comments: 17",
-    "published_at": "2026-09-02T22:02:35+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b3e7eee395813d61",
-    "title_hash": "9596c57b282338f7",
-    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-    "summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 359 # Comments: 165",
-    "published_at": "2026-09-02T21:59:59+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0d4cf45aafbbfaab",
-    "title_hash": "22f1aae923764bf2",
-    "title": "Poisson Disk Sampling",
-    "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-    "summary": "Article URL: https://stripeacross.com/posts/poisson-disk-sampling/ Comments URL: https://news.ycombinator.com/item?id=49536177 Points: 143 # Comments: 19",
-    "published_at": "2026-09-02T21:47:49+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2c6e9bf7a10d30c5",
-    "title_hash": "dd00d487560824b6",
-    "title": "Biggest dark matter detector spots a single weird particle",
-    "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-    "summary": "Article URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle Comments URL: https://news.ycombinator.com/item?id=49536079 Points: 270 # Comments: 90",
-    "published_at": "2026-09-02T21:40:29+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ea0a1172a1f34237",
-    "title_hash": "383c92fa2d8e9096",
-    "title": "Aging brains blend memories together instead of just forgetting them",
-    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-    "summary": "Article URL: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49535548 Points: 245 # Comments: 112",
-    "published_at": "2026-09-02T20:59:09+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6da48b386c4af04e",
-    "title_hash": "ce7593e611617885",
-    "title": "Can I opt out of my input or output data being used for training?",
-    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-    "summary": "Article URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training Comments URL: https://news.ycombinator.com/item?id=49535284 Points: 410 # Comments: 175",
-    "published_at": "2026-09-02T20:30:39+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ac538e395cadbf6e",
-    "title_hash": "5c5d9b40e320ce3c",
-    "title": "Show HN: OwnTime – a chess clock for your day's priorities",
-    "url": "https://owntime.app/",
-    "summary": "I made OwnTime to balance between competing priorities in my life. The idea is based on two main influences: the concept of \"roles\" from \"The 5 Choices\" (2015), and my repeated failure to effectively implement time blocking due to the necessary flexibility in my role. The app allows you to define time budgets, which are not much more than a few mutually exclusive countdown timers. The UX is essentially that of a chess clock for an arbitrary number of players with configurable time. The whole point of the app is to kick you out of the running role/priority when its time is up. One feature that was essential for me was AlarmKit alarms, which only became possible last year (>= iOS 26.1). Another was watchOS support, as a natural surface for time-related matters. The current version is strictly focussed. The timers track time allocation during one day. All timers are reset at midnight. I didn't build any statistics - you can export the raw internal SQLite store and make any evaluation or dashboard you want from there. I don't plan to extend the app nor to convert it into a service. All data stays local on your devices (synced between phone and watch locally) and fully open to you. No need for an account or subscription. Thus, I ask for a small one-time fee of $1.99. The website has a short video and rendered preview: https://owntime.app If you want to go straight to the App Store: https://apps.apple.com/app/id6770125662 I look forward to your comments and feedback. Comments URL: https://news.ycombinator.com/item?id=49528506 Points: 33 # Comments: 18",
-    "published_at": "2026-09-02T05:29:24+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "67606d10dd450133",
-    "title_hash": "0bb13e4f6eb454aa",
-    "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
-    "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
-    "summary": "Article URL: https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/ Comments URL: https://news.ycombinator.com/item?id=49524428 Points: 215 # Comments: 153",
-    "published_at": "2026-09-02T00:41:13+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "3358acf7c0040137",
-    "title_hash": "a3cdccbcb6206992",
-    "title": "We could save petabytes of cache storage with Zstandard and Pingora",
-    "url": "https://blog.cloudflare.com/cache-transcoding/",
-    "summary": "Article URL: https://blog.cloudflare.com/cache-transcoding/ Comments URL: https://news.ycombinator.com/item?id=49521909 Points: 91 # Comments: 34",
-    "published_at": "2026-09-01T21:41:11+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "a3db9b4efb8993e9",
-    "title_hash": "6e64bcc59da9acaa",
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-    "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-    "published_at": "2026-09-03T07:01:00+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "ca24c75ccec25c13",
-    "title_hash": "083198175eca0600",
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-    "published_at": "2026-09-03T06:44:56+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "62ca58d2031fdb22",
-    "title_hash": "73f8018b4e5bc37e",
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-    "published_at": "2026-09-03T06:24:09+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "ca0a2fc927923c81",
-    "title_hash": "59ee458410704e23",
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "published_at": "2026-09-03T04:19:14+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "669b37e434059ef8",
-    "title_hash": "2456521735423b07",
-    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what’s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
-    "published_at": "2026-09-03T01:18:13+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "65c77a005179ac46",
-    "title_hash": "6f21aae77c452716",
-    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what’s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
-    "published_at": "2026-09-03T01:09:57+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "61be402eb5f2f6df",
-    "title_hash": "3e7d43956aceba8f",
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
-    "published_at": "2026-09-03T01:09:06+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "adb3987c273c7deb",
-    "title_hash": "d285167eea48e171",
-    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-    "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-    "published_at": "2026-09-03T00:04:10+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "17bdd852a1819d21",
-    "title_hash": "97b87b8714948a36",
-    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-    "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-    "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-    "published_at": "2026-09-03T00:01:48+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "d9ce3ecdee9c0ae1",
-    "title_hash": "ea4e9a7de277353c",
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-    "published_at": "2026-09-02T23:01:23+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "5ce4a0196c7f5aaf",
-    "title_hash": "d0e4846da6839d63",
-    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-    "published_at": "2026-09-02T22:56:34+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "59aa377f580111c6",
-    "title_hash": "79dff92a46ec079f",
-    "title": "Adobe acquires Indian market intelligence startup Rilo",
-    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-    "published_at": "2026-09-02T22:03:57+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "e6bc571c24cbf34d",
-    "title_hash": "aac89e41281035b4",
-    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-    "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-    "published_at": "2026-09-02T20:09:42+08:00",
-    "created_at": "2026-09-03 05:59:04"
-  },
-  {
-    "source": "量子位",
     "url_hash": "63eb99b2045f0981",
     "title_hash": "5b7b9e9e0160501d",
     "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
@@ -2838,5 +2318,525 @@
     "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
     "published_at": "2026-09-08T22:17:48+08:00",
     "created_at": "2026-09-09 06:09:30"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "71419f4c7fe8c04b",
+    "title_hash": "6739965189ab0b49",
+    "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+    "url": "https://www.qbitai.com/2026/09/486625.html",
+    "summary": "模型可以开源，部署经验不能",
+    "published_at": "2026-09-10T12:55:38+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "3920a1b3edc6fa28",
+    "title_hash": "1b360054f214739e",
+    "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+    "url": "https://www.qbitai.com/2026/09/486436.html",
+    "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+    "published_at": "2026-09-10T09:39:13+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "9e1ec5f6aa37e635",
+    "title_hash": "b321484115a1f8d3",
+    "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+    "url": "https://www.qbitai.com/2026/09/486350.html",
+    "summary": "赶上了API限时五折",
+    "published_at": "2026-09-10T08:42:06+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "ede2b3f5337276c9",
+    "title_hash": "593f96634516cbd2",
+    "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+    "url": "https://www.qbitai.com/2026/09/486450.html",
+    "summary": "一比根号二的小胖折叠",
+    "published_at": "2026-09-10T03:24:22+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "cd0c154a3837f975",
+    "title_hash": "cbb337fe4a2f5db5",
+    "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+    "url": "https://www.qbitai.com/2026/09/486370.html",
+    "summary": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+    "published_at": "2026-09-09T17:57:54+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "f6fbbd88b3f6d807",
+    "title_hash": "aad08d7e3b67c24b",
+    "title": "“陈功梯度”与“减量发展原则”",
+    "url": "https://www.ftchinese.com/story/001110838",
+    "summary": "陈功：“减量发展原则”虽然具有颠覆性的特点，但值得思考和研究。因为所谓“继往开来”，没有政策创新，只是一味的延续，终究是难以实现的。",
+    "published_at": "2026-09-11T00:00:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "6a01c9bf4baa7be3",
+    "title_hash": "1c58ebbbdee0c76f",
+    "title": "“人机协同+主动披露”：新加坡出版界如何应对AI焦虑？",
+    "url": "https://www.ftchinese.com/story/001110835",
+    "summary": "徐海娜：新加坡的创作者正通过“人机协同、主动披露”的在地实践，为AI创作与出版伦理劈开一条兼顾诚信与创新的破局之路。",
+    "published_at": "2026-09-11T00:00:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "29469ae2d2007b4d",
+    "title_hash": "d5c3a99f69e166f7",
+    "title": "特朗普政府能源政策持续调整对中国能源产业发展的挑战",
+    "url": "https://www.ftchinese.com/story/001110839",
+    "summary": "郑志刚：中国是否在能源政策上坚持走自己的道路，甚至“一条道走到黑”，目前并不清楚，但几条政策轨迹值得读者留意。",
+    "published_at": "2026-09-11T00:00:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "1a6b417ad17389ab",
+    "title_hash": "a78bff22e2e2e417",
+    "title": "特朗普的外行特使",
+    "url": "https://www.ftchinese.com/story/001110842",
+    "summary": "卢斯：从俄乌、加沙，到伊朗，美国总统的两位地产富豪特使总是盲目相信战后悬而未决的商业红利能带来和平，这种执念正在为美国的外交增添障碍。",
+    "published_at": "2026-09-10T00:00:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "58bb0d0e6a8e1a0a",
+    "title_hash": "ceb38fa0159d8a25",
+    "title": "中英航班扩容背后 高空见证出海新潮",
+    "url": "https://www.ftchinese.com/story/001110844",
+    "summary": "纪硕鸣：2026年下半年开始，中国直飞英国的航班大规模扩容增加航班，这背后是中国与英国之间的企业交流扩大。这一轮中国企业出海不同于过去国有企业以收购为主，正呈现一种以民企规模进入，自主扎根、融入，且行业多元的新趋势，其中不乏一些来自西南的民营企业。",
+    "published_at": "2026-09-10T00:00:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "7067493e71a48353",
+    "title_hash": "36a211a1b536618b",
+    "title": "“极强”厄尔尼诺周期意味着什么？",
+    "url": "https://www.ftchinese.com/story/001110843",
+    "summary": "世界气象组织称，太平洋温度的升幅可能达到“爆表”程度。在中东战事已经使各国经济承压之际，厄尔尼诺可能进一步冲击全球卫生和农业系统。",
+    "published_at": "2026-09-10T00:00:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "e4117a0c49b51964",
+    "title_hash": "8505dd1d216aaaa3",
+    "title": "董建华：香港首任行政长官，1937-2026年",
+    "url": "https://www.ftchinese.com/story/001110837",
+    "summary": "这位政治领导人在任内遭遇了亚洲金融危机和非典疫情，并因推行一项国家安全法案而受到争议。",
+    "published_at": "2026-09-09T00:00:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "941c55b82a43f54f",
+    "title_hash": "2a6a01130f7967b3",
+    "title": "涉及28亿人，习近平和莫迪将寻求推动双边关系回到正轨",
+    "url": "https://www.ftchinese.com/story/001110836",
+    "summary": "本周末的金砖国家峰会预计将促成中国领导人的印度之行。自2020年中印发生致命边境冲突以来，两国为缓和关系开展了谨慎的外交努力。",
+    "published_at": "2026-09-09T00:00:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "224b5f4c96fda17a",
+    "title_hash": "d580f261d78ff796",
+    "title": "OpenAI have no mathematicians capable of understanding what they put out",
+    "url": "https://mastodon.social/@tristanbuckmaster/117237555794407063",
+    "summary": "Article URL: https://mastodon.social/@tristanbuckmaster/117237555794407063 Comments URL: https://news.ycombinator.com/item?id=49638622 Points: 10 # Comments: 0",
+    "published_at": "2026-09-10T13:01:50+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "08a5f3c876b9fd83",
+    "title_hash": "5faf74e7d26a7604",
+    "title": "All grown-ups were once children… but only few of them remember it",
+    "url": "https://mathstodon.xyz/@tao/117244102901892965",
+    "summary": "Article URL: https://mathstodon.xyz/@tao/117244102901892965 Comments URL: https://news.ycombinator.com/item?id=49638280 Points: 16 # Comments: 0",
+    "published_at": "2026-09-10T12:04:38+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8324d57fee88899a",
+    "title_hash": "faccfc8cfe50b662",
+    "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+    "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+    "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 39 # Comments: 6",
+    "published_at": "2026-09-10T10:04:11+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5bf113d156f18c50",
+    "title_hash": "0ff62949a0d52e48",
+    "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+    "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+    "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 41 # Comments: 25",
+    "published_at": "2026-09-10T09:59:51+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5801d504628ca24c",
+    "title_hash": "8d8967f0cc731c20",
+    "title": "Show HN: What if the speed of light was 5 km/h?",
+    "url": "https://rivendell.dmitrybrant.com/relativity/",
+    "summary": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it! Comments URL: https://news.ycombinator.com/item?id=49637385 Points: 168 # Comments: 75",
+    "published_at": "2026-09-10T09:58:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1bb7ebdf1c278640",
+    "title_hash": "5d3fc032db6912f8",
+    "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+    "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+    "summary": "Article URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/ Comments URL: https://news.ycombinator.com/item?id=49636283 Points: 168 # Comments: 146",
+    "published_at": "2026-09-10T07:49:29+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "70a976d4e6fcfd8a",
+    "title_hash": "bd7a6ceac242705d",
+    "title": "Blizzard Workers Win Historic Union Contract",
+    "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+    "summary": "Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers Comments URL: https://news.ycombinator.com/item?id=49635384 Points: 166 # Comments: 53",
+    "published_at": "2026-09-10T06:22:53+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "32d15adec7ae6843",
+    "title_hash": "0b3672094e5eb227",
+    "title": "Factoring RSA 260",
+    "url": "https://cognition.com/blog/factoring-rsa-260",
+    "summary": "Article URL: https://cognition.com/blog/factoring-rsa-260 Comments URL: https://news.ycombinator.com/item?id=49633534 Points: 74 # Comments: 9",
+    "published_at": "2026-09-10T04:16:08+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "227061d064a98d5f",
+    "title_hash": "88f6355f4b509ce5",
+    "title": "iPhone Duo",
+    "url": "https://www.apple.com/iphone-duo/",
+    "summary": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 1078 # Comments: 1913",
+    "published_at": "2026-09-10T02:15:43+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "707b25cf57041ba7",
+    "title_hash": "c0181f593b18d1e6",
+    "title": "Apple Watch Series 12",
+    "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 245 # Comments: 291",
+    "published_at": "2026-09-10T01:56:17+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5b32cdc139a2d970",
+    "title_hash": "ff5104954b1ba9fc",
+    "title": "AirPods 5",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 425 # Comments: 333",
+    "published_at": "2026-09-10T01:39:24+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "15fbf084df0e1594",
+    "title_hash": "830e4816add29363",
+    "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 333 # Comments: 354",
+    "published_at": "2026-09-10T01:33:20+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a76cf7777d6decb4",
+    "title_hash": "9841354b4c916257",
+    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+    "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+    "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 199 # Comments: 78",
+    "published_at": "2026-09-10T01:24:28+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8a013453e2c4bb4a",
+    "title_hash": "d28b1e7a4c078bfb",
+    "title": "Growing proof that autonomous cars save lives",
+    "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+    "summary": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 303 # Comments: 497",
+    "published_at": "2026-09-10T01:14:59+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e9c5e48c9e69ef8e",
+    "title_hash": "4a9389b34edc48f5",
+    "title": "The UN challenges five centuries of cartography",
+    "url": "https://www.not-ship.com/united-nations-map/",
+    "summary": "Article URL: https://www.not-ship.com/united-nations-map/ Comments URL: https://news.ycombinator.com/item?id=49629209 Points: 73 # Comments: 123",
+    "published_at": "2026-09-10T00:33:44+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5cdb0d2e968b26ea",
+    "title_hash": "360860a5637f192c",
+    "title": "Understanding the recent DDoS attack against Read the Docs",
+    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+    "summary": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/ Comments URL: https://news.ycombinator.com/item?id=49628614 Points: 180 # Comments: 58",
+    "published_at": "2026-09-09T23:55:53+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "51f9d36828970757",
+    "title_hash": "37b7235ff49bc6df",
+    "title": "GNU Radio in the browser",
+    "url": "https://gnuradioworld.com/",
+    "summary": "Article URL: https://gnuradioworld.com/ Comments URL: https://news.ycombinator.com/item?id=49628576 Points: 191 # Comments: 24",
+    "published_at": "2026-09-09T23:53:06+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "6b944b3e9dd84b07",
+    "title_hash": "835cb99c6666ce2c",
+    "title": "No Man's Sky Cosmos",
+    "url": "https://www.nomanssky.com/cosmos-update/",
+    "summary": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 344 # Comments: 357",
+    "published_at": "2026-09-09T23:47:42+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1546ced409840ef3",
+    "title_hash": "3776b0bd382ca169",
+    "title": "Planet Labs' open satellite feed",
+    "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+    "summary": "Article URL: https://tech.marksblogg.com/planet-labs-open-satellite-feed.html Comments URL: https://news.ycombinator.com/item?id=49628429 Points: 164 # Comments: 28",
+    "published_at": "2026-09-09T23:44:09+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "4ef1fa7cd0579165",
+    "title_hash": "307dcb00c8284f3c",
+    "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 387 # Comments: 131",
+    "published_at": "2026-09-09T22:37:47+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "0286b52989ae7567",
+    "title_hash": "3704eb5a0b0c9b69",
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+    "published_at": "2026-09-10T08:00:37+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "b6092dd06175561c",
+    "title_hash": "3bb5ac18e0797afd",
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+    "published_at": "2026-09-10T06:25:22+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "1e857768c929dd53",
+    "title_hash": "41a2ff08ad0c48ca",
+    "title": "Massachusetts hits data centers with new clean power rules",
+    "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+    "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+    "published_at": "2026-09-10T05:43:34+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "b50c82066bb72ad7",
+    "title_hash": "ab3acfe0555bcf26",
+    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+    "published_at": "2026-09-10T04:24:48+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "f5e793958cbee75e",
+    "title_hash": "bd197b1ab39d6357",
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+    "published_at": "2026-09-10T04:03:43+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "0502e68d1aca1aeb",
+    "title_hash": "ea39d13a2311bb84",
+    "title": "The hinge for Apple’s new foldable phone was built with AI",
+    "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+    "published_at": "2026-09-10T03:21:48+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "3a59a66149e43ce4",
+    "title_hash": "1db8a27be4dca95c",
+    "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+    "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+    "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+    "published_at": "2026-09-10T02:16:29+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "ebf88cd57f03a10c",
+    "title_hash": "77cab9660aef83f3",
+    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+    "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+    "published_at": "2026-09-10T02:08:35+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "cbea4f900ee4302f",
+    "title_hash": "26aaa96cc8ee80f2",
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "summary": "The company also argued that its on-device models offer consumers more privacy.",
+    "published_at": "2026-09-10T01:36:05+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "a97299207117c9ae",
+    "title_hash": "616052a6f6c621b7",
+    "title": "Superintelligence is coming. Should we let it?",
+    "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans.&#160;So&#160;what happens when we&#160;can&#8217;t&#160;reliably control what these systems do?&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan is joined by&#160;Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of [&#8230;]",
+    "published_at": "2026-09-10T00:05:35+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "b43555a86103db54",
+    "title_hash": "5fb96930b1909d46",
+    "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+    "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans.&#160;So&#160;what happens when we&#160;can&#8217;t&#160;reliably control what these systems do?&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan is joined by&#160;Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of [&#8230;]",
+    "published_at": "2026-09-09T23:50:13+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "c0b0be2741530cbb",
+    "title_hash": "9b41b72566183dd9",
+    "title": "Viral AI assistant Instinct now has its own email address",
+    "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+    "published_at": "2026-09-09T23:13:12+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "59cd89448bb04161",
+    "title_hash": "68866601fd36ddba",
+    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+    "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+    "published_at": "2026-09-09T23:02:47+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "9aea9dc83ca674cd",
+    "title_hash": "5ec9928ec5663db3",
+    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+    "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+    "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+    "published_at": "2026-09-09T22:51:45+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "d1ea6002b0157062",
+    "title_hash": "34302dc6bee568d9",
+    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+    "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+    "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
+    "published_at": "2026-09-09T22:18:34+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "0853b7237e632743",
+    "title_hash": "6da48fa0f16c9527",
+    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+    "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+    "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
+    "published_at": "2026-09-09T21:00:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "209e9ecb3c6a604f",
+    "title_hash": "29dc86e254187b19",
+    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+    "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+    "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+    "published_at": "2026-09-09T21:00:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "c8e15d224d5a68c3",
+    "title_hash": "8de114f5b4bb4fc0",
+    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+    "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+    "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
+    "published_at": "2026-09-09T20:30:00+08:00",
+    "created_at": "2026-09-10 06:09:06"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "606e9bc7b6ea8e2a",
+    "title_hash": "12b0346639424df1",
+    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+    "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+    "published_at": "2026-09-09T20:05:34+08:00",
+    "created_at": "2026-09-10 06:09:06"
   }
 ]
