@@ -1,426 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "a56429335c603ae5",
-    "title_hash": "2bcb8e87fa54f8f3",
-    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-    "url": "https://www.qbitai.com/2026/09/499654.html",
-    "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-    "published_at": "2026-09-30T22:03:43+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "923c6dc106ca94a5",
-    "title_hash": "b93c1d84a2dcd2ee",
-    "title": "直播回顾：工业AI的下一个机会在哪？",
-    "url": "https://www.qbitai.com/2026/09/499605.html",
-    "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-    "published_at": "2026-09-30T20:11:24+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "448196b76eaf09f9",
-    "title_hash": "4311d1449ac4e68b",
-    "title": "Anthropic，你是来给智谱打广告的吧！",
-    "url": "https://www.qbitai.com/2026/09/499597.html",
-    "summary": "实测说GLM-5.3很强",
-    "published_at": "2026-09-30T18:04:12+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "f19786ad3c3a858f",
-    "title_hash": "7797e408588cd724",
-    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-    "url": "https://www.qbitai.com/2026/09/499592.html",
-    "summary": "给Agent配上手机号，再拉个群",
-    "published_at": "2026-09-30T15:58:37+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "e8f04c0480471fb3",
-    "title_hash": "558612de4deed8b4",
-    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-    "url": "https://www.qbitai.com/2026/09/499493.html",
-    "summary": "让GPT把机器人技能当工具调用",
-    "published_at": "2026-09-30T15:54:54+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "743448ec4cfa5ea3",
-    "title_hash": "f3100e2f90ca4f96",
-    "title": "全球债务真的已经泛滥成灾了吗？",
-    "url": "https://www.ftchinese.com/story/001111030",
-    "summary": "沃尔夫：灾难并非即将来临，但全球主要国家长久以来走在一条不可持续的道路上，如今它们的回旋余地越来越小了。",
-    "published_at": "2026-09-30T00:00:00+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "7befafdddb693f55",
-    "title_hash": "26b69f765016ada6",
-    "title": "PCB龙头超颖电子赴港上市 成本转嫁能力成隐忧",
-    "url": "https://www.ftchinese.com/story/001111029",
-    "summary": "已在A股上市的超颖电子，是内地PCB头部企业之一，正计划在香港挂牌。",
-    "published_at": "2026-09-30T00:00:00+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "a13774090b459513",
-    "title_hash": "1623add92d3e0f59",
-    "title": "不只“为中国”：德国车企开始在中国“为世界”创新",
-    "url": "https://www.ftchinese.com/story/001111028",
-    "summary": "在继续强调“在中国，为中国”（In China, for China）的同时，一些德国车企开始更多强调“为世界”（for the world）。",
-    "published_at": "2026-09-30T00:00:00+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "edf6855cd2925a16",
-    "title_hash": "e0873355cf1ddfd2",
-    "title": "Fuck Android Developer Verification Program",
-    "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
-    "summary": "Article URL: https://twitter.com/0xcrypto/status/2105515822643114182 Comments URL: https://news.ycombinator.com/item?id=49917761 Points: 147 # Comments: 43",
-    "published_at": "2026-10-01T12:32:38+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1e543f09854abc69",
-    "title_hash": "d863233fef692032",
-    "title": "Is sandboxing sufficient to contain rogue agents?",
-    "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-    "summary": "Article URL: https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/ Comments URL: https://news.ycombinator.com/item?id=49917378 Points: 19 # Comments: 18",
-    "published_at": "2026-10-01T11:27:41+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6954c2918556f038",
-    "title_hash": "33ae36f69333f7d8",
-    "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-    "url": "https://github.com/TantrixAuto/yantra",
-    "summary": "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool. It builds the whole AST first, then walks it. Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up. That means at the time a rule's action runs, you don't yet know what its parent looks like. This pushes a lot of grammars toward hand-built AST classes and a separate walking pass whenever you need to look ahead into siblings or defer a decision until more context is available. On the other hand, Yantra always builds the whole AST first, then walks it top-down in a separate pass, calling your semantic actions as it goes. A parent rule's action can run before its children are visited. A single grammar can define more than one walker. For example, one that emits C++, another that emits Java, from the same parse. The AST and the walker classes are both generated for you. A small example (full version, with compile commands, in the README): start := expr; expr := expr(a) PLUS expr(b) %{ std::cout Running this on \"1 + 2 + 3\" prints: Adding Number: 1 Adding Number: 2 Number: 3 The outer \"Adding\", the root of the tree, prints first, before either of its children. That's only possible because the whole tree exists before any action runs. Some other things about it: integrated lexer with mode support (for things like nested comments), an optional amalgamated single-file output mode with a generated main(), C++23, MIT licensed. It's young (0.5.1, pre-1.0) and single-maintainer, so treat it as early. I'd rather know what breaks than have it look more finished than it is. Known gaps are listed at https://github.com/TantrixAuto/yantra/blob/main/docs/known_l... Repo: https://github.com/TantrixAuto/yantra Feedback and questions are all welcome. I'll be around. Comments URL: https://news.ycombinator.com/item?id=49916997 Points: 23 # Comments: 13",
-    "published_at": "2026-10-01T10:30:48+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a9a29ad46db4536c",
-    "title_hash": "60dc20e75981e839",
-    "title": "56k.rip – the 1996 dial-up internet experience",
-    "url": "https://56k.rip/",
-    "summary": "Article URL: https://56k.rip/ Comments URL: https://news.ycombinator.com/item?id=49915126 Points: 146 # Comments: 75",
-    "published_at": "2026-10-01T06:08:50+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "19d55ba426929ce7",
-    "title_hash": "72388ddc39f3e2e3",
-    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-    "url": "https://www.thespacereview.com/article/4951/1",
-    "summary": "Article URL: https://www.thespacereview.com/article/4951/1 Comments URL: https://news.ycombinator.com/item?id=49915082 Points: 195 # Comments: 87",
-    "published_at": "2026-10-01T06:03:04+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "556001771491f29d",
-    "title_hash": "6a5330796261c850",
-    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-    "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-    "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from Comments URL: https://news.ycombinator.com/item?id=49913604 Points: 42 # Comments: 7",
-    "published_at": "2026-10-01T04:06:39+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6381db252deeabb6",
-    "title_hash": "4ce5ae17197576b7",
-    "title": "Gemini 4 Argon",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-    "summary": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 1275 # Comments: 818",
-    "published_at": "2026-10-01T04:04:37+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "399635cac677b60c",
-    "title_hash": "f4e5f4dbfa5bd35e",
-    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-    "url": "https://www.mattkeeter.com/projects/halfspace/",
-    "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/ Comments URL: https://news.ycombinator.com/item?id=49913350 Points: 115 # Comments: 9",
-    "published_at": "2026-10-01T03:44:37+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "37da411597b64192",
-    "title_hash": "db6b9fd1bbd62975",
-    "title": "EDG C++ front-end goes public",
-    "url": "https://edgcpp.org/#transition",
-    "summary": "https://github.com/edgcpp/compiler Comments URL: https://news.ycombinator.com/item?id=49913192 Points: 204 # Comments: 89",
-    "published_at": "2026-10-01T03:26:37+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "bdccce4386499d2f",
-    "title_hash": "8817b7fd4009dc5c",
-    "title": "Surprisingly complex waves reveal the brain's inner workings",
-    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-    "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ Comments URL: https://news.ycombinator.com/item?id=49912955 Points: 167 # Comments: 55",
-    "published_at": "2026-10-01T03:04:50+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a88d76565e5f66b1",
-    "title_hash": "c4cefc8c7d35090f",
-    "title": "Before pixels: Modular industrial dashboards",
-    "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-    "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/ Comments URL: https://news.ycombinator.com/item?id=49912792 Points: 103 # Comments: 19",
-    "published_at": "2026-10-01T02:49:06+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "db811de4e7247bea",
-    "title_hash": "3babc16951c733d5",
-    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-    "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-    "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/ Comments URL: https://news.ycombinator.com/item?id=49912444 Points: 155 # Comments: 60",
-    "published_at": "2026-10-01T02:17:45+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "64466be275be9735",
-    "title_hash": "89f1afda3264a25f",
-    "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-    "url": "https://www.chompiclub.com/opensource",
-    "summary": "Article URL: https://www.chompiclub.com/opensource Comments URL: https://news.ycombinator.com/item?id=49912048 Points: 73 # Comments: 14",
-    "published_at": "2026-10-01T01:42:13+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0241e600b90d751e",
-    "title_hash": "3ae2668710d32b51",
-    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case. Inference engines today all make a performance tradeoff. They are either: - Built for batched inference on datacenter hardware at the cost of single-session performance (vLLM, SGLang) - Designed for broad compatibility instead of optimizing for specific hardware (llama.cpp, Ollama) - Specialized for specific hardware or models but lacking engine completeness (oMLX, ds4) Plus none of them are designed for running agents locally. Sessions are long, several often run at once, and you still want to use your computer for other things. Magnitude is built for maximum performance on your hardware and running local agents: - On-device compilation and tuning: Kernels are written with flexible parameters that are tuned on your actual device before the model runs. This gives you broad hardware compatibility with the same performance ceiling as hardware-specific kernels. - Focus on best architectures: We write our tunable, highly efficient kernels for the most popular open-weights families. This allows us to achieve and surpass the performance of hardware or model specialized engines, without forcing ourselves to over-generalize at the cost of performance. - Dynamic memory allocation: Magnitude reserves only enough memory up front to hold model weights. As your agent sessions grow, the memory heap dynamically increases, and frees itself when agents stop. Your hardware can still be used for other stuff while agents run. - Hybrid paged attention: We borrow the best ideas from engines like SGLang to allow concurrent sessions to share prefix caches, but optimize placement for memory-adjacency so single-session performance doesn't suffer. Magnitude is fully open source (Apache 2.0). We built it in Rust, including a custom GPU kernel runtime and autotuner. We take inspiration from the best innovations in inference from academics (e.g. FlashAttention, FlashInfer, TurboQuant) as well as other engines (e.g. SGLang radix attention) to reach the performance ceiling. Benchmarked against llama.cpp with Qwen 3.6 35B A3B (4 bit), 64k context, no speculative decoding: Metal (Mac M4 Pro 48 GB) - 92% faster decode (30 tok/s → 57 tok/s) - 9% faster prefill (466 tok/s → 507 tok/s) - 28% less per-agent memory usage CUDA (DGX Spark) - 19% faster decode (49 tok/s → 58 tok/s) - 23% faster prefill (2,033 tok/s → 2,507 tok/s) - 27% less per-agent memory usage Magnitude ships as a desktop app that you can easily connect with whatever agents you already use (Pi, OpenCode, Hermes, Codex, and more). It automatically runs models on demand when these agents actually need them, and shuts them down after inactivity. Here's what it looks like: https://www.youtube.com/watch?v=0qE8BWEZu7o We're excited to push Magnitude further to let you run bigger models on the same hardware while continuing to improve performance. Our plans include: - Expert streaming: store experts on RAM or disk and load them just-in-time. This lets you run models bigger than what otherwise would fit on your GPU. - Kernel compiler: our current kernels tune a few parameters to fit your hardware. We can take this further with a fully custom compiler that automatically chooses how to fuse kernels and which implementations to use, to make it fit to your hardware even better. - Multi-device utilization: Make the best possible use of all hardware on a system (CPU, GPUs, RAM, disk) by detecting these and automatically solving for the best model layout. We'd love for more people to try it out and give us feedback. Feel free to comment here, we'll be around all day! Comments URL: https://news.ycombinator.com/item?id=49911995 Points: 149 # Comments: 75",
-    "published_at": "2026-10-01T01:37:40+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8682e85ac8046ad0",
-    "title_hash": "ef4b733b05f4b0f6",
-    "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-    "url": "https://www.software3d.com/MillersMonster.php",
-    "summary": "Article URL: https://www.software3d.com/MillersMonster.php Comments URL: https://news.ycombinator.com/item?id=49911534 Points: 61 # Comments: 6",
-    "published_at": "2026-10-01T01:00:44+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "9bf8d61faed35441",
-    "title_hash": "a6ff28eb10661d06",
-    "title": "Coltrane's Tone Circle",
-    "url": "https://jtomschroeder.com/blog/tone-circle/",
-    "summary": "Article URL: https://jtomschroeder.com/blog/tone-circle/ Comments URL: https://news.ycombinator.com/item?id=49909908 Points: 50 # Comments: 16",
-    "published_at": "2026-09-30T22:59:42+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e1614e342fc97487",
-    "title_hash": "9f2dfdb1cdb40f21",
-    "title": "SDF Public Access Unix System ... est. 1987",
-    "url": "https://sdf.org/",
-    "summary": "Article URL: https://sdf.org/ Comments URL: https://news.ycombinator.com/item?id=49909610 Points: 88 # Comments: 21",
-    "published_at": "2026-09-30T22:36:02+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "757dc7ec93bdca9a",
-    "title_hash": "80139c7a7a820153",
-    "title": "A brief history of the Bloomberg terminal",
-    "url": "https://spectrum.ieee.org/bloomberg-terminal",
-    "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal Comments URL: https://news.ycombinator.com/item?id=49909583 Points: 263 # Comments: 114",
-    "published_at": "2026-09-30T22:34:07+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "9260fbee6d07d79e",
-    "title_hash": "c069462fdc5aa659",
-    "title": "What TLA+ can and can't check",
-    "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-    "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/ Comments URL: https://news.ycombinator.com/item?id=49909056 Points: 176 # Comments: 40",
-    "published_at": "2026-09-30T21:57:06+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a8a02f2961d12e63",
-    "title_hash": "b3f18270798c4b9e",
-    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-    "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/ Comments URL: https://news.ycombinator.com/item?id=49908962 Points: 145 # Comments: 57",
-    "published_at": "2026-09-30T21:50:50+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "0de5978e2c8eb330",
-    "title_hash": "f1ffc44f3d1f6196",
-    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-    "published_at": "2026-10-01T07:43:07+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "131c3b05243369a2",
-    "title_hash": "9bc80f7a8864c911",
-    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-    "published_at": "2026-10-01T05:07:40+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "348f0c13d3c0b9bc",
-    "title_hash": "2706949dda96ea15",
-    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-    "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-    "published_at": "2026-10-01T03:00:57+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "ecee7b20064e2761",
-    "title_hash": "92d49aec72674ca4",
-    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-    "published_at": "2026-10-01T02:23:57+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "9d0cd3e06e9ac75d",
-    "title_hash": "fdd7cf441efdc17b",
-    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-    "published_at": "2026-10-01T01:45:00+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "1a70b75dd9de5a1e",
-    "title_hash": "b815970d2ed7cdbf",
-    "title": "The ugly economics of consumer AI",
-    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-    "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
-    "published_at": "2026-10-01T01:24:45+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "7d7ef74b607ee91e",
-    "title_hash": "dcae4e6367374b51",
-    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-    "published_at": "2026-10-01T00:24:23+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "92c627208580142e",
-    "title_hash": "daf28ce7fd3e81db",
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-    "published_at": "2026-10-01T00:00:24+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "73bfb73be41a76b7",
-    "title_hash": "f1f89c366071112d",
-    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-    "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-    "published_at": "2026-10-01T00:00:00+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "8f7327ee80b1efed",
-    "title_hash": "f74354400c83b0cb",
-    "title": "Instinct’s new product recommendations are giving some users the ick",
-    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-    "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-    "published_at": "2026-09-30T23:56:28+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "d6170f881b8aebc8",
-    "title_hash": "229fb523329359fa",
-    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-    "published_at": "2026-09-30T22:30:00+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "32de5b12bdde4fb9",
-    "title_hash": "9b7e9304f7f6b32c",
-    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-    "published_at": "2026-09-30T22:27:11+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "bdb08491ccae57ea",
-    "title_hash": "5369fd0dd9486302",
-    "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-    "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
-    "published_at": "2026-09-30T22:15:00+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "26ce368aa0f6ddaa",
-    "title_hash": "430a25c5d3be6663",
-    "title": "Airbnb adds AI search, more social features",
-    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-    "published_at": "2026-09-30T20:00:00+08:00",
-    "created_at": "2026-10-01 07:19:59"
-  },
-  {
-    "source": "量子位",
     "url_hash": "833edfdf4b853c5a",
     "title_hash": "50dd7a9b754ef2d5",
     "title": "何恺明团队新作：看猫片就能学会ARC挑战",
@@ -2458,5 +2038,525 @@
     "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
     "published_at": "2026-10-06T22:00:00+08:00",
     "created_at": "2026-10-07 07:22:57"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d2a70d2b67097fd8",
+    "title_hash": "582f82a2b8bc9e54",
+    "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+    "url": "https://www.qbitai.com/2026/10/501930.html",
+    "summary": "管理岗砍掉四成，顶级车型涨价20%卖",
+    "published_at": "2026-10-08T15:10:24+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "98a871bfc6772bd8",
+    "title_hash": "421257db1efb58dc",
+    "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+    "url": "https://www.qbitai.com/2026/10/501915.html",
+    "summary": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+    "published_at": "2026-10-08T10:15:37+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "7448d3ae9dbceef7",
+    "title_hash": "4653c4cfb0bfa200",
+    "title": "GPT-6今起免费用！拒答变少，话变多了",
+    "url": "https://www.qbitai.com/2026/10/501834.html",
+    "summary": "ChatGPT聊天框长出界面",
+    "published_at": "2026-10-08T09:07:19+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "8e7f6fd61c5d64a0",
+    "title_hash": "3072020e3a28a6f6",
+    "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+    "url": "https://www.qbitai.com/2026/10/501832.html",
+    "summary": "小模型新守门员",
+    "published_at": "2026-10-08T09:04:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "2625134d163a7d19",
+    "title_hash": "a906c758e2bda4bd",
+    "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+    "url": "https://www.qbitai.com/2026/10/501825.html",
+    "summary": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+    "published_at": "2026-10-07T22:10:33+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "7edddd37bb4d0383",
+    "title_hash": "454ab874254584c4",
+    "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+    "url": "https://www.qbitai.com/2026/10/501803.html",
+    "summary": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+    "published_at": "2026-10-07T19:34:47+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "04dfc0bfecc8bcd8",
+    "title_hash": "dc68d9c9010b1d23",
+    "title": "晕…这年头还有说人话的AI不",
+    "url": "https://www.qbitai.com/2026/10/501796.html",
+    "summary": "晕…这年头还有说人话的AI不",
+    "published_at": "2026-10-07T16:41:13+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "40108184811ae535",
+    "title_hash": "74cd945218e083f4",
+    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+    "url": "https://www.qbitai.com/2026/10/501791.html",
+    "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+    "published_at": "2026-10-07T14:39:36+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "57f188e84d1cfb55",
+    "title_hash": "3712f2bf669d22c9",
+    "title": "长假归来：县城热背后的伪中产",
+    "url": "https://www.ftchinese.com/story/001111033",
+    "summary": "徐瑾：更多人潮从城市走向县域，真实中国的图景也在一一裸露。社交媒体的风潮，从羡慕县城贵妇一变而为讥讽县城伪中产。局部告诉我们什么样的故事？",
+    "published_at": "2026-10-08T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "02a363b9ea2094f8",
+    "title_hash": "29219dfbb9772aaf",
+    "title": "大众就汽车融资丑闻拨备7.25亿英镑",
+    "url": "https://www.ftchinese.com/story/001111042",
+    "summary": "这起巨额丑闻源于汽车经销商在协助购车者办理贷款时，未充分披露自己将获得的佣金。整个汽车行业因此遭受的冲击已超过15亿英镑。",
+    "published_at": "2026-10-08T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "f03fa31afd896d20",
+    "title_hash": "32e6ba2f5b6d5872",
+    "title": "印度3年来首次加息",
+    "url": "https://www.ftchinese.com/story/001111041",
+    "summary": "央行货币政策委员会一致投票决定加息0.25点，至5.5%，依据是通胀加速、全球能源价格上涨以及印度经济增长强劲。",
+    "published_at": "2026-10-08T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "4de37ccc4818b109",
+    "title_hash": "f953f7258463c44f",
+    "title": "德国阻止中资收购汉堡港物流企业",
+    "url": "https://www.ftchinese.com/story/001111040",
+    "summary": "德国否决中远海运收购康拉德•齐佩尔货运代理80%股份。上届德国政府曾批准中远海运入股汉堡港一集装箱码头。",
+    "published_at": "2026-10-08T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "44cebc4ecea9e821",
+    "title_hash": "79a331ac2a31dcca",
+    "title": "每周时事分析：中美关系有点像G2了",
+    "url": "https://www.ftchinese.com/story/001111031",
+    "summary": "曹辛：中美唯有双赢，中美和世界才有可能实现共赢，因而中美两国在AI领域只能G2，唯有如此，中美两国乃至世界才能安宁。",
+    "published_at": "2026-10-08T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "ca733d623d650594",
+    "title_hash": "0c12ed7f88904024",
+    "title": "美中G2格局形成",
+    "url": "https://www.ftchinese.com/story/001111034",
+    "summary": "邓聿文：中美双方都已认识到，今后很长时间，谁也无法绕开谁。中美开始以一种更明确的方式，承认彼此是必须长期相处、必须认真对待的两强。",
+    "published_at": "2026-10-08T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "e464ed8eadfd6378",
+    "title_hash": "0d1807f81c04160b",
+    "title": "为“繁荣”定价：全球国债收益率为何狂飙？",
+    "url": "https://www.ftchinese.com/story/001111037",
+    "summary": "周俊：全球国债收益率的上行，绝非政府被推进了债务地狱，而是资本在实体繁荣、风险资产与汇率重估中寻找新平衡的结果。",
+    "published_at": "2026-10-08T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "f2fd9a9c28984509",
+    "title_hash": "042fa8abaf890fae",
+    "title": "就业身份的保障落差：谁在承担中国经济韧性的成本？",
+    "url": "https://www.ftchinese.com/story/001111036",
+    "summary": "中国目前更突出的问题是保护分布不均。一个制度即使给少数人提供很高的保障，只要大量劳动者进不了这个体系，实际覆盖水平仍然有限。",
+    "published_at": "2026-10-08T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "12c0ea1b4c717aca",
+    "title_hash": "215e9c2fd33f79d4",
+    "title": "宇树为什么还在执着于“两条腿”？",
+    "url": "https://www.ftchinese.com/story/001111035",
+    "summary": "刘远举：但机器人的价值终点不是“跑得有多快、跳得有多高”，更不是“两条腿”。",
+    "published_at": "2026-10-08T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "743448ec4cfa5ea3",
+    "title_hash": "f3100e2f90ca4f96",
+    "title": "全球债务真的已经泛滥成灾了吗？",
+    "url": "https://www.ftchinese.com/story/001111030",
+    "summary": "沃尔夫：灾难并非即将来临，但全球主要国家长久以来走在一条不可持续的道路上，如今它们的回旋余地越来越小了。",
+    "published_at": "2026-09-30T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "7befafdddb693f55",
+    "title_hash": "26b69f765016ada6",
+    "title": "PCB龙头超颖电子赴港上市 成本转嫁能力成隐忧",
+    "url": "https://www.ftchinese.com/story/001111029",
+    "summary": "已在A股上市的超颖电子，是内地PCB头部企业之一，正计划在香港挂牌。",
+    "published_at": "2026-09-30T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "a13774090b459513",
+    "title_hash": "1623add92d3e0f59",
+    "title": "不只“为中国”：德国车企开始在中国“为世界”创新",
+    "url": "https://www.ftchinese.com/story/001111028",
+    "summary": "在继续强调“在中国，为中国”（In China, for China）的同时，一些德国车企开始更多强调“为世界”（for the world）。",
+    "published_at": "2026-09-30T00:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0ed82d6d4259c6df",
+    "title_hash": "11cd1dbfca9f92b9",
+    "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+    "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+    "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 8 # Comments: 2",
+    "published_at": "2026-10-08T15:07:34+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "48a45d15a2192489",
+    "title_hash": "53006b11b0709ded",
+    "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+    "url": "https://dat-ecosystem.org/",
+    "summary": "Article URL: https://dat-ecosystem.org/ Comments URL: https://news.ycombinator.com/item?id=50002505 Points: 5 # Comments: 0",
+    "published_at": "2026-10-08T14:43:13+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7e5a424d3e58c445",
+    "title_hash": "fdad9419f44732f5",
+    "title": "The people holding up the internet",
+    "url": "https://sheets.works/data-viz/holding-up-the-internet",
+    "summary": "Article URL: https://sheets.works/data-viz/holding-up-the-internet Comments URL: https://news.ycombinator.com/item?id=50002494 Points: 76 # Comments: 15",
+    "published_at": "2026-10-08T14:41:35+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5140e5c56ec695ac",
+    "title_hash": "ed8b2d2ef49e3e9d",
+    "title": "“Math 2.0” will need to value mathematical progress more holistically",
+    "url": "https://mathstodon.xyz/@tao/117395269325940185",
+    "summary": "Article URL: https://mathstodon.xyz/@tao/117395269325940185 Comments URL: https://news.ycombinator.com/item?id=50002008 Points: 214 # Comments: 135",
+    "published_at": "2026-10-08T13:14:14+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9612918e3494c974",
+    "title_hash": "3a59dbbbbda402ef",
+    "title": "A 100x faster* alternative to homebrew",
+    "url": "https://github.com/zerobrewhq/zerobrew",
+    "summary": "Article URL: https://github.com/zerobrewhq/zerobrew Comments URL: https://news.ycombinator.com/item?id=50001580 Points: 68 # Comments: 46",
+    "published_at": "2026-10-08T11:23:08+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "dc50683096dec8f9",
+    "title_hash": "cd43c15dde1b903b",
+    "title": "Rust port of the TypeScript 7 compiler (tsc)",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 46 # Comments: 73",
+    "published_at": "2026-10-08T08:46:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "39d2fed3d43463e5",
+    "title_hash": "e78b0c3bf05c2651",
+    "title": "Margaret Hamilton has died",
+    "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+    "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 1314 # Comments: 147",
+    "published_at": "2026-10-08T05:16:18+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f6b7d718d0af5828",
+    "title_hash": "8e6eb1969c2d5c18",
+    "title": "'Jonathan' is the oldest land animal on Earth",
+    "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+    "summary": "Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/ Comments URL: https://news.ycombinator.com/item?id=49998066 Points: 133 # Comments: 57",
+    "published_at": "2026-10-08T04:01:37+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9b955ce8af2763d0",
+    "title_hash": "bde51533811937ea",
+    "title": "The Mathocalypse",
+    "url": "https://scottaaronson.blog/?p=10169",
+    "summary": "Article URL: https://scottaaronson.blog/?p=10169 Comments URL: https://news.ycombinator.com/item?id=49997718 Points: 202 # Comments: 239",
+    "published_at": "2026-10-08T03:33:40+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9e9c9bd1f0b83337",
+    "title_hash": "c94633e2704fd30a",
+    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+    "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+    "summary": "Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/ Comments URL: https://news.ycombinator.com/item?id=49997073 Points: 140 # Comments: 65",
+    "published_at": "2026-10-08T02:43:18+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "cdb1d51fae043110",
+    "title_hash": "011da203aeec2f36",
+    "title": "Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "summary": "Article URL: https://www.anthropic.com/claude-haiku-5-5 Comments URL: https://news.ycombinator.com/item?id=49996437 Points: 835 # Comments: 409",
+    "published_at": "2026-10-08T02:01:32+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "d66b18709c4ba948",
+    "title_hash": "34e54141185dc319",
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 598 # Comments: 313",
+    "published_at": "2026-10-08T02:00:58+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2da8982b8a70d6f0",
+    "title_hash": "437a05864c48b477",
+    "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+    "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+    "summary": "Article URL: https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html Comments URL: https://news.ycombinator.com/item?id=49996406 Points: 88 # Comments: 12",
+    "published_at": "2026-10-08T01:59:34+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "286c732492720fc1",
+    "title_hash": "53681bdba9610e7d",
+    "title": "Docker Agent",
+    "url": "https://github.com/docker/docker-agent",
+    "summary": "Article URL: https://github.com/docker/docker-agent Comments URL: https://news.ycombinator.com/item?id=49996259 Points: 221 # Comments: 104",
+    "published_at": "2026-10-08T01:48:38+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "3e1fccb6ce25ce74",
+    "title_hash": "cf687f79fbcfc940",
+    "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+    "url": "https://bigwords.page/",
+    "summary": "Article URL: https://bigwords.page/ Comments URL: https://news.ycombinator.com/item?id=49994443 Points: 469 # Comments: 133",
+    "published_at": "2026-10-07T23:44:21+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "d9ae5a9e80693cef",
+    "title_hash": "6a566021e8ebe45d",
+    "title": "Navier–Stokes Lost in Translation",
+    "url": "https://arxiv.org/abs/2610.08144",
+    "summary": "Article URL: https://arxiv.org/abs/2610.08144 Comments URL: https://news.ycombinator.com/item?id=49994145 Points: 294 # Comments: 181",
+    "published_at": "2026-10-07T23:24:38+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "43badd105dbceefe",
+    "title_hash": "8ac7a40800f0f2e7",
+    "title": "Animated ASCII Art for Web Pages",
+    "url": "https://ascii.rest/",
+    "summary": "Article URL: https://ascii.rest/ Comments URL: https://news.ycombinator.com/item?id=49993857 Points: 341 # Comments: 61",
+    "published_at": "2026-10-07T23:05:37+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "af83c323f19b2a85",
+    "title_hash": "8c6c0748aa5f8c5a",
+    "title": "House with 15m underground tunnels for sale for 300k",
+    "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+    "summary": "Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 196 # Comments: 184",
+    "published_at": "2026-10-07T20:57:10+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "96d307df56097d10",
+    "title_hash": "d721894879b4be9a",
+    "title": "Shipping JPEG XL in Chrome",
+    "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+    "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 541 # Comments: 355",
+    "published_at": "2026-10-07T19:25:02+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "f79fc1981148f96d",
+    "title_hash": "3db0c010ed242f6e",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+    "published_at": "2026-10-08T04:48:45+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "0fa3321a42ce9d95",
+    "title_hash": "c3795c7e7dfcc8e9",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "published_at": "2026-10-08T04:22:37+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "552629978e356fab",
+    "title_hash": "39c25865c739a4da",
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+    "published_at": "2026-10-08T02:30:57+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "ebaee16ff2e2ab04",
+    "title_hash": "d59072820da655a9",
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+    "published_at": "2026-10-08T02:15:28+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "8da85c2ebe9dfa48",
+    "title_hash": "2ac37970091c3acc",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "published_at": "2026-10-08T02:00:19+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "e82d687982223af0",
+    "title_hash": "81e10e4e6f2f57e4",
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+    "published_at": "2026-10-08T00:53:46+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "576f8703e59d7c0a",
+    "title_hash": "b0aeba019163a4e7",
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+    "published_at": "2026-10-07T23:07:08+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "e02fad4667f2bded",
+    "title_hash": "5611dd17e918ef8d",
+    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+    "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+    "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+    "published_at": "2026-10-07T22:41:38+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "50755f91349d56c4",
+    "title_hash": "16b5232af35839e6",
+    "title": "Google experiments with an AI-powered gaming platform",
+    "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+    "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+    "published_at": "2026-10-07T22:36:23+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "5ff7eb3ed8e16f02",
+    "title_hash": "a7b5fd5fbe377421",
+    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+    "published_at": "2026-10-07T22:30:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "c153ead68f31a7bb",
+    "title_hash": "0473609f3949d51a",
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+    "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+    "published_at": "2026-10-07T22:15:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "c00f0a4f2120e71a",
+    "title_hash": "1785908d97a1de09",
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+    "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
+    "published_at": "2026-10-07T22:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "24157dcdb45d26ae",
+    "title_hash": "80602d0a36f8e382",
+    "title": "Google’s new SynthID website can identify AI-generated media",
+    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+    "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+    "published_at": "2026-10-07T22:00:00+08:00",
+    "created_at": "2026-10-08 07:37:52"
   }
 ]
