@@ -1,346 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "bf1c90c271e25946",
-    "title_hash": "a07ef9967acfa90d",
-    "title": "刚刚，诺贝尔奖颁给光遗传学！",
-    "url": "https://www.qbitai.com/2026/10/501720.html",
-    "summary": "从绿藻里的光开关，到控制神经元",
-    "published_at": "2026-10-05T18:37:01+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "3253e92c3d8459a3",
-    "title_hash": "3e5361b51a95d317",
-    "title": "中美关系新定位，是相互接纳还是各自解释？",
-    "url": "https://www.ftchinese.com/story/001111017",
-    "summary": "邓聿文：竞争与合作、分歧、和平一起，被放在两国关系总体框架中讨论。中方虽仍然争取合作占主导，却已准备在长期竞争的条件下安排合作。",
-    "published_at": "2026-09-29T00:00:00+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ca1f7ee3b6af459a",
-    "title_hash": "aaf75e1a2bcd6f1b",
-    "title": "We are going to kill \"unalive\"",
-    "url": "https://www.anildash.com/2026/10/06/kill-unalive/",
-    "summary": "Article URL: https://www.anildash.com/2026/10/06/kill-unalive/ Comments URL: https://news.ycombinator.com/item?id=49975083 Points: 16 # Comments: 2",
-    "published_at": "2026-10-06T14:49:39+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f0d6fc75a6496520",
-    "title_hash": "9eb5f68a6bf5f1d9",
-    "title": "Resurrecting iChat Audio and Video Conferencing",
-    "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-    "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/ Comments URL: https://news.ycombinator.com/item?id=49973878 Points: 38 # Comments: 9",
-    "published_at": "2026-10-06T11:39:01+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6f6d21ae5ee6fba6",
-    "title_hash": "677e558b8688a61e",
-    "title": "Why Common Lisp is now the best programming language",
-    "url": "https://www.vivienhenz.com/common-lisp",
-    "summary": "Article URL: https://www.vivienhenz.com/common-lisp Comments URL: https://news.ycombinator.com/item?id=49973598 Points: 134 # Comments: 182",
-    "published_at": "2026-10-06T10:51:51+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "bf97103a0a556828",
-    "title_hash": "25019656395ad0ee",
-    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-    "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-    "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html Comments URL: https://news.ycombinator.com/item?id=49972211 Points: 41 # Comments: 18",
-    "published_at": "2026-10-06T07:35:35+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a8202a403e8e347d",
-    "title_hash": "47e5fa45fc7c8455",
-    "title": "Ephemeral Testing",
-    "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-    "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/ Comments URL: https://news.ycombinator.com/item?id=49972008 Points: 51 # Comments: 14",
-    "published_at": "2026-10-06T07:06:36+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "3288015068afff41",
-    "title_hash": "c946e1f68b82155f",
-    "title": "Example.com just launched the biggest redesign in decades",
-    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-    "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history Comments URL: https://news.ycombinator.com/item?id=49971921 Points: 199 # Comments: 116",
-    "published_at": "2026-10-06T06:55:11+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "809cc06d80fad07e",
-    "title_hash": "052214819c93c7a0",
-    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-    "summary": "Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/ Comments URL: https://news.ycombinator.com/item?id=49971846 Points: 396 # Comments: 293",
-    "published_at": "2026-10-06T06:46:45+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "67ec997cbcad0875",
-    "title_hash": "fc65015a88137bec",
-    "title": "Global Solar Atlas: summary of solar power potential globally",
-    "url": "https://globalsolaratlas.info/",
-    "summary": "Article URL: https://globalsolaratlas.info/ Comments URL: https://news.ycombinator.com/item?id=49971782 Points: 47 # Comments: 25",
-    "published_at": "2026-10-06T06:37:58+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "34024c94fb67e405",
-    "title_hash": "1255837c7d8b6118",
-    "title": "Friendship ended with Deno, now Node is my best friend",
-    "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-    "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/ Comments URL: https://news.ycombinator.com/item?id=49971719 Points: 147 # Comments: 68",
-    "published_at": "2026-10-06T06:30:02+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f279e48d1ae57414",
-    "title_hash": "a3e7f679e71eb255",
-    "title": "Texas city demands $2M for public records on Flock usage",
-    "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/ Comments URL: https://news.ycombinator.com/item?id=49971523 Points: 185 # Comments: 28",
-    "published_at": "2026-10-06T06:05:57+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e6f0c1bcb92632a5",
-    "title_hash": "b0685313feaf3ae5",
-    "title": "Find the flattest route between any two points in SF",
-    "url": "https://flattensf.com/",
-    "summary": "Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 176 # Comments: 60",
-    "published_at": "2026-10-06T05:40:50+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "4b350aa2264060c3",
-    "title_hash": "1c0f3d83ef2963e6",
-    "title": "Dust: Pretraining Transformers Without Backpropagation",
-    "url": "https://qlabs.sh/research/dust",
-    "summary": "Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 160 # Comments: 38",
-    "published_at": "2026-10-06T05:15:07+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "dbf6a51fde3f190f",
-    "title_hash": "b8ba538e046ca28a",
-    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-    "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors Comments URL: https://news.ycombinator.com/item?id=49970667 Points: 322 # Comments: 207",
-    "published_at": "2026-10-06T05:00:21+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "917ba46d3f15f0c5",
-    "title_hash": "17ec12564581f91d",
-    "title": "Beam: Reflection's 501B open-weight model",
-    "url": "https://reflection.ai/blog/introducing-beam",
-    "summary": "Article URL: https://reflection.ai/blog/introducing-beam Comments URL: https://news.ycombinator.com/item?id=49969183 Points: 417 # Comments: 131",
-    "published_at": "2026-10-06T03:16:35+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b735b9bc25842bca",
-    "title_hash": "8f53613a3f5a79c0",
-    "title": "Making a GTK application in Haskell, part 1",
-    "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-    "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/ Comments URL: https://news.ycombinator.com/item?id=49965308 Points: 153 # Comments: 39",
-    "published_at": "2026-10-05T22:23:47+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "21d2d1e9dd15fb3e",
-    "title_hash": "68bb50f941af016e",
-    "title": "The lamps in my house",
-    "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-    "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/ Comments URL: https://news.ycombinator.com/item?id=49965152 Points: 179 # Comments: 83",
-    "published_at": "2026-10-05T22:12:14+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "416c55bd38b4ac41",
-    "title_hash": "6f22925187c3139b",
-    "title": "Linux containers in 500 lines of code (2016)",
-    "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-    "summary": "Article URL: https://blog.lizzie.io/linux-containers-in-500-loc.html Comments URL: https://news.ycombinator.com/item?id=49965118 Points: 121 # Comments: 25",
-    "published_at": "2026-10-05T22:09:15+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "95fd9ac70095e46b",
-    "title_hash": "8afa7526805715ad",
-    "title": "Web Search API",
-    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-    "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?id=49963171 Points: 531 # Comments: 240",
-    "published_at": "2026-10-05T18:47:06+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "91810f769b101efb",
-    "title_hash": "f157209aa2ac8679",
-    "title": "Apple and a hacker's future",
-    "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-    "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/ Comments URL: https://news.ycombinator.com/item?id=49962857 Points: 245 # Comments: 213",
-    "published_at": "2026-10-05T18:05:02+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c1723e24d567403b",
-    "title_hash": "61725c39aeec0c2d",
-    "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-    "summary": "https://archive.ph/Axpbl https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent... Comments URL: https://news.ycombinator.com/item?id=49961861 Points: 188 # Comments: 124",
-    "published_at": "2026-10-05T15:46:10+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "97444bbb8a512f15",
-    "title_hash": "8d9d75fd8babd829",
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-    "published_at": "2026-10-06T04:36:48+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "a7128a85cbf69ae6",
-    "title_hash": "a6b3e0919312b023",
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-    "published_at": "2026-10-06T03:33:53+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "8de392d7933012da",
-    "title_hash": "8076f4fd97d46da4",
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-    "published_at": "2026-10-06T02:54:30+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "42a6a218f0ff469f",
-    "title_hash": "7d7dc881661b05a2",
-    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-    "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-    "published_at": "2026-10-06T02:29:00+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "8c7e4fe50290d4f0",
-    "title_hash": "d90dd6816611dc21",
-    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-    "published_at": "2026-10-06T01:29:22+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "d16241c2084e0d1d",
-    "title_hash": "f9cbad51ca6a101a",
-    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-    "published_at": "2026-10-06T00:43:35+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "a0ec29c39f5f2711",
-    "title_hash": "148ad109a13f45a4",
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-    "published_at": "2026-10-05T23:14:24+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "fb4a44bb63843e38",
-    "title_hash": "4d088dfcc0c59c20",
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-    "published_at": "2026-10-05T23:00:00+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "df294a11bdb6826b",
-    "title_hash": "55cb5eaf85572ba4",
-    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-    "published_at": "2026-10-05T22:35:09+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "b1e6c33006227c02",
-    "title_hash": "80377689622c463f",
-    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-    "published_at": "2026-10-05T22:30:00+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "27292943f445f925",
-    "title_hash": "f2cb0709e0d2743b",
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-    "published_at": "2026-10-05T22:00:00+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "9451c4c177239c65",
-    "title_hash": "61e5cedf4f772583",
-    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-    "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-    "published_at": "2026-10-05T20:00:00+08:00",
-    "created_at": "2026-10-06 07:41:59"
-  },
-  {
-    "source": "量子位",
     "url_hash": "f09ac0179e826f3b",
     "title_hash": "35bb72ef29166c9a",
     "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
@@ -3038,5 +2698,425 @@
     "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
     "published_at": "2026-10-11T22:00:00+08:00",
     "created_at": "2026-10-12 07:33:20"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "dd2dec0afb23c8e3",
+    "title_hash": "17cd5571fdb7e81c",
+    "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+    "url": "https://www.qbitai.com/2026/10/502654.html",
+    "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
+    "published_at": "2026-10-12T13:48:36+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "a17f5a68ff6db717",
+    "title_hash": "683719346f8bd772",
+    "title": "智谱新模型，490 tokens/s！",
+    "url": "https://www.qbitai.com/2026/10/502649.html",
+    "summary": "GLM「速度仙人」来了？",
+    "published_at": "2026-10-12T10:37:04+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "b43a9881dd2d8a51",
+    "title_hash": "759142c1ea01ef70",
+    "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+    "url": "https://www.qbitai.com/2026/10/502644.html",
+    "summary": "一套生成论文初稿的多智能体工作流",
+    "published_at": "2026-10-11T17:04:31+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "62d2f733b9026c07",
+    "title_hash": "6e4200ce056a8f3f",
+    "title": "何恺明团队发布多模态Harness框架",
+    "url": "https://www.qbitai.com/2026/10/502628.html",
+    "summary": "多模态模型的视觉原生Harness，来了！",
+    "published_at": "2026-10-11T16:59:06+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "f9df6d435f7f5cd7",
+    "title_hash": "cf9945f5295ed2c9",
+    "title": "陶哲轩：数学2.0时代已至！",
+    "url": "https://www.qbitai.com/2026/10/502594.html",
+    "summary": "陶哲轩：数学2.0时代已至！",
+    "published_at": "2026-10-11T15:52:16+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "30f176ee287a62cd",
+    "title_hash": "9508d64e47141727",
+    "title": "英国重返欧盟的选项",
+    "url": "https://www.ftchinese.com/story/001111087",
+    "summary": "拉赫曼：英国重新加入欧盟的政治、经济和战略理由变得越来越有力，当下支持返欧的声势也越来越强。",
+    "published_at": "2026-10-13T00:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "a7f175d2e06bf8d1",
+    "title_hash": "fb66dec599219c49",
+    "title": "泽连斯基：俄罗斯无视特朗普“能源停火”协议",
+    "url": "https://www.ftchinese.com/story/001111086",
+    "summary": "乌克兰总统指出，普京“显然不看”美国总统在真相社交平台上宣布的俄乌“能源停火”，因为俄罗斯继续袭击乌克兰的能源基础设施。",
+    "published_at": "2026-10-13T00:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "f9ebac0be9ee2b59",
+    "title_hash": "f451a35dcae8eafb",
+    "title": "马克龙：法德即将就欧盟汽车政策达成协议",
+    "url": "https://www.ftchinese.com/story/001111085",
+    "summary": "法国总统在巴黎车展上表示，法国和德国即将宣布一项“大交易”，以推迟欧洲淘汰内燃发动机的时间表并提振欧洲大陆的汽车产量。",
+    "published_at": "2026-10-13T00:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "b444e8f1a5ea71d7",
+    "title_hash": "de72053a8afe3ef4",
+    "title": "从AI到SI：美国为何突然重塑人工智能竞赛的叙事",
+    "url": "https://www.ftchinese.com/story/001111044",
+    "summary": "华莱士•程：值得警惕的是，“超级智能”叙事可能改变大国竞争性质。AI竞争主要围绕市场和创新展开，SI竞争越来越呈现出类似军备竞赛的特征。",
+    "published_at": "2026-10-13T00:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "f87b6b5c2d60b564",
+    "title_hash": "99e63b8f829a7251",
+    "title": "企业内部沟通的价值与挑战",
+    "url": "https://www.ftchinese.com/story/001111068",
+    "summary": "黄磊：在应对代际冲突、组织变革中的信任建立以及人与人之间的情感连接上，有效的企业内部沟通仍是人工智能无法取代的核心价值。",
+    "published_at": "2026-10-13T00:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "01081f1ad00ce3f3",
+    "title_hash": "75783b3db91a1e57",
+    "title": "迅速响应与数字治理：从北京“接诉即办”看全球城市公共服务的新范式",
+    "url": "https://www.ftchinese.com/story/001111069",
+    "summary": "杜毓斌：如果我们去对比中国与西方在解决民众诉求时产生巨大效率差异的深层原因，就会发现，这源于行政权力架构与数字化演进路径的根本分野。",
+    "published_at": "2026-10-13T00:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "5c58e82a115bbec1",
+    "title_hash": "e40a289d3a959489",
+    "title": "科技股闪崩：AI预期重置及其市场震荡",
+    "url": "https://www.ftchinese.com/story/001111082",
+    "summary": "周子衡：此次科技闪崩本质是预期与实际数据口径差异引发的流动性冲击，而非基本面突然恶化。OpenAI增长仍强，但市场对AI变现速度的容忍度已明显降低。",
+    "published_at": "2026-10-13T00:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "57f431e5c470b103",
+    "title_hash": "f9a25de6c0ca2b8c",
+    "title": "重构准入与互信：印尼战略自主视角下的中印尼合作",
+    "url": "https://www.ftchinese.com/story/001111083",
+    "summary": "当前中资矿企在印尼遭遇的监管收紧，并非短期政策波动，而是长期结构性变化。",
+    "published_at": "2026-10-13T00:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "12ba69618539ba64",
+    "title_hash": "875e097fe7906ef3",
+    "title": "一周世界舆论聚焦：美韩联盟再掀风波",
+    "url": "https://www.ftchinese.com/story/001111080",
+    "summary": "曹辛：这里的一个重要根源是，特朗普政府已经不信任韩国李在明政府的对朝鲜政策。",
+    "published_at": "2026-10-12T00:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "4bc6212d43158d94",
+    "title_hash": "28af2004f9d6ae06",
+    "title": "刘欢早年的道路——纪念一时代歌者",
+    "url": "https://www.ftchinese.com/story/001111084",
+    "summary": "林原：刘欢所追求的“自然”与“真情”，还有他对歌曲的“独特”理解等，其实也有助于将歌曲在一定意义上“非宣传化”。",
+    "published_at": "2026-10-12T00:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9905e90cac32e602",
+    "title_hash": "07c9cb94bf34fd5c",
+    "title": "Denmark set to allow return of 'physical force' in school",
+    "url": "https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html",
+    "summary": "Article URL: https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html Comments URL: https://news.ycombinator.com/item?id=50067570 Points: 30 # Comments: 11",
+    "published_at": "2026-10-13T14:27:03+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9c4c927e6cfff2ec",
+    "title_hash": "1a7736d9e5a05f22",
+    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+    "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+    "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 75 # Comments: 69",
+    "published_at": "2026-10-13T13:57:32+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a4ff4cfab3e03940",
+    "title_hash": "1cb89b074730a47e",
+    "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+    "url": "https://www.argmin.net/p/faster-fourier-transforms",
+    "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 106 # Comments: 72",
+    "published_at": "2026-10-13T10:46:43+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b693a6e80e752f67",
+    "title_hash": "bcf12d721c91ff28",
+    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+    "url": "https://arxiv.org/abs/2610.13928",
+    "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 177 # Comments: 94",
+    "published_at": "2026-10-13T10:07:08+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "233e30c6f22de11e",
+    "title_hash": "93e72a5de26ecfcd",
+    "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+    "url": "https://github.com/bherbruck/solidcraft",
+    "summary": "Article URL: https://github.com/bherbruck/solidcraft Comments URL: https://news.ycombinator.com/item?id=50064840 Points: 44 # Comments: 4",
+    "published_at": "2026-10-13T08:11:04+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e71895561593393c",
+    "title_hash": "41147cd3541f9bf0",
+    "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+    "url": "https://doi.org/10.1111/acel.70751",
+    "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/ Comments URL: https://news.ycombinator.com/item?id=50064536 Points: 147 # Comments: 98",
+    "published_at": "2026-10-13T07:34:22+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "587281d93e4949fe",
+    "title_hash": "f49b1a465dcd2de9",
+    "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+    "url": "https://github.com/andrewfader/blokkily",
+    "summary": "Article URL: https://github.com/andrewfader/blokkily Comments URL: https://news.ycombinator.com/item?id=50064438 Points: 47 # Comments: 23",
+    "published_at": "2026-10-13T07:21:12+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "fb74735d5802ca25",
+    "title_hash": "1d9186b17fa62f35",
+    "title": "RJ Mitte has died",
+    "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+    "summary": "Article URL: https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332 Comments URL: https://news.ycombinator.com/item?id=50063831 Points: 186 # Comments: 56",
+    "published_at": "2026-10-13T06:15:29+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a6f0cc316480792c",
+    "title_hash": "5ce08f7f84746bb2",
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "url": "https://github.com/prabanta-dev/janas",
+    "summary": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 114 # Comments: 36",
+    "published_at": "2026-10-13T06:05:43+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5f1b01b54df7637c",
+    "title_hash": "ded5334147d18ccd",
+    "title": "AI is a tool and using it well takes skill",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 370 # Comments: 287",
+    "published_at": "2026-10-13T05:40:18+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0ba218dfeba65a55",
+    "title_hash": "7a157f0b1829450b",
+    "title": "Phreak.ing – Internet Phone Switch",
+    "url": "https://phreak.ing/",
+    "summary": "Article URL: https://phreak.ing/ Comments URL: https://news.ycombinator.com/item?id=50063417 Points: 122 # Comments: 33",
+    "published_at": "2026-10-13T05:39:32+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "6a78f6efee3a21f2",
+    "title_hash": "9ae0ebda496a21ff",
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 177 # Comments: 77",
+    "published_at": "2026-10-13T05:35:35+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "18487b0af91cd32d",
+    "title_hash": "e3dbe67ac73975f0",
+    "title": "Who is vfmaddrnd231pd?",
+    "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+    "summary": "Article URL: https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/ Comments URL: https://news.ycombinator.com/item?id=50063138 Points: 179 # Comments: 18",
+    "published_at": "2026-10-13T05:12:43+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5394c51ed710a783",
+    "title_hash": "92175a3bfde60096",
+    "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+    "url": "https://brickbrag.com/",
+    "summary": "Article URL: https://brickbrag.com/ Comments URL: https://news.ycombinator.com/item?id=50063042 Points: 58 # Comments: 34",
+    "published_at": "2026-10-13T05:03:36+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "84c4f127dbc3d798",
+    "title_hash": "5306c26dc9556761",
+    "title": "Writing a Demoscene Intro for the ZX Spectrum",
+    "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+    "summary": "Article URL: https://www.markround.com/blog/2026/zx-spectrum-intro Comments URL: https://news.ycombinator.com/item?id=50061859 Points: 114 # Comments: 20",
+    "published_at": "2026-10-13T03:40:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7ed0d9888ce5e464",
+    "title_hash": "6f491fc9e78a596c",
+    "title": "Making big downloads resumable in Firefox",
+    "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+    "summary": "Article URL: https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html Comments URL: https://news.ycombinator.com/item?id=50061791 Points: 177 # Comments: 71",
+    "published_at": "2026-10-13T03:36:02+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "99e810c974b3b034",
+    "title_hash": "ed8b6f41eb9fd42b",
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "summary": "Article URL: https://github.com/openai/codex/issues/48195 Comments URL: https://news.ycombinator.com/item?id=50060694 Points: 544 # Comments: 272",
+    "published_at": "2026-10-13T02:29:04+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7758c02a15e38393",
+    "title_hash": "61171b554cfee30f",
+    "title": "Muse Wonder",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "summary": "Article URL: https://research.meta.ai/blog/muse-wonder Comments URL: https://news.ycombinator.com/item?id=50059115 Points: 616 # Comments: 327",
+    "published_at": "2026-10-13T00:48:01+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "93481ec2e3a9d5b0",
+    "title_hash": "59bdb8c8b49a53b4",
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "url": "https://news.ycombinator.com/item?id=50059096",
+    "summary": "Hey HN, I’m Vishnu from Agent37 ( https://agent37.com ). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox. You can view a video walkthrough of the product here: https://youtu.be/DK5ISR2tbNo We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses. One of the goals I had at the time was to offer a free plan to users, so as to gain more market share. But it was too cost prohibitive to do it right away. Especially since we were bootstrapped and servers were running on my savings. Today we’re actually able to offer the free plan thanks to the optimizations we’ve made since. Over 90% of the new signups we have are just free plan users and they host their personal Hermes/Openclaw/Claude Code etc on our cloud. Our infrastructure cost for the free sandboxes averages around $0.05 to $0.10 per user per month. Here are some techniques that have worked for lowering cost: * When you look at agent harnesses, they have certain patterns in the way they consume CPU and RAM. They need CPU in bursts when they’re initializing or performing certain tasks, but beyond that, they’re often not peaking. They need more RAM for things like browser and computer-use tasks. Once the task is done, usage often comes back down. This is a key insight in lowering cost, so by efficiently managing the CPU/RAM utilization we could lower the cost. * Secondly, you have to skip the hyperscalers when renting the Hosts. I worked at Amazon before and they have 80-90% margins on VMs. So it was an obvious choice once I looked at the prices to go one layer down to vendors like Hetzner and OVH. This alone was probably one of the biggest cost levers in reducing the cost. * Thirdly, you also want to pick a technology stack that lets you efficiently cache and share resources across the host. We use gVisor for better utilization and fast boot times. It lets us use available host memory across sandboxes without reserving a full VM’s memory for each one. There are tradeoffs: our gVisor sandboxes don’t support workloads like Docker-in-Docker or Android emulators. * And finally the size and shape of the hosts you buy also makes a big difference. RAM is typically the bottleneck when it comes to cost and not the CPU. This is specifically true for agent harness workloads, so when buying servers, we optimize for packing more RAM into a given host. We also host full VM sandboxes for workloads that need them, including running Docker at a slightly higher price, but they are still pretty low cost given the rest of the techniques. Overall, my learning has been that just by focusing on a niche of sandbox usecases, and optimizing for it you can give a much better cost/performance tradeoff. I was previously a Senior Software Engineer at Amazon and an Engineering Manager at Quantcast. I built Amazon's internal AI chatbot, Diya, and their internal coding harness, Ziya. If you’re someone who’s looking to run agents on sandbox and are exploring a sandbox vendor, come check us out. We’re particularly looking for developers building messaging agents to try their workloads and challenge the limits and economics of our platform. Thanks! https://agent37.com Comments URL: https://news.ycombinator.com/item?id=50059096 Points: 129 # Comments: 92",
+    "published_at": "2026-10-13T00:46:34+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a471bcd8b380da08",
+    "title_hash": "f430198c213802d4",
+    "title": "A Modern Web App in C",
+    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+    "summary": "Article URL: https://prophitt.me/writing/a-modern-web-app-in-c Comments URL: https://news.ycombinator.com/item?id=50058528 Points: 522 # Comments: 221",
+    "published_at": "2026-10-13T00:13:10+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "0aa3802f6f2a1aeb",
+    "title_hash": "3eaebb27c54d6ed2",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "published_at": "2026-10-13T01:56:56+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "c4b9d6e880599722",
+    "title_hash": "6cd468d7aa224a97",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "published_at": "2026-10-13T01:19:14+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "4689aa360e7d85be",
+    "title_hash": "7287005f80201efc",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "published_at": "2026-10-12T23:45:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "1ed99c53c3c6c5a0",
+    "title_hash": "fb6cabf955764426",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "published_at": "2026-10-12T23:31:19+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "6d5747a1c9b09ae5",
+    "title_hash": "c6d61142e1af1e3c",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "published_at": "2026-10-12T23:27:59+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "421058482db8e762",
+    "title_hash": "985d28c3db7297a4",
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+    "published_at": "2026-10-12T22:00:00+08:00",
+    "created_at": "2026-10-13 07:53:00"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "84410a602fe52654",
+    "title_hash": "237a6f2bd10f6d24",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+    "published_at": "2026-10-12T20:47:59+08:00",
+    "created_at": "2026-10-13 07:53:00"
   }
 ]
