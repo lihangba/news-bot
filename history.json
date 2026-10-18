@@ -1,236 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "8b80b27ccacfec5a",
-    "title_hash": "a225f5e25c1a422e",
-    "title": "特斯拉FSD，在欧洲被打回原形",
-    "url": "https://www.qbitai.com/2026/10/502467.html",
-    "summary": "马斯克反而发文道谢？",
-    "published_at": "2026-10-10T14:59:02+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "994d69bf84065725",
-    "title_hash": "b51f17a73fcd2d4c",
-    "title": "AI agents in a stand-up call",
-    "url": "https://atoll92.github.io/agent-standup/",
-    "summary": "Article URL: https://atoll92.github.io/agent-standup/ Comments URL: https://news.ycombinator.com/item?id=50039630 Points: 27 # Comments: 30",
-    "published_at": "2026-10-11T11:42:47+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5e035c2780d1a936",
-    "title_hash": "05e5ea5856fd9f23",
-    "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
-    "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
-    "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 54 # Comments: 11",
-    "published_at": "2026-10-11T11:21:07+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "59499c68644ca048",
-    "title_hash": "df4268806e528872",
-    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 75 # Comments: 58",
-    "published_at": "2026-10-11T10:02:38+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5a9fbef9a98543da",
-    "title_hash": "0c1f545f8c4131d8",
-    "title": "PSPi 6 – Raspberry Pi in a PSP",
-    "url": "https://github.com/othermod/PSPi-Version-6",
-    "summary": "Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 66 # Comments: 6",
-    "published_at": "2026-10-11T08:45:49+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "63a4e11e2b73a809",
-    "title_hash": "4cdb8ddac7375cdc",
-    "title": "Build your own decision model",
-    "url": "https://nishtahir.com/build-your-own-decision-model/",
-    "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 228 # Comments: 57",
-    "published_at": "2026-10-11T06:50:10+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "91459c8bff819c06",
-    "title_hash": "b51587df4b142d3d",
-    "title": "A city-building game in which the city would prefer you didn't",
-    "url": "https://housing.over.pizza/",
-    "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 294 # Comments: 93",
-    "published_at": "2026-10-11T04:31:50+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ff937c4025228443",
-    "title_hash": "2d2313864e7414cc",
-    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-    "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 157 # Comments: 100",
-    "published_at": "2026-10-11T02:48:35+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c2f9caad882ea679",
-    "title_hash": "47f232a330b43db2",
-    "title": "Knuth reward check",
-    "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-    "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 184 # Comments: 68",
-    "published_at": "2026-10-10T23:47:01+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "3cff51c1d22e9e0e",
-    "title_hash": "cb3c21215404b305",
-    "title": "Unikernels were hard. key word: were",
-    "url": "https://ghuntley.com/unikernels/",
-    "summary": "Article URL: https://ghuntley.com/unikernels/ Comments URL: https://news.ycombinator.com/item?id=50033357 Points: 145 # Comments: 61",
-    "published_at": "2026-10-10T22:27:09+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "61aead273b1a218a",
-    "title_hash": "bfc4a11a6cd9b1a9",
-    "title": "I would like the value of my home to rise, while my property taxes fall",
-    "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-    "summary": "Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/ Comments URL: https://news.ycombinator.com/item?id=50032758 Points: 244 # Comments: 545",
-    "published_at": "2026-10-10T21:29:03+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5c1db9239c15fa63",
-    "title_hash": "2da6b15095af91f7",
-    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "url": "https://github.com/rociiu/talorys",
-    "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 280 # Comments: 130",
-    "published_at": "2026-10-10T18:52:09+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0139f84d8e8be97b",
-    "title_hash": "a0ed3ec60bdb5085",
-    "title": "The Lightbulb Computer",
-    "url": "https://lightbulbcomputer.com/",
-    "summary": "Article URL: https://lightbulbcomputer.com/ Comments URL: https://news.ycombinator.com/item?id=50029487 Points: 359 # Comments: 58",
-    "published_at": "2026-10-10T12:12:26+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8d0d5e3b472fdee1",
-    "title_hash": "ed90b67af2a52db3",
-    "title": "Decade-old RAM is making a comeback",
-    "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-    "summary": "Article URL: https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback Comments URL: https://news.ycombinator.com/item?id=50028647 Points: 18 # Comments: 4",
-    "published_at": "2026-10-10T09:37:08+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f2f20e4ee90e0fa2",
-    "title_hash": "3896596dd568393b",
-    "title": "Deterministic Simulation Testing in Celld",
-    "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
-    "summary": "Article URL: https://celld.dev/docs/engineering/deterministic-simulation-testing/ Comments URL: https://news.ycombinator.com/item?id=50024805 Points: 12 # Comments: 1",
-    "published_at": "2026-10-10T02:31:50+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8cba259cd103107b",
-    "title_hash": "45edea1926df6005",
-    "title": "Rampart: Browser native on-device PII radaction",
-    "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
-    "summary": "Article URL: https://ndstudio.gov/posts/say-hello-to-rampart Comments URL: https://news.ycombinator.com/item?id=50024242 Points: 83 # Comments: 32",
-    "published_at": "2026-10-10T01:52:07+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "aa0b7e27b1df6668",
-    "title_hash": "996fb324222d36b3",
-    "title": "Getting old Macromedia Director Games to run on modern Hardware",
-    "url": "https://werwolv.net/posts/macromedia_copy_protection/",
-    "summary": "Article URL: https://werwolv.net/posts/macromedia_copy_protection/ Comments URL: https://news.ycombinator.com/item?id=50020901 Points: 70 # Comments: 10",
-    "published_at": "2026-10-09T22:18:03+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "212e9120a76a6fc2",
-    "title_hash": "2594ccf92d3d6839",
-    "title": "Cloudflare acquires Deno",
-    "url": "https://deno.com/blog/cloudflare",
-    "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 1348 # Comments: 699",
-    "published_at": "2026-10-09T21:03:48+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "9912b86ad7452f24",
-    "title_hash": "329a9be9e6a12214",
-    "title": "How big is a Git commit?",
-    "url": "https://ratfactor.com/cards/git-commit-size",
-    "summary": "Article URL: https://ratfactor.com/cards/git-commit-size Comments URL: https://news.ycombinator.com/item?id=50017548 Points: 12 # Comments: 3",
-    "published_at": "2026-10-09T16:13:44+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "13ca25f147a7a5de",
-    "title_hash": "fdbe0facce51def2",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "published_at": "2026-10-11T05:47:51+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "b9dc0d5943c84ce6",
-    "title_hash": "db19fc35fc369fc3",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-    "published_at": "2026-10-11T03:50:00+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "d3172198e8ea0434",
-    "title_hash": "4f7f1fe6a5683b18",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-    "published_at": "2026-10-10T23:00:00+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "a0f6e38f65e9c89b",
-    "title_hash": "729740a80cf64e86",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "published_at": "2026-10-10T22:00:00+08:00",
-    "created_at": "2026-10-11 07:25:04"
-  },
-  {
-    "source": "量子位",
     "url_hash": "8e35f4874770cc3e",
     "title_hash": "5c2ad7c30789193a",
     "title": "王的猜想，刚刚扩展到四维",
@@ -3108,5 +2878,275 @@
     "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
     "published_at": "2026-10-16T20:55:09+08:00",
     "created_at": "2026-10-17 05:45:33"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "c991932364dcef47",
+    "title_hash": "a161bb9b2871e659",
+    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+    "url": "https://www.qbitai.com/2026/10/504067.html",
+    "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+    "published_at": "2026-10-17T20:21:09+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "24ffd586aefb67a2",
+    "title_hash": "dc9e2fb651baaf59",
+    "title": "智谱新模型，懂法方面全球第一了",
+    "url": "https://www.qbitai.com/2026/10/503965.html",
+    "summary": "AI的风还是刮到了法律圈",
+    "published_at": "2026-10-17T20:13:45+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "7fc73ab44f09b73f",
+    "title_hash": "36a627c7a94d0058",
+    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+    "url": "https://www.qbitai.com/2026/10/503935.html",
+    "summary": "整套系统原生支持MCP",
+    "published_at": "2026-10-17T20:10:35+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "ee5297d7e82b37f0",
+    "title_hash": "5b8ac042e3e3d4fc",
+    "title": "科技企业出海，为啥我推荐你去迪拜？",
+    "url": "https://www.qbitai.com/2026/10/503893.html",
+    "summary": "通往全球市场的超级跳板",
+    "published_at": "2026-10-17T17:05:08+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "18d168ba06f97832",
+    "title_hash": "0ce55401f1ed0bad",
+    "title": "The game industry is broken – can we fix it?",
+    "url": "https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash",
+    "summary": "Article URL: https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash Comments URL: https://news.ycombinator.com/item?id=50138156 Points: 4 # Comments: 0",
+    "published_at": "2026-10-18T13:27:58+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b74c11c4c3b7811a",
+    "title_hash": "bd72012d209c6843",
+    "title": "Matthew Prince on why Cloudflare offers a free version and always will",
+    "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+    "summary": "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685 Comments URL: https://news.ycombinator.com/item?id=50138087 Points: 11 # Comments: 5",
+    "published_at": "2026-10-18T13:09:14+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "34d502653d652f08",
+    "title_hash": "34a54506480a0dd7",
+    "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+    "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+    "summary": "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole Comments URL: https://news.ycombinator.com/item?id=50138044 Points: 35 # Comments: 4",
+    "published_at": "2026-10-18T12:59:24+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0e1c32a585dd4e05",
+    "title_hash": "69bbe0eb430fd25a",
+    "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 36 # Comments: 11",
+    "published_at": "2026-10-18T12:33:49+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "92a589a2f92b397b",
+    "title_hash": "d1edb44c2a65dba2",
+    "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+    "url": "https://tkgally.github.io/500-clocks/",
+    "summary": "Lately I've been testing frontier models by having them create self-contained web pages that display clocks--sort of my personal version of Simon Willison’s pelican-on-a-bicycle metric. I have been particularly impressed by the variety, interest, and quality of the clocks created by Claude Opus 5.5. Over the course of several sessions in the Claude chat interface, I had it build a total of 500 clocks. Claude’s summary of the prompting process and page design is here: https://github.com/tkgally/500-clocks/tree/main Comments URL: https://news.ycombinator.com/item?id=50137820 Points: 11 # Comments: 2",
+    "published_at": "2026-10-18T12:04:58+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "69ea77dfc1c584eb",
+    "title_hash": "5c81eca01b7e3f7c",
+    "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+    "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 53 # Comments: 39",
+    "published_at": "2026-10-18T11:19:49+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e49124370cefa308",
+    "title_hash": "32e63dcf5c95e49a",
+    "title": "NY announces game ownership bill requiring ownership rather than licensing",
+    "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+    "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator.com/item?id=50136536 Points: 195 # Comments: 61",
+    "published_at": "2026-10-18T08:14:22+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9ce1d661b5d81c14",
+    "title_hash": "05e562da2fc191ee",
+    "title": "Codex Desktop continuously generates Crashpad pending dumps",
+    "url": "https://github.com/openai/codex/issues/25921",
+    "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 114 # Comments: 41",
+    "published_at": "2026-10-18T01:45:08+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "beb4bf96a9ef74cb",
+    "title_hash": "86f46e4cafab5073",
+    "title": "I Became a Citizen of Japan",
+    "url": "https://www.derekwessman.com/blog-1/natural",
+    "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 196 # Comments: 107",
+    "published_at": "2026-10-18T01:36:17+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "4e9a757f861c0ea6",
+    "title_hash": "55405a534386e1ad",
+    "title": "Gold is now the top U.S. export",
+    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+    "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 295 # Comments: 153",
+    "published_at": "2026-10-18T01:06:07+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5ae5c54823aa7726",
+    "title_hash": "5f7c1555e8322a37",
+    "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+    "url": "https://www.artie.com/careers",
+    "summary": "Article URL: https://www.artie.com/careers Comments URL: https://news.ycombinator.com/item?id=50132839 Points: 0 # Comments: 0",
+    "published_at": "2026-10-18T01:02:50+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b7016d2db526680c",
+    "title_hash": "481e81826c03cdad",
+    "title": "Pele – Mermaid diagrams as themeable SVG",
+    "url": "https://pele.run/",
+    "summary": "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 353 # Comments: 30",
+    "published_at": "2026-10-17T23:55:09+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b3462c9d5756459b",
+    "title_hash": "b76598e885fcabd8",
+    "title": "Solar surpasses nuclear power globally for first time",
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 540 # Comments: 332",
+    "published_at": "2026-10-17T22:01:01+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "70629c7e2ec4b839",
+    "title_hash": "f9150db9cc98c29a",
+    "title": "Making chicken transparent using Dorito dust",
+    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+    "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 285 # Comments: 73",
+    "published_at": "2026-10-17T21:55:28+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "02427232eda6c5bc",
+    "title_hash": "e917b4f797c9a6fc",
+    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+    "url": "https://github.com/mikroverk/esp32sim",
+    "summary": "Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected. Source: https://github.com/mikroverk/esp32sim I made a short video showing it in action: https://youtu.be/waoWFilTWEc I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI? Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 147 # Comments: 15",
+    "published_at": "2026-10-17T21:51:08+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "170851101c2fcec5",
+    "title_hash": "a897927846781241",
+    "title": "Show HN: High-quality duck audio synthesizer",
+    "url": "https://celphase.github.io/duck-pond/",
+    "summary": "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 109 # Comments: 28",
+    "published_at": "2026-10-17T21:28:46+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "6cb03e9bf9e925e4",
+    "title_hash": "6f78619b41027781",
+    "title": "Interactive Linear Programming in the Browser",
+    "url": "https://lpviz.net/",
+    "summary": "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 6 # Comments: 0",
+    "published_at": "2026-10-17T20:06:44+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "cac24968e5aa0d5b",
+    "title_hash": "8618d3da714d772c",
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "summary": "https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 789 # Comments: 623",
+    "published_at": "2026-10-17T16:21:25+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5cf8bc3a52e1e15c",
+    "title_hash": "a81ad17baca5a5fc",
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "url": "https://llmspeed.dev/",
+    "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 271 # Comments: 78",
+    "published_at": "2026-10-17T12:36:53+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "3a9452c54f6fdbab",
+    "title_hash": "c5756bf8b9ee5b53",
+    "title": "Source code of the Estonian online voting system",
+    "url": "https://github.com/valimised/ivxv",
+    "summary": "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 196 # Comments: 159",
+    "published_at": "2026-10-17T11:18:39+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "7dd27ee4e856d38c",
+    "title_hash": "eb9564e256074cf7",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "published_at": "2026-10-18T05:31:32+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "fd3979152c2e61bd",
+    "title_hash": "c02907b0d37cb62c",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "published_at": "2026-10-18T04:21:19+08:00",
+    "created_at": "2026-10-18 06:08:33"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "fcf73aabe3e37fa7",
+    "title_hash": "d41b7a82468f8801",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "published_at": "2026-10-18T02:48:08+08:00",
+    "created_at": "2026-10-18 06:08:33"
   }
 ]
