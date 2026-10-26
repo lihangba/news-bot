@@ -1,346 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "06e34488cd21a025",
-    "title_hash": "964380c09c7f3ca0",
-    "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-    "url": "https://www.qbitai.com/2026/10/504136.html",
-    "summary": "让人人都能自由创造并体验可交互世界",
-    "published_at": "2026-10-18T19:49:49+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "06d110e31202a175",
-    "title_hash": "76ef7668422f008c",
-    "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
-    "url": "https://www.qbitai.com/2026/10/504116.html",
-    "summary": "买AIPC就选联想YOGA。",
-    "published_at": "2026-10-16T21:48:10+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "b4cc05c131bacec5",
-    "title_hash": "cf9d8298319b016a",
-    "title": "北美瑞士：阿尔伯塔分离势力迎来投票机会",
-    "url": "https://www.ftchinese.com/story/001111140",
-    "summary": "围绕应不应该就脱离加拿大举行具有法律约束力的公投，该省周一举行投票。此举威胁到加总理卡尼在面对特朗普敌意的背景下团结国家的努力。",
-    "published_at": "2026-10-19T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "78118a5f6458e335",
-    "title_hash": "5b4b7a5748e1c1dc",
-    "title": "极右翼崛起危及德国吸引外资努力",
-    "url": "https://www.ftchinese.com/story/001111139",
-    "summary": "欧洲商界领袖警告，德国选择党近期在州选举中胜出，令人担忧德国政治稳定，包括担心本届德国政府还能不能兑现改革承诺。",
-    "published_at": "2026-10-19T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "ed9c8ec72281ff5b",
-    "title_hash": "9e9408ca5c4fbe3a",
-    "title": "卢拉试图借助自拍视频扭转选情",
-    "url": "https://www.ftchinese.com/story/001111138",
-    "summary": "曾坦承自己没有手机的巴西左翼总统，为了赢得总统大选第二轮投票而推出一系列自拍视频，包括他在健身房跑步机上对着镜头讲话的视频。",
-    "published_at": "2026-10-19T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "fc90cb3a843a4b1c",
-    "title_hash": "6774ff044a62f262",
-    "title": "社保需要颗粒归仓",
-    "url": "https://www.ftchinese.com/story/001111135",
-    "summary": "翁一：仓必须为颗粒服务。如果仓内分配失衡、规则不透明，新增缴费者的付出无法兑现对等的长期承诺，那么，社保断流的历史钟声会变得更响。",
-    "published_at": "2026-10-19T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "934b202c56c8319a",
-    "title_hash": "6d9b515b70ebc283",
-    "title": "一周世界舆论聚焦：鸭绿江新大桥通车的启示",
-    "url": "https://www.ftchinese.com/story/001111136",
-    "summary": "曹辛：鸭绿江新公路大桥的通车，不仅为中朝两国的未来贸易增添了一个新通道，更意味着中朝俄三国关系进入了一种新的平衡状态。",
-    "published_at": "2026-10-19T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "a9abd1979a22ea40",
-    "title_hash": "2448479521deb9be",
-    "title": "《花开锦绣》之外的真实盐政",
-    "url": "https://www.ftchinese.com/story/001111134",
-    "summary": "徐瑾：盐的故事关系每个人。所谓的清官救世，都是后人美好的简单化童话。真实历史是，杀不尽的贪官，改不完的小法，都比不上一套底层博弈秩序的优劣。",
-    "published_at": "2026-10-18T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "44d5f84257367039",
-    "title_hash": "e243fb2300b0559d",
-    "title": "尊界事件、经济民族主义及反向吞噬",
-    "url": "https://www.ftchinese.com/story/001111127",
-    "summary": "邓聿文：经济民族主义虽然中短期能够为自主品牌动员支持，长期却可能损害它们正常处理危机的能力。",
-    "published_at": "2026-10-18T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "68e59c9d20bbdf81",
-    "title_hash": "67ac2c74291fbc67",
-    "title": "中国钢铁行业转型，澳大利亚铁矿石承压",
-    "url": "https://www.ftchinese.com/story/001111123",
-    "summary": "辛克莱：中国钢铁行业增长放缓，低碳转型信号渐明，澳大利亚铁矿石产业面临抉择，而各方正寻求通过合作加快绿铁发展。",
-    "published_at": "2026-10-18T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "e1d66589ea61a4a7",
-    "title_hash": "db6d672a619a3b96",
-    "title": "德国是如何完成对华立场转变的？",
-    "url": "https://www.ftchinese.com/story/001111129",
-    "summary": "张冬方：德国的妥协意味着，无论在对华整体态度上，还是具体到本土汽车业如何面对竞争问题上，德国都在向马克龙和冯德莱恩靠拢。",
-    "published_at": "2026-10-18T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "cd99bb1608f97254",
-    "title_hash": "d92136c473d0b10a",
-    "title": "宣扬“1天1元物业费神话”，是在加速中国城市高层衰退",
-    "url": "https://www.ftchinese.com/story/001111130",
-    "summary": "刘远举：舆论盛传物业费神话，那就是不但不直面问题，反而在掩饰这种公共性不足。",
-    "published_at": "2026-10-18T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "00c82833aef4c565",
-    "title_hash": "724a38eda9e99070",
-    "title": "机器的喜好陷阱：从“人工智能谄媚”到“谄媚人工智能”",
-    "url": "https://www.ftchinese.com/story/001111125",
-    "summary": "陈安繁：人们已经学会警惕AI的谄媚，却很少察觉，另一种方向相反的谄媚正在发生。为了被机器看见、被机器选中，人类正在一点一点把自己改写成机器熟悉的样子。",
-    "published_at": "2026-10-16T00:00:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "962c8c99b4bda2ba",
-    "title_hash": "19d00068818c5840",
-    "title": "Agent-Skills.market",
-    "url": "https://agent-skills.market/",
-    "summary": "Article URL: https://agent-skills.market/ Comments URL: https://news.ycombinator.com/item?id=50148882 Points: 3 # Comments: 0",
-    "published_at": "2026-10-19T13:58:46+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "80d679585be30884",
-    "title_hash": "a6dae3d3fafc7ba0",
-    "title": "Verisign .com Domain Name Registry Consumer Class Action",
-    "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
-    "summary": "Article URL: https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action Comments URL: https://news.ycombinator.com/item?id=50148441 Points: 39 # Comments: 8",
-    "published_at": "2026-10-19T12:40:18+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e050c5d2bf82687a",
-    "title_hash": "d65d008988d97480",
-    "title": "Superlite: A Faster Alternatie to Superpowers",
-    "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-    "summary": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 42 # Comments: 18",
-    "published_at": "2026-10-19T10:01:16+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "54b4e76b7b84352b",
-    "title_hash": "1157fef0c7c043c5",
-    "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
-    "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
-    "summary": "Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/ Comments URL: https://news.ycombinator.com/item?id=50147455 Points: 75 # Comments: 24",
-    "published_at": "2026-10-19T09:55:03+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "685fb8001c886f5d",
-    "title_hash": "e6f6b6f17134fecc",
-    "title": "Sanity's Edge – A voice BBS from 1994",
-    "url": "https://sanitys-edge.shouden.us",
-    "summary": "Article URL: https://sanitys-edge.shouden.us Comments URL: https://news.ycombinator.com/item?id=50146966 Points: 17 # Comments: 0",
-    "published_at": "2026-10-19T08:30:34+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a09a3be4e5cc91f3",
-    "title_hash": "06d67b6c8446738b",
-    "title": "William Gibson and the trademarking of cyberspace",
-    "url": "https://colo.to/cyberspace.html",
-    "summary": "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 129 # Comments: 33",
-    "published_at": "2026-10-19T07:37:57+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1c209af2c25b1e3d",
-    "title_hash": "bae26a37402dc43a",
-    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-    "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-    "summary": "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com/item?id=50146624 Points: 46 # Comments: 42",
-    "published_at": "2026-10-19T07:37:54+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2a6ac23eb50f0535",
-    "title_hash": "83d31224ba28ac2c",
-    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "url": "https://github.com/finereli/whatsapp-mcp",
-    "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly. This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up. Comments URL: https://news.ycombinator.com/item?id=50145715 Points: 79 # Comments: 42",
-    "published_at": "2026-10-19T05:36:10+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "bf08c7b0ac6a75f7",
-    "title_hash": "211abe108bfbe08f",
-    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-    "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 100 # Comments: 75",
-    "published_at": "2026-10-19T05:09:12+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ae6e49210029e41a",
-    "title_hash": "60b87e41b61d7223",
-    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "url": "https://arxiv.org/abs/2610.18861",
-    "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 316 # Comments: 162",
-    "published_at": "2026-10-19T04:48:14+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "432268236ae7fe16",
-    "title_hash": "a02634b49b232473",
-    "title": "Free Pascal compiler now supports dynamic packages",
-    "url": "https://www.getlazarus.org/dynamic/",
-    "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 139 # Comments: 32",
-    "published_at": "2026-10-19T02:48:04+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "176b32e067f2fd33",
-    "title_hash": "5a3bca6a61dff39a",
-    "title": "PalmOS Lemmings",
-    "url": "https://github.com/ardiri/palmos-lemmings",
-    "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 110 # Comments: 24",
-    "published_at": "2026-10-19T01:56:59+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "552c729909b58942",
-    "title_hash": "9704ac9992ba4c03",
-    "title": "Namecheap just seized and disabled all my domains",
-    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-    "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 522 # Comments: 271",
-    "published_at": "2026-10-19T00:56:56+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "489a23c9b4aa060e",
-    "title_hash": "e767c226ccb5ddac",
-    "title": "Someone behind the software",
-    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-    "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 383 # Comments: 154",
-    "published_at": "2026-10-19T00:32:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "70f182dccc3f27a5",
-    "title_hash": "e361510971fbc33a",
-    "title": "Java sealed classes and exhaustive pattern matching",
-    "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-    "summary": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 156 # Comments: 110",
-    "published_at": "2026-10-18T22:47:37+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "3a7394738126a24f",
-    "title_hash": "5e1712c06601bbd8",
-    "title": "RepRapMicron",
-    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-    "summary": "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 365 # Comments: 56",
-    "published_at": "2026-10-18T21:48:48+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2e922566bc37bbc5",
-    "title_hash": "05479079ed2c3b6f",
-    "title": "A new way to think about borrow checking (in reverse)",
-    "url": "https://verdagon.dev/blog/reverse-borrow-checking",
-    "summary": "Article URL: https://verdagon.dev/blog/reverse-borrow-checking Comments URL: https://news.ycombinator.com/item?id=50140383 Points: 47 # Comments: 5",
-    "published_at": "2026-10-18T20:11:13+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "9cfb32e12442763b",
-    "title_hash": "258699f19497c3ed",
-    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-    "url": "https://github.com/0x23/MicroManipulatorStepper",
-    "summary": "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 184 # Comments: 14",
-    "published_at": "2026-10-18T19:16:22+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "61e3a85bb7785ed7",
-    "title_hash": "ed7efedfd97cd0b5",
-    "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-    "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-    "summary": "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky Comments URL: https://news.ycombinator.com/item?id=50136979 Points: 184 # Comments: 113",
-    "published_at": "2026-10-18T09:38:08+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "16eddc2105cf8883",
-    "title_hash": "018e715248b7eb5b",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-    "published_at": "2026-10-19T04:37:40+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "35cd62faf12b8e71",
-    "title_hash": "925dca57227815d9",
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "published_at": "2026-10-19T00:30:00+08:00",
-    "created_at": "2026-10-19 06:22:59"
-  },
-  {
-    "source": "量子位",
     "url_hash": "3ba16f7af300afc0",
     "title_hash": "d11807381917dc1f",
     "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
@@ -2868,5 +2528,385 @@
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "published_at": "2026-10-24T22:00:00+08:00",
     "created_at": "2026-10-25 06:22:26"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "862fff0ecb16672c",
+    "title_hash": "2437819c647880bc",
+    "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+    "url": "https://www.qbitai.com/2026/10/505083.html",
+    "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
+    "published_at": "2026-10-23T17:21:41+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "47155337dc32fb4f",
+    "title_hash": "56656617a36c3a12",
+    "title": "企业AI需要两个世界模型",
+    "url": "https://www.qbitai.com/2026/10/505032.html",
+    "summary": "特赞想让企业Agent真正懂业务",
+    "published_at": "2026-10-23T17:07:25+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "c1bbf329020c9985",
+    "title_hash": "eefe0ee4fd4aacbf",
+    "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+    "url": "https://www.qbitai.com/2026/10/504931.html",
+    "summary": "房间秒变草原，抬手就能下雪",
+    "published_at": "2026-10-23T17:03:37+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "5a1a926ebedf4b94",
+    "title_hash": "7819c99fd8dec838",
+    "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+    "url": "https://www.qbitai.com/2026/10/504930.html",
+    "summary": "国产5B生图模型海外突然爆火，4天超百万下载",
+    "published_at": "2026-10-23T16:50:16+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "c2c2916578fe3b76",
+    "title_hash": "1acc6052c3366927",
+    "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+    "url": "https://www.qbitai.com/2026/10/504915.html",
+    "summary": "让AI真正走进真实世界",
+    "published_at": "2026-10-23T16:45:43+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "c52cbf14a978e36a",
+    "title_hash": "9e56f133ccdc0f8f",
+    "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
+    "url": "https://www.qbitai.com/2026/10/504913.html",
+    "summary": "10月23日，iRTE2026实时智能大会在北京举行。",
+    "published_at": "2026-10-23T16:45:30+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "1b0a695e72b12442",
+    "title_hash": "c79dfad4a08c343f",
+    "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+    "url": "https://www.qbitai.com/2026/10/504905.html",
+    "summary": "阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0",
+    "published_at": "2026-10-23T16:40:57+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "61f07c94e7356653",
+    "title_hash": "734c8907cd839528",
+    "title": "“定制婴儿”初创公司挑战生物技术禁区",
+    "url": "https://www.ftchinese.com/story/001111193",
+    "summary": "两家早期公司倒闭并未扑灭投资者对基因编辑公司的兴趣。从奥尔特曼到蒂尔，硅谷巨头继续向最具争议的生物技术前沿领域投入巨资。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "d0678ecd71cb3bc7",
+    "title_hash": "eb8d4b8c24e15f98",
+    "title": "曼努埃尔：未来十年至关重要，深刻变革此后可期",
+    "url": "https://www.ftchinese.com/story/001111192",
+    "summary": "曼努埃尔•普尔加尔-比达尔：自下而上重建多边合作，让气候因素成为经济竞争力的基础，以统筹协作的方式应对地球面临的多重危机，并巩固科学的地位，使其免受虚假信息的侵蚀。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "9dfa94b89d718641",
+    "title_hash": "3ae90d022cb1a4a9",
+    "title": "K型经济下的房地产",
+    "url": "https://www.ftchinese.com/story/001111182",
+    "summary": "徐瑾：上海二手房同比上涨，房地产要回来了吗？所谓K型分化，到底体现在哪里？",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "522805d1bb5237bb",
+    "title_hash": "61b33312f1e51a94",
+    "title": "乌克兰证实星链限制已被解除",
+    "url": "https://www.ftchinese.com/story/001111191",
+    "summary": "对乌克兰军事行动至关重要的星链系统在经历近11天限制后，已恢复正常速度运行。此前特朗普称其不知道谁下令对该系统实施限速。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "73a3e947fe6cd635",
+    "title_hash": "05a3ed09578e9b84",
+    "title": "穆迪未下调评级 法国政府获意外喘息机会",
+    "url": "https://www.ftchinese.com/story/001111190",
+    "summary": "这家评级机构决定维持法国的Aa3主权信用评级和负面展望，但警告该国当前状况比其几个月前的预期更为严峻。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "022e7ea0fbde249f",
+    "title_hash": "63a29700cff421c9",
+    "title": "特朗普在共和党人压力下取消部分对加关税",
+    "url": "https://www.ftchinese.com/story/001111189",
+    "summary": "此举旨在缓解与加拿大经济联系紧密的美国各州的压力。此前面临胶着选情的共和党参议员候选人纷纷抨击总统发起的贸易战。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "78830b6fae4af7c9",
+    "title_hash": "d852e629d5f6e1d6",
+    "title": "作为投资目的地的德国，还有吸引力吗？",
+    "url": "https://www.ftchinese.com/story/001111187",
+    "summary": "张冬方：德国确实面临着双重挑战，既需要获得来自黄仁勋们的信心与加码，更需要稳住本土基本盘，重塑本土企业对德国的信心。",
+    "published_at": "2026-10-25T00:00:00+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "71e58fb04fe51489",
+    "title_hash": "c473238193dc404e",
+    "title": "当年电子游戏养活了英伟达，今天为何看不起AI短剧？",
+    "url": "https://www.ftchinese.com/story/001111186",
+    "summary": "傅蔚冈：AI视频生成当然不一定重演GPU的发展历史，消费需求不仅购买现有技术，也通过持续的商业回报，支持未来技术能力的形成。",
+    "published_at": "2026-10-25T00:00:00+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5f85cf6c7fc2ee3b",
+    "title_hash": "aaef1c5016568d58",
+    "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+    "url": "https://proc-cli.com/",
+    "summary": "Article URL: https://proc-cli.com/ Comments URL: https://news.ycombinator.com/item?id=50239041 Points: 6 # Comments: 0",
+    "published_at": "2026-10-26T12:14:35+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "11f803bdf2d21098",
+    "title_hash": "ba8168fffee063e8",
+    "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+    "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+    "summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 30 # Comments: 4",
+    "published_at": "2026-10-26T12:11:40+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b30cb355942dc554",
+    "title_hash": "ad3a23a70c589e38",
+    "title": "Behind the scenes at the NeXT Computer office",
+    "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+    "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 58 # Comments: 23",
+    "published_at": "2026-10-26T11:31:11+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ed18f8ab0f26929a",
+    "title_hash": "927d396dc676bf7b",
+    "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+    "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+    "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 64 # Comments: 9",
+    "published_at": "2026-10-26T11:29:05+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "67264e063a667900",
+    "title_hash": "f82636f7c7f76877",
+    "title": "Show HN: TitleArt – Make text like it's 1997",
+    "url": "https://titleart.dvy.io/",
+    "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 96 # Comments: 15",
+    "published_at": "2026-10-26T11:23:57+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "29cb9297e6274b6f",
+    "title_hash": "7ecd4f3690d38eed",
+    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+    "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 29 # Comments: 10",
+    "published_at": "2026-10-26T11:12:05+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f91680b3d171ca61",
+    "title_hash": "b8ccfb02c2becac1",
+    "title": "IBM CEO says open weight models are now good and cheap on-prem",
+    "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+    "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 143 # Comments: 84",
+    "published_at": "2026-10-26T09:47:46+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8f4b4dc2fbb592ba",
+    "title_hash": "0ca3262a17adf899",
+    "title": "iPhone Duo Teardown",
+    "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+    "summary": "Article URL: https://www.ifixit.com/News/119895/iphone-duo-teardown Comments URL: https://news.ycombinator.com/item?id=50237896 Points: 99 # Comments: 60",
+    "published_at": "2026-10-26T09:23:24+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b7430d49dae6956a",
+    "title_hash": "e90d0854d09b4e5f",
+    "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+    "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+    "summary": "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category Comments URL: https://news.ycombinator.com/item?id=50237712 Points: 99 # Comments: 48",
+    "published_at": "2026-10-26T09:03:39+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f997c8ea7b407439",
+    "title_hash": "64494ccc90ce61d3",
+    "title": "Lula wins election after final votes tallied",
+    "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+    "summary": "Article URL: https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50237485 Points: 313 # Comments: 295",
+    "published_at": "2026-10-26T08:31:07+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "4900a66af91ecec4",
+    "title_hash": "040fda911054cdbb",
+    "title": "Steal My Bitcoin CTF PoC",
+    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+    "summary": "Article URL: https://github.com/KillaBoi/StealMyBitcoin-PoC Comments URL: https://news.ycombinator.com/item?id=50237379 Points: 69 # Comments: 11",
+    "published_at": "2026-10-26T08:15:17+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7a3d1687e523ceaa",
+    "title_hash": "24b8af1259019ff1",
+    "title": "Attention Is Not What You Need (2025)",
+    "url": "https://arxiv.org/abs/2512.19428",
+    "summary": "Article URL: https://arxiv.org/abs/2512.19428 Comments URL: https://news.ycombinator.com/item?id=50237224 Points: 71 # Comments: 25",
+    "published_at": "2026-10-26T07:52:05+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5b7c1720d48e816c",
+    "title_hash": "eb9eac7f07065aab",
+    "title": "F-Zero X on Nintendo 3DS",
+    "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+    "summary": "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 95 # Comments: 45",
+    "published_at": "2026-10-26T07:27:30+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1a7e953f36796cb0",
+    "title_hash": "79c03c006e5ca253",
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "url": "https://minimaxir.com/2026/10/cheap-llms/",
+    "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 244 # Comments: 266",
+    "published_at": "2026-10-26T05:11:31+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8e02db679d885502",
+    "title_hash": "6e51b2d575beeef9",
+    "title": "The State of Context Engineering",
+    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+    "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 141 # Comments: 38",
+    "published_at": "2026-10-26T04:32:31+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "08e7fd678891a909",
+    "title_hash": "b77fb69beb69b5a1",
+    "title": "What goes into making an animated film?",
+    "url": "https://www.disneyanimation.com/process/",
+    "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 126 # Comments: 51",
+    "published_at": "2026-10-26T04:27:09+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9df18c08fcaf8dcc",
+    "title_hash": "dc4e458cbbbf436b",
+    "title": "Why I Am a Programmer",
+    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+    "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 190 # Comments: 59",
+    "published_at": "2026-10-26T03:11:31+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e7f7d4275c4adeb7",
+    "title_hash": "a4873fec611f2dcd",
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer. The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.” Comments URL: https://news.ycombinator.com/item?id=50234474 Points: 491 # Comments: 88",
+    "published_at": "2026-10-26T02:23:54+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "07d9b2ee4610db0b",
+    "title_hash": "f836b71fc958fdd2",
+    "title": "Learning to Be Me (1990) [pdf]",
+    "url": "https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf",
+    "summary": "Article URL: https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf Comments URL: https://news.ycombinator.com/item?id=50234028 Points: 12 # Comments: 2",
+    "published_at": "2026-10-26T01:43:20+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b83204b7e9c12d9e",
+    "title_hash": "f9c33cf636308e30",
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 507 # Comments: 228",
+    "published_at": "2026-10-26T01:15:38+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "08ec5c76056e031d",
+    "title_hash": "98ebabc3b0e94515",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "published_at": "2026-10-26T05:31:16+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "9a814be9eb368823",
+    "title_hash": "b3ed1e7a0b7046bb",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "published_at": "2026-10-26T00:57:32+08:00",
+    "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "a18a7851efbde35c",
+    "title_hash": "3ab3e441926c2241",
+    "title": "The hottest AI wearables and gadgets you should know about",
+    "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+    "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+    "published_at": "2026-10-25T22:10:00+08:00",
+    "created_at": "2026-10-26 06:32:03"
   }
 ]
