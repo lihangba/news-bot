@@ -1,496 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "3ba16f7af300afc0",
-    "title_hash": "d11807381917dc1f",
-    "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-    "url": "https://www.qbitai.com/2026/10/504314.html",
-    "summary": "OpenAI只掏出一个6.1 Terra…",
-    "published_at": "2026-10-20T09:09:43+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "415d59bb4bc17609",
-    "title_hash": "db3ca5d6dbec432b",
-    "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-    "url": "https://www.qbitai.com/2026/10/504277.html",
-    "summary": "同步搭建千比特规模量子算力云平台",
-    "published_at": "2026-10-19T22:33:26+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "0917a45d3d50aa21",
-    "title_hash": "5ff30d8e58a06ccd",
-    "title": "通研院孵化的团队，也盯上了RSI",
-    "url": "https://www.qbitai.com/2026/10/504294.html",
-    "summary": "当AI越来越懂你，如何让智能真正属于你？",
-    "published_at": "2026-10-19T22:31:12+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "da5ef4034b861842",
-    "title_hash": "7741e405f131b81c",
-    "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-    "url": "https://www.qbitai.com/2026/10/504266.html",
-    "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
-    "published_at": "2026-10-19T18:27:39+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "f8b043a484c89a46",
-    "title_hash": "3f40dda4fa75a2c0",
-    "title": "全栈自研！国产高端互连芯片，稳了!",
-    "url": "https://www.qbitai.com/2026/10/504225.html",
-    "summary": "六年蛰伏出货80万颗",
-    "published_at": "2026-10-19T18:15:19+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "46929abac940a57c",
-    "title_hash": "8b28921f568a83c7",
-    "title": "AI 开始挑战最复杂的系统：生命",
-    "url": "https://www.qbitai.com/2026/10/504242.html",
-    "summary": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
-    "published_at": "2026-10-19T18:04:18+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "00cd1bea6bfd4eff",
-    "title_hash": "b1a1a1d825ef34c6",
-    "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
-    "url": "https://www.qbitai.com/2026/10/504238.html",
-    "summary": "10月19日，RISC-V中国峰会在深圳举行。",
-    "published_at": "2026-10-19T17:56:38+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "09cb8fc2597db20e",
-    "title_hash": "4e0726d77a3130b6",
-    "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
-    "url": "https://www.qbitai.com/2026/10/504199.html",
-    "summary": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。",
-    "published_at": "2026-10-19T16:12:45+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "8e391a88b370ffa0",
-    "title_hash": "670f10a817ae0913",
-    "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
-    "url": "https://www.qbitai.com/2026/10/504188.html",
-    "summary": "AI基础设施竞争转向高质量Token产能",
-    "published_at": "2026-10-19T13:22:39+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "89e7fb3bb5f7c94b",
-    "title_hash": "8587ea9ba730dfe1",
-    "title": "谷歌开源RSI新成果！华人浓度爆表",
-    "url": "https://www.qbitai.com/2026/10/504184.html",
-    "summary": "Harness层的RSI",
-    "published_at": "2026-10-19T11:11:58+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "d691847ddcef355d",
-    "title_hash": "a9728b88695285ec",
-    "title": "法国在燃烧，英国会是下一个吗？",
-    "url": "https://www.ftchinese.com/story/001111145",
-    "summary": "魏城：2026年秋，街头抗议席卷欧洲，法国重回风暴中心。这场危机究竟源于移民失控，还是内部结构失衡？",
-    "published_at": "2026-10-20T00:00:00+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "16ddd078a4439e02",
-    "title_hash": "c92c20ed582b7ff8",
-    "title": "欧洲不再“哄着”特朗普",
-    "url": "https://www.ftchinese.com/story/001111144",
-    "summary": "拉赫曼：乌克兰总统最近暗示特朗普对独裁者情有独钟，这种不再忍气吞声的背后很可能有某种盘算。毕竟多数美国人并不像特朗普那样钦佩普京。",
-    "published_at": "2026-10-20T00:00:00+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "c8afd48e83e9126b",
-    "title_hash": "d9827e89238a9486",
-    "title": "中期选举前景打压美国军工股",
-    "url": "https://www.ftchinese.com/story/001111143",
-    "summary": "随着投资者押注民主党将在中期选举中拿下国会两院控制权，进而阻挠特朗普增加5000亿美元军费支出的计划，美国军工股走势低迷。",
-    "published_at": "2026-10-20T00:00:00+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "e60fc9f8e882fda5",
-    "title_hash": "7d9db58ef9bdba56",
-    "title": "广合科技股价高位腰斩 亮丽业绩未扭转跌势",
-    "url": "https://www.ftchinese.com/story/001111142",
-    "summary": "印制电路板企业今年上半年被过度超买，相关企业即使公布亮丽业绩，仍不足以支撑股价。",
-    "published_at": "2026-10-20T00:00:00+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "6997e86a601c61ea",
-    "title_hash": "2f8e10315d47ad46",
-    "title": "叫板星链：欧洲电信运营商探索卫星移动服务",
-    "url": "https://www.ftchinese.com/story/001111141",
-    "summary": "德国电信、Orange、西班牙电信和沃达丰将探讨联合竞标无线电频谱资源的可能性，从而使他们能够在欧洲提供“终端直连”卫星移动服务。",
-    "published_at": "2026-10-20T00:00:00+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "948fb20c70cea41d",
-    "title_hash": "3d8ca2d400b41b08",
-    "title": "AI、中性利率与美联储加息空间（下）",
-    "url": "https://www.ftchinese.com/story/001111043",
-    "summary": "陈稻田：ChatGPT对科技行业的就业下降产生了立竿见影的影响，同时由于高薪科技行业雇佣量的下降，美国私营工资增速不断下降，这有利于缓和通胀压力。",
-    "published_at": "2026-10-20T00:00:00+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "ac454f86ce727344",
-    "title_hash": "c6cf50cb88fea3f7",
-    "title": "消费为何低迷？",
-    "url": "https://www.ftchinese.com/story/001111128",
-    "summary": "古尧：消费文化的形成离不开自由主义经济原则。当管制过多时，无论管制是发生在消费端还是生产端，消费文化的形成都会受到影响。",
-    "published_at": "2026-10-20T00:00:00+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "d89bbc9db839a644",
-    "title_hash": "17730aec491461a2",
-    "title": "关键矿产会成为美国核能雄心的羁绊",
-    "url": "https://www.ftchinese.com/story/001111132",
-    "summary": "王英良：隐藏在工程建设背后看似不起眼却至关重要的矿产供应链，才是保障核电项目落地的根基。",
-    "published_at": "2026-10-20T00:00:00+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0ce88841973469be",
-    "title_hash": "e006da4479d4c862",
-    "title": "Americans Are Spending More Money to Drive Worse Cars",
-    "url": "https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/",
-    "summary": "Article URL: https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/ Comments URL: https://news.ycombinator.com/item?id=50161505 Points: 19 # Comments: 32",
-    "published_at": "2026-10-20T12:55:36+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f5650bacb7dba05a",
-    "title_hash": "866f9989479c655c",
-    "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-    "url": "https://deathplanswitch.com/",
-    "summary": "Hi HN, I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs. I've recently launched Death Plan Switch to solve a major problem in my succession plan. What if I go missing or die? The right people are told and my business can continue to operate for my clients. There's a backstory to this project, I was hospitalised in 2012 and lost my business back then and I couldn't get the data to my technical 2IC in time without frustrating my clients. Death Plan Switch solves this problem, it's free to download and use or study under the MIT license. I've been using it for the last few weeks. It was authored with the help of Claude Code after writing an extensive MD document and it passed 42 unit tests. I hope you get some use out of it, or it inspires your own succession plans. My clients are telling me this is a strong sales feature when they trust me with their hosting and technology accounts. Happy to answer any questions. Kind regards, Peter Bishop. Comments URL: https://news.ycombinator.com/item?id=50161408 Points: 16 # Comments: 4",
-    "published_at": "2026-10-20T12:37:43+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "15822e99d7172b22",
-    "title_hash": "ecfb82ce7eaa1464",
-    "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
-    "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
-    "summary": "Article URL: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/ Comments URL: https://news.ycombinator.com/item?id=50161207 Points: 44 # Comments: 48",
-    "published_at": "2026-10-20T12:02:26+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f6ae6db404fd89fd",
-    "title_hash": "9321dc069f56d746",
-    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-    "url": "https://github.com/golang/go/issues/82345",
-    "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 43 # Comments: 17",
-    "published_at": "2026-10-20T11:05:07+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "bb9e270d6541f34a",
-    "title_hash": "d88931d710478f15",
-    "title": "OpenBSD 8.0",
-    "url": "https://www.openbsd.org/80.html",
-    "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 152 # Comments: 40",
-    "published_at": "2026-10-20T10:06:40+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a47ce6496d2f6fff",
-    "title_hash": "0d86b3733599facc",
-    "title": "Developing Taste",
-    "url": "https://emilkowal.ski/ui/developing-taste",
-    "summary": "Article URL: https://emilkowal.ski/ui/developing-taste Comments URL: https://news.ycombinator.com/item?id=50160135 Points: 34 # Comments: 28",
-    "published_at": "2026-10-20T09:12:03+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "fc3599f167b09ada",
-    "title_hash": "d706b5a314569e2c",
-    "title": "France's supermarket fridges were vulnerable online for months",
-    "url": "https://ipinfo.io/blog/france-fridges-hack",
-    "summary": "Related: Hackers activate automatic defrosting in supermarket fridges across Europe - https://news.ycombinator.com/item?id=50055304 - Oct 2026 (1007 comments) Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 100 # Comments: 79",
-    "published_at": "2026-10-20T08:00:49+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "55c3c0be518a12ff",
-    "title_hash": "fadb98de2fe5a108",
-    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-    "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 233 # Comments: 39",
-    "published_at": "2026-10-20T07:22:18+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "44b1999a5650f2e3",
-    "title_hash": "a36f1627238bc0c7",
-    "title": "How abliterated models can get you pwned",
-    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-    "summary": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 80 # Comments: 48",
-    "published_at": "2026-10-20T07:08:52+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "71ae8e89bbe13917",
-    "title_hash": "d9323374014eb339",
-    "title": "An ad-free Android TV",
-    "url": "https://cretezy.com/2026/ad-free-android-tv",
-    "summary": "Article URL: https://cretezy.com/2026/ad-free-android-tv Comments URL: https://news.ycombinator.com/item?id=50158942 Points: 119 # Comments: 37",
-    "published_at": "2026-10-20T06:32:37+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e9f92482846f8838",
-    "title_hash": "aea5b7bb3a8453e2",
-    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-    "url": "https://bsd.network/@brynet/117407035545900963",
-    "summary": "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 136 # Comments: 28",
-    "published_at": "2026-10-20T05:11:45+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "94b00070d9730e6c",
-    "title_hash": "a851941677f03e1b",
-    "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-    "url": "https://josie.lol/blog/linux-rtx-spark",
-    "summary": "Article URL: https://josie.lol/blog/linux-rtx-spark Comments URL: https://news.ycombinator.com/item?id=50158100 Points: 213 # Comments: 102",
-    "published_at": "2026-10-20T05:08:18+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ae3bbb73b2566c40",
-    "title_hash": "b9169ec9ff3d2fa7",
-    "title": "One Hash Bloom Filters",
-    "url": "https://calabro.io/ohbf",
-    "summary": "Article URL: https://calabro.io/ohbf Comments URL: https://news.ycombinator.com/item?id=50157865 Points: 82 # Comments: 10",
-    "published_at": "2026-10-20T04:50:08+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "fed2c06baf961f78",
-    "title_hash": "c59c7d6af6a00724",
-    "title": "Evidence (YC S21) Is Hiring Software Engineers",
-    "url": "https://evidence.dev/jobs",
-    "summary": "Article URL: https://evidence.dev/jobs Comments URL: https://news.ycombinator.com/item?id=50155172 Points: 0 # Comments: 0",
-    "published_at": "2026-10-20T01:21:33+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "379accb38d21583f",
-    "title_hash": "0080d8210adc40d2",
-    "title": "Android apps running native on macOS",
-    "url": "https://github.com/kksimp/Mac.apk",
-    "summary": "Article URL: https://github.com/kksimp/Mac.apk Comments URL: https://news.ycombinator.com/item?id=50154624 Points: 297 # Comments: 159",
-    "published_at": "2026-10-20T00:45:30+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b984a5c544e63137",
-    "title_hash": "c9e0aa1dbdef2650",
-    "title": "MiniMax M3.1 Flash",
-    "url": "https://www.minimax.io/blog/minimax-m31f",
-    "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 429 # Comments: 187",
-    "published_at": "2026-10-20T00:39:09+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e323d71e5034dd0b",
-    "title_hash": "373a089a8b6e56d3",
-    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-    "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-    "summary": "https://public-inspection.federalregister.gov/2026-21447.pdf Comments URL: https://news.ycombinator.com/item?id=50154244 Points: 130 # Comments: 117",
-    "published_at": "2026-10-20T00:16:46+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "163aa7a956892f81",
-    "title_hash": "f4c913fb42de0a89",
-    "title": "Ukraine claims first drone evacuation of wounded soldier",
-    "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-    "summary": "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 205 # Comments: 149",
-    "published_at": "2026-10-19T23:31:34+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a64bc604748a94c2",
-    "title_hash": "a58838c8a91263aa",
-    "title": "Agentic Monitoring",
-    "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-    "summary": "Article URL: https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/ Comments URL: https://news.ycombinator.com/item?id=50153225 Points: 80 # Comments: 9",
-    "published_at": "2026-10-19T22:52:04+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "67faafe4c9b4a947",
-    "title_hash": "76d0fc38cec8b95f",
-    "title": "Wine ported to OpenBSD",
-    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-    "summary": "Article URL: https://marc.info/?l=openbsd-ports&amp;m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 539 # Comments: 178",
-    "published_at": "2026-10-19T21:35:34+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "a608b97bceb1e726",
-    "title_hash": "1bc29fdc691f93fc",
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-    "published_at": "2026-10-20T09:27:03+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "68a6b53f34def307",
-    "title_hash": "212447f9f23a64e2",
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-    "published_at": "2026-10-20T07:39:38+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "e6f1ae44f641af38",
-    "title_hash": "59877ff0690e19f4",
-    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
-    "published_at": "2026-10-20T06:49:27+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "4de91e1540639e75",
-    "title_hash": "e9de082376cf8170",
-    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-    "published_at": "2026-10-20T06:04:28+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "c1dfee28d50b17ef",
-    "title_hash": "0e0e22d135124cc3",
-    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-    "published_at": "2026-10-20T04:09:24+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "f649037fa8e9c17e",
-    "title_hash": "8e8dd0a2b35c4a30",
-    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-    "published_at": "2026-10-20T03:28:34+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "7ab42e04cf3b71a3",
-    "title_hash": "09e2a8dd2849dcef",
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-    "published_at": "2026-10-20T03:00:12+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "347bd5ae4a1a313b",
-    "title_hash": "ac5ed37ea86a2cd3",
-    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-    "published_at": "2026-10-20T02:49:04+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "2b9227ae1c18986a",
-    "title_hash": "f13ef3f4a9018d51",
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-    "published_at": "2026-10-20T02:37:27+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "d1fa3609444938bc",
-    "title_hash": "7e99ff22dbdd9c38",
-    "title": "People are using AI to make their smart TVs dumb again",
-    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-    "published_at": "2026-10-20T00:13:22+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "ea3b81d8158f7d03",
-    "title_hash": "19e348f871270b83",
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-    "published_at": "2026-10-19T23:37:09+08:00",
-    "created_at": "2026-10-20 06:11:43"
-  },
-  {
-    "source": "量子位",
     "url_hash": "86f0484abc1b3368",
     "title_hash": "d6732932082bc517",
     "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
@@ -2908,5 +2418,515 @@
     "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
     "published_at": "2026-10-25T22:10:00+08:00",
     "created_at": "2026-10-26 06:32:03"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "fafd3718bd44303a",
+    "title_hash": "d81db936338baa38",
+    "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+    "url": "https://www.qbitai.com/2026/10/505580.html",
+    "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+    "published_at": "2026-10-27T11:23:55+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "e4e1138add83b456",
+    "title_hash": "4976036d86eb28aa",
+    "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+    "url": "https://www.qbitai.com/2026/10/505551.html",
+    "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+    "published_at": "2026-10-27T00:06:31+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "5fff9b77094b4e0a",
+    "title_hash": "f26e1716caed672e",
+    "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+    "url": "https://www.qbitai.com/2026/10/505539.html",
+    "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+    "published_at": "2026-10-26T17:46:13+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "63bcaec71016c9ba",
+    "title_hash": "5e82f0fab36c1817",
+    "title": "OpenAI开始断网训练最强模型：“安全起见”",
+    "url": "https://www.qbitai.com/2026/10/505529.html",
+    "summary": "模型开始利用GPU缓存聊天？",
+    "published_at": "2026-10-26T17:37:57+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "74cce3e24693d299",
+    "title_hash": "d50a1a286431bc4b",
+    "title": "A社联创演讲：AI奇点已来",
+    "url": "https://www.qbitai.com/2026/10/505521.html",
+    "summary": "所谓奇点，或许是AI跃过人类的那个点。",
+    "published_at": "2026-10-26T17:35:14+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "f54007e0688500e4",
+    "title_hash": "bebe634359a52fc5",
+    "title": "NeoLab第一个商业模式：转售GPU",
+    "url": "https://www.qbitai.com/2026/10/505478.html",
+    "summary": "从冲刺AGI到转售GPU。",
+    "published_at": "2026-10-26T17:31:47+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "65428bf7918e4548",
+    "title_hash": "d5f1385ce8e8181f",
+    "title": "中国近50%的新云生意，竟被这家公司包揽！",
+    "url": "https://www.qbitai.com/2026/10/505454.html",
+    "summary": "有点意外，但也不意外",
+    "published_at": "2026-10-26T17:02:44+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d4bbee2537468653",
+    "title_hash": "bf124865f033d55c",
+    "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+    "url": "https://www.qbitai.com/2026/10/505443.html",
+    "summary": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+    "published_at": "2026-10-26T16:38:49+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "e93bb49b6f6636cc",
+    "title_hash": "50e0eeed832c6ce7",
+    "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+    "url": "https://www.qbitai.com/2026/10/505436.html",
+    "summary": "10月21日，2026世界智能网联汽车大会在北京召开",
+    "published_at": "2026-10-26T16:04:10+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "ce681d327da382ce",
+    "title_hash": "6010a52e6b8097ab",
+    "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+    "url": "https://www.qbitai.com/2026/10/505429.html",
+    "summary": "高品质 AI Token 成为行业新风向",
+    "published_at": "2026-10-26T14:50:44+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "8bf27c4dc88974ff",
+    "title_hash": "360340e51f33ea9b",
+    "title": "美以重启对伊朗战争的政治盘算",
+    "url": "https://www.ftchinese.com/story/001111207",
+    "summary": "拉赫曼：特朗普和内塔尼亚胡似乎无法接受他们发起的军事行动已经失败这一事实。选举失利只会促使他们再度尝试在战场上打胜仗。",
+    "published_at": "2026-10-27T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "a9bd50569cb71aa6",
+    "title_hash": "a2b665b7a3ec83f2",
+    "title": "CERN总干事呼吁欧洲支持建造未来环形对撞机",
+    "url": "https://www.ftchinese.com/story/001111206",
+    "summary": "欧洲核子研究中心总干事汤姆森称，造价160亿欧元的下一代粒子加速器有望推动工业发展。该项目将考验欧洲启动大型基础研究项目的意愿。",
+    "published_at": "2026-10-27T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "32dd20e0d97b88af",
+    "title_hash": "45d98a846dc4837d",
+    "title": "Meta拟发股筹集950亿美元AI投资资金",
+    "url": "https://www.ftchinese.com/story/001111205",
+    "summary": "这是大型科技公司借助股市为其AI雄心提供资金的最新事例。芯片制造商英伟达、AMD和博通将作为基石投资者支持这笔交易。",
+    "published_at": "2026-10-27T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "49ce657373cf210b",
+    "title_hash": "a7acec3c1e68b2ba",
+    "title": "2026年排放差距报告解读：减排延误的代价是什么？",
+    "url": "https://www.ftchinese.com/story/001111202",
+    "summary": "陈钰什：此前累积的排放还会推高升温峰值，即使后续加速减排也无法消除已经形成的全部影响。",
+    "published_at": "2026-10-27T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "100bbf4f5345a641",
+    "title_hash": "fff0da768190ef6d",
+    "title": "联合国气候变化研究机构预算被卡",
+    "url": "https://www.ftchinese.com/story/001111204",
+    "summary": "政府间气候变化专门委员会资金受阻之前，一些依赖化石燃料的国家主张将下一阶段气候变化报告推迟至2029年发布。",
+    "published_at": "2026-10-27T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "a5385cacf558ddfc",
+    "title_hash": "31bcf2b945f2f51f",
+    "title": "嘲笑“老登”，中国车圈困在互联网思维里",
+    "url": "https://www.ftchinese.com/story/001111200",
+    "summary": "刘远举：这里真正重要的问题是，汽车承载着人身安全，这种推崇年轻产品经理的思维，对汽车行业是有害的。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "aa2502e8c7d889f2",
+    "title_hash": "3a3dfad9385d96a3",
+    "title": "中国的关键矿产优势在全链条而非资源武器化",
+    "url": "https://www.ftchinese.com/story/001111188",
+    "summary": "王英良：出口管制，本质上是主权国家开展的风险对冲手段，并非将矿产资源武器化——这两者的界限，恰恰是被国际舆论常常混淆的地方。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "6c30e122fa24a82b",
+    "title_hash": "65c9694eb1ef8fcb",
+    "title": "泡沫破灭后，投资人如何应对未来？",
+    "url": "https://www.ftchinese.com/story/001111183",
+    "summary": "黄凡：目前AI产业趋势没有破裂，但这并不妨碍股票估值重估。生活还是要继续，投资理财依然是让我们守护好自己财富并实现保值增值的刚需。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "16e733025ce808c7",
+    "title_hash": "2795e0af42a97d62",
+    "title": "AI能否让资本看得更长远？",
+    "url": "https://www.ftchinese.com/story/001111184",
+    "summary": "可持续金融成功与否，不在于算法有多精巧，而在于资本是否流向更有韧性、更包容且环境友好的经济体系。技术能够优化判断，却永远无法替代判断本身。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "a70056a0cb1f5eed",
+    "title_hash": "92f277049d6daa7e",
+    "title": "A股风急，耐心何寄：短期急跌与长期回报的困境",
+    "url": "https://www.ftchinese.com/story/001111194",
+    "summary": "孙丰伟：投资者面对的，既是眼前的亏损，也是一个更长远的问题：承担如此大的起伏，长期持有究竟能得到什么？",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "17fe23d892d70b42",
+    "title_hash": "060684b53aa3f0ac",
+    "title": "百亿市值蒸发九成九，GOGOX壮士断腕一元售中国快狗",
+    "url": "https://www.ftchinese.com/story/001111201",
+    "summary": "快狗打车作出业务重组，除出售内地业务外，更将中文名字更改，未来全力开拓海外市场。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "3505e044317cf178",
+    "title_hash": "65cabf43f0a5c6fc",
+    "title": "中国风电制造商为欧洲业务架设“防火墙”",
+    "url": "https://www.ftchinese.com/story/001111199",
+    "summary": "明阳智能表示，与英国章鱼能源组建合资公司并在欧洲成立独立法律实体，有助于让客户相信，从中国无法访问欧洲数据。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "fa395b33f87291fb",
+    "title_hash": "dd4931881033ec3e",
+    "title": "一周世界舆论聚焦：中美俄三国峰会与半岛最新局势",
+    "url": "https://www.ftchinese.com/story/001111196",
+    "summary": "曹辛：中美俄元首下月可能的会晤，本质上是因为三国彼此都需要，是现实使然。金正恩访问中国丹东，也是朝鲜内政外交的政治需要。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "b7b31d811ec33a32",
+    "title_hash": "12925f5bfa264c67",
+    "title": "知识的原材料属于谁：AI时代的数据治理与制度边界",
+    "url": "https://www.ftchinese.com/story/001111198",
+    "summary": "卢盈瑾：知识治理不再是附属问题，而成为影响资源分配与系统能力的重要变量，并在不显性的层面上塑造着人工智能的未来方向。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "80066a225e343b29",
+    "title_hash": "54108748e79da97c",
+    "title": "为特朗普卖命的司法部长，律师执照保得住吗？",
+    "url": "https://www.ftchinese.com/story/001111197",
+    "summary": "董一夫：美国法律界尽管无法在政治上直接挑战日益膨胀的行政权力，但在关乎美国法治存亡的根本问题上，不会有理由向特朗普政府做出让步。",
+    "published_at": "2026-10-26T00:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e526d8c0f05b32ee",
+    "title_hash": "3526f3fe589103fc",
+    "title": "UK to charge universities $1,200 per international student",
+    "url": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
+    "summary": "Article URL: https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe Comments URL: https://news.ycombinator.com/item?id=50254935 Points: 13 # Comments: 0",
+    "published_at": "2026-10-27T13:13:08+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5a24e14dcd271d5b",
+    "title_hash": "b8a54a15c1c920c2",
+    "title": "There are now 5 inference providers for abliterated DeepSeek",
+    "url": "https://allmodels.io/llm/abliterated",
+    "summary": "Article URL: https://allmodels.io/llm/abliterated Comments URL: https://news.ycombinator.com/item?id=50254836 Points: 35 # Comments: 27",
+    "published_at": "2026-10-27T12:53:52+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7c496a07d34839ce",
+    "title_hash": "0f2be034e77a7616",
+    "title": "I still teach OpenGL ES 3.0",
+    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+    "summary": "Article URL: https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html Comments URL: https://news.ycombinator.com/item?id=50253939 Points: 21 # Comments: 14",
+    "published_at": "2026-10-27T10:15:10+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "eb5128d7d4a24f90",
+    "title_hash": "0d1fea15d086de3b",
+    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "url": "https://github.com/otya128/winevdm",
+    "summary": "Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 63 # Comments: 5",
+    "published_at": "2026-10-27T09:15:04+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e77549dba84aa9c3",
+    "title_hash": "f1bf38dd5ca1b2e8",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 113 # Comments: 37",
+    "published_at": "2026-10-27T06:41:48+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2f04de563efd474f",
+    "title_hash": "c3b12e3f0a4d6027",
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 503 # Comments: 185",
+    "published_at": "2026-10-27T05:59:15+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "fe7d7660eaaca489",
+    "title_hash": "137bd208ef693b8c",
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "summary": "Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 722 # Comments: 316",
+    "published_at": "2026-10-27T05:35:28+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5bde0ad724a89177",
+    "title_hash": "af085f4fd3aeab11",
+    "title": "Type Server Protocol",
+    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 222 # Comments: 146",
+    "published_at": "2026-10-27T02:14:49+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b32fb058c2255182",
+    "title_hash": "853a81ae7a8fb359",
+    "title": "GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 567 # Comments: 353",
+    "published_at": "2026-10-27T02:01:17+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "05b8b1859a3d393a",
+    "title_hash": "9e90a0b9b850cb4e",
+    "title": "Oldest GUI application that still runs on Windows 11",
+    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 372 # Comments: 215",
+    "published_at": "2026-10-27T01:56:55+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "26b1ba8aaf941bf8",
+    "title_hash": "295306fe323e608b",
+    "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+    "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+    "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html Comments URL: https://news.ycombinator.com/item?id=50247928 Points: 155 # Comments: 75",
+    "published_at": "2026-10-27T01:49:55+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "543c1f702361e549",
+    "title_hash": "03c768dda3bc5469",
+    "title": "Nietzschian Debugger",
+    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+    "summary": "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 154 # Comments: 50",
+    "published_at": "2026-10-27T01:25:30+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "da89bc3e4c08aab8",
+    "title_hash": "2f56a28ce5cd6a05",
+    "title": "CSS-Tricks has a new owner",
+    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 424 # Comments: 96",
+    "published_at": "2026-10-26T23:51:23+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "71e81641c1a8ea58",
+    "title_hash": "1c9eda5b5fa8f146",
+    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+    "summary": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 873 # Comments: 816",
+    "published_at": "2026-10-26T23:35:12+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "fcd32cd3f6f7c03e",
+    "title_hash": "b2044eb234fadee6",
+    "title": "Solar power is becoming bigger than nuclear",
+    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "summary": "Article URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear Comments URL: https://news.ycombinator.com/item?id=50245385 Points: 226 # Comments: 346",
+    "published_at": "2026-10-26T23:26:17+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "da8785cc5779f5c9",
+    "title_hash": "204bd05e1dd2def0",
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 646 # Comments: 91",
+    "published_at": "2026-10-26T23:11:59+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f43fa9b3451af7eb",
+    "title_hash": "05a9c1c653bac42f",
+    "title": "New iPad mini",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/ Comments URL: https://news.ycombinator.com/item?id=50243061 Points: 178 # Comments: 459",
+    "published_at": "2026-10-26T21:13:36+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b8eac1ac6e149cce",
+    "title_hash": "3f8dfa2d11a7371b",
+    "title": "Anthropic S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1564 # Comments: 1503",
+    "published_at": "2026-10-26T21:04:50+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "3f92615021942915",
+    "title_hash": "14f2f4ba57e46dcd",
+    "title": "Pharo 14",
+    "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+    "summary": "Article URL: https://pharo.org/news/2026-10-26-Pharo14Release.html Comments URL: https://news.ycombinator.com/item?id=50241925 Points: 250 # Comments: 68",
+    "published_at": "2026-10-26T19:15:50+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "930fead5b68e5fdf",
+    "title_hash": "ca3b0e09919c208b",
+    "title": "Websites Should Be Printable",
+    "url": "https://brennenputh.me/blog/printable-websites/",
+    "summary": "Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 312 # Comments: 187",
+    "published_at": "2026-10-26T18:32:14+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "939d943fc8f0d399",
+    "title_hash": "425d9719d1c13de5",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "published_at": "2026-10-27T10:00:00+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "8af7b30500f9c04c",
+    "title_hash": "b9656a2989b7ecd1",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "published_at": "2026-10-27T09:12:21+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "b2ed8daad1cc7e3f",
+    "title_hash": "41682b3707d640b8",
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+    "published_at": "2026-10-27T00:49:42+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "d6e31d9e0fa6ab5c",
+    "title_hash": "548c66cd2d0e1ce3",
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+    "published_at": "2026-10-27T00:46:36+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "b67fd02a214f91e2",
+    "title_hash": "09d4eac94b55e206",
+    "title": "Anthropic officially files for its public debut",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "published_at": "2026-10-26T22:35:22+08:00",
+    "created_at": "2026-10-27 06:28:58"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "d3798ec9a0ad0aeb",
+    "title_hash": "a18e1f5cc9586dd2",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "published_at": "2026-10-25T04:15:33+08:00",
+    "created_at": "2026-10-27 06:28:58"
   }
 ]
