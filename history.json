@@ -1,245 +1,5 @@
 [
   {
-    "source": "Hacker News",
-    "url_hash": "2b2e6bd3436f4031",
-    "title_hash": "2b2c1eb10887d6a2",
-    "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-    "url": "https://github.com/slee-persis/GVS5H",
-    "summary": "Article URL: https://github.com/slee-persis/GVS5H Comments URL: https://news.ycombinator.com/item?id=50228167 Points: 105 # Comments: 32",
-    "published_at": "2026-10-25T11:56:01+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "70a0305589593956",
-    "title_hash": "8ae8af5699f1affe",
-    "title": "Xbox Turns Down Netflix $500M Offer",
-    "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
-    "summary": "Article URL: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/ Comments URL: https://news.ycombinator.com/item?id=50227892 Points: 74 # Comments: 95",
-    "published_at": "2026-10-25T11:05:53+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a55c31e9e335817e",
-    "title_hash": "cd87ff5a5a5814b7",
-    "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-    "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-    "summary": "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report Comments URL: https://news.ycombinator.com/item?id=50227639 Points: 112 # Comments: 37",
-    "published_at": "2026-10-25T10:18:35+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e1545bcc45f4c70b",
-    "title_hash": "a78bc6dc0074e25f",
-    "title": "Cerebras Deploys Trillion-Parameter AI Models",
-    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 79 # Comments: 25",
-    "published_at": "2026-10-25T09:33:49+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ac965a872d542484",
-    "title_hash": "d91e8a34bba2eb78",
-    "title": "Why Gopher in 2026?",
-    "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-    "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 51 # Comments: 15",
-    "published_at": "2026-10-25T07:33:19+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1f6056f34e61a5ea",
-    "title_hash": "19049a486ca2630e",
-    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 283 # Comments: 286",
-    "published_at": "2026-10-25T07:11:54+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "42532ee811b2ffa8",
-    "title_hash": "1031515c919177ef",
-    "title": "We should be more ambitious with the software we build",
-    "url": "https://danluu.com/ambitious/",
-    "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 303 # Comments: 259",
-    "published_at": "2026-10-25T05:47:31+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8763261ffc09bb09",
-    "title_hash": "2c5e9d4fb78dc201",
-    "title": "Small Programs and Languages",
-    "url": "https://ratfactor.com/cards/pl-small",
-    "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 75 # Comments: 5",
-    "published_at": "2026-10-25T05:44:23+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b9668613fcaa6190",
-    "title_hash": "61b757686c07f82c",
-    "title": "The Importance of Limitations for Creativity and Learning (2023)",
-    "url": "https://ratfactor.com/cards/limitations",
-    "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 50 # Comments: 13",
-    "published_at": "2026-10-25T05:42:47+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1f21a11f54e05b7b",
-    "title_hash": "befa169e2cc4c7fc",
-    "title": "Show HN: Steal My Bitcoin",
-    "url": "https://stealmybitcoin.com/",
-    "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 449 # Comments: 272",
-    "published_at": "2026-10-25T04:30:31+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c7a37d520ea53c82",
-    "title_hash": "af2fe14bf66c79c7",
-    "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-    "url": "https://missileer.watch",
-    "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 153 # Comments: 105",
-    "published_at": "2026-10-25T03:43:27+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c9d44435005d898d",
-    "title_hash": "95c23ae1cf5fea6b",
-    "title": "SpeedCrunch 1.1",
-    "url": "https://www.speedcrunch.org/",
-    "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 116 # Comments: 16",
-    "published_at": "2026-10-25T03:19:43+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c6f7fce2eddef14c",
-    "title_hash": "679fd33209030649",
-    "title": "The Goose Programming Language",
-    "url": "https://aardappel.github.io/goose/",
-    "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 321 # Comments: 218",
-    "published_at": "2026-10-25T03:06:55+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c3ea527220c8a2c3",
-    "title_hash": "4ccad996fd51ec6f",
-    "title": "Bbtree: Fastest Ordered Map",
-    "url": "https://bbtree.xiangpeng.systems/post/",
-    "summary": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 87 # Comments: 11",
-    "published_at": "2026-10-25T02:22:14+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0c19e05bbb06ed26",
-    "title_hash": "7858243724abc3ff",
-    "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-    "url": "https://de.numista.com/9866",
-    "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 110 # Comments: 32",
-    "published_at": "2026-10-25T00:41:55+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c852cf262baca51d",
-    "title_hash": "cf5c1694b7006536",
-    "title": "Roku developer repositories moved from GitHub to GitLab",
-    "url": "https://blog.roku.com/developer/gitlab-move",
-    "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 277 # Comments: 191",
-    "published_at": "2026-10-25T00:06:26+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "fca13fff3851522a",
-    "title_hash": "565dc90a75ba95c0",
-    "title": "Neural chip decodes interactions between brain regions",
-    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-    "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 100 # Comments: 36",
-    "published_at": "2026-10-24T23:57:17+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0358f37e52765a0f",
-    "title_hash": "dcb08b9b6008973d",
-    "title": "FreeDNS",
-    "url": "https://freedns.afraid.org/",
-    "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 272 # Comments: 69",
-    "published_at": "2026-10-24T23:20:01+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b6ee2b32304d0c0d",
-    "title_hash": "cd597dc97ac3967c",
-    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "url": "https://github.com/Zagitta/gpu-unlock",
-    "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 215 # Comments: 68",
-    "published_at": "2026-10-24T17:58:27+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c755b08d9cb3b23c",
-    "title_hash": "6fce902bca35bf04",
-    "title": "I don't understand quantum physics (2018)",
-    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-    "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 295 # Comments: 237",
-    "published_at": "2026-10-24T17:53:26+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "43fa73ddaf377eb5",
-    "title_hash": "5c6d6c24e288f7bc",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "published_at": "2026-10-25T03:00:00+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "61ceba6cfe498159",
-    "title_hash": "c47fc751f7c52f57",
-    "title": "Block’s new voice model sounds eerily human",
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "published_at": "2026-10-25T00:00:00+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "e7a80d87e8606cee",
-    "title_hash": "cedd51895b3eac3e",
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "published_at": "2026-10-24T23:00:00+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "ba1e969f5ed16b52",
-    "title_hash": "729740a80cf64e86",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "published_at": "2026-10-24T22:00:00+08:00",
-    "created_at": "2026-10-25 06:22:26"
-  },
-  {
     "source": "量子位",
     "url_hash": "862fff0ecb16672c",
     "title_hash": "2437819c647880bc",
@@ -3138,5 +2898,325 @@
     "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
     "published_at": "2026-10-30T21:00:00+08:00",
     "created_at": "2026-10-31 07:09:41"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "4e656cb4829e38b9",
+    "title_hash": "aa22c862350987b1",
+    "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+    "url": "https://www.qbitai.com/2026/10/506884.html",
+    "summary": "苹果“牛奶倒河里”式操作翻红",
+    "published_at": "2026-10-31T13:17:50+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "4360b42bce7a074b",
+    "title_hash": "bd39606de762ea7a",
+    "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+    "url": "https://www.qbitai.com/2026/10/506866.html",
+    "summary": "AI算力利用“九九成”",
+    "published_at": "2026-10-31T13:11:19+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "5c23692d5af12610",
+    "title_hash": "8a46e6cdfaef9f11",
+    "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+    "url": "https://www.qbitai.com/2026/10/506855.html",
+    "summary": "200美元Ultra用户先用",
+    "published_at": "2026-10-31T13:05:29+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d7a89d9676f987bb",
+    "title_hash": "1f8c21928ff0ca95",
+    "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+    "url": "https://www.qbitai.com/2026/10/506819.html",
+    "summary": "xs，还要给机器人打绩效",
+    "published_at": "2026-10-30T20:58:31+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "675e9e053c693878",
+    "title_hash": "7c36d3bd5d0fc531",
+    "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+    "url": "https://www.qbitai.com/2026/10/506785.html",
+    "summary": "之前还连登昇腾三榜第一",
+    "published_at": "2026-10-30T19:05:06+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "8f3e7f31ec06494f",
+    "title_hash": "47f50c273621d54d",
+    "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+    "url": "https://www.qbitai.com/2026/10/506779.html",
+    "summary": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
+    "published_at": "2026-10-30T18:44:01+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "666a1f719c44600b",
+    "title_hash": "4d67bc28e4296bf2",
+    "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+    "url": "https://www.qbitai.com/2026/10/506771.html",
+    "summary": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+    "published_at": "2026-10-30T16:50:44+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d2b4a29464db2093",
+    "title_hash": "e3944ae8ef7a96a7",
+    "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
+    "url": "https://www.qbitai.com/2026/10/506747.html",
+    "summary": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
+    "published_at": "2026-10-30T16:12:11+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7e9f318174ec7dbc",
+    "title_hash": "e63e5ace1cf8a2cb",
+    "title": "The AI cost of JavaScript frameworks",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 4 # Comments: 0",
+    "published_at": "2026-11-01T14:06:19+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0e356c09eb849e6e",
+    "title_hash": "e147cc59fc4ccbc4",
+    "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+    "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+    "summary": "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/ Comments URL: https://news.ycombinator.com/item?id=50322173 Points: 87 # Comments: 34",
+    "published_at": "2026-11-01T10:19:53+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "42ab719e22cdf00d",
+    "title_hash": "7da1b2a24a782ef1",
+    "title": "OTape",
+    "url": "https://www.otape.org/",
+    "summary": "Article URL: https://www.otape.org/ Comments URL: https://news.ycombinator.com/item?id=50322169 Points: 19 # Comments: 7",
+    "published_at": "2026-11-01T10:18:46+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "39ee96f3b35f3b96",
+    "title_hash": "0efa422b549a87e3",
+    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "url": "https://arxiv.org/abs/2409.02292",
+    "summary": "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 65 # Comments: 29",
+    "published_at": "2026-11-01T09:46:29+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "6d1f79546fa5a2ec",
+    "title_hash": "4d714d0476ff1fbf",
+    "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+    "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+    "summary": "Hi HN, I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor. Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude & co build it or help you troubleshoot. The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual displays for debugging, then you can actually build it following the step-by-step instructions. A side-goal is to create a community, there are quite a lot of simulators out there but mostly offline / too abstract to realistically use it for a real build. I also never found one that had a decent UI/UX and worked well on mobile or with a trackpad. Happy to answer anything, and tell me what breaks. p.s. Maker plan is $7/month; code HACKERNEWS makes the first month free and then $5/month for as long as you keep it. Comments URL: https://news.ycombinator.com/item?id=50321522 Points: 23 # Comments: 7",
+    "published_at": "2026-11-01T08:10:30+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "03ef0338d3a520b6",
+    "title_hash": "843ab9eac3e8dd1a",
+    "title": "Altoids Project",
+    "url": "https://uvdn7.github.io/altoids-project/",
+    "summary": "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321048 Points: 95 # Comments: 4",
+    "published_at": "2026-11-01T06:54:55+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "6725a773cbcfd0fd",
+    "title_hash": "a1d913e252b42d71",
+    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+    "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 191 # Comments: 95",
+    "published_at": "2026-11-01T06:46:12+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "4c6605822260484c",
+    "title_hash": "9159ace1f8b7f694",
+    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 341 # Comments: 96",
+    "published_at": "2026-11-01T06:41:06+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "4ea2bbfbe1de5d96",
+    "title_hash": "6d796dc35f541b85",
+    "title": "ChatGPT and Codex usage limits merging",
+    "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "summary": "Article URL: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits Comments URL: https://news.ycombinator.com/item?id=50320588 Points: 82 # Comments: 29",
+    "published_at": "2026-11-01T05:49:07+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "cd2df5da4ad72e95",
+    "title_hash": "5b432bb8ccf90628",
+    "title": "Surviving \"The Graduate\"",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+    "summary": "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 111 # Comments: 31",
+    "published_at": "2026-11-01T04:02:06+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2f8f2a14b01c9a21",
+    "title_hash": "76e48e9f4efa6e4d",
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 1124 # Comments: 331",
+    "published_at": "2026-11-01T03:56:53+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "3c488a5d9e8fc9b7",
+    "title_hash": "6f9718db5d3d4cb8",
+    "title": "Anthropic blocks users for anything touching training larger models",
+    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+    "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 316 # Comments: 180",
+    "published_at": "2026-11-01T03:39:19+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f00b165a7cee2cfd",
+    "title_hash": "0ad361aefd81aeb7",
+    "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+    "url": "https://epoyraz.github.io/nes-contra-us/",
+    "summary": "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us . Thanks for the great work. I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator. Then the C code to WebAssembly so it runs in the browser. The cherry on top: online multiplayer, so two players can play co-op over the internet. Source: https://github.com/epoyraz/nes-contra-us Comments URL: https://news.ycombinator.com/item?id=50319169 Points: 82 # Comments: 49",
+    "published_at": "2026-11-01T03:18:48+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5545fe355a55d4d0",
+    "title_hash": "7ff67915e50334e8",
+    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 472 # Comments: 215",
+    "published_at": "2026-11-01T03:16:30+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1245dd8d0d204a59",
+    "title_hash": "2adc8c92df58b68c",
+    "title": "Electrification Could Cut Global Energy Use in Half",
+    "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+    "summary": "Article URL: https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/ Comments URL: https://news.ycombinator.com/item?id=50319110 Points: 85 # Comments: 27",
+    "published_at": "2026-11-01T03:13:34+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "c1092cc2051b352e",
+    "title_hash": "b63fc4df44869c9d",
+    "title": "The Duty of a Scholar",
+    "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+    "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 110 # Comments: 32",
+    "published_at": "2026-11-01T03:07:36+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2d723420b66b1e2c",
+    "title_hash": "bbed386c48f72417",
+    "title": "It's the memory latency, stupid",
+    "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+    "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 181 # Comments: 53",
+    "published_at": "2026-11-01T02:38:16+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "26ad248a14cd0c08",
+    "title_hash": "bc46211b8a871bc9",
+    "title": "Jepsen: ParticleDB 1.1.4",
+    "url": "https://jepsen.io/analyses/particledb-1.1.4",
+    "summary": "https://github.com/jepsen-io/particledb Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 247 # Comments: 137",
+    "published_at": "2026-10-31T21:39:52+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "778916995661ca3b",
+    "title_hash": "920cbbfd4c87b743",
+    "title": "Show HN: A language model that lives in a boot sector",
+    "url": "https://github.com/kerlenton/bootgpt",
+    "summary": "All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a program and generating boot logs for non-existent hardware was something fun to try. Entire inference engine is 510 bytes of MBR, weights, vocab, and strings reside in the sectors following MBR. Small char-level neural network was trained on dmesg generated by machine, so machine produces Linux boot messages infinitely. train.py performs precisely the same integer arithmetic operations as the asm code does and thus produces an output identical character-by-character to the one produced by QEMU. The difference analysis revealed my favorite bug. The characters at the beginning matched those generated by the simulator, but then the output diverged. I retrieved the hidden layer via QEMU’s debug port and compared the neurons' values with those of the simulator, one neuron at a time. Only the value of the first neuron was correct. The activation involves idiv, and idiv stores its remainder in edx. The pointer to the biases table was stored in edx, which resulted in the first neuron being biased correctly and the following ones using garbage. Now the bias' address is determined from the loop counter, and no pointers have to survive the division. Another bug I found simply by looking at the code before I did my first run-through: the BIOS print routine zeros out bx, but bx contains the predicted character number. This explains the push and pop of bx surrounding the print. sectorllm is the most similar to my project, as it runs an actual 5-layer llama2 with attention mechanism in just 1.2K of assembly code. It is the trade-off in the opposite direction, as my engine needs to fit into one sector and therefore my network has just one hidden layer of int8 operations for dreaming the dmesg. Comments URL: https://news.ycombinator.com/item?id=50315782 Points: 79 # Comments: 3",
+    "published_at": "2026-10-31T20:58:29+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1c640f88e053cb51",
+    "title_hash": "8feefbfab3c7b3da",
+    "title": "Do the math: How we took over ChatGPT accounts",
+    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 322 # Comments: 158",
+    "published_at": "2026-10-31T18:30:11+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "d9269f49d95d2fae",
+    "title_hash": "06518c0758e5b422",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "published_at": "2026-11-01T05:41:00+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "2065ffa365f3e4d6",
+    "title_hash": "c68aea4a082de65c",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+    "published_at": "2026-11-01T05:36:07+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "204d5faf405d3242",
+    "title_hash": "7547f339dafaeeb7",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "published_at": "2026-11-01T05:17:03+08:00",
+    "created_at": "2026-11-01 07:42:48"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "6ec02213d45abe3d",
+    "title_hash": "1a0ae81c56425645",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+    "published_at": "2026-11-01T00:12:55+08:00",
+    "created_at": "2026-11-01 07:42:48"
   }
 ]
