@@ -1,305 +1,5 @@
 [
   {
-    "source": "FT中文网",
-    "url_hash": "02b1fa1668b34ec3",
-    "title_hash": "b6e43ae5e12f91e1",
-    "title": "搞笑诺贝尔奖告诉我们：作弊经济学值得研究",
-    "url": "https://www.ftchinese.com/story/001111304",
-    "summary": "蒂姆•哈福德：想了解当下经济学家最关心什么问题，看看搞笑诺贝尔奖总是没错的。",
-    "published_at": "2026-11-06T00:00:00+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7faad46bd3711d33",
-    "title_hash": "46ae4782ea381d3f",
-    "title": "Asahi Linux Progress Linux 7.3",
-    "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-    "summary": "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 68 # Comments: 30",
-    "published_at": "2026-11-07T13:20:18+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f2625563056c14fc",
-    "title_hash": "793c6b7d0bd13229",
-    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-    "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-    "summary": "Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 43 # Comments: 11",
-    "published_at": "2026-11-07T12:54:36+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "676b02578110c2ea",
-    "title_hash": "7f994b797e168e87",
-    "title": "Lighting the Skies",
-    "url": "https://computer.rip/2026-10-25-searchlights.html",
-    "summary": "Article URL: https://computer.rip/2026-10-25-searchlights.html Comments URL: https://news.ycombinator.com/item?id=50401414 Points: 14 # Comments: 2",
-    "published_at": "2026-11-07T11:40:34+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2406013c9e8dbfc8",
-    "title_hash": "7071a994a7cf84f7",
-    "title": "I toured Unitree's factory. I'm more bullish on the West",
-    "url": "https://josef.cn/blog/unitree",
-    "summary": "Article URL: https://josef.cn/blog/unitree Comments URL: https://news.ycombinator.com/item?id=50400597 Points: 99 # Comments: 62",
-    "published_at": "2026-11-07T09:05:16+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a4cc717b18a3ffe9",
-    "title_hash": "2f185cc2c6c8f2f5",
-    "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-    "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-    "summary": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 99 # Comments: 45",
-    "published_at": "2026-11-07T07:37:19+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "3283891a5ef32136",
-    "title_hash": "831f1fc96227ae9a",
-    "title": "Libghostty 1.0",
-    "url": "https://mitchellh.com/writing/libghostty-1-0",
-    "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 494 # Comments: 79",
-    "published_at": "2026-11-07T07:30:52+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "02f84f5072c67a9c",
-    "title_hash": "dcf9a55212d79622",
-    "title": "Sodium-ion batteries approach cost parity with LFP",
-    "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-    "summary": "Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 171 # Comments: 80",
-    "published_at": "2026-11-07T07:00:46+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e0c8b4541e0b5e8b",
-    "title_hash": "d66f53bef9517e09",
-    "title": "AI is dramatically accelerating AI research",
-    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-    "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 275 # Comments: 211",
-    "published_at": "2026-11-07T04:27:23+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "96d96bc83625d43e",
-    "title_hash": "bd5971f2343ac327",
-    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-    "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 64 # Comments: 13",
-    "published_at": "2026-11-07T04:09:14+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "60724c835de1389a",
-    "title_hash": "c9f39061cdf3a489",
-    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-    "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 429 # Comments: 96",
-    "published_at": "2026-11-07T03:48:51+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "19e5a3d3b856bd20",
-    "title_hash": "00bd2c8b88b0e47d",
-    "title": "Firecracker VM Escape: PwnEscape Part 2",
-    "url": "https://pwn.ai/blog/firecracker-escape",
-    "summary": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 213 # Comments: 105",
-    "published_at": "2026-11-07T03:33:38+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "51dc1d2f6b3bd6df",
-    "title_hash": "4ad6af13a88bc0ba",
-    "title": "GitHub's new Git storage architecture",
-    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-    "summary": "Article URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ Comments URL: https://news.ycombinator.com/item?id=50397099 Points: 118 # Comments: 20",
-    "published_at": "2026-11-07T03:24:21+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c1c67cc6800fc35a",
-    "title_hash": "24988a7a3345a61f",
-    "title": "Restaurant Delivery Payment-Skimming Campaign",
-    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-    "summary": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 115 # Comments: 60",
-    "published_at": "2026-11-07T03:19:27+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "eaee8112f6cf1421",
-    "title_hash": "36e12be9e290f638",
-    "title": "Devvm.dev: One VM for every project",
-    "url": "https://devvm.dev/",
-    "summary": "Article URL: https://devvm.dev/ Comments URL: https://news.ycombinator.com/item?id=50395450 Points: 146 # Comments: 59",
-    "published_at": "2026-11-07T01:30:22+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "751717b51f335656",
-    "title_hash": "89bb193ec90214ab",
-    "title": "Notes on San Marino",
-    "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-    "summary": "Article URL: https://mattlakeman.org/2026/11/05/notes-on-san-marino/ Comments URL: https://news.ycombinator.com/item?id=50395183 Points: 50 # Comments: 14",
-    "published_at": "2026-11-07T01:12:05+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1c0e2b2010398178",
-    "title_hash": "e1a975bd1a6d8166",
-    "title": "First steps in bare-metal programming using UEFI",
-    "url": "https://kevinboone.me/efitest_index.html",
-    "summary": "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 214 # Comments: 40",
-    "published_at": "2026-11-07T00:50:29+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "27b87d65d3f99406",
-    "title_hash": "42a039e3c364e2f1",
-    "title": "Gemini Omni 1.2 Flash",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 318 # Comments: 227",
-    "published_at": "2026-11-06T21:35:27+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "3d951e64c858db64",
-    "title_hash": "0f759bd9db6f7528",
-    "title": "Tesla to wind down Cybertruck production",
-    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-    "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817 Comments URL: https://news.ycombinator.com/item?id=50391456 Points: 965 # Comments: 1820",
-    "published_at": "2026-11-06T20:13:51+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "f02d763a4f6d9e5b",
-    "title_hash": "d8e8532fcb5644fa",
-    "title": "Chomsky and the two cultures of statistical learning (2011)",
-    "url": "https://www.norvig.com/chomsky.html",
-    "summary": "Article URL: https://www.norvig.com/chomsky.html Comments URL: https://news.ycombinator.com/item?id=50389570 Points: 120 # Comments: 98",
-    "published_at": "2026-11-06T16:18:36+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "ec2480d446f6212c",
-    "title_hash": "9302fd60ae86d98b",
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "summary": "The deal highlights the challenges of developing massive AI data centers.",
-    "published_at": "2026-11-07T09:40:28+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "b19a52adc8186729",
-    "title_hash": "d1087d68b9433a67",
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-    "published_at": "2026-11-07T06:53:46+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "c262b9961ff71dc3",
-    "title_hash": "b96f9eab5423c0d9",
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-    "published_at": "2026-11-07T02:44:38+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "2d23850120e57d6c",
-    "title_hash": "261b139eb6d260ea",
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "published_at": "2026-11-07T02:44:20+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "98f2cdcbd9596f7b",
-    "title_hash": "20c3d19251187144",
-    "title": "How a Blue Wave midterm might reshape the AI industry",
-    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
-    "published_at": "2026-11-07T02:00:00+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "b7e06d2c4d9dada9",
-    "title_hash": "259c442404640e6d",
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
-    "published_at": "2026-11-07T01:23:52+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "291e476bb8671d5a",
-    "title_hash": "55b6db255a57f420",
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "published_at": "2026-11-06T23:54:47+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "d40f9466337f4802",
-    "title_hash": "bf5a46a7c233fb3d",
-    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-    "published_at": "2026-11-06T22:10:00+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "76d77f901fa07104",
-    "title_hash": "0c5f23597bfe7f8d",
-    "title": "Underdog shows off a 32MB speech model in new demo",
-    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-    "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-    "published_at": "2026-11-06T21:02:16+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "a3dde5726f36f95f",
-    "title_hash": "e3e364441517d8f1",
-    "title": "Physicl raises $10M to make the digital world real enough for robots",
-    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-    "published_at": "2026-11-06T21:00:00+08:00",
-    "created_at": "2026-11-07 07:27:01"
-  },
-  {
     "source": "量子位",
     "url_hash": "813d8fe200c00abc",
     "title_hash": "62e6de72b5d81609",
@@ -3198,5 +2898,395 @@
     "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
     "published_at": "2026-11-12T21:26:25+08:00",
     "created_at": "2026-11-13 08:15:43"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "8058d23f3864fcfe",
+    "title_hash": "00c20e3c17176924",
+    "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+    "url": "https://www.qbitai.com/2026/11/509827.html",
+    "summary": "12.9 北京，来MEET2027现场",
+    "published_at": "2026-11-13T15:51:08+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "a2a8cf2deb3e958b",
+    "title_hash": "ee419fa8bb76ffb0",
+    "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+    "url": "https://www.qbitai.com/2026/11/509796.html",
+    "summary": "250名国内顶尖三甲医院医生联合评测",
+    "published_at": "2026-11-13T15:43:03+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "c8e3cb8a521eec16",
+    "title_hash": "65282bb60576ea5d",
+    "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+    "url": "https://www.qbitai.com/2026/11/509730.html",
+    "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
+    "published_at": "2026-11-13T15:17:54+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "91a34e9ee780ee82",
+    "title_hash": "30fbf561c4ba5deb",
+    "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+    "url": "https://www.qbitai.com/2026/11/509716.html",
+    "summary": "比亚迪正在把规模优势转化为技术与品牌价值",
+    "published_at": "2026-11-13T15:12:42+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "35c72e99d63e7a87",
+    "title_hash": "c9312901af1df5ba",
+    "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+    "url": "https://www.qbitai.com/2026/11/509710.html",
+    "summary": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
+    "published_at": "2026-11-13T15:09:05+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "fde788c71c9ebf3b",
+    "title_hash": "a7b0feb576c2898e",
+    "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+    "url": "https://www.qbitai.com/2026/11/509663.html",
+    "summary": "数据不出域、本地可部署",
+    "published_at": "2026-11-13T15:06:32+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "f1990f275b63c360",
+    "title_hash": "5cf7a3ee311f0be8",
+    "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+    "url": "https://www.qbitai.com/2026/11/509653.html",
+    "summary": "想要什么功能，让Agent自己开发",
+    "published_at": "2026-11-13T14:54:44+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "97982f9dc3062d2d",
+    "title_hash": "f76414691f106130",
+    "title": "特斯拉和SpaceX最快下月合并",
+    "url": "https://www.qbitai.com/2026/11/509613.html",
+    "summary": "马斯克帝国终极形态。",
+    "published_at": "2026-11-13T14:43:06+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "d55cf32200773ccd",
+    "title_hash": "6ace628da979884f",
+    "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+    "url": "https://www.qbitai.com/2026/11/509614.html",
+    "summary": "信息少传80%，准确率反而提高",
+    "published_at": "2026-11-13T14:29:23+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "8ed6f2e86659c9a9",
+    "title_hash": "b04930fcf7475b20",
+    "title": "英伟达风波引发芯片出口限制担忧，中国AI企业股价大跌",
+    "url": "https://www.ftchinese.com/story/001111367",
+    "summary": "现已辞职的英伟达CEO黄仁勋此前一直支持美国继续对华销售芯片。",
+    "published_at": "2026-11-13T00:00:00+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "a9806b8d269f8b5a",
+    "title_hash": "7d4ebba3a9845ce0",
+    "title": "“黄仁勋危机”将扰乱人工智能行业",
+    "url": "https://www.ftchinese.com/story/001111366",
+    "summary": "这位英伟达掌门人的离职，可能会加深华盛顿与北京方面之间的技术裂痕。",
+    "published_at": "2026-11-13T00:00:00+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "173cfd4099fd1605",
+    "title_hash": "4355f8199e1e8daa",
+    "title": "美议员就芯片出口管控问题向卢特尼克施压",
+    "url": "https://www.ftchinese.com/story/001111365",
+    "summary": "国会议员要求特朗普的商务部长解释其为何允许向一家与所谓“中国间谍”有关联的公司销售芯片。",
+    "published_at": "2026-11-13T00:00:00+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "977955ebc50ed7b5",
+    "title_hash": "37bc88bb9758aa86",
+    "title": "Monkey Island: all 13 versions side by side",
+    "url": "https://monkeyisland.pages.dev/",
+    "summary": "Article URL: https://monkeyisland.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50493904 Points: 8 # Comments: 1",
+    "published_at": "2026-11-14T12:23:30+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8f4b2632f43363d7",
+    "title_hash": "c71790e500868f32",
+    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 397 # Comments: 201",
+    "published_at": "2026-11-14T10:52:59+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "22f7de6935dc23ea",
+    "title_hash": "57ea998c5bfc1e26",
+    "title": "Ggml v1.0.0",
+    "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 186 # Comments: 30",
+    "published_at": "2026-11-14T10:28:29+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ca98419c1a440f90",
+    "title_hash": "99872e973e23217d",
+    "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+    "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 195 # Comments: 41",
+    "published_at": "2026-11-14T10:21:36+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "60d9f48d759a0a94",
+    "title_hash": "cf11a962159a264c",
+    "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+    "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+    "summary": "Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/ Comments URL: https://news.ycombinator.com/item?id=50492950 Points: 70 # Comments: 5",
+    "published_at": "2026-11-14T10:15:41+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "385bb7e91bb8a2ba",
+    "title_hash": "13b27d1fb8491c0a",
+    "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+    "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+    "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=50492860 Points: 117 # Comments: 21",
+    "published_at": "2026-11-14T10:02:42+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a63594222df79808",
+    "title_hash": "d755b126df35f5df",
+    "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+    "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+    "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 160 # Comments: 47",
+    "published_at": "2026-11-14T08:52:29+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e0da1b3ee4703869",
+    "title_hash": "fe20b0f50d5deb71",
+    "title": "Philip Roth and David Remnick getting personal (2001)",
+    "url": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
+    "summary": "Article URL: https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick Comments URL: https://news.ycombinator.com/item?id=50492098 Points: 14 # Comments: 0",
+    "published_at": "2026-11-14T08:21:26+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8b981141b7690490",
+    "title_hash": "4b6c38e8f8607480",
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "url": "https://unsloth.ai/docs/models/qwen3.8",
+    "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 103 # Comments: 19",
+    "published_at": "2026-11-14T08:06:04+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a926608655a30efb",
+    "title_hash": "3a1b2aebbf53c0a5",
+    "title": "What Happened to 3Com?",
+    "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+    "summary": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 117 # Comments: 63",
+    "published_at": "2026-11-14T07:48:59+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5c97ee21fcf0f96d",
+    "title_hash": "c528ee058c60ccf2",
+    "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+    "url": "https://grounds.top/",
+    "summary": "Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 120 # Comments: 15",
+    "published_at": "2026-11-14T07:17:39+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "7d971f83e5d67b77",
+    "title_hash": "24e02914b3953675",
+    "title": "Terminal borders that don't cost a cell",
+    "url": "https://www.joshka.net/cell-borders/",
+    "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 200 # Comments: 86",
+    "published_at": "2026-11-14T07:06:40+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "78ecf69f257c2b97",
+    "title_hash": "75b938a04da7a21e",
+    "title": "How Not to Build a Music Player",
+    "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+    "summary": "Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 82 # Comments: 35",
+    "published_at": "2026-11-14T07:04:30+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "282df205597a8a73",
+    "title_hash": "c221285d8f2f8eb2",
+    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+    "url": "https://orcasairband.com/",
+    "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 254 # Comments: 59",
+    "published_at": "2026-11-14T06:04:24+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "13ce7dccaab394f0",
+    "title_hash": "8add1e8201841d6d",
+    "title": "FAA issues national ground stop – lifted 4.5 hours later",
+    "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+    "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=50489641 Points: 1493 # Comments: 1144",
+    "published_at": "2026-11-14T05:05:53+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "33614ee6d2a82b45",
+    "title_hash": "a037a33c3ee49ab1",
+    "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+    "url": "https://atg.science/careers",
+    "summary": "Article URL: https://atg.science/careers Comments URL: https://news.ycombinator.com/item?id=50489589 Points: 0 # Comments: 0",
+    "published_at": "2026-11-14T05:01:11+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1ecb704fa1de4769",
+    "title_hash": "14271f6b88c189ba",
+    "title": "Live-migration support in FreeBSD and bhyve coming",
+    "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+    "summary": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 91 # Comments: 22",
+    "published_at": "2026-11-14T03:58:42+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9f740ea270954579",
+    "title_hash": "2643f9fa129eb41c",
+    "title": "Found: A protein that drives ageing without unleashing inflammation",
+    "url": "https://www.nature.com/articles/d41586-026-03638-3",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 177 # Comments: 27",
+    "published_at": "2026-11-14T03:25:21+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b6c6cdb45a036bcc",
+    "title_hash": "b30b2db6c2b1e7c6",
+    "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 121 # Comments: 21",
+    "published_at": "2026-11-14T03:24:47+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "9ea4feda6422eb82",
+    "title_hash": "1babce3e4342922d",
+    "title": "FM-1 Workbench",
+    "url": "https://open.m-vave.com/fm1-workbench",
+    "summary": "Article URL: https://open.m-vave.com/fm1-workbench Comments URL: https://news.ycombinator.com/item?id=50488325 Points: 220 # Comments: 148",
+    "published_at": "2026-11-14T03:14:02+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "a53b6d6797d1d8ce",
+    "title_hash": "b5e743f34bf55874",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "published_at": "2026-11-14T06:43:00+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "b96c8f1ce3eaba55",
+    "title_hash": "24cac205db3df330",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "published_at": "2026-11-14T03:37:57+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "6669a4d19d8d9722",
+    "title_hash": "e250f4b65004404b",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "published_at": "2026-11-14T02:40:30+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "cd336cbdb7962f39",
+    "title_hash": "d964719f207d5725",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "published_at": "2026-11-14T00:00:12+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "69a4be7aab7399d4",
+    "title_hash": "c4b824d21136a445",
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "published_at": "2026-11-13T22:44:48+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "cea0e000c38dfa2e",
+    "title_hash": "2bcc80247692347d",
+    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+    "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "published_at": "2026-11-13T20:52:19+08:00",
+    "created_at": "2026-11-14 07:42:53"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "4cfa741e559e9c75",
+    "title_hash": "e5e2ed7cbc244e70",
+    "title": "Jensen Huang didn’t show confidence in his successor, report says",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+    "published_at": "2026-11-13T20:28:23+08:00",
+    "created_at": "2026-11-14 07:42:53"
   }
 ]
