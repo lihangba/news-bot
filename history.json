@@ -1,476 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "537678315f440b4d",
-    "title_hash": "41f7d10cfeddf27c",
-    "title": "“AI毁了我的计算机学位”",
-    "url": "https://www.qbitai.com/2026/11/508706.html",
-    "summary": "教授也用Claude糊弄…",
-    "published_at": "2026-11-09T16:57:20+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "5d497975e4844ec4",
-    "title_hash": "c9aaa0bf33ec55ca",
-    "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-    "url": "https://www.qbitai.com/2026/11/507843.html",
-    "summary": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-    "published_at": "2026-11-09T16:44:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "1ea6002e9048371c",
-    "title_hash": "899217224eae438c",
-    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-    "url": "https://www.qbitai.com/2026/11/508694.html",
-    "summary": "11月9日，千问办公发布2.0版本",
-    "published_at": "2026-11-09T16:34:03+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "ed97d311b8bb5d56",
-    "title_hash": "e439261799493ddd",
-    "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
-    "url": "https://www.qbitai.com/2026/11/508690.html",
-    "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
-    "published_at": "2026-11-09T16:26:45+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "327936a22d67b094",
-    "title_hash": "3384d414fee3139b",
-    "title": "Lex专栏：全球为何过度依赖黄仁勋",
-    "url": "https://www.ftchinese.com/story/001111325",
-    "summary": "大企业存在“单点故障”绝非好事。现在正是时候思考：如何让世界少受黄仁勋个人命运及弱点的影响。",
-    "published_at": "2026-11-10T00:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "e3af1334a4cc9345",
-    "title_hash": "cdcba8e1c668931b",
-    "title": "德国总理就落实援乌资金向欧盟发出通牒",
-    "url": "https://www.ftchinese.com/story/001111323",
-    "summary": "默茨在欧盟领导人本周开会前警告：除非所有成员国承诺在2027年及以后继续向乌克兰提供财政支持，否则他将阻止欧盟通过下一份七年预算。",
-    "published_at": "2026-11-10T00:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "e9063aa86092fce5",
-    "title_hash": "fe421f2eb9a21c85",
-    "title": "AI巨头的垂直整合模式还能撑多久？",
-    "url": "https://www.ftchinese.com/story/001111324",
-    "summary": "垂直整合是AI竞赛迄今的标志性特征，“全栈”业务布局的Alphabet便是一例。但这类“垂直帝国”经得起政治和监管风暴的冲击吗？",
-    "published_at": "2026-11-10T00:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "bd3d0742bddd9b35",
-    "title_hash": "0ec53fb5a6b97ab0",
-    "title": "加拿大阿尔伯塔省省长在公投后面临党内反弹",
-    "url": "https://www.ftchinese.com/story/001111322",
-    "summary": "这个盛产石油的加拿大西部省份在公投中支持留在加拿大后，省长丹妮尔•史密斯被党内的分离主义势力指责为“背叛”。",
-    "published_at": "2026-11-10T00:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "28183e4c9f85886f",
-    "title_hash": "304d8983aade14da",
-    "title": "AI正在经历痛苦的再定价",
-    "url": "https://www.ftchinese.com/story/001111315",
-    "summary": "周浩：AI泡沫或许还没有真正破，但只要贴上“AI”标签就能不断获得估值溢价的时代已经结束。真正的考验，正在从讲故事阶段转向兑现盈利阶段。",
-    "published_at": "2026-11-10T00:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "5a450c9a7bd5ed40",
-    "title_hash": "d8b6a9229e4f4a96",
-    "title": "当资本市场比银行更相信AI",
-    "url": "https://www.ftchinese.com/story/001111308",
-    "summary": "金涛、牟芊煦：美国中期选举后的股市，遭遇了一波暴跌，而这次巨震的中心就是AI。一个核心的问题是：我们应该如何看待AI产业的股票价格？",
-    "published_at": "2026-11-10T00:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "032329268b014d39",
-    "title_hash": "d3d830c3c612ed36",
-    "title": "为什么AI来了之后，“会说话”变成人的必修课？",
-    "url": "https://www.ftchinese.com/story/001111316",
-    "summary": "勾尧：唯一可以确定的是，作为人类，我们更喜欢和人打交道。真人的好处恰恰在于会接话，会被打断，会因为一个意外的问题改变主意。",
-    "published_at": "2026-11-10T00:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "545f0b5434ff1673",
-    "title_hash": "a15d81830c99b63d",
-    "title": "德国年轻人走上街头：谁来为国家的未来买单？",
-    "url": "https://www.ftchinese.com/story/001111317",
-    "summary": "张冬方：德国年轻一代背负的不只是负债、兵役和养老，还有眼下更高的生活成本，未来职业生涯更大的不确定性。",
-    "published_at": "2026-11-10T00:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "002637a732b255d4",
-    "title_hash": "16d21b45b540213d",
-    "title": "美国政治变了，对华政策未必会变",
-    "url": "https://www.ftchinese.com/story/001111319",
-    "summary": "赵莹：中国企业不应只把注意力集中在华盛顿。中期选举后真正值得关注的机会和风险，也可能出现在州和地方层面。",
-    "published_at": "2026-11-10T00:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "910ccb3c4f6d6eb1",
-    "title_hash": "15fe188681de9e8d",
-    "title": "亿华通转攻氢能储能,赶得上转型末班车？",
-    "url": "https://www.ftchinese.com/story/001111318",
-    "summary": "咏竹坊：氢燃料电池系统制造商亿华通将调拨3亿元上市集资所得，用于偿还银行贷款及一般营运资金。",
-    "published_at": "2026-11-09T00:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a1a35ce22df64a52",
-    "title_hash": "cb14af0964840013",
-    "title": "M John Harrison becomes first science fiction author to win the Booker prize",
-    "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
-    "summary": "Article URL: https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize Comments URL: https://news.ycombinator.com/item?id=50437242 Points: 13 # Comments: 1",
-    "published_at": "2026-11-10T15:40:52+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2b4c2e07608c8f44",
-    "title_hash": "24feac0043d06c8c",
-    "title": "ClickHouse Acquires Xata",
-    "url": "https://xata.io/blog/xata-is-joining-clickhouse",
-    "summary": "Article URL: https://xata.io/blog/xata-is-joining-clickhouse Comments URL: https://news.ycombinator.com/item?id=50436706 Points: 9 # Comments: 1",
-    "published_at": "2026-11-10T14:14:51+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "d8522f99f19120ba",
-    "title_hash": "92733f5cb4908e62",
-    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-    "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-    "summary": "Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=50436640 Points: 168 # Comments: 49",
-    "published_at": "2026-11-10T14:01:08+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c75db4d83a5f26aa",
-    "title_hash": "d51aa016c3ea094e",
-    "title": "Your TV can see through walls",
-    "url": "https://maurycyz.com/projects/fading/",
-    "summary": "Article URL: https://maurycyz.com/projects/fading/ Comments URL: https://news.ycombinator.com/item?id=50436410 Points: 68 # Comments: 18",
-    "published_at": "2026-11-10T13:24:45+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1eed19afa11f8e8d",
-    "title_hash": "9125feef20cd4250",
-    "title": "Ultorg: The User Interface for Relational Databases",
-    "url": "https://www.ultorg.com/",
-    "summary": "Article URL: https://www.ultorg.com/ Comments URL: https://news.ycombinator.com/item?id=50435898 Points: 44 # Comments: 9",
-    "published_at": "2026-11-10T11:59:39+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e7d9d1552b0e6960",
-    "title_hash": "57c9c7eb63bf1fa2",
-    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-    "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 126 # Comments: 82",
-    "published_at": "2026-11-10T11:20:06+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5086a249bfd9d616",
-    "title_hash": "6a8404aa9ed34b54",
-    "title": "Formalizing CPython",
-    "url": "https://broyojo.com/python-formalization/",
-    "summary": "Article URL: https://broyojo.com/python-formalization/ Comments URL: https://news.ycombinator.com/item?id=50435105 Points: 52 # Comments: 20",
-    "published_at": "2026-11-10T09:56:48+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "ffd0277ad7cd64c2",
-    "title_hash": "5e1d5ea679b39f71",
-    "title": "Locating the source of a mysterious beep",
-    "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-    "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 147 # Comments: 69",
-    "published_at": "2026-11-10T08:10:46+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c8f8d1cd7c47bf28",
-    "title_hash": "7181c4c537618df0",
-    "title": "Horible public key tricks",
-    "url": "https://maurycyz.com/projects/badcert/",
-    "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 142 # Comments: 44",
-    "published_at": "2026-11-10T08:07:17+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "35a155e412ad027f",
-    "title_hash": "ec56dcba072fb049",
-    "title": "Fable 5.2 one-shotted my nephew's dream game",
-    "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-    "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 362 # Comments: 247",
-    "published_at": "2026-11-10T07:08:13+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "6a1b51b3e148c43c",
-    "title_hash": "39176a519b7b222b",
-    "title": "Exact – a new cross platform UI framework",
-    "url": "https://github.com/expo/exact",
-    "summary": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 114 # Comments: 75",
-    "published_at": "2026-11-10T06:59:13+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "e9950a58c8925934",
-    "title_hash": "3b88f185fa6602f7",
-    "title": "TPU 8tx and TPU 8i Max",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-    "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 246 # Comments: 75",
-    "published_at": "2026-11-10T05:56:57+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "3c86ca6a06f60e03",
-    "title_hash": "6930fff249393935",
-    "title": "USPS now offers official ZIP Code boundary polygons",
-    "url": "https://postalpro.usps.com/zcb",
-    "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 604 # Comments: 302",
-    "published_at": "2026-11-10T03:58:59+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8cf9334714204e6a",
-    "title_hash": "97b62e384e224d92",
-    "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-    "url": "https://parkgraph.com/parking-app-fees",
-    "summary": "Article URL: https://parkgraph.com/parking-app-fees Comments URL: https://news.ycombinator.com/item?id=50430991 Points: 76 # Comments: 61",
-    "published_at": "2026-11-10T03:55:53+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "fca505743bb9dd49",
-    "title_hash": "c90acbcfc65034f7",
-    "title": "E-means: Outperforming k-means in one-tenth the epochs",
-    "url": "https://e-means.github.io/",
-    "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 379 # Comments: 34",
-    "published_at": "2026-11-10T02:45:43+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "3ee14dd2a8f1293a",
-    "title_hash": "ef0e44fc643bbad6",
-    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-    "url": "https://meowdisplay.app/",
-    "summary": "Hey HN and Cats, thank you for checking this out! Github: https://github.com/raiseCatError/meowdisplay EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: https://github.com/peetzweg/opendisplay which provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credited OpenDisplay and its developer Philip in the README under \"Built on OpenDisplay\". MeowDisplay is my take on the control your Mac from your phone scene. Available on iPhones, iPads and Macs, with Android rn in closed testing. The website has interactive illustrative demos if you'd like to see the app demonstrated. I think MeowDisplay does a few things differently, some of which I prefer and you might too. Such as Window view: allowing multiple tabs in split-screen type panes. Traditional Mirror/Extend views exist as alternatives. Floating windows: coming in the 2.1 release. Touch input approaches: Direct Touch(Classic or Natural), experimental Smart Touch, and Trackpad mode alongside Apple Pencil support. Doesn't sacrifice display space for a trackpad, use all of the phone's screen with your preferred mode. Stage Peek: shows a scrollable and searchable list of your Mac's windows on your phone along with an app drawer when you hold and pull on the left edge of your screen. It's free and open source so you can try it and see if it's for you without having to commit to it or anything. EDIT: I've used MeowDisplay during development whilst I was travelling between cities, left my acbook at home clamshell, powered, external display attached, and used it for small tasks remotely, it was pretty reliable even on a 5G network on a moving bus. Meow, Jai Comments URL: https://news.ycombinator.com/item?id=50429636 Points: 97 # Comments: 36",
-    "published_at": "2026-11-10T02:39:22+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1068278eb7a02a06",
-    "title_hash": "68910e7b185412f2",
-    "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
-    "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-    "summary": "Article URL: https://www.infineon.com/press-release/2026/infpr202611-028 Comments URL: https://news.ycombinator.com/item?id=50429430 Points: 133 # Comments: 70",
-    "published_at": "2026-11-10T02:25:01+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a98326b09f6ff516",
-    "title_hash": "1606f073fb3ad2ec",
-    "title": "Google Gemini routes personal Drive files and emails to human annotators",
-    "url": "https://github.com/thisisme6598/gemini_files/",
-    "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 568 # Comments: 126",
-    "published_at": "2026-11-10T02:24:38+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a989f1582084d0cf",
-    "title_hash": "bd732aeb161ea656",
-    "title": "Claude Fable 5.2 and Mythos 5.2",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-    "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 513 # Comments: 758",
-    "published_at": "2026-11-10T02:01:10+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "86708699833d3a97",
-    "title_hash": "2909285bff7efbdd",
-    "title": "Muse Ember: Our smallest, most efficient model",
-    "url": "https://research.meta.ai/blog/muse-ember",
-    "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 293 # Comments: 118",
-    "published_at": "2026-11-10T01:58:46+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "775ac0a390011ca0",
-    "title_hash": "08a3d310bf35f819",
-    "title": "Otter AI can now follow conversations across 30+ languages",
-    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-    "published_at": "2026-11-10T15:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "8a35af252b32001f",
-    "title_hash": "1293ea3054be76a0",
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-    "published_at": "2026-11-10T09:27:12+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "cbe54f11b05c0e59",
-    "title_hash": "dc654d34f8f83291",
-    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-    "published_at": "2026-11-10T07:28:37+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "ee9aab4d1d8b4a89",
-    "title_hash": "b827ad3ba1c7ccc6",
-    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-    "published_at": "2026-11-10T06:46:09+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "38b3fce4c5431b80",
-    "title_hash": "5346bab3a1587b7b",
-    "title": "The race is on to sue Nvidia",
-    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-    "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-    "published_at": "2026-11-10T06:23:42+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "fc6d536179e6162c",
-    "title_hash": "89210191bafbcf2d",
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-    "published_at": "2026-11-10T04:09:06+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "58580c03fbdd2552",
-    "title_hash": "1f0b2a3c698a5988",
-    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-    "published_at": "2026-11-10T03:24:51+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "e5d7409756abf44b",
-    "title_hash": "6a1f0c91e5e6b5d5",
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-    "published_at": "2026-11-10T02:09:52+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "730323ba6c06bee9",
-    "title_hash": "3c57ef70c4d66fe0",
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-    "published_at": "2026-11-10T02:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "2f05eab281f5e9f6",
-    "title_hash": "cef065e36b935eeb",
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-    "published_at": "2026-11-10T00:56:54+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "4d2c1dac08712af8",
-    "title_hash": "361e9039281e9d08",
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-    "published_at": "2026-11-10T00:12:28+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "fdb2f84630d3508e",
-    "title_hash": "971f24e22944d035",
-    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-    "published_at": "2026-11-09T22:00:00+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "e0820bf841f4174f",
-    "title_hash": "a1185835452a53be",
-    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-    "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-    "published_at": "2026-11-07T12:16:43+08:00",
-    "created_at": "2026-11-10 08:31:50"
-  },
-  {
-    "source": "量子位",
     "url_hash": "c156c0581473e1a7",
     "title_hash": "444494858cd18e71",
     "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
@@ -3198,5 +2728,535 @@
     "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
     "published_at": "2026-11-16T04:20:57+08:00",
     "created_at": "2026-11-16 08:08:00"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "0deff323b14a8bbe",
+    "title_hash": "64d8c8c63a50468f",
+    "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+    "url": "https://www.qbitai.com/2026/11/510542.html",
+    "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+    "published_at": "2026-11-16T18:57:31+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "7c1c671411b1f51a",
+    "title_hash": "294b76fe64a6f25f",
+    "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+    "url": "https://www.qbitai.com/2026/11/510526.html",
+    "summary": "12月1日，细数AI的未竟之问。",
+    "published_at": "2026-11-16T16:45:17+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "83076d7f6146c71b",
+    "title_hash": "50343dc424274df4",
+    "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+    "url": "https://www.qbitai.com/2026/11/510496.html",
+    "summary": "在华为待了快10000天。",
+    "published_at": "2026-11-16T16:02:07+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "a679a76aef75d81b",
+    "title_hash": "7274df6877108923",
+    "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+    "url": "https://www.qbitai.com/2026/11/510493.html",
+    "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+    "published_at": "2026-11-16T15:58:57+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "585d7f2ef613f9a5",
+    "title_hash": "1f0d6380317070e2",
+    "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+    "url": "https://www.qbitai.com/2026/11/510436.html",
+    "summary": "余承东重新明确分工",
+    "published_at": "2026-11-16T15:26:33+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "dea80996a96ab725",
+    "title_hash": "07dc6b593f4db9da",
+    "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+    "url": "https://www.qbitai.com/2026/11/510416.html",
+    "summary": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
+    "published_at": "2026-11-16T13:05:22+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "6c7e53702de3a841",
+    "title_hash": "f784d2c11a854009",
+    "title": "今天截止！2026年度AI表彰，错过再等一年！",
+    "url": "https://www.qbitai.com/2026/11/510382.html",
+    "summary": "量子位在寻找“能干”的答案",
+    "published_at": "2026-11-16T11:19:53+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "0786a3bea140cb34",
+    "title_hash": "cd815d96b9318254",
+    "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+    "url": "https://www.qbitai.com/2026/11/510369.html",
+    "summary": "是石科技最新发布多模态模型服务",
+    "published_at": "2026-11-16T11:07:39+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "84afacc7a02ddc14",
+    "title_hash": "7259e78bad9e213e",
+    "title": "英伟达董事会不考虑恢复黄仁勋的CEO职位",
+    "url": "https://www.ftchinese.com/story/001111390",
+    "summary": "特朗普表示对黄仁勋复出持开放态度。董事会表示，在遴选新任首席执行官时，将同时考虑内部和外部候选人。",
+    "published_at": "2026-11-17T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "68bc2a845ba2b3d2",
+    "title_hash": "3a1cfb1422de43c9",
+    "title": "克里姆林宫希望中美俄会晤后发表“联合声明”",
+    "url": "https://www.ftchinese.com/story/001111389",
+    "summary": "特朗普、习近平和普京将在周四举行史无前例的三方会晤，这已引起国际社会的密切关注。",
+    "published_at": "2026-11-17T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "f1c91c24ff4e3e6e",
+    "title_hash": "ed9066a3c9b82e01",
+    "title": "科技投资者：“成功和名望”损害硅谷企业领导水平",
+    "url": "https://www.ftchinese.com/story/001111388",
+    "summary": "英国知名基金经理安德森严厉批评硅谷盛行的“强势创始人-领导者”模式。他警告，黄仁勋和马斯克等人的超级明星地位有损企业领导水平。",
+    "published_at": "2026-11-17T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "adfd99e53c9b5e10",
+    "title_hash": "4a5e625366772e83",
+    "title": "黄仁勋与AI的雅尔塔时刻",
+    "url": "https://www.ftchinese.com/story/001111387",
+    "summary": "陈白：我们正在进入一个新的时代。没有人能够独善其身，哪怕你是黄仁勋。",
+    "published_at": "2026-11-17T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "5abef1e118d09445",
+    "title_hash": "b725dd2b75430a20",
+    "title": "欧盟再度推动AI治理全球协议",
+    "url": "https://www.ftchinese.com/story/001111386",
+    "summary": "欧盟迄今未能说服特朗普加入一项关于AI治理的国际协议。然而，特朗普在中期选举中受挫，一定程度上突显了美国选民对AI和数据中心的担忧。",
+    "published_at": "2026-11-17T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "9864e260fbddce1a",
+    "title_hash": "a6feed28c9e1c14f",
+    "title": "全世界“做多”美国的隐忧",
+    "url": "https://www.ftchinese.com/story/001111385",
+    "summary": "夏尔马：今年以来，全球80%的股票投资资金流入美国市场，两倍于长期平均水平。一旦美国股市出现动荡，全球散户大军将付出沉重代价。",
+    "published_at": "2026-11-17T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "5e03b5c6cc060f1a",
+    "title_hash": "3c7ce8cc7fafbc66",
+    "title": "AI投资、规模“正确”与美股 （上）",
+    "url": "https://www.ftchinese.com/story/001111376",
+    "summary": "陈稻田：华尔街前面担心AI投资过大，后面担心投资过小，那么“正确”的规模究竟是多少呢？关于AI投资规模的担忧已多次影响美股，未来会如何？",
+    "published_at": "2026-11-17T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "9853ce81324b3a0f",
+    "title_hash": "0600882832f48cee",
+    "title": "COP31专访：安娜•托尼谈摆脱化石燃料路线图",
+    "url": "https://www.ftchinese.com/story/001111371",
+    "summary": "林孜：COP30首席执行官安娜•托尼表示，新的摆脱化石燃料路线图有助于各国评估自身对化石燃料的依赖，并选择适合本国的政策。",
+    "published_at": "2026-11-17T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "29830754f393c26d",
+    "title_hash": "c1aa78e985415673",
+    "title": "黄仁勋辞职或触发AI投资估值调整",
+    "url": "https://www.ftchinese.com/story/001111379",
+    "summary": "孙昱：黄仁勋的这场风波未必会削弱英伟达的长期竞争力，但可能成为推动估值高企的人工智能股票重新定价的催化剂。",
+    "published_at": "2026-11-17T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "96c2f3a1a66029d0",
+    "title_hash": "88e232a699b4c0b7",
+    "title": "平准基金需要从应急工具走向常设制度",
+    "url": "https://www.ftchinese.com/story/001111384",
+    "summary": "孙丰伟：将中央汇金已经承担的“类平准基金”职能制度化——让市场知道，异常冲击来临时，谁有责任、有能力承接流动性压力。",
+    "published_at": "2026-11-17T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "0ede7e7c21351ff1",
+    "title_hash": "f3f82d8be2a8fad1",
+    "title": "黄仁勋离职将打击“开放”模型的发展",
+    "url": "https://www.ftchinese.com/story/001111378",
+    "summary": "黄仁勋领导下的英伟达积极投资开发开放模型的公司，他本人利用自身影响力积极倡导模型多样化。他的下台将使Anthropic和OpenAI受益。",
+    "published_at": "2026-11-16T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "b960827dfb76ae57",
+    "title_hash": "3f04774b77a57919",
+    "title": "百胜中国迎上市十周年 门店突破20,000家",
+    "url": "https://www.ftchinese.com/story/001111377",
+    "summary": "继2020年开出第10,000家门店后，肯德基和必胜客背后的百胜中国仅用六年便达成最新里程碑。",
+    "published_at": "2026-11-16T00:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f1e5530ba4cb8a6c",
+    "title_hash": "37c8551dc29a1702",
+    "title": "40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md",
+    "url": "https://verisource.dev/benchmarks/ai-search-readiness-2026",
+    "summary": "Article URL: https://verisource.dev/benchmarks/ai-search-readiness-2026 Comments URL: https://news.ycombinator.com/item?id=50528364 Points: 6 # Comments: 0",
+    "published_at": "2026-11-17T15:04:46+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f2170c97b1876c5d",
+    "title_hash": "c79ef024dc85889c",
+    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+    "url": "https://support.apple.com/en-us/149699",
+    "summary": "Article URL: https://support.apple.com/en-us/149699 Comments URL: https://news.ycombinator.com/item?id=50526560 Points: 118 # Comments: 61",
+    "published_at": "2026-11-17T10:17:04+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "cd3f9f2cc97c05f9",
+    "title_hash": "c4b04a8d15596417",
+    "title": "Mem Is Shutting Down",
+    "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "summary": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down Comments URL: https://news.ycombinator.com/item?id=50526537 Points: 55 # Comments: 78",
+    "published_at": "2026-11-17T10:13:41+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f07a8c1dd48959b9",
+    "title_hash": "0ec728d22a4748e3",
+    "title": "Running coding agents without handing them my credentials",
+    "url": "https://blog.antonio.cx/running-agents-with-lend",
+    "summary": "Article URL: https://blog.antonio.cx/running-agents-with-lend Comments URL: https://news.ycombinator.com/item?id=50526152 Points: 112 # Comments: 70",
+    "published_at": "2026-11-17T09:18:56+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "25b5dfac7e31c25d",
+    "title_hash": "6aa4d7a7fef60613",
+    "title": "Why 3dfx 1 cards had such a washed out color output?",
+    "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+    "summary": "Article URL: https://twitter.com/id_aa_carmack/status/2122478083319992513 Comments URL: https://news.ycombinator.com/item?id=50525575 Points: 115 # Comments: 30",
+    "published_at": "2026-11-17T08:16:24+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8940dcdaa2ee7385",
+    "title_hash": "612895aa0c0e69e0",
+    "title": "Optimizely compromised, served malware on Zoom, GitLab",
+    "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 322 # Comments: 138",
+    "published_at": "2026-11-17T07:00:34+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "d4515e27dcb7f192",
+    "title_hash": "f8bb1c211e9ad239",
+    "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 583 # Comments: 419",
+    "published_at": "2026-11-17T06:58:20+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a8ea5333d9f9b4ea",
+    "title_hash": "72c9d3a6096ba71e",
+    "title": "How to Break into Security, Ptacek Edition (2012)",
+    "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+    "summary": "Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/ Comments URL: https://news.ycombinator.com/item?id=50524225 Points: 104 # Comments: 27",
+    "published_at": "2026-11-17T06:19:23+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "017a93524ac74ef7",
+    "title_hash": "dccd2b44322dafc3",
+    "title": "Spamhaus new email sender requirements in November",
+    "url": "https://www.spamhaus.org/sender-guidelines/",
+    "summary": "Article URL: https://www.spamhaus.org/sender-guidelines/ Comments URL: https://news.ycombinator.com/item?id=50523784 Points: 108 # Comments: 96",
+    "published_at": "2026-11-17T05:47:19+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "be34d4a6cb91c077",
+    "title_hash": "4c8f32eb08594d65",
+    "title": "BugMeNot has closed",
+    "url": "https://www.bugmenot.com/",
+    "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 522 # Comments: 231",
+    "published_at": "2026-11-17T05:32:17+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8331a3aa13cbf4dc",
+    "title_hash": "3d6ce60983e65f2d",
+    "title": "OpenCode Browse",
+    "url": "https://opencode.ai/product/browse",
+    "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 242 # Comments: 127",
+    "published_at": "2026-11-17T05:20:37+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "fe19cb68392bd9e9",
+    "title_hash": "dd45c524eee10216",
+    "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+    "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 143 # Comments: 113",
+    "published_at": "2026-11-17T04:48:08+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ddde1161b716eb7e",
+    "title_hash": "5d19a1619c6f9474",
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "url": "https://www.cs.cmu.edu/learn/",
+    "summary": "Article URL: https://www.cs.cmu.edu/learn/ Comments URL: https://news.ycombinator.com/item?id=50522980 Points: 1456 # Comments: 197",
+    "published_at": "2026-11-17T04:43:36+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "c7269fe254e12ffe",
+    "title_hash": "23133583977f7452",
+    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+    "url": "https://news.ycombinator.com/item?id=50522776",
+    "summary": "Hi HN! We’re Arsh and Max, founders of Axonnic ( https://axonnic.com ). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots. Here’s a demo video: https://youtube.com/shorts/xBrocTc9cfA We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly. The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors. When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: https://axonnic.com/benchmarks . We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies. Axonnic grew out of Max's EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension. Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings. So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG. If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks! https://axonnic.com Comments URL: https://news.ycombinator.com/item?id=50522776 Points: 43 # Comments: 20",
+    "published_at": "2026-11-17T04:29:48+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f732ad067706771b",
+    "title_hash": "5cd6873f031c5596",
+    "title": "Chemistry is Actually Geometry",
+    "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+    "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry Comments URL: https://news.ycombinator.com/item?id=50522643 Points: 219 # Comments: 109",
+    "published_at": "2026-11-17T04:22:18+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "0de8d85d5304fad8",
+    "title_hash": "877f916dbabca46a",
+    "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 771 # Comments: 644",
+    "published_at": "2026-11-17T02:31:30+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "67dee7074b335d74",
+    "title_hash": "735ea2ab1314d5a0",
+    "title": "Grazing sheep in fields with solar arrays",
+    "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+    "summary": "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 269 # Comments: 257",
+    "published_at": "2026-11-17T01:27:46+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "2885ac6e7a6a1904",
+    "title_hash": "c52211fd18b716e1",
+    "title": "Jiff 1.0: A datetime library for Rust",
+    "url": "https://burntsushi.net/jiff/",
+    "summary": "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 374 # Comments: 81",
+    "published_at": "2026-11-17T00:53:39+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b958dfe32b3448b8",
+    "title_hash": "9f5cb9e1a3e08392",
+    "title": "Frame – 31.5\" color ePaper display",
+    "url": "https://trmnl.com/blog/introducing-frame",
+    "summary": "Article URL: https://trmnl.com/blog/introducing-frame Comments URL: https://news.ycombinator.com/item?id=50519354 Points: 403 # Comments: 282",
+    "published_at": "2026-11-17T00:23:22+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "c9a4c07c188644b7",
+    "title_hash": "634968f1fee9e010",
+    "title": "What is w2rt6byl5nf1opmc-a.com?",
+    "url": "https://jack.cab/blog/siterate",
+    "summary": "Article URL: https://jack.cab/blog/siterate Comments URL: https://news.ycombinator.com/item?id=50517602 Points: 343 # Comments: 150",
+    "published_at": "2026-11-16T21:51:38+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "24baf68da2c147d6",
+    "title_hash": "aa268f1f873a0b38",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "published_at": "2026-11-17T07:32:32+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "4f20b6480ffff64b",
+    "title_hash": "ed9a384ecd672277",
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+    "published_at": "2026-11-17T06:03:02+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "57cc1ea3d3bbd2bf",
+    "title_hash": "f4f4c6f5779f04b4",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "published_at": "2026-11-17T04:07:13+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "bc7ebba22aa2697e",
+    "title_hash": "79678043ceb8216d",
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "published_at": "2026-11-17T03:12:02+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "5a338c56f325da9c",
+    "title_hash": "ce342e9da8f38cc3",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "published_at": "2026-11-17T02:11:10+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "04075f0baa85bb63",
+    "title_hash": "53767dbb45954636",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "published_at": "2026-11-17T01:36:43+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "b6e5102dfbebd3a4",
+    "title_hash": "fd40f72949323715",
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "published_at": "2026-11-17T01:10:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "5240671d3470b878",
+    "title_hash": "60c30382f85708ed",
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "published_at": "2026-11-17T01:02:43+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "e298f85c1f86572d",
+    "title_hash": "ed920bf25b2ffb03",
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "published_at": "2026-11-17T01:00:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "acee8b481f0ba8b2",
+    "title_hash": "a234910a9c1f516c",
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "published_at": "2026-11-16T23:52:19+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "4d97827545be2fe9",
+    "title_hash": "d7d04b767409c511",
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "published_at": "2026-11-16T23:02:34+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "6ed560a012284b19",
+    "title_hash": "5bd5017d11b0cca7",
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+    "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+    "published_at": "2026-11-16T22:48:13+08:00",
+    "created_at": "2026-11-17 09:23:21"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "67067103992ebfe0",
+    "title_hash": "37683bfbecf8a656",
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "published_at": "2026-11-16T20:30:00+08:00",
+    "created_at": "2026-11-17 09:23:21"
   }
 ]
