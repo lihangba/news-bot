@@ -1,295 +1,5 @@
 [
   {
-    "source": "量子位",
-    "url_hash": "cd9e3aa4df660d34",
-    "title_hash": "24fc3794ed655d29",
-    "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-    "url": "https://www.qbitai.com/2026/11/510232.html",
-    "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
-    "published_at": "2026-11-14T17:58:22+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "c9d6b76618d9dd86",
-    "title_hash": "82114efb96925990",
-    "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-    "url": "https://www.qbitai.com/2026/11/510150.html",
-    "summary": "童年的纸飞机，现在终于飞回我手里～",
-    "published_at": "2026-11-14T17:48:34+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "ae856804135b04b6",
-    "title_hash": "0c075bcf1c07bc1a",
-    "title": "绿电进Token出！联想重新定义词元工厂",
-    "url": "https://www.qbitai.com/2026/11/510094.html",
-    "summary": "年产2000万亿Token，成本狂降70%",
-    "published_at": "2026-11-14T17:41:02+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "f42fc98312a5f46c",
-    "title_hash": "c77d184f4321996c",
-    "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
-    "url": "https://www.qbitai.com/2026/11/510013.html",
-    "summary": "狂揽3000万播放量",
-    "published_at": "2026-11-14T10:59:35+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "47fd92794b58970c",
-    "title_hash": "a899135b2f6a41bb",
-    "title": "突发！DeepSeek开放全家桶API",
-    "url": "https://www.qbitai.com/2026/11/510003.html",
-    "summary": "官方App功能均可自由组合调用",
-    "published_at": "2026-11-14T10:39:56+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "1093309b494ccc9a",
-    "title_hash": "f15b5fa21140d224",
-    "title": "Disk encryption on NetBSD – achieving secrecy",
-    "url": "https://netbsd.org/~nia/disk-encrypt/",
-    "summary": "Article URL: https://netbsd.org/~nia/disk-encrypt/ Comments URL: https://news.ycombinator.com/item?id=50504277 Points: 7 # Comments: 0",
-    "published_at": "2026-11-15T13:29:54+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "dc5071fd77db1d9b",
-    "title_hash": "2137fd3f2206ff5f",
-    "title": "Kiri – The Modern Container Runtime",
-    "url": "https://runkiri.com/",
-    "summary": "Article URL: https://runkiri.com/ Comments URL: https://news.ycombinator.com/item?id=50504077 Points: 21 # Comments: 11",
-    "published_at": "2026-11-15T12:40:41+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5e606231a9fd6a9d",
-    "title_hash": "475584404fef0ce5",
-    "title": "Show HN: Gawain – Require type hints on all Python variables",
-    "url": "https://github.com/matheuzgomes/gawain",
-    "summary": "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 36 # Comments: 15",
-    "published_at": "2026-11-15T12:39:25+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b6a998f7218333dc",
-    "title_hash": "0b736b8cb711ed16",
-    "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-    "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-    "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp Comments URL: https://news.ycombinator.com/item?id=50503930 Points: 29 # Comments: 4",
-    "published_at": "2026-11-15T12:09:11+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2b72b271581ba0ed",
-    "title_hash": "b4f96120394c0880",
-    "title": "My favourite modern NES games",
-    "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-    "summary": "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 44 # Comments: 3",
-    "published_at": "2026-11-15T10:41:25+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "888e2f103cc4b000",
-    "title_hash": "eb04f9adf1dba64c",
-    "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-    "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 202 # Comments: 55",
-    "published_at": "2026-11-15T10:00:54+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "88ae2cfdd6f59272",
-    "title_hash": "0ed78c3686904624",
-    "title": "Court denies motion to dismiss DRAM price fixing case",
-    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-    "summary": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 77 # Comments: 17",
-    "published_at": "2026-11-15T09:18:36+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "2aad7466fcfc733c",
-    "title_hash": "d23865b271c6dcd7",
-    "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-    "url": "https://bobbiec.github.io/jamaican-font.html",
-    "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 30 # Comments: 5",
-    "published_at": "2026-11-15T08:56:45+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "04d059df669879a5",
-    "title_hash": "625663d472c32916",
-    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-    "url": "https://retrocomputing.stackexchange.com/questions/17957",
-    "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 194 # Comments: 88",
-    "published_at": "2026-11-15T06:22:49+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "79b046481bd48da6",
-    "title_hash": "2b2a12fc22f83bd0",
-    "title": "SpaceX catches the Starship to end Flight 15",
-    "url": "https://www.spacex.com/launches/starship-flight-15",
-    "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1107 # Comments: 727",
-    "published_at": "2026-11-15T05:22:24+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a21cc815013d30aa",
-    "title_hash": "c05b33d10d43b52f",
-    "title": "A family tree of software job titles",
-    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-    "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 281 # Comments: 139",
-    "published_at": "2026-11-15T01:45:19+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "94aa6d9b525a12a4",
-    "title_hash": "b5e612663be7f722",
-    "title": "Lovable apps expose passport details and more than 200K private messages",
-    "url": "https://www.crissyfield.de/research/lovable-en/",
-    "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 773 # Comments: 305",
-    "published_at": "2026-11-15T01:43:10+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "9ed594075d0bf1a5",
-    "title_hash": "58920ff19a7a5ffb",
-    "title": "PyPI's redesigned project pages with clearer security signals are now live",
-    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-    "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 232 # Comments: 99",
-    "published_at": "2026-11-14T23:40:52+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "34de9d80d81453d3",
-    "title_hash": "75622f6310c051db",
-    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-    "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 224 # Comments: 21",
-    "published_at": "2026-11-14T23:04:15+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "94b61c00d4a22219",
-    "title_hash": "7b14e13b7ab0e8fa",
-    "title": "KDE: The documentary [video]",
-    "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-    "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 445 # Comments: 98",
-    "published_at": "2026-11-14T21:43:28+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "bea6f68aca51de60",
-    "title_hash": "beecb11d853cee18",
-    "title": "Advancing science and engineering with Antigravity's /teamwork",
-    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-    "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 193 # Comments: 41",
-    "published_at": "2026-11-14T21:20:43+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "bd2f75c9c0c3d17f",
-    "title_hash": "a0c96b12860e0f77",
-    "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-    "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-    "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 230 # Comments: 97",
-    "published_at": "2026-11-14T19:13:17+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "a33fb76e7389557a",
-    "title_hash": "a1aaaebff98b9c7d",
-    "title": "One Man's Quest to Create the Perfect Whiskey Glass",
-    "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-    "summary": "Article URL: https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html Comments URL: https://news.ycombinator.com/item?id=50486880 Points: 26 # Comments: 9",
-    "published_at": "2026-11-14T01:37:32+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "7c864418eae759f0",
-    "title_hash": "ab2b8e7cf30f8c42",
-    "title": "500 Lines or Less A 3D Modeller",
-    "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
-    "summary": "Article URL: https://aosabook.org/en/500L/a-3d-modeller.html Comments URL: https://news.ycombinator.com/item?id=50483431 Points: 47 # Comments: 7",
-    "published_at": "2026-11-13T21:47:42+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "8af7a01a0b185e3d",
-    "title_hash": "5df5350e0bbecd4b",
-    "title": "The Evolving Story of How Chemistry Became Biology",
-    "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-    "summary": "Article URL: https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/ Comments URL: https://news.ycombinator.com/item?id=50482222 Points: 36 # Comments: 6",
-    "published_at": "2026-11-13T19:55:19+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "a8381ccf0f4a6c26",
-    "title_hash": "875836695bc61de7",
-    "title": "Where was Nvidia’s security team?",
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-    "published_at": "2026-11-15T08:08:07+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "e86112d5f8734949",
-    "title_hash": "c1977cf5354143cd",
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "published_at": "2026-11-15T05:41:22+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "0dac5bc8bd77a78d",
-    "title_hash": "5c6d6c24e288f7bc",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "published_at": "2026-11-15T01:30:00+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "8097820885cc543d",
-    "title_hash": "21961dfcb4b103ea",
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-    "published_at": "2026-11-15T00:34:15+08:00",
-    "created_at": "2026-11-15 07:59:30"
-  },
-  {
     "source": "FT中文网",
     "url_hash": "c06ab94d87845bd8",
     "title_hash": "1d1c9fcbc8515d50",
@@ -2798,5 +2508,305 @@
     "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
     "published_at": "2026-11-20T22:00:00+08:00",
     "created_at": "2026-11-21 08:25:40"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "30830ca4509d4d79",
+    "title_hash": "da5cd0178d328301",
+    "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+    "url": "https://www.qbitai.com/2026/11/511779.html",
+    "summary": "还实现可变形物体操控全球首通",
+    "published_at": "2026-11-21T14:35:59+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "95b30ca62b42d4ff",
+    "title_hash": "88fba5db39079e81",
+    "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+    "url": "https://www.qbitai.com/2026/11/511570.html",
+    "summary": "专为本地部署而生",
+    "published_at": "2026-11-21T14:32:31+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "188eb957cfa64245",
+    "title_hash": "4ebf6c27167161b2",
+    "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+    "url": "https://www.qbitai.com/2026/11/511757.html",
+    "summary": "还透露了不少训练背后的秘诀",
+    "published_at": "2026-11-21T14:30:55+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "598d990d01e3c4cf",
+    "title_hash": "8002270f759bb908",
+    "title": "米哈游发了个VLA论文",
+    "url": "https://www.qbitai.com/2026/11/511740.html",
+    "summary": "8B参数，50小时自主运行",
+    "published_at": "2026-11-21T00:25:26+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "865df8f2c20f4dc3",
+    "title_hash": "bcb844b79e851f1b",
+    "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+    "url": "https://www.qbitai.com/2026/11/511722.html",
+    "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+    "published_at": "2026-11-20T20:18:01+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "1fd01686fec441a6",
+    "title_hash": "ce2dfb82f154266c",
+    "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+    "url": "https://www.qbitai.com/2026/11/511679.html",
+    "summary": "联合华为昇腾，五年冲刺十万卡",
+    "published_at": "2026-11-20T16:59:15+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "da6bf481d6347a81",
+    "title_hash": "cc0621ae37e99d42",
+    "title": "The Engineering Manager's role is under attack (again)",
+    "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+    "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 18 # Comments: 9",
+    "published_at": "2026-11-22T15:01:00+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e0e6f4639044a70b",
+    "title_hash": "77ca45bf11d87518",
+    "title": "Notes on the discrete Fourier transform (DFT)",
+    "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+    "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 12 # Comments: 2",
+    "published_at": "2026-11-22T14:52:25+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "212b109585530bd2",
+    "title_hash": "c79f385df3742625",
+    "title": "Show HN: The Riemann Proof Handbook",
+    "url": "https://github.com/tamnd/riemann-handbook",
+    "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 26 # Comments: 4",
+    "published_at": "2026-11-22T13:46:30+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ff772f090165aaae",
+    "title_hash": "72820bc5a7f0c9a6",
+    "title": "AI Supply Chain Security: What Canary Tokens Found",
+    "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 60 # Comments: 7",
+    "published_at": "2026-11-22T13:11:43+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e2495912c5fa2d7d",
+    "title_hash": "b623c92704e33c89",
+    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 360 # Comments: 173",
+    "published_at": "2026-11-22T12:04:56+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b9d1c9e9c4cc8c6b",
+    "title_hash": "49d32e5aa0eed0dd",
+    "title": "Data Processing Incidents on Inference Providers",
+    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+    "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 116 # Comments: 44",
+    "published_at": "2026-11-22T10:14:14+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b0b68d565e5c8824",
+    "title_hash": "7b525edd123beb39",
+    "title": "The Mythology of Conscious AI",
+    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 47 # Comments: 84",
+    "published_at": "2026-11-22T10:10:02+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ac21c9fc636ff92a",
+    "title_hash": "b9455136fd9d0cce",
+    "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+    "url": "https://github.com/ItsNotRexed/Leonida",
+    "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 138 # Comments: 105",
+    "published_at": "2026-11-22T08:57:26+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "e87c04860704351e",
+    "title_hash": "7c7ed00e682b022f",
+    "title": "Sandwich Simulator",
+    "url": "https://stulle.app/",
+    "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 176 # Comments: 62",
+    "published_at": "2026-11-22T08:07:59+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "f65a0c30765c2957",
+    "title_hash": "b6abbfb3a997a224",
+    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+    "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 106 # Comments: 11",
+    "published_at": "2026-11-22T06:09:58+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "3f9a1420c7864ab1",
+    "title_hash": "1acaa613bb6f0161",
+    "title": "Advice for the next 100 Rust GUIs",
+    "url": "https://linebender.org/blog/next-100-guis/",
+    "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 151 # Comments: 47",
+    "published_at": "2026-11-22T05:17:53+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "463fc0d9ef3ab467",
+    "title_hash": "6dd98ca6ba78b844",
+    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+    "url": "https://tasklet.ai/careers",
+    "summary": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
+    "published_at": "2026-11-22T05:11:08+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "414bab6a17e87f29",
+    "title_hash": "9d5da1d03d1307fa",
+    "title": "Pandex – Official European Law for AI Agents, over MCP",
+    "url": "https://www.pandex.io",
+    "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 75 # Comments: 14",
+    "published_at": "2026-11-22T04:47:41+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1a6bc61cbec29813",
+    "title_hash": "9a4da4c0d20013e3",
+    "title": "Upload2Shell (CVE-2026-125396)",
+    "url": "https://pwn.ai/upload2shell",
+    "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 111 # Comments: 53",
+    "published_at": "2026-11-22T02:29:29+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "6c69e97c5257c80c",
+    "title_hash": "134f0235d50f2d51",
+    "title": "Inkling-2-Mini in 5.4 GB Memory",
+    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 440 # Comments: 109",
+    "published_at": "2026-11-22T02:02:19+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5b40733bb9059e79",
+    "title_hash": "a03c909c4904482d",
+    "title": "PostgreSQL Extensions in Go",
+    "url": "https://jespino.github.io/gopgext/",
+    "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 140 # Comments: 24",
+    "published_at": "2026-11-22T01:08:04+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "73c42d2b096742f4",
+    "title_hash": "5a3234fd17049fbe",
+    "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+    "url": "https://math.mit.edu/~drew/grh/",
+    "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 111 # Comments: 38",
+    "published_at": "2026-11-21T23:54:34+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "d8640923d2430592",
+    "title_hash": "0a496c25ce82249e",
+    "title": "Show HN: Zero C# – C# without a runtime or GC",
+    "url": "https://onurgumus.github.io/zero-csharp/index.html",
+    "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 152 # Comments: 106",
+    "published_at": "2026-11-21T23:39:09+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "bf485886c9d7da81",
+    "title_hash": "36e0b1f4cd3bec2a",
+    "title": "Lean verification of the Riemann Hypothesis",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 983 # Comments: 821",
+    "published_at": "2026-11-21T22:36:45+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "cf85127411206c4e",
+    "title_hash": "09b5e38943ea4a65",
+    "title": "Detonating a pile of lead azide",
+    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 599 # Comments: 382",
+    "published_at": "2026-11-21T21:23:14+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "7289e21f33e265e9",
+    "title_hash": "7b91b10dbda30e42",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "published_at": "2026-11-22T05:37:10+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "8ed913cfa76c678b",
+    "title_hash": "0dbfab9d861c85bc",
+    "title": "A tale of two Nvidias",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "published_at": "2026-11-22T05:07:42+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "d15566b2aef3b460",
+    "title_hash": "729740a80cf64e86",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "published_at": "2026-11-22T01:00:00+08:00",
+    "created_at": "2026-11-22 08:18:01"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "53e893a48ca02ab2",
+    "title_hash": "f6b272c22e11a934",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "published_at": "2026-11-22T00:00:00+08:00",
+    "created_at": "2026-11-22 08:18:01"
   }
 ]
