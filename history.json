@@ -1,396 +1,6 @@
 [
   {
     "source": "量子位",
-    "url_hash": "998f2f78cf870f49",
-    "title_hash": "b50fa2d901ffe72d",
-    "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-    "url": "https://www.qbitai.com/2026/11/511603.html",
-    "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
-    "published_at": "2026-11-20T14:16:06+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "f3aa16032ced0a1f",
-    "title_hash": "fd116ea450531f4f",
-    "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-    "url": "https://www.qbitai.com/2026/11/511582.html",
-    "summary": "已开源Agnes Harness",
-    "published_at": "2026-11-20T13:24:11+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "15bb46163c51fe48",
-    "title_hash": "465b5a993a036f7f",
-    "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-    "url": "https://www.qbitai.com/2026/11/511426.html",
-    "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-    "published_at": "2026-11-20T09:07:38+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "量子位",
-    "url_hash": "88388966e2b782b1",
-    "title_hash": "1d548e99f790b00d",
-    "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-    "url": "https://www.qbitai.com/2026/11/511258.html",
-    "summary": "「Revaluation 价值，另有答案」",
-    "published_at": "2026-11-19T16:43:10+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "7da59936b8a6c12f",
-    "title_hash": "08eef7ea6f58bb4d",
-    "title": "APEC峰会：中美从更加均衡走向战略稳定",
-    "url": "https://www.ftchinese.com/story/001112100",
-    "summary": "金刻羽：深圳APEC峰会正在见证中美关系的一次实力重估。经历多轮博弈后，双方需重新审视彼此的优势与筹码，以及制约与合作的边界。",
-    "published_at": "2026-11-20T00:00:00+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "FT中文网",
-    "url_hash": "2031909d5d2b0a8a",
-    "title_hash": "18e4730bf523456f",
-    "title": "《可能的爱》：鸿沟两端的幻象",
-    "url": "https://www.ftchinese.com/story/001112099",
-    "summary": "《可能的爱》与《寄生虫》有一点相似，两部影片都认为，通过有限的善意已经无法跨越阶层的区隔。那些根深蒂固的差异性，会不自觉地在日常显影，而当它们一旦露出真容，便会显得更加凛冽可怖。",
-    "published_at": "2026-11-20T00:00:00+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c1846fd349ae25d0",
-    "title_hash": "7c95c5acfa024335",
-    "title": "\"I can tell you wrote this yourself\"",
-    "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-    "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 57 # Comments: 57",
-    "published_at": "2026-11-20T15:13:21+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "907988838b26cb0f",
-    "title_hash": "d0ff606a7346ad20",
-    "title": "Jujutsu Primer",
-    "url": "https://ethanlowman.com/posts/jj-primer/",
-    "summary": "Article URL: https://ethanlowman.com/posts/jj-primer/ Comments URL: https://news.ycombinator.com/item?id=50570628 Points: 84 # Comments: 45",
-    "published_at": "2026-11-20T13:46:01+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "aa26ebade7c1621e",
-    "title_hash": "4a90c4f0065b66d1",
-    "title": "FFmpeg 9.1 'Gauss'",
-    "url": "https://ffmpeg.org/download.html#release_9.1",
-    "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1 Comments URL: https://news.ycombinator.com/item?id=50569998 Points: 100 # Comments: 20",
-    "published_at": "2026-11-20T12:02:39+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "73cfcf3e1d1a7bd2",
-    "title_hash": "941f22ea5ddbbec2",
-    "title": "PostgreSQL 19",
-    "url": "https://www.postgresql.org/docs/release/19.0/",
-    "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 135 # Comments: 3",
-    "published_at": "2026-11-20T11:45:45+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "06fbfe1f9549cba4",
-    "title_hash": "e9bf1fa64f00bc2b",
-    "title": "What Comes After AGI?",
-    "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
-    "summary": "Article URL: https://institute.deepmind.com/essays/what-comes-after-agi/ Comments URL: https://news.ycombinator.com/item?id=50569519 Points: 35 # Comments: 68",
-    "published_at": "2026-11-20T10:44:13+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0a505f53302ffb67",
-    "title_hash": "b32f2e99fcab4b33",
-    "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-    "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-    "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 80 # Comments: 8",
-    "published_at": "2026-11-20T10:43:49+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "97dffa3b72860b1f",
-    "title_hash": "648c0596c5cd660a",
-    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-    "url": "https://github.com/openssl/openssl/pull/33652",
-    "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 207 # Comments: 152",
-    "published_at": "2026-11-20T10:01:09+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c158c4882ed3cb2d",
-    "title_hash": "bf144e6075f9a903",
-    "title": "Vint Cerf on why TCP/IP was never patented",
-    "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-    "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://news.ycombinator.com/item?id=50568861 Points: 99 # Comments: 40",
-    "published_at": "2026-11-20T09:06:12+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "22752430f731a021",
-    "title_hash": "7d70aa4aeeaeb66d",
-    "title": "ChatGPT for SNES",
-    "url": "https://www.bxfoundry.com/chatgpt_snes/",
-    "summary": "Article URL: https://www.bxfoundry.com/chatgpt_snes/ Comments URL: https://news.ycombinator.com/item?id=50568548 Points: 74 # Comments: 22",
-    "published_at": "2026-11-20T08:25:59+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "640a2ba660ae71b5",
-    "title_hash": "93e5398be82fcb4a",
-    "title": "Synology Security Advisory",
-    "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-    "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 138 # Comments: 106",
-    "published_at": "2026-11-20T06:13:40+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b90df0b3de54426b",
-    "title_hash": "a9b07db0d37b5b3d",
-    "title": "Rebuilding my local voice assistant pipeline",
-    "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-    "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 106 # Comments: 17",
-    "published_at": "2026-11-20T04:57:14+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c51551cd2d791f85",
-    "title_hash": "682346d72c17ae3d",
-    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-    "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-    "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 102 # Comments: 203",
-    "published_at": "2026-11-20T02:47:16+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "c50a064b65c55ff5",
-    "title_hash": "a59f7f4cadc96b80",
-    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-    "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-    "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 270 # Comments: 144",
-    "published_at": "2026-11-20T02:35:17+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "5fe21d2b4ecab0b0",
-    "title_hash": "aa40b1c8840f3df4",
-    "title": "Claude solves two open problems in the physics of black holes",
-    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-    "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 487 # Comments: 222",
-    "published_at": "2026-11-20T01:30:44+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "af9bcc0f56335644",
-    "title_hash": "ddb9427d8c41dbc2",
-    "title": "Pancreatic cancer halted by virus injection in three patients",
-    "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-    "summary": "https://archive.ph/2Et0x https://clinicaltrials.gov/study/NCT06693986 Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 754 # Comments: 125",
-    "published_at": "2026-11-20T01:25:33+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "15969c90ab8fc1c8",
-    "title_hash": "461b1f0a439a274d",
-    "title": "Anthropic’s Nasdaq debut",
-    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-    "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 1065 # Comments: 2091",
-    "published_at": "2026-11-20T01:02:40+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "820c5c0c56b1ca5c",
-    "title_hash": "60993a406b49bb11",
-    "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-    "url": "https://github.com/onlook-dev/onlook/",
-    "summary": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community. Here’s a demo video: ( https://youtu.be/BogcYWf4siM ) If you're an engineer, traditional engineering tools are largely built for convergence, whereas designers tend to explore and diverge on ideas. Onlook gives designers a familiar canvas while managing all of the dev processes that get between them and making mind-blowing designs in code. Designers can work on a multiple simultaneous worktrees that run on the real app locally, and every change lands as a PR you can review or throw away, so there aren’t mockups to rebuild. We built Onlook because we believe there needs to be a developer tool that works the way designers do. More and more, designers are expected to work in code. Designers think by seeing, drafting, arranging variations, using references, and remixing ideas. That’s why the canvas has been the signature feature of design tools because it genuinely is useful for how messy the creative process is. Most of the challenge of using engineering tools for design work is that the first half of starting a project often takes mental bandwidth in of itself (What branch am I on? What page was that last exploration on?) and the second half is constrained by configuring your coded design to present itself (prompting design tools on top of what you’ve built or making temporary navigation for that specific state). Some of you may remember our earlier Show HNs (July 2024: https://news.ycombinator.com/item?id=40904862 , August 2024: https://news.ycombinator.com/item?id=41390449 , May 2025: https://news.ycombinator.com/item?id=44127653 ). Since then, we built a web version (too early), then a Storybook-native build (a mistake). We noticed that our desktop product from July 2024 was still getting hundreds of downloads a month despite zero promotion, so we decided to rebuild it for the new era of designers working in code. How it works… Onlook shines at exploring tons of ideas at once. Ask it to lay out every flow in your product, show every state of a component, or riff on ten versions of one screen. Your designs all show up side by side on an infinite canvas, with each frame as a real webview running your actual app with real data. Not as a mockup, but the real deal. When we built this editor, we had an epiphany that it could be a new kind of IDE for design. Design tools used to be limited to a proprietary setup or closed schema, but now you can push and pull the medium of code to get whatever result you want, so why not give agents an infinite canvas of browsers and see what they do? It turns out, the agents can figure out how to better present coded work by adjusting the urls of browser frames and arranging and resizing them on the canvas. The concept is simple, but it requires a lot of product thinking. For example, because all of the frames on the canvas share a single browser session, and Chromium only allows six connections per host per session, ten frames of the same app end up fighting over limited connections. So, we had to plan around that, and there are still tons of things we need to do to make the canvas ultra performant. Onlook is an Electron app where you can import a repo from GitHub or upload a local folder. Then, Onlook creates a git worktree, starts your dev server, and has the agent sort out missing dependencies or other requirements. You never open a terminal and everything the agent does is a normal git diff that can go to GitHub as a PR. We inject a small script into each frame that draws selection outlines and reads the page, so that way you can click an element, say \"make this a card layout,\" and the agent knows exactly what \"this\" is. This time we didn't build our own agent. Onlook runs Claude Code or Codex on your own subscription, and we turn whatever the agent emits into one typed event log and draw the UI from that in our own chat interface. On top of that we give the agent a bespoke set of design-specific tools, from arranging frames on the canvas, to making suggestions, to generating multiple iterations of a selection – which is especially useful because the agent decides how to get the app into a state that you need based on your prompt. We also have our own Artifacts which are quick HTML sketches that live in the editor, but outside your repo. They’re almost like components in other design tools in that they can be carried and edited across every project but are detached from the project with no network access. As an example, you can ask the agent to turn your interface into an Artifact, and use it as a reference for another exploration, or download it as HTML and send it to a coworker as an interactive export of something you have in progress. I frequently go back to the artifacts I’ve made as visual snippets when I need new ideas or need to borrow something that’s already been built. The desktop editor is free (you can download it from our website at onlook.com) and open source under Apache-2.0, and we'll eventually offer a paid cloud product for teams. We'd love to hear which repos work and which don't, what you try to do on the canvas, and what's missing. We’re so excited for this to be a new way for designers to work in code! The Onlook team (Joel - thebrubaker and Kris - krisodd), and I will be here all day! Comments URL: https://news.ycombinator.com/item?id=50562320 Points: 116 # Comments: 81",
-    "published_at": "2026-11-20T00:34:04+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "9c02b7ab99b39b53",
-    "title_hash": "04580c61f020d869",
-    "title": "UK government forced to admit it issued Apple a secret encryption order",
-    "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-    "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 632 # Comments: 285",
-    "published_at": "2026-11-20T00:21:03+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "0e62328535c86afa",
-    "title_hash": "6ac0c556f78f201f",
-    "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-    "url": "https://cornholenews.news",
-    "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 221 # Comments: 101",
-    "published_at": "2026-11-19T23:38:32+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "Hacker News",
-    "url_hash": "b9120f9f49386fdc",
-    "title_hash": "a339ded41609049c",
-    "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-    "url": "https://thedataexchange.media/pete-warden-moonshine/",
-    "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 233 # Comments: 211",
-    "published_at": "2026-11-19T23:38:12+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "8288c457eabd2464",
-    "title_hash": "a842ff512b7411f8",
-    "title": "Apple may be developing its own AI agent that runs your Mac",
-    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-    "published_at": "2026-11-20T08:56:01+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "327354b7a28e2854",
-    "title_hash": "9e8426f23aec9783",
-    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-    "published_at": "2026-11-20T08:43:50+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "094a4dd2aa9bf45f",
-    "title_hash": "4be779fd6109f0ac",
-    "title": "Meta’s new Muse Charm device may cost $300",
-    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-    "published_at": "2026-11-20T05:58:06+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "8028310220014671",
-    "title_hash": "fd1740a4a13f7d28",
-    "title": "These tech outages are giving Y2K, AI agent style",
-    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-    "published_at": "2026-11-20T05:42:31+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "1fbaae0c3ffb18e8",
-    "title_hash": "7eaa9c1f8dde21ac",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "published_at": "2026-11-20T04:18:49+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "0027e4a1d292e516",
-    "title_hash": "d78620fb55865641",
-    "title": "Anthropic’s IPO could deliver $156B to charity",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-    "published_at": "2026-11-20T03:10:45+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "3a850c903b02169f",
-    "title_hash": "3bd8fa2a7552f488",
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-    "published_at": "2026-11-20T02:09:11+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "ee20d352f0da08b7",
-    "title_hash": "85344fc36fe618aa",
-    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-    "published_at": "2026-11-20T01:38:40+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "8bc2fdc1aef603b8",
-    "title_hash": "28cef81966cd00ae",
-    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-    "published_at": "2026-11-20T01:00:00+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "c12b546d5a71cb45",
-    "title_hash": "0eae0521f9a1bbc7",
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-    "published_at": "2026-11-20T00:59:23+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "d708a4dbf97db5f2",
-    "title_hash": "39b4c107075a815a",
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-    "published_at": "2026-11-20T00:19:41+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "ddb4b8e8befa63e4",
-    "title_hash": "e945920684ab5075",
-    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-    "published_at": "2026-11-19T22:54:39+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "TechCrunch·AI",
-    "url_hash": "91089de2fc64468c",
-    "title_hash": "d20857200e9f2fc3",
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-    "published_at": "2026-11-19T22:00:00+08:00",
-    "created_at": "2026-11-20 08:44:05"
-  },
-  {
-    "source": "量子位",
     "url_hash": "d0a61d8eb89b4a5f",
     "title_hash": "01676da26b3c896c",
     "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
@@ -2788,5 +2398,445 @@
     "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
     "published_at": "2026-11-25T21:00:00+08:00",
     "created_at": "2026-11-26 09:42:53"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "3763ab016eb6bfeb",
+    "title_hash": "c8c40cc529f11c7f",
+    "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+    "url": "https://www.qbitai.com/2026/11/513320.html",
+    "summary": "淡泊名利，实至名归🎉",
+    "published_at": "2026-11-27T15:39:18+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "2b19d6bdf1e543e4",
+    "title_hash": "39d2ac8cf2fd1ae2",
+    "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+    "url": "https://www.qbitai.com/2026/11/513305.html",
+    "summary": "网页App双端亮出聊天账单",
+    "published_at": "2026-11-27T15:29:10+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "efc4d8bbad49c23c",
+    "title_hash": "eefff2c4222dd9db",
+    "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+    "url": "https://www.qbitai.com/2026/11/513227.html",
+    "summary": "地图能随时修，记忆能跨任务用",
+    "published_at": "2026-11-27T15:01:20+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "27dfd36c46dd32b9",
+    "title_hash": "ad53c178c6c8890f",
+    "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+    "url": "https://www.qbitai.com/2026/11/513194.html",
+    "summary": "企业需要有用的 AI",
+    "published_at": "2026-11-27T12:05:56+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "579f53563251636b",
+    "title_hash": "a1b020df5024caa1",
+    "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+    "url": "https://www.qbitai.com/2026/11/513211.html",
+    "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+    "published_at": "2026-11-27T12:05:18+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "3e10564311159f15",
+    "title_hash": "b78c1e064053abdf",
+    "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+    "url": "https://www.qbitai.com/2026/11/513163.html",
+    "summary": "Quickwit查询总耗时降31%，最高降87%",
+    "published_at": "2026-11-27T11:53:49+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "637318b7f1d1bd5e",
+    "title_hash": "ae84dc08a78ed130",
+    "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+    "url": "https://www.qbitai.com/2026/11/513155.html",
+    "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
+    "published_at": "2026-11-27T11:45:19+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "a063b16e223d7f89",
+    "title_hash": "980b19064293e69d",
+    "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+    "url": "https://www.qbitai.com/2026/11/513125.html",
+    "summary": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+    "published_at": "2026-11-27T11:33:11+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "9473e13eaef80fda",
+    "title_hash": "daa4adbb7ce77c2b",
+    "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+    "url": "https://www.qbitai.com/2026/11/513101.html",
+    "summary": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+    "published_at": "2026-11-27T11:23:25+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "量子位",
+    "url_hash": "f075e94eeb48cb64",
+    "title_hash": "f30689d227ffaf82",
+    "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+    "url": "https://www.qbitai.com/2026/11/513091.html",
+    "summary": "倒计时两周，报名从速！",
+    "published_at": "2026-11-27T10:56:03+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "cb008a32d66d4e96",
+    "title_hash": "ec9e4175a55c7ed5",
+    "title": "加密货币热潮降温 云锋金融缩减虚拟资产投入",
+    "url": "https://www.ftchinese.com/story/42a09e1f-cf12-4cda-9117-1fbff2041506",
+    "summary": "保险公司云锋金融决定将去年募集的相当一部分资金改用于偿还贷款，原先这笔资金拟用于发展虚拟资产相关服务。",
+    "published_at": "2026-11-27T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "534ed071fd660838",
+    "title_hash": "5e06766c92b558fb",
+    "title": "气候大会越来越难出成果，我们还需要它吗？专访绿色和平姚喆",
+    "url": "https://www.ftchinese.com/story/ee9b23a4-d261-41b3-bc1c-37a3fabf85e8",
+    "summary": "绿色和平东亚办公室全球政策顾问姚喆认为，气候大会需要与现实中国家的气候行动和能源转型的需求产生更强的关联性，这是破解其“中年危机”的核心。",
+    "published_at": "2026-11-27T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "c5974c67bccbd2b0",
+    "title_hash": "3fde1def8e73a7e4",
+    "title": "一杯红茶里的帝国棋局",
+    "url": "https://www.ftchinese.com/story/efcffd1f-40a1-4fe6-8885-307dedbbb6cc",
+    "summary": "魏城：有人开玩笑说，帝国后人中，地缘战略侃爷特别多，我在土耳其短短的八天旅游行程里，就至少遇到了两个。无论成功与否，土耳其一直在多面下注，为自己争取更大的战略空间。",
+    "published_at": "2026-11-27T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "13fff98ad6870b6c",
+    "title_hash": "c63200b0337fae17",
+    "title": "从英国福利改革中，我重新学会读新闻",
+    "url": "https://www.ftchinese.com/story/ec09e59d-6596-4575-a35c-bc704dc582f3",
+    "summary": "何越：20多年前，读政策新闻，习惯从标题里寻找一个统一的答案。现在读完一篇报道，会提醒自己，那只是看待这件事的一个角度。",
+    "published_at": "2026-11-27T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "7b993fde013add2a",
+    "title_hash": "2eab36e3e9cc9127",
+    "title": "新北市长选战：蓝营强攻火药味越来越猛",
+    "url": "https://www.ftchinese.com/story/2418b4e6-97c4-4c09-84d7-e918284e5712",
+    "summary": "叶胜舟：新北今年选战复杂胶着，变数最大、危险最大，蓝营强攻火药味越来越猛。对国民党而言更输不起，对民进党而言已有小丰收。",
+    "published_at": "2026-11-27T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "1c8b91363928faaf",
+    "title_hash": "1b102773478980e7",
+    "title": "肖恩·斯库利：他为何如此重要？",
+    "url": "https://www.ftchinese.com/story/cae656ee-1f4e-4deb-82cd-4f716c52fdba",
+    "summary": "这位抽象艺术领域的代表性艺术家，几乎在全球所有顶级美术馆举办过展览；81岁的斯库利近年又开始重新挑战雕塑。",
+    "published_at": "2026-11-27T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "07f3303bbb3bcf39",
+    "title_hash": "9a0989e4d106216e",
+    "title": "从“汇聚”到“迁徙”：回望“全球化”的古典时代",
+    "url": "https://www.ftchinese.com/story/0848cf5f-69fc-41a7-9e34-f91cb2de6fc6",
+    "summary": "一场展品横跨四大洲，时间线索从公元前600年绵延至公元1000年的大型展出，向人们呈现了全球性流通曾经的灵动与活力，也为今天壁垒高企的世界提供了一份对照。",
+    "published_at": "2026-11-27T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "783b0bf93ace7a4e",
+    "title_hash": "b2ab5e1c2cad263b",
+    "title": "一家中国律所和它耕耘十年的艺术中心",
+    "url": "https://www.ftchinese.com/story/2c91e256-8b57-46c6-affe-ceb643fa73b2",
+    "summary": "对话金杜律师事务所管理合伙人龚牧龙与金杜艺术中心馆长俞灵轩。一家律所和它所创办的艺术机构，用十年时间不断探问一种理念：严谨与先锋如何蕴育出长期的价值。",
+    "published_at": "2026-11-27T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "0bcec506b3f2ca81",
+    "title_hash": "6ad58613b051a887",
+    "title": "刘小东：在我心里涌动着很多意识流，我想试着琐碎地告诉你",
+    "url": "https://www.ftchinese.com/story/115e062a-c498-4730-896a-42a37f05d75d",
+    "summary": "这位艺术家说，随着时间不断从生命中流过，他画笔下的世界正变得愈发难以“简而言之”；很多东西，也越来越难以被一笔带过。",
+    "published_at": "2026-11-27T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "a59ea0e8cdb8d116",
+    "title_hash": "5f53bb8c920c9e0f",
+    "title": "大学毕业后，为什么年轻人开始决定返乡？",
+    "url": "https://www.ftchinese.com/story/13bb728e-2fc4-4825-ab81-165e1e4d9a99",
+    "summary": "徐海娜：“返乡”不再是对传统生活方式的简单复制，更不是都市失意后的退而求其次，而是一场基于文化自信的主动创造。",
+    "published_at": "2026-11-26T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "5c7a9503b94cd363",
+    "title_hash": "533996125e418fec",
+    "title": "美国AI投资热潮下，知名家族办公室与基金会陷入风险与回报之争",
+    "url": "https://www.ftchinese.com/story/bb7b5b53-8141-4d99-9a84-e48f0cf8dbdd",
+    "summary": "孙昱：随着投资者对AI的敞口日益集中，如何在追逐高回报与控制风险之间取得平衡，正成为这些长期资本管理者面临的重大挑战。",
+    "published_at": "2026-11-26T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "FT中文网",
+    "url_hash": "cbd7b8641daec1c1",
+    "title_hash": "3a8a26b33d78dbb2",
+    "title": "AI泡沫最大的陷阱：看对了未来，却买错了股票",
+    "url": "https://www.ftchinese.com/story/9105c0b9-d097-4b46-ba48-ed546e09e1f3",
+    "summary": "伍治坚：每当一项革命性技术诞生，大量资本便会争先恐后地投入相关产业，推动股票价格不断上涨。然而，技术最终改变世界，并不意味着当初购买这些公司股票的人都能赚钱。",
+    "published_at": "2026-11-26T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "b645d71050c86d3d",
+    "title_hash": "20072f2b4876f2b8",
+    "title": "Claude sabotaging SOTA ML research tasks",
+    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 36 # Comments: 14",
+    "published_at": "2026-11-27T16:28:08+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a4143152a7192b56",
+    "title_hash": "ebaea6e28a714fe3",
+    "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+    "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+    "summary": "Article URL: https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/ Comments URL: https://news.ycombinator.com/item?id=50664191 Points: 19 # Comments: 2",
+    "published_at": "2026-11-27T16:11:46+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a8f643349bc09982",
+    "title_hash": "af0d2e98f1493c4d",
+    "title": "The group chat where your AI talks behind your back",
+    "url": "https://construct22.com/",
+    "summary": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 220 # Comments: 90",
+    "published_at": "2026-11-27T14:44:34+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a39f7e1d78ef2d58",
+    "title_hash": "2f9f9fa008adddc3",
+    "title": "Buy Nothing Day – Friday November 27th 2026",
+    "url": "https://www.buynothingday.co.uk/",
+    "summary": "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 74 # Comments: 14",
+    "published_at": "2026-11-27T13:52:42+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "93330014f98e68c5",
+    "title_hash": "728b5330bc934272",
+    "title": "The need for a formally verifiable mainstream programming language",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 147 # Comments: 123",
+    "published_at": "2026-11-27T13:22:06+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "1a8b39c96dcf340d",
+    "title_hash": "8c1ed50ec838d99a",
+    "title": "The Cutthroat Business of Shipwrecks",
+    "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+    "summary": "Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/ Comments URL: https://news.ycombinator.com/item?id=50661705 Points: 26 # Comments: 5",
+    "published_at": "2026-11-27T09:21:49+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "cc032371e29e1cf4",
+    "title_hash": "86cde94e2a12bfbe",
+    "title": "Hard Drive pricing has gotten bad",
+    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 342 # Comments: 248",
+    "published_at": "2026-11-27T09:13:49+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "c74df66d31bcb672",
+    "title_hash": "b20234f5bd9942ae",
+    "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+    "url": "https://kendell.dev/blog/arkwrapper/",
+    "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 100 # Comments: 15",
+    "published_at": "2026-11-27T05:59:19+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "aebfbe56731bd98a",
+    "title_hash": "9b7608e95794f843",
+    "title": "AI made self-hosting fun again",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 681 # Comments: 341",
+    "published_at": "2026-11-27T05:47:45+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5a9cc3a0f53057a0",
+    "title_hash": "bc738c418a7a7e6b",
+    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+    "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+    "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 364 # Comments: 90",
+    "published_at": "2026-11-27T05:08:05+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "ce1216521d8786e0",
+    "title_hash": "8a907f8874ec07ab",
+    "title": "Company Culture = Slack Emoji ÷ √Headcount",
+    "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+    "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 345 # Comments: 157",
+    "published_at": "2026-11-27T04:49:49+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "8027b82605caa4a8",
+    "title_hash": "23b99486f7353ebb",
+    "title": "Rvoip: VoIP stack in Rust",
+    "url": "https://github.com/eisenzopf/rvoip",
+    "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 129 # Comments: 27",
+    "published_at": "2026-11-27T03:18:09+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "bee0fc4b7e9701bf",
+    "title_hash": "8a48915b685f979c",
+    "title": "An introduction to uncertainty in machine learning",
+    "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+    "summary": "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/ Comments URL: https://news.ycombinator.com/item?id=50658498 Points: 80 # Comments: 2",
+    "published_at": "2026-11-27T03:04:50+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "bbac3107fda6ec0a",
+    "title_hash": "649340e94eb01ea9",
+    "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+    "url": "https://bui.preetham.top/charts/",
+    "summary": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 104 # Comments: 32",
+    "published_at": "2026-11-27T02:37:24+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "27a7250f17853237",
+    "title_hash": "c9bcc01a854d613e",
+    "title": "George Whitesides, 1939-2026",
+    "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+    "summary": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 75 # Comments: 7",
+    "published_at": "2026-11-27T02:13:07+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "5896797fd3159e6e",
+    "title_hash": "8f29824c8816e88f",
+    "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 267 # Comments: 135",
+    "published_at": "2026-11-27T01:47:45+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "a0439c16159af772",
+    "title_hash": "1f989647578d7402",
+    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+    "url": "https://github.com/antonpictures/youtube-punisher",
+    "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 398 # Comments: 465",
+    "published_at": "2026-11-27T01:36:47+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "40cb249974695259",
+    "title_hash": "7fd02d926426b8a7",
+    "title": "AMD-specific fork of llama.cpp",
+    "url": "https://devnull.land/amd-specific-llama-cpp",
+    "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 357 # Comments: 85",
+    "published_at": "2026-11-27T01:11:29+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "80d29bbc46f18f15",
+    "title_hash": "6ff09aff67ba940f",
+    "title": "Show HN: I wrote an entire Vim manual over 4 years",
+    "url": "http://themouseless.dev/vim/",
+    "summary": "I'm glad to announce that I'm releasing my new book, Learning to Play Vim. When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn't like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn't get the treatment they deserved. So I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done! The result: - 21 chapters showing the most important Vim features step by step. - 170 exercises with solutions. - Many real-life examples to show how Vim can be used and configured for your own needs. - The related Vim's help pages to dig further into each feature. Most configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don't expect anything about Neovim-specific features (like treesitter or LSP for example). - The landing page: https://themouseless.dev/vim/ - A sample of the book with the entire table of contents and the first three chapters covering most of the basics: https://themouseless.dev/content/learning_to_play_vim_sample... . I wrote this with my bare hands, no LLM involved to spoil the fun. Comments URL: https://news.ycombinator.com/item?id=50655868 Points: 164 # Comments: 52",
+    "published_at": "2026-11-26T22:44:22+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "Hacker News",
+    "url_hash": "84a8485377b7e2c9",
+    "title_hash": "3f5ec1b45a024ba3",
+    "title": "Tell HN: Happy Thanksgiving",
+    "url": "https://news.ycombinator.com/item?id=50655664",
+    "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 694 # Comments: 145",
+    "published_at": "2026-11-26T22:26:54+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "979e22972f743c14",
+    "title_hash": "6e26d668f48356a8",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "published_at": "2026-11-27T04:03:54+08:00",
+    "created_at": "2026-11-27 09:48:31"
+  },
+  {
+    "source": "TechCrunch·AI",
+    "url_hash": "b81da0547893b262",
+    "title_hash": "e268f88759b33852",
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "published_at": "2026-11-27T00:00:00+08:00",
+    "created_at": "2026-11-27 09:48:31"
   }
 ]
